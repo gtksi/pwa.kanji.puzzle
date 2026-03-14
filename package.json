@@ -1,0 +1,16 @@
+{
+  "name": "pwa-kanji-puzzle",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:main": "npm -w @kanji-puzzle/main run dev",
+    "dev:tool": "npm -w @kanji-puzzle/tool run dev",
+    "build:shared": "npm -w @kanji-puzzle/shared run build",
+    "build:main": "npm -w @kanji-puzzle/main run build",
+    "build:tool": "npm -w @kanji-puzzle/tool run build",
+    "build": "npm run build:shared && npm run build:main && npm run build:tool"
+  }
+}

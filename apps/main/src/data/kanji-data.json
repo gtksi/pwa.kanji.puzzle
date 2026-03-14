@@ -1,0 +1,166 @@
+[
+  {
+    "kanjiId": "yama",
+    "character": "山",
+    "grade": 1,
+    "writingLayer": [
+      { 
+        "id": "p1", 
+        "name": "たてぼう", 
+        "speechText": "たてぼう", 
+        "chantOrder": 1,
+        "strokes": [{ "id": "s1", "pathData": "M50,20 L50,80" }]
+      },
+      { 
+        "id": "p2", 
+        "name": "やま", 
+        "speechText": "やま", 
+        "chantOrder": 2,
+        "strokes": [{ "id": "s2", "pathData": "M25,50 L25,80 L75,80 L75,50" }]
+      }
+    ],
+    "semanticLayer": {
+      "traditionalRadical": "山",
+      "radicalName": "やま",
+      "radicalMeaning": "山、高い地形",
+      "originDescription": "山が連なる形を横から見た象形文字です。3つの峰が並ぶ姿をかたどったもので、もっとも古い漢字のひとつです。",
+      "synonyms": ["峰", "嶺"],
+      "antonyms": ["谷", "野"]
+    },
+    "vocabularies": [
+      { "word": "山脈", "meaning": "山が長く連なっているもの。山なみ。", "imageUrl": "" },
+      { "word": "火山", "meaning": "地下のマグマが噴き出す山。", "imageUrl": "" }
+    ],
+    "masteryLevel": 80,
+    "lastStudiedAt": 1710166800000,
+    "isUnlocked": true
+  },
+  {
+    "kanjiId": "kawa",
+    "character": "川",
+    "grade": 1,
+    "writingLayer": [
+      { "id": "p1", "name": "かわ", "speechText": "しゅっ", "chantOrder": 1, "strokes": [{ "id": "s1", "pathData": "M30,20 L30,80" }] },
+      { "id": "p2", "name": "かわ", "speechText": "しゅっ", "chantOrder": 2, "strokes": [{ "id": "s2", "pathData": "M50,20 L50,80" }] },
+      { "id": "p3", "name": "かわ", "speechText": "しゅっ", "chantOrder": 3, "strokes": [{ "id": "s3", "pathData": "M70,20 L70,80" }] }
+    ],
+    "semanticLayer": {
+      "traditionalRadical": "川",
+      "radicalName": "かわ",
+      "radicalMeaning": "川、流れる水",
+      "originDescription": "水が流れる様子をかたどった象形文字です。",
+      "synonyms": ["河", "渓"],
+      "antonyms": ["陸", "山"]
+    },
+    "vocabularies": [
+      { "word": "河川", "meaning": "大きい川と小さい川。", "imageUrl": "" },
+      { "word": "小川", "meaning": "幅の狭い、小さい流れ。", "imageUrl": "" }
+    ],
+    "masteryLevel": 30,
+    "lastStudiedAt": 1710166800000,
+    "isUnlocked": true
+  },
+  {
+    "kanjiId": "hi",
+    "character": "日",
+    "grade": 1,
+    "writingLayer": [
+      { "id": "p1", "name": "たて", "speechText": "たてぼう", "chantOrder": 1, "strokes": [{ "id": "s1", "pathData": "M30,20 L30,80" }] },
+      { "id": "p2", "name": "かこい", "speechText": "よこたて", "chantOrder": 2, "strokes": [{ "id": "s2", "pathData": "M30,20 L70,20 L70,80" }] },
+      { "id": "p3", "name": "よこ", "speechText": "よこ", "chantOrder": 3, "strokes": [{ "id": "s3", "pathData": "M30,50 L70,50" }] },
+      { "id": "p4", "name": "よこ", "speechText": "よこ", "chantOrder": 4, "strokes": [{ "id": "s4", "pathData": "M30,80 L70,80" }] }
+    ],
+    "semanticLayer": {
+      "traditionalRadical": "日",
+      "radicalName": "ひ・にち",
+      "radicalMeaning": "太陽、一日",
+      "originDescription": "太陽の中に点がある形から生まれた象形文字です。",
+      "synonyms": ["陽", "天"],
+      "antonyms": ["月", "夜"]
+    },
+    "vocabularies": [
+      { "word": "日光", "meaning": "太陽の光。", "imageUrl": "" },
+      { "word": "休日", "meaning": "勤めや学校を休む日。", "imageUrl": "" }
+    ],
+    "masteryLevel": 100,
+    "lastStudiedAt": 1710166800000,
+    "isUnlocked": true
+  },
+  {
+    "kanjiId": "tsuki",
+    "character": "月",
+    "grade": 1,
+    "writingLayer": [
+      { "id": "p1", "name": "たて", "speechText": "たーて", "chantOrder": 1, "strokes": [{ "id": "s1", "pathData": "M35,20 L35,80" }] },
+      { "id": "p2", "name": "はらい", "speechText": "よこたてはらい", "chantOrder": 2, "strokes": [{ "id": "s2", "pathData": "M35,20 L65,20 L65,80" }] },
+      { "id": "p3", "name": "よこ", "speechText": "よこ", "chantOrder": 3, "strokes": [{ "id": "s3", "pathData": "M35,40 L65,40" }] },
+      { "id": "p4", "name": "よこ", "speechText": "よこ", "chantOrder": 4, "strokes": [{ "id": "s4", "pathData": "M35,60 L65,60" }] }
+    ],
+    "semanticLayer": {
+      "traditionalRadical": "月",
+      "radicalName": "つき",
+      "radicalMeaning": "月、一ヶ月",
+      "originDescription": "三日月の形から生まれた象形文字です。",
+      "synonyms": ["望", "太陰"],
+      "antonyms": ["日", "太陽"]
+    },
+    "vocabularies": [
+      { "word": "三日月", "meaning": "陰暦三日の夜の月。", "imageUrl": "" },
+      { "word": "来月", "meaning": "今の次の月。", "imageUrl": "" }
+    ],
+    "masteryLevel": 20,
+    "lastStudiedAt": 1710166800000,
+    "isUnlocked": true
+  },
+  {
+    "kanjiId": "hana",
+    "character": "花",
+    "grade": 1,
+    "writingLayer": [
+      { "id": "p1", "name": "くさかんむり", "speechText": "くさかんむり", "chantOrder": 1, "strokes": [{ "id": "s1", "pathData": "M20,30 L80,30" }] },
+      { "id": "p2", "name": "くさかんむり", "speechText": "", "chantOrder": 1, "strokes": [{ "id": "s2", "pathData": "M20,30 L20,45 M80,30 L80,45" }] },
+      { "id": "p3", "name": "か", "speechText": "にんべんに、イ", "chantOrder": 2, "strokes": [{ "id": "s3", "pathData": "M40,40 L60,40 L40,80 L60,80" }] }
+    ],
+    "semanticLayer": {
+      "traditionalRadical": "艸",
+      "radicalName": "くさかんむり",
+      "radicalMeaning": "草、植物",
+      "originDescription": "くさかんむり（植物）と「化」（変化する）を組み合わせた形声文字です。",
+      "synonyms": ["華", "芳"],
+      "antonyms": ["実", "根"]
+    },
+    "vocabularies": [
+      { "word": "草花", "meaning": "草に咲く花。", "imageUrl": "" },
+      { "word": "花束", "meaning": "花をたばねたもの。", "imageUrl": "" }
+    ],
+    "masteryLevel": 15,
+    "lastStudiedAt": 1710166800000,
+    "isUnlocked": true
+  },
+  {
+    "kanjiId": "asobu",
+    "character": "遊",
+    "grade": 3,
+    "writingLayer": [
+      { "id": "p1", "name": "ほう", "speechText": "ほう", "chantOrder": 1, "strokes": [{ "id": "s1", "pathData": "M10,10" }] },
+      { "id": "p2", "name": "とつ", "speechText": "とつ", "chantOrder": 2, "strokes": [{ "id": "s2", "pathData": "M10,10" }] },
+      { "id": "p3", "name": "こ", "speechText": "こ", "chantOrder": 3, "strokes": [{ "id": "s3", "pathData": "M10,10" }] },
+      { "id": "p4", "name": "しんにょう", "speechText": "てんてんよこ、にょろり", "chantOrder": 4, "strokes": [{ "id": "s4", "pathData": "M10,10" }] }
+    ],
+    "semanticLayer": {
+      "traditionalRadical": "辵",
+      "radicalName": "しんにょう",
+      "radicalMeaning": "行く、進む",
+      "originDescription": "旗（ほう）を掲げてあちこちへ出歩く様子を表しています。",
+      "synonyms": ["戯", "旅"],
+      "antonyms": ["静", "止"]
+    },
+    "vocabularies": [
+      { "word": "遊園地", "meaning": "乗り物などがある遊び場。", "imageUrl": "" },
+      { "word": "遊泳", "meaning": "水の中を泳ぐこと。", "imageUrl": "" }
+    ],
+    "masteryLevel": 0,
+    "lastStudiedAt": 1710166800000,
+    "isUnlocked": false
+  }
+]
