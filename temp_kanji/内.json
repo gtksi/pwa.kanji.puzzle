@@ -1,0 +1,44 @@
+{
+  "kanjiId": "内",
+  "character": "内",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "けいがまえ",
+      "speechText": "けいがまえ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "ひと",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "冂",
+    "radicalName": "けいがまえ",
+    "radicalMeaning": "囲まれた場所に関する漢字",
+    "originDescription": "家の中や、何かで囲まれた場所の中に入る様子を表した漢字だよ。外ではなく、「うち」にあるものや場所を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "室内",
+      "meaning": "部屋や建物の中のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "内側",
+      "meaning": "物の真ん中や、内側の部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

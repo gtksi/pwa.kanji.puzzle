@@ -1,0 +1,46 @@
+{
+  "kanjiId": "机",
+  "character": "机",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "几",
+      "speechText": "つくえ（几）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "樹木、木製品",
+    "originDescription": "木でできた台のことを表しています。もともとは座るときに体をささえる脇息（わきいき）や、小さな台としての机を意味しています。",
+    "synonyms": [
+      "卓"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "机上",
+      "meaning": "つくえの上。また、考えだけのプランのこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "学習机",
+      "meaning": "勉強するための机",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

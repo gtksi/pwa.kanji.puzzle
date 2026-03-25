@@ -1,0 +1,49 @@
+{
+  "kanjiId": "制",
+  "character": "制",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "未",
+      "speechText": "いまだ、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "りっとう",
+      "speechText": "りっとう、で「制」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀",
+    "originDescription": "未（まだ小さい木）と刀（かたな）の形を合わせた字です。木を切って形を整えるように、物事を「きまり」で整えたり、「おさえる」ことを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "制度",
+      "meaning": "物事を決めるためのきまりや仕組み。",
+      "imageUrl": ""
+    },
+    {
+      "word": "制限",
+      "meaning": "範囲や量などを決めて、それ以上にならないようにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "体制",
+      "meaning": "物事を動かすための仕組みやあり方。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

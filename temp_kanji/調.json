@@ -1,0 +1,51 @@
+{
+  "kanjiId": "調",
+  "character": "調",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "周",
+      "speechText": "周（まわり）で、しらべる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、言うこと",
+    "originDescription": "言葉と、すみずみまで行き渡る「周」を合わせた漢字です。すみずみまで声をかけて整えることや、詳しくチェックすることを表します。",
+    "synonyms": [
+      "整"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "調べる",
+      "meaning": "わからないことを探して確かめる",
+      "imageUrl": ""
+    },
+    {
+      "word": "体調",
+      "meaning": "体の具合や元気のよさ",
+      "imageUrl": ""
+    },
+    {
+      "word": "順調",
+      "meaning": "物事がうまくいっている様子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

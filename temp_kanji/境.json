@@ -1,0 +1,49 @@
+{
+  "kanjiId": "境",
+  "character": "境",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "「つち」の「つちへん」だよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "竟",
+      "speechText": "右は「おわり」の「きょう」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土地、地面",
+    "originDescription": "「土（つち）」と「竟（きょう）」が組み合わさってできた漢字だよ。「土」は地面や土地のこと、「竟」は物事のおわりやさかいめを表す部分なんだ。だから、土地と土地の「さかいめ」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "国境",
+      "meaning": "国と国との間のさかい目。",
+      "imageUrl": ""
+    },
+    {
+      "word": "境界",
+      "meaning": "物事の区切りとなる場所や線。",
+      "imageUrl": ""
+    },
+    {
+      "word": "環境",
+      "meaning": "私たちのまわりの自然や生活の様子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

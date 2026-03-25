@@ -1,0 +1,42 @@
+{
+  "kanjiId": "米",
+  "character": "米",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "米",
+      "speechText": "こめ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "米",
+    "radicalName": "こめ",
+    "radicalMeaning": "米",
+    "originDescription": "稲からとれる「お米」の粒が散らばっている様子を描いた漢字だよ。私たちの主食であるお米そのものを表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "白米",
+      "meaning": "精米された白いお米。",
+      "imageUrl": ""
+    },
+    {
+      "word": "米国",
+      "meaning": "アメリカ合衆国のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "玄米",
+      "meaning": "ぬかをとっていないお米。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

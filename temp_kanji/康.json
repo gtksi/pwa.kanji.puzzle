@@ -1,0 +1,49 @@
+{
+  "kanjiId": "康",
+  "character": "康",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まだれ",
+      "speechText": "まだれ、かかえるよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "庚",
+      "speechText": "庚の字、中だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家屋に関する意味を表す",
+    "originDescription": "「康」は、「广（まだれ）」と「庚（かのえ）」からできています。「广」は家屋を表し、「庚」は平らにする意味があります。家が平らで安定していることから、心が安らかで体が丈夫な様子、「やすらか」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "健康",
+      "meaning": "体が元気で丈夫なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "安康",
+      "meaning": "穏やかで、やすらかなこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "康復",
+      "meaning": "病気などが治って、元気になること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

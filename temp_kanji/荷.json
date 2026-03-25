@@ -1,0 +1,44 @@
+{
+  "kanjiId": "荷",
+  "character": "荷",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり、チョンチョン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "何",
+      "speechText": "何の字を、しっかり書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艹",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草",
+    "originDescription": "「荷」は、草木が持つ重い実や、人が背負う荷物を表す漢字だよ。植物に関係する「くさかんむり」と、「になう」という意味を持つ「何」が合わさって、「に」や「おもに」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "荷物",
+      "meaning": "運ぶもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "荷台",
+      "meaning": "荷物を積むための台。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

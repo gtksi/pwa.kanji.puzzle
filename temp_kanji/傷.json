@@ -1,0 +1,70 @@
+{
+  "kanjiId": "傷",
+  "character": "傷",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "ひ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "横棒",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ハ",
+      "speechText": "ハ",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人、人間",
+    "originDescription": "『説文解字』によると、「傷」は人に危害が加わる様子を表す形声文字です。人が身体にけがを負ったり、心が痛んだりする様子を示し、損害や痛みにつながることを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "負傷",
+      "meaning": "けがをすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "傷口",
+      "meaning": "けがをした部分、傷になったところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "損傷",
+      "meaning": "壊れて損なわれること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

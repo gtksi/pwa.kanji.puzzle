@@ -1,0 +1,49 @@
+{
+  "kanjiId": "郵",
+  "character": "郵",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "阝（おおざと）",
+      "speechText": "おおざと、いちにさん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "垂",
+      "speechText": "たれる、いちにさんしごろしちはち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "邑",
+    "radicalName": "おおざと",
+    "radicalMeaning": "村、町、地域",
+    "originDescription": "「阝（むら・まち）」と「垂（たれる）」が組み合わさってできた漢字だよ。「垂」は屋根からつるす旗を表していて、昔の駅伝制度で使われた目印を意味したんだ。駅伝制度は、宿場ごとに馬や人を変えて手紙や荷物を運ぶ仕組みのことだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "郵便",
+      "meaning": "手紙や荷物を特定の場所へ運ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "郵送",
+      "meaning": "郵便物として送ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "郵便局",
+      "meaning": "郵便を扱う施設。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

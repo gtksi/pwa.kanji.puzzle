@@ -1,0 +1,49 @@
+{
+  "kanjiId": "今",
+  "character": "今",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "上の部分は、人の字！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "その下には、くちの字！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "ひと",
+    "originDescription": "もともと『合』と同じように、ふたがぴったり合う様子を表していたんだ。それが『合わさる時』から『いま』という意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "今",
+      "meaning": "現在の時。",
+      "imageUrl": ""
+    },
+    {
+      "word": "今日",
+      "meaning": "今のこの日。",
+      "imageUrl": ""
+    },
+    {
+      "word": "今月",
+      "meaning": "現在の月。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

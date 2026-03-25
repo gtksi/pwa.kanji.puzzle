@@ -1,0 +1,48 @@
+{
+  "kanjiId": "返",
+  "character": "返",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "反",
+      "speechText": "二（に）の下にノ（の）と又（また）を書き、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "辶",
+      "speechText": "しんにょうを合わせて、かえす。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "⻌",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行くこと",
+    "originDescription": "「反対（はんたい）」の「反」と、道を行く「しんにょう」が合わさりました。来た道を反対に戻ることから、「かえす」という意味になりました。",
+    "synonyms": [
+      "戻"
+    ],
+    "antonyms": [
+      "出"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "返事",
+      "meaning": "よびかけに対して、答えをすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "くり返えす",
+      "meaning": "同じことを何度も行うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

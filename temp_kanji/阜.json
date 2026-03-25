@@ -1,0 +1,46 @@
+{
+  "kanjiId": "阜",
+  "character": "阜",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上部",
+      "speechText": "ノ、口、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下部",
+      "speechText": "十を書いてから、一をひく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "ぎふのふ・おか",
+    "radicalMeaning": "高い丘、土の山",
+    "originDescription": "土が積み重なって大きな階段のようになった「おか」の形を表しています。岐阜（ぎふ）県の漢字に使われます。",
+    "synonyms": [
+      "丘"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "岐阜県",
+      "meaning": "日本の中部地方にある県の名前。",
+      "imageUrl": ""
+    },
+    {
+      "word": "阜",
+      "meaning": "こんもりと盛り上がった、つちの山（おか）。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,46 @@
+{
+  "kanjiId": "供",
+  "character": "供",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "にんべんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "共",
+      "speechText": "共（とも）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人の動作、性質",
+    "originDescription": "人が供え物を両手でささげ持っている姿を表しています。神様にお供えをしたり、そばに付き添って仕えたりすることを意味します。",
+    "synonyms": [
+      "奉"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "子供",
+      "meaning": "わらわ、おさない人",
+      "imageUrl": ""
+    },
+    {
+      "word": "提供",
+      "meaning": "役立てるために差し出すこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

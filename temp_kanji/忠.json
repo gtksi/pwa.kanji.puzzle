@@ -1,0 +1,49 @@
+{
+  "kanjiId": "忠",
+  "character": "忠",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "中",
+      "speechText": "なか",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "こころ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心、精神",
+    "originDescription": "「中」と「心」を合わせた漢字です。「中」には「まっすぐ」という意味があり、心がまっすぐで、ごまかさないことを表します。人として誠実で、国や主君に尽くす気持ちを指します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "忠告",
+      "meaning": "心を込めて意見を言うこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "忠実",
+      "meaning": "嘘偽りがなく、誠実であること",
+      "imageUrl": ""
+    },
+    {
+      "word": "忠誠",
+      "meaning": "主君や国家などに忠義を尽くすこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

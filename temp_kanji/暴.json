@@ -1,0 +1,56 @@
+{
+  "kanjiId": "暴",
+  "character": "暴",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "お日（ひ）様（さま）の下（した）に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "共",
+      "speechText": "共（とも）にを書（か）いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "氺",
+      "speechText": "下（した）にカタカナのホを書（か）く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "にち",
+    "radicalMeaning": "太陽、時間",
+    "originDescription": "太陽（たいよう）の下で、両手（りょうて）を使ってお米のからもみを力づよく振り払う様子から、あらあらしく激しいことを表すようになりました。",
+    "synonyms": [
+      "荒",
+      "激"
+    ],
+    "antonyms": [
+      "静"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "乱暴",
+      "meaning": "動作（どうさ）や言葉づかいが荒（あら）っぽいこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "暴れる",
+      "meaning": "大さわぎをして、あらあらしく動くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

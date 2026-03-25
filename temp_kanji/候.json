@@ -1,0 +1,49 @@
+{
+  "kanjiId": "候",
+  "character": "候",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "侯",
+      "speechText": "大名の、侯、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亻",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関する意味を表す",
+    "originDescription": "「候」は、「人」と「侯（こう）」からできています。「侯」は高い所にいて、下を見張る人。人々が高い所から季節や天気の移り変わりを「うかがう」様子から、「時や状況を待つ」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "天候",
+      "meaning": "空の様子や天気のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "気候",
+      "meaning": "一年を通じての気温や雨の様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "候補",
+      "meaning": "ある役に選ばれる可能性のある人やもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,54 @@
+{
+  "kanjiId": "者",
+  "character": "者",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "耂",
+      "speechText": "土に、ナナメの、ノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "その下に、日（ひ）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "丶",
+      "speechText": "右上に、てん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "老",
+    "radicalName": "おいかんむり",
+    "radicalMeaning": "年をとる、経験がある",
+    "originDescription": "多くの人が集まって何かをすることを表し、特定の仕事や役割を持つ「人」を指すようになりました。",
+    "synonyms": [
+      "人",
+      "士"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "学者",
+      "meaning": "学問を一生けんめいに研究している人。がくしゃ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "若者",
+      "meaning": "わかい人たちのこと。わかもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "樹",
+  "character": "樹",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん、もくもく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "士",
+      "speechText": "さむらい、つち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "豆",
+      "speechText": "まめ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "「樹」は、「木」と「尌（じゅ）」という部分からできています。「木」は木そのものを表し、「尌」はまっすぐに木を植える様子を表します。大きな木や、木を植えるという意味があります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "樹木",
+      "meaning": "木々",
+      "imageUrl": ""
+    },
+    {
+      "word": "樹立",
+      "meaning": "目標などを打ち立てる",
+      "imageUrl": ""
+    },
+    {
+      "word": "街路樹",
+      "meaning": "道路に沿って植えられた木",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

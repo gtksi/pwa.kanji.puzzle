@@ -1,0 +1,49 @@
+{
+  "kanjiId": "婦",
+  "character": "婦",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おんなへん",
+      "speechText": "おんなへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "帚",
+      "speechText": "ほうきで、婦（ふ）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女性に関すること",
+    "originDescription": "「婦」の字は、女性を表す「女」と、ほうきを意味する「帚（ほうき）」が合わさってできました。昔は、ほうきを使って家をきれいにすることが女性の大切な仕事だったことから、「成人した女性」「妻」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "夫婦",
+      "meaning": "結婚した男女のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "主婦",
+      "meaning": "家庭を守る女性。",
+      "imageUrl": ""
+    },
+    {
+      "word": "婦人",
+      "meaning": "成人の女性をていねいに言う言葉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

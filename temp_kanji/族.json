@@ -1,0 +1,47 @@
+{
+  "kanjiId": "族",
+  "character": "族",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ほう",
+      "speechText": "かたへん（ほう）の下に人を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "や",
+      "speechText": "右側に矢（や）を書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "方",
+    "radicalName": "ほうへん",
+    "radicalMeaning": "旗、方向",
+    "originDescription": "旗の下に家族が集まり、武器の「矢」を持って自分たちの仲間を守る様子を表しています。そこから「なかま」や「家族」という意味になりました。",
+    "synonyms": [
+      "類",
+      "党"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "家族",
+      "meaning": "家の中にいっしょに住んでいる、血のつながった人たち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水族館",
+      "meaning": "魚や海の生き物をたくさん集めて見せてくれる場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

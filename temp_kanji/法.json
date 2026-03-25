@@ -1,0 +1,49 @@
+{
+  "kanjiId": "法",
+  "character": "法",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "去",
+      "speechText": "去（さる）の法",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「さんずい（水）」と「去（さる）」を組み合わせた字だよ。昔は、悪い行いをした人を「水に流して裁く」という考え方があったんだ。そこから、「正しいきまり」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "法律",
+      "meaning": "国や社会の正しいきまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "方法",
+      "meaning": "物事をするときのやり方や順序。",
+      "imageUrl": ""
+    },
+    {
+      "word": "合法",
+      "meaning": "法律にかなっていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

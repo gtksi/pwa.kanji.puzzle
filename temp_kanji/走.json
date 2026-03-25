@@ -1,0 +1,49 @@
+{
+  "kanjiId": "走",
+  "character": "走",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "走",
+      "speechText": "はしるの上の形、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "止",
+      "speechText": "とめるの止！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "走",
+    "radicalName": "そうにょう",
+    "radicalMeaning": "走ること",
+    "originDescription": "人が両腕を大きく振り、足で地面を強く蹴って「走る」姿を表した漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "走る",
+      "meaning": "足を速く動かして進むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "走り方",
+      "meaning": "走り方や速さのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "遠足",
+      "meaning": "みんなで遠くに出かけること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

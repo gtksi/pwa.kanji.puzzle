@@ -1,0 +1,49 @@
+{
+  "kanjiId": "造",
+  "character": "造",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "告",
+      "speechText": "おつげの「コク」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "みちみち「しんにょう」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、行くこと",
+    "originDescription": "「辶」は道を行くこと、「告」は神に祈りの言葉を告げること。神様にお願いして、何か新しいものを作り出す様子から、「つくる」や「できあがる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "製造",
+      "meaning": "品物を作り出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "改造",
+      "meaning": "物を作り変えて、新しくすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "創造",
+      "meaning": "これまでにない新しいものを作り出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

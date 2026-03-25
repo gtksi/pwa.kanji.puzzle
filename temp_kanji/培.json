@@ -1,0 +1,56 @@
+{
+  "kanjiId": "培",
+  "character": "培",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "つちへん、かーいてー",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "立",
+      "speechText": "たーつ、かーいてー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くーち、かーいてー",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "つちに関係すること",
+    "originDescription": "「培」は「土」と「咅（ほう）」という部分からできています。「土」は地面の土を表し、「咅」は「高く盛り上げる」という意味があります。この二つが合わさって、土を高く盛り上げて植物を育てたり、人を大きく育てたりすることを表す漢字になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "栽培",
+      "meaning": "植物をそだてること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "培養",
+      "meaning": "植物や微生物などをそだて、ふやすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "培う",
+      "meaning": "能力や力をそだて、養うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

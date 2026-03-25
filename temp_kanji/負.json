@@ -1,0 +1,48 @@
+{
+  "kanjiId": "負",
+  "character": "負",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ク",
+      "speechText": "上にカタカナのクを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "下に大事な貝を書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、宝物",
+    "originDescription": "人が宝物（貝）を背負っている様子を表しています。大事なものを背負い込むことや、勝負に負けて損をすることなどを意味します。",
+    "synonyms": [
+      "敗北"
+    ],
+    "antonyms": [
+      "勝"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "勝負",
+      "meaning": "勝ち負けを決めること",
+      "imageUrl": ""
+    },
+    {
+      "word": "負ける",
+      "meaning": "相手に勝てないこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

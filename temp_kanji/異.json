@@ -1,0 +1,49 @@
+{
+  "kanjiId": "異",
+  "character": "異",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田",
+      "speechText": "田（た）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "共の足",
+      "speechText": "共（きょう）の足を書けば、異なるの異",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田んぼ",
+    "originDescription": "お面をかぶった人が両手を上げている姿から、普通とはちがう様子を表すようになりました。",
+    "synonyms": [
+      "別",
+      "他"
+    ],
+    "antonyms": [
+      "同"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "異常",
+      "meaning": "ふだんと違う様子",
+      "imageUrl": ""
+    },
+    {
+      "word": "異文化",
+      "meaning": "自分たちのものとはちがう文化",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

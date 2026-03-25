@@ -1,0 +1,49 @@
+{
+  "kanjiId": "防",
+  "character": "防",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "阝",
+      "speechText": "こざとへんを書（か）いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "方",
+      "speechText": "右（みぎ）に方（ほう）を書（か）く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "おか、高いところ",
+    "originDescription": "土でもりあげた「おか」を表す「阝」と、向きを表す「方」が合わさり、外敵（がいてき）が来ないように土手をつくって止めることを表します。",
+    "synonyms": [
+      "守",
+      "拒"
+    ],
+    "antonyms": [
+      "攻"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "防ぐ",
+      "meaning": "悪いことが起きないように、くい止めること",
+      "imageUrl": ""
+    },
+    {
+      "word": "予防",
+      "meaning": "病気などにならないよう、あらかじめ気をつけること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

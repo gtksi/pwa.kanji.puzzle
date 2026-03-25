@@ -1,0 +1,61 @@
+{
+  "kanjiId": "小",
+  "character": "小",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たて棒はね",
+      "speechText": "たてぼう はねて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "左点",
+      "speechText": "ひだりてん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "右点",
+      "speechText": "みぎてん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "小",
+    "radicalName": "しょう",
+    "radicalMeaning": "小さいこと",
+    "originDescription": "『説文解字』では、一つのものを小さく分ける様子から「小さい」という意味になったとされています。３つの小さな粒が並んでいる姿から、形が「ちいさい」ことや、数が「すくない」ことを表すようになりました。",
+    "synonyms": [
+      "少",
+      "微"
+    ],
+    "antonyms": [
+      "大"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "小学校",
+      "meaning": "6歳から12歳の子どもが勉強する学校のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小鳥",
+      "meaning": "体が小さくて、かわいらしい鳥のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小川",
+      "meaning": "道ばたなどを流れる、はばのせまい小さな川のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

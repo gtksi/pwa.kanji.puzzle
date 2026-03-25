@@ -1,0 +1,53 @@
+{
+  "kanjiId": "根",
+  "character": "根",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "目",
+      "speechText": "となりに目を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "レ",
+      "speechText": "目からレをだせば、ねっこ（根）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き・きへん",
+    "radicalMeaning": "植物に関係すること",
+    "originDescription": "「木」と「とどまる」という意味が合わさりました。地面の下にしっかり止まって、木をささえる「ねっこ」を指します。",
+    "synonyms": [
+      "本"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "屋根",
+      "meaning": "家の一番上にある、雨や日光をふせぐ部分",
+      "imageUrl": ""
+    },
+    {
+      "word": "根っこ",
+      "meaning": "植物の地面の下にある部分。水や栄養をすう",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

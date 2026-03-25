@@ -1,0 +1,47 @@
+{
+  "kanjiId": "路",
+  "character": "路",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "あしへん",
+      "speechText": "あしへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "各",
+      "speechText": "おのおの（各）を書いて、道を行く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "足",
+    "radicalName": "あしへん",
+    "radicalMeaning": "足の動作、歩くこと",
+    "originDescription": "足（あしへん）と、目的地に来ることをあらわす「各」が合わさりました。人が歩いていく「みち」をあらわしています。",
+    "synonyms": [
+      "道",
+      "途"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "道路",
+      "meaning": "車や人が通る、広いみち",
+      "imageUrl": ""
+    },
+    {
+      "word": "線路",
+      "meaning": "電車が走るための鉄のレール",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

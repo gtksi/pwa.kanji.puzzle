@@ -1,0 +1,49 @@
+{
+  "kanjiId": "早",
+  "character": "早",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "お日さまの日",
+      "speechText": "お日さまの日",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "数字の十",
+      "speechText": "数字の十",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽、時間",
+    "originDescription": "太陽（日）が空の高いところに出ていて、草が芽を出す「朝」の様子を表した字です。太陽が出るのが早いことから、「はやい」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "早い",
+      "meaning": "時間がまだきていない、速度が速い",
+      "imageUrl": ""
+    },
+    {
+      "word": "早朝",
+      "meaning": "朝早く",
+      "imageUrl": ""
+    },
+    {
+      "word": "早口",
+      "meaning": "話す速度が速いこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

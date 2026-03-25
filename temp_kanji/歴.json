@@ -1,0 +1,59 @@
+{
+  "kanjiId": "歴",
+  "character": "歴",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "がんだれ",
+      "speechText": "がんだれの中に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "禾・禾",
+      "speechText": "いねを二つ並べて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "止",
+      "speechText": "下に止まるを書けば「歴」の完成",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "止",
+    "radicalName": "とめる",
+    "radicalMeaning": "足の運びやとどまることを表す。",
+    "originDescription": "がけ（がんだれ）の下に、並んだ穀物（禾）の間を、足あと（止）が通り過ぎていく様子を表しています。そこから「時がすぎる」や「あちこちを通る」という意味になりました。",
+    "synonyms": [
+      "経",
+      "過"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "歴史",
+      "meaning": "人間が歩んできた、昔から今までの出来事の記録。",
+      "imageUrl": ""
+    },
+    {
+      "word": "学歴",
+      "meaning": "どのような学校を卒業してきたかという記録。",
+      "imageUrl": ""
+    },
+    {
+      "word": "経歴",
+      "meaning": "これまでどんな仕事や経験をしてきたかという、これまでの歩み。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

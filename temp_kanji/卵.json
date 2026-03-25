@@ -1,0 +1,56 @@
+{
+  "kanjiId": "卵",
+  "character": "卵",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たてぼう",
+      "speechText": "まんなか、すーっとたてぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まるい線",
+      "speechText": "ひだりみぎ、まるくかいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "かこむ線",
+      "speechText": "ぜんたい、ぐーっとかこんで「たまご」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "卵",
+    "radicalName": "たまご",
+    "radicalMeaning": "たまご、新しいいのちのもと",
+    "originDescription": "にわとりのたまごの形をそのまま絵にした文字だよ。中に命が宿っているまるい形が、もとになっているんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "卵焼き",
+      "meaning": "たまごを焼いて作った料理。",
+      "imageUrl": ""
+    },
+    {
+      "word": "卵白",
+      "meaning": "たまごの白い部分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "卵黄",
+      "meaning": "たまごの黄色の部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

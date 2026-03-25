@@ -1,0 +1,39 @@
+{
+  "kanjiId": "世",
+  "character": "世",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十が３つ",
+      "speechText": "十を三つならべて、一本の線でつなぐよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "数の一、または横線",
+    "originDescription": "「十」を三つつなげた形です。昔は「三十年」を一つの区切り（一世代）と考えていたことから、人の一生や世の中を表すようになりました。",
+    "synonyms": [
+      "代"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "世界",
+      "meaning": "地球上のすべての場所や、そこに住むすべての人のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お世話",
+      "meaning": "だれかを助けたり、めんどうを見たりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

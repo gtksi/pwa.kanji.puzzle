@@ -1,0 +1,56 @@
+{
+  "kanjiId": "育",
+  "character": "育",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亠",
+      "speechText": "ふた、ぱっかーん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "𠫝",
+      "speechText": "こども、たっち！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "月",
+      "speechText": "からだ、ムキムキ！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "にくづき",
+    "radicalMeaning": "肉体、身体",
+    "originDescription": "「育」は、子ども（𠫝）をさかさまにした形と、肉（月が変化したもの）を組み合わせた字だよ。子どもを大切に育て、体と心を大きく成長させていく様子を表すことから「育てる、育つ」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "体育",
+      "meaning": "体を動かす教育。",
+      "imageUrl": ""
+    },
+    {
+      "word": "教育",
+      "meaning": "人を教え育てること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "育つ",
+      "meaning": "大きくなること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

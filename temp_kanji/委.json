@@ -1,0 +1,49 @@
+{
+  "kanjiId": "委",
+  "character": "委",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "いね、ぴょんぴょん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "女",
+      "speechText": "おんなのこ、座ってる！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女性",
+    "originDescription": "「委」は、女性（女）が稲（禾）の束のように、ゆったりと身をゆだねている様子を表す字だよ。大切なことを他の人に安心してまかせる、お願いするという意味になったんだ。責任を託すことにも使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "委員",
+      "meaning": "役目をまかせられた人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "依頼",
+      "meaning": "人にお願いすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "委員会",
+      "meaning": "委員が集まって相談する会。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

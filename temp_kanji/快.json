@@ -1,0 +1,49 @@
+{
+  "kanjiId": "快",
+  "character": "快",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "りっしんべん",
+      "speechText": "りっしんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夬",
+      "speechText": "きめるの「決」(けつ)の右側",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "こころ",
+    "originDescription": "「りっしんべん」は心を表しているよ。心がすっきりと晴れて、気分が「きもちよい」様子を表す漢字なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "快適",
+      "meaning": "気持ちが良くて、心地よいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "快晴",
+      "meaning": "空がすっきりと晴れていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "快速",
+      "meaning": "早く進むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

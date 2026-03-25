@@ -1,0 +1,49 @@
+{
+  "kanjiId": "活",
+  "character": "活",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "みずのみずだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "舌",
+      "speechText": "しただよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "左の「さんずい」は水のこと。右の「舌（した）」は、水が舌のように生き生きと動く様子を表しているんだ。命が「活きている」ことや、元気なことを意味する漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "生活",
+      "meaning": "日々を過ごすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "活動",
+      "meaning": "積極的に動くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "活発",
+      "meaning": "元気で動きが盛んなこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

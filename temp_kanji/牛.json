@@ -1,0 +1,56 @@
+{
+  "kanjiId": "牛",
+  "character": "牛",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横",
+      "speechText": "よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦",
+      "speechText": "たて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横、横",
+      "speechText": "よこ、よこ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "牛",
+    "radicalName": "うし",
+    "radicalMeaning": "うし",
+    "originDescription": "頭にツノがある「うし」の形を横から見た様子を表した漢字だよ。昔から人間にとって大切な動物だったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "牛乳",
+      "meaning": "牛からとれる白い飲み物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "子牛",
+      "meaning": "生まれたばかりの、小さな牛のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水牛",
+      "meaning": "水辺に住む、大きな角を持つ牛。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

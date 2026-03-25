@@ -1,0 +1,49 @@
+{
+  "kanjiId": "乳",
+  "character": "乳",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "爪",
+      "speechText": "上の「つめ」だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "乙",
+      "speechText": "下の「おつ」だよ、はい「乳」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "乙",
+    "radicalName": "おつ",
+    "radicalMeaning": "まがる、つばめ",
+    "originDescription": "この漢字は、もともと、母親が赤ちゃんを抱っこして、おっぱいをあげる様子を表していました。そこから、「ちち」や「ミルク」という意味で使われるようになりました。赤ちゃんを育てる大切な「乳」の字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "牛乳",
+      "meaning": "牛からとれる乳",
+      "imageUrl": ""
+    },
+    {
+      "word": "乳製品",
+      "meaning": "牛乳などを原料として作られる食品",
+      "imageUrl": ""
+    },
+    {
+      "word": "乳児",
+      "meaning": "生まれたばかりの赤ちゃんのことで、一歳未満の子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

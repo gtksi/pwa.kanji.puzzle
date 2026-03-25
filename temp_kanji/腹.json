@@ -1,0 +1,49 @@
+{
+  "kanjiId": "腹",
+  "character": "腹",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづき、いち、に、さん、し",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "復",
+      "speechText": "ふく、いち、に、さん、し、ご、ろく、しち、はち、きゅう、じゅう、じゅういち、じゅうに",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "体や肉に関すること",
+    "originDescription": "「肉（にくづき）」と「復（ふく）」を組み合わせた漢字だよ。「復」は、内側に包み込む様子を表し、体の内側にあるお腹や内臓を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お腹",
+      "meaning": "体の胴の部分",
+      "imageUrl": ""
+    },
+    {
+      "word": "空腹",
+      "meaning": "お腹が空いていること",
+      "imageUrl": ""
+    },
+    {
+      "word": "腹痛",
+      "meaning": "お腹が痛いこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

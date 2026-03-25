@@ -1,0 +1,49 @@
+{
+  "kanjiId": "最",
+  "character": "最",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "曰",
+      "speechText": "ひらび、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "取",
+      "speechText": "取るの、取、下だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "曰",
+    "radicalName": "ひらび",
+    "radicalMeaning": "「言う」ことや「言葉」に関する形",
+    "originDescription": "「最」は、元々、一番上に飾られた飾り物や、動物の頭の角を表した漢字です。そこから、たくさんあるものの中で「一番」や「最高」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "最高",
+      "meaning": "一番優れていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "最近",
+      "meaning": "今からあまり時間が経っていない頃。",
+      "imageUrl": ""
+    },
+    {
+      "word": "最も",
+      "meaning": "一番、非常に。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

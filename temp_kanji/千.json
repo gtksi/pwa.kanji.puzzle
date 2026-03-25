@@ -1,0 +1,56 @@
+{
+  "kanjiId": "千",
+  "character": "千",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ななめ",
+      "speechText": "ななめにはらい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "よこ",
+      "speechText": "上によこぼう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "たて",
+      "speechText": "たてぼう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "十",
+    "radicalName": "じゅう",
+    "radicalMeaning": "十",
+    "originDescription": "矢じりの形を描いた象形文字が変化したものだよ。数が多いことを表し、「たくさん」という意味で使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "千年",
+      "meaning": "千年という長い時間",
+      "imageUrl": ""
+    },
+    {
+      "word": "千円",
+      "meaning": "お金の単位",
+      "imageUrl": ""
+    },
+    {
+      "word": "千代紙",
+      "meaning": "美しい模様の紙",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

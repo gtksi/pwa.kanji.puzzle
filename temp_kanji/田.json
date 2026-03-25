@@ -1,0 +1,56 @@
+{
+  "kanjiId": "田",
+  "character": "田",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "「口」を書いて、四角だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒二本",
+      "speechText": "縦棒二本、すじを引く",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒二本",
+      "speechText": "横棒二本、区切りだよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田んぼ、畑",
+    "originDescription": "水田や畑の区画を上から見た形を絵にした漢字だよ。四角い枠の中に区切られた線がある様子を表しているんだ。そこから「田んぼ」や「畑」の意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "水田",
+      "meaning": "水を張って稲を育てる田んぼ",
+      "imageUrl": ""
+    },
+    {
+      "word": "田舎",
+      "meaning": "人家がまばらで自然が多い土地",
+      "imageUrl": ""
+    },
+    {
+      "word": "山田",
+      "meaning": "山にある田んぼ",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

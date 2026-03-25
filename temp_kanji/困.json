@@ -1,0 +1,49 @@
+{
+  "kanjiId": "困",
+  "character": "困",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "囗",
+      "speechText": "くにがまえ、かこむかたち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "き、もくもく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲む、国や領域",
+    "originDescription": "「囗（くにがまえ）」は、何かを囲んでいることを表します。その中に「木」が入っていて、木が囲まれて動きがとれない、苦しんでいる様子を表しています。そこから「こまる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "困難",
+      "meaning": "難しいこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "貧困",
+      "meaning": "貧しくて生活に困っていること",
+      "imageUrl": ""
+    },
+    {
+      "word": "困る",
+      "meaning": "苦しんだり、どうしたらよいか分からなくなったりすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

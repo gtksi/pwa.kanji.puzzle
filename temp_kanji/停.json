@@ -1,0 +1,49 @@
+{
+  "kanjiId": "停",
+  "character": "停",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亻",
+      "speechText": "左に『にんべん』",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亭",
+      "speechText": "右に『亭』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "ひと",
+    "originDescription": "「停」は「人（にんべん）」と「亭（てい）」が組み合わさっています。「亭」は屋根と柱がある建物を表し、人が立ち止まる場所を意味しました。「人が立ち止まる」ことから、「とまる」「とめる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "停止",
+      "meaning": "動きが止まること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "停電",
+      "meaning": "電気が止まること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "停車",
+      "meaning": "列車や車が止まること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

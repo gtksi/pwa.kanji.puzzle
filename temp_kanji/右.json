@@ -1,0 +1,58 @@
+{
+  "kanjiId": "右",
+  "character": "右",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "右にちょん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "まるをかこう！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "十",
+      "speechText": "てんてん、はじまる！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口の形を表すよ",
+    "originDescription": "昔、神様にお供え物をする時、右手をそえていた形から生まれた漢字だよ。右手でお供え物をする様子を表しているんだ。",
+    "synonyms": [],
+    "antonyms": [
+      "左"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "右折",
+      "meaning": "右に曲がること",
+      "imageUrl": ""
+    },
+    {
+      "word": "右手",
+      "meaning": "体の右側にある手",
+      "imageUrl": ""
+    },
+    {
+      "word": "右側",
+      "meaning": "右のほう",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "貯",
+  "character": "貯",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "貝",
+      "speechText": "左に『貝』",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丁",
+      "speechText": "右に『丁』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "かい、おかね",
+    "originDescription": "「貯」は「貝（かい）」と「丁（てい）」が組み合わさっています。昔はお金に貝を使っていたので「貝」はお金を、「丁」は物をとめる意味です。お金をたくわえることから、「ためる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "貯金",
+      "meaning": "お金をためること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "貯める",
+      "meaning": "物をためておくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "貯水池",
+      "meaning": "雨水などをためておく池。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

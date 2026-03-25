@@ -1,0 +1,56 @@
+{
+  "kanjiId": "個",
+  "character": "個",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "固",
+      "speechText": "かたい！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "個",
+      "speechText": "まとめて、個！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "にんべんと「かたい」という漢字の組み合わせで、一つ一つのものがしっかりしている様子を表す漢字だよ。だから「ひとつひとつ」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "個人",
+      "meaning": "一人一人の人のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "個数",
+      "meaning": "ものの数のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "個性",
+      "meaning": "その人やそのものだけが持っている、他とはちがった特徴。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

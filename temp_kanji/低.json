@@ -1,0 +1,56 @@
+{
+  "kanjiId": "低",
+  "character": "低",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亻",
+      "speechText": "にんべん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "氏",
+      "speechText": "うじ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "低",
+      "speechText": "にんべんに、うじで、てい！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "人と「氐（てい）」という字が合わさってできました。「氐」は根元が低く垂れ下がっている様子を表します。人が低い位置にいることや、地位が低いことを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "低い",
+      "meaning": "高さが小さいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "低下",
+      "meaning": "水準や程度が下がること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "低学年",
+      "meaning": "小学校の1年生から3年生くらいのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

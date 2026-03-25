@@ -1,0 +1,49 @@
+{
+  "kanjiId": "衛",
+  "character": "衛",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "彳",
+      "speechText": "ぎょうにんべん、みち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "韋",
+      "speechText": "いがまえ、まわる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "行",
+    "radicalName": "ぎょうがまえ",
+    "radicalMeaning": "行く",
+    "originDescription": "「彳（ぎょうにんべん）」は「いく」ことを、「韋（なめしがわ）」はまわりを「かこむ」ことを表しているよ。まわりを歩いて「まもる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "衛生",
+      "meaning": "健康をまもること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "防衛",
+      "meaning": "敵からまもること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自衛",
+      "meaning": "自分で自分をまもること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

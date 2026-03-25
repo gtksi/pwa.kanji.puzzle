@@ -1,0 +1,58 @@
+{
+  "kanjiId": "徳",
+  "character": "徳",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "彳",
+      "speechText": "ぎょうにんべん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "直",
+      "speechText": "なおる",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "心",
+      "speechText": "こころ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "徳",
+      "speechText": "ぎょうにんべんに、なおる、こころで、とく！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "道、行くこと",
+    "originDescription": "道を表す「彳」、まっすぐという意味の「直」、そして「心」が合わさってできました。心がまっすぐで、正しい行いをすること。人としての「ふさわしい行い」を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "道徳",
+      "meaning": "人として守るべき正しい行いのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "人徳",
+      "meaning": "人柄が優れていて、周りの人から尊敬されること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

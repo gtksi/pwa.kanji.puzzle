@@ -1,0 +1,56 @@
+{
+  "kanjiId": "届",
+  "character": "届",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尸",
+      "speechText": "しかばねだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "由",
+      "speechText": "よしだよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "凵",
+      "speechText": "かんにょうだよ、はい「届」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "尸",
+    "radicalName": "しかばね",
+    "radicalMeaning": "体を横たえる、覆う",
+    "originDescription": "この漢字は、もともと人が目的地に到達する様子や、物が目標の場所に着く様子を表していました。そこから、「とどく」や「行きつく」という意味で使われるようになりました。書類を出す「届け出」にも使われる大切な漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "届出",
+      "meaning": "役所などに書類を出して報告すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "お届け",
+      "meaning": "品物などを届けること",
+      "imageUrl": ""
+    },
+    {
+      "word": "届け物",
+      "meaning": "届けられる品物",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

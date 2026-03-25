@@ -1,0 +1,57 @@
+{
+  "kanjiId": "厳",
+  "character": "厳",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ツ",
+      "speechText": "ツを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "がんだれ",
+      "speechText": "がんだれ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "敢の下部",
+      "speechText": "耳（みみ）の下に、しんにょうの終わりのような形",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口、話すこと、叫ぶこと",
+    "originDescription": "高い崖の上の家で大声で命令する様子から、気が引きしまってゆるみがない「きびしい」という意味になりました。",
+    "synonyms": [
+      "酷",
+      "峻"
+    ],
+    "antonyms": [
+      "寛",
+      "緩"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "厳重",
+      "meaning": "非常にきびしく、いいかげんにしない様子",
+      "imageUrl": ""
+    },
+    {
+      "word": "荘厳",
+      "meaning": "重々しく、立派で、おごそかなこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

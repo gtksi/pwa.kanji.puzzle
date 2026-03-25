@@ -1,0 +1,49 @@
+{
+  "kanjiId": "心",
+  "character": "心",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まがったところ",
+      "speechText": "まがって、いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "みっつのてん",
+      "speechText": "みっつのてん、いち、に、さん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心臓、気持ちのこと",
+    "originDescription": "人の心臓の形を横から見た様子からできた漢字です。心臓がある場所から、人の「きもち」や「こころ」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "心",
+      "meaning": "人の気持ち。例：優しい心。",
+      "imageUrl": ""
+    },
+    {
+      "word": "中心",
+      "meaning": "まんなか。例：丸の中心。",
+      "imageUrl": ""
+    },
+    {
+      "word": "心の友",
+      "meaning": "親しい友達。例：心の友と遊ぶ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

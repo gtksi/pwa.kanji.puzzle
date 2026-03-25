@@ -1,0 +1,51 @@
+{
+  "kanjiId": "葉",
+  "character": "葉",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむりに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "世",
+      "speechText": "世（よ）を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "木",
+      "speechText": "下に木（き）で、木の葉",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "植物に関すること",
+    "originDescription": "植物（くさかんむり）と、木にたくさん重なっている平らなものを表す字を合わせました。草や木にはえる「は」のことです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "紅葉",
+      "meaning": "秋に木の葉が赤や黄色に変わること",
+      "imageUrl": ""
+    },
+    {
+      "word": "言葉",
+      "meaning": "人が話したり書いたりする、思いを伝えるもの",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

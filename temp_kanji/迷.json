@@ -1,0 +1,48 @@
+{
+  "kanjiId": "迷",
+  "character": "迷",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こめ",
+      "speechText": "こめ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょうに",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "⻌",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行くこと",
+    "originDescription": "道を表す「しんにょう」と、四方に散らばる「米」が組み合わさりました。米つぶのように道が分かれていて、どこへ行けばよいか分からなくなることを表しています。",
+    "synonyms": [
+      "惑う"
+    ],
+    "antonyms": [
+      "悟る"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "迷子",
+      "meaning": "道がわからなくなって、まい子になること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "迷路",
+      "meaning": "道が複雑に入り組んでいて、出口が見つけにくい道。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

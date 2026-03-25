@@ -1,0 +1,56 @@
+{
+  "kanjiId": "謝",
+  "character": "謝",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "矢",
+      "speechText": "右のヤ（矢）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "寸",
+      "speechText": "下のスン（寸）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、意見に関すること",
+    "originDescription": "「言」と「射（うつ）」を組み合わせた漢字です。言葉で心を通わせ、相手に感謝の気持ちを伝えたり、過ちを「謝る」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "感謝",
+      "meaning": "ありがたいと思う気持ちを表すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "謝る",
+      "meaning": "失敗や悪いことについて許しを請うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "謝罪",
+      "meaning": "罪や過ちをわびること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "再",
+  "character": "再",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "いち、横棒をかくよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二",
+      "speechText": "つぎに、にの横棒！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "冂",
+      "speechText": "最後に「けいがまえ」だよ！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "冂",
+    "radicalName": "けいがまえ",
+    "radicalMeaning": "かこむ",
+    "originDescription": "一度やったことを、もう一度繰り返す様子を表す漢字だよ。横棒が二回、その間に口のような形があるね。同じことを「ふたたび」行うという意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "再生",
+      "meaning": "もう一度作ったり、使えるようにしたりすることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "再会",
+      "meaning": "一度別れた人に、もう一度会うことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "再開",
+      "meaning": "一度やめたことを、もう一度始めることだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

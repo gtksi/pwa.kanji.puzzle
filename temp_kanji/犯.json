@@ -1,0 +1,49 @@
+{
+  "kanjiId": "犯",
+  "character": "犯",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "犭",
+      "speechText": "けものへん、シュッ、トン、シュッ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巳",
+      "speechText": "へびの「み」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "犬",
+    "radicalName": "けものへん",
+    "radicalMeaning": "獣、犬",
+    "originDescription": "けものへん（犭）と、音を表す巳（み）からできています。もとは獣（けもの）が人をおそう様子を表し、そこから「規則を破る」「罪を犯す」といった意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "犯罪",
+      "meaning": "法律を破る悪い行い。",
+      "imageUrl": ""
+    },
+    {
+      "word": "犯人",
+      "meaning": "罪を犯した人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "共犯",
+      "meaning": "いっしょに罪を犯すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

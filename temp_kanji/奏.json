@@ -1,0 +1,56 @@
+{
+  "kanjiId": "奏",
+  "character": "奏",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒三つ",
+      "speechText": "よこぼう、みっつ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "真ん中たてよこ",
+      "speechText": "真ん中たてよこ、シュッ！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "大",
+      "speechText": "下には『大』！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "大きい",
+    "originDescription": "上は両手で何かを捧げ持つ様子、下の「大」は人の姿を表すよ。昔、神様や偉い人に楽器を演奏したり、報告したりする意味で使われた字なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "演奏",
+      "meaning": "楽器を鳴らして音楽を奏でること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "奏功",
+      "meaning": "計画などがうまくいき、成功すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "奏でる",
+      "meaning": "楽器を弾いたり吹いたりして音を出す。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

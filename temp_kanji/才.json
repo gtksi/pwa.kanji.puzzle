@@ -1,0 +1,56 @@
+{
+  "kanjiId": "才",
+  "character": "才",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "斜め棒",
+      "speechText": "最初の棒は、斜めだよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横棒",
+      "speechText": "次の棒は、横にぴょん！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "カギ棒",
+      "speechText": "最後はカギに、曲がる棒！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "才",
+    "radicalName": "さい",
+    "radicalMeaning": "才能、年齢",
+    "originDescription": "もともとは植物の芽が地面から出てくる様子を描いた象形文字だよ。そこから、才能や能力、年齢などの意味で使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "天才",
+      "meaning": "とても優れた才能を持つ人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "五才",
+      "meaning": "年齢が五歳であること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "才覚",
+      "meaning": "物事をうまくやりとげる才能や工夫。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

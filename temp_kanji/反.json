@@ -1,0 +1,56 @@
+{
+  "kanjiId": "反",
+  "character": "反",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "の",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "又",
+      "speechText": "また、えいっ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "手の動き、動作",
+    "originDescription": "左を向いた人の形を表し、逆らう、そむく、裏返すなどの意味を持つ漢字だよ。反対方向へ向かう様子が元になっているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "反対",
+      "meaning": "逆であること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "反省",
+      "meaning": "自分の行動を振り返って考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "反応",
+      "meaning": "刺激に対して何らかの動きをすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

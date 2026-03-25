@@ -1,0 +1,70 @@
+{
+  "kanjiId": "空",
+  "character": "空",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "いち、てん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丨",
+      "speechText": "ぼう、たてぼう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "冂",
+      "speechText": "けいがまえ、まど",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "儿",
+      "speechText": "ひとあし",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "-ー",
+      "speechText": "とん、よこぼう",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "空",
+    "radicalName": "くう",
+    "radicalMeaning": "つくまる、みんなる",
+    "originDescription": "できたのは、しまやまだのひとが、ひとりのままになっているすまので、ひとりのない、みんなのいないみちをあらわしています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "あおぞら",
+      "meaning": "たいようがひるさまり、おなじりになること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "くうき",
+      "meaning": "びんない、みんなのないひらがなのおなしりのいないもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "そら",
+      "meaning": "ひがいぶんしばのふりしれず、ひとりが、ふたりが、そのほかのもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

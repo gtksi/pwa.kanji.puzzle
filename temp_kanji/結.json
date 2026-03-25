@@ -1,0 +1,49 @@
+{
+  "kanjiId": "結",
+  "character": "結",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "吉",
+      "speechText": "きち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸",
+    "originDescription": "「糸（いとへん）」は糸を、「吉」はよいことやきちんとした状態を表します。糸をきちんと「むすぶ」ことや、物事をうまく「しめくくる」という意味から、「結果」「むすびつき」といった意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "結果",
+      "meaning": "物事の終わりや、そうなったこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "結ぶ",
+      "meaning": "ひもなどをつなぐこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "結婚",
+      "meaning": "男女が夫婦になること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

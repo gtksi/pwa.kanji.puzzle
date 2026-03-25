@@ -1,0 +1,40 @@
+{
+  "kanjiId": "想",
+  "character": "想",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "相・心",
+      "speechText": "相（あい）を書いてから、下に心（こころ）を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "気持ち、思い",
+    "originDescription": "相手の姿を心にうかべる様子を表しています。目に見えないものを頭の中に描き出すことから「思い」や「イメージ」という意味になりました。",
+    "synonyms": [
+      "思",
+      "考"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "予想",
+      "meaning": "これから何が起こるか、あらかじめ考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "感想",
+      "meaning": "何かを見たり聞いたりして、心に感じたこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

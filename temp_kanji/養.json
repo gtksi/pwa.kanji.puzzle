@@ -1,0 +1,49 @@
+{
+  "kanjiId": "養",
+  "character": "養",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊",
+      "speechText": "上に羊（ひつじ）をきれいに書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "食",
+      "speechText": "その下に食（しょく）を書いて、食べさせるよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "食",
+    "radicalName": "しょく",
+    "radicalMeaning": "食べる、食物に関する意味を表す",
+    "originDescription": "羊（ひつじ）に食べ物（食）をあたえて、大切に育てる様子を表しています。そこから「やしなう」という意味になりました。",
+    "synonyms": [
+      "育",
+      "培"
+    ],
+    "antonyms": [
+      "棄"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "養分",
+      "meaning": "生きものが育つのに役立つ、食べ物の中の成分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "養成",
+      "meaning": "教えて、一人前の人に育てあげること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

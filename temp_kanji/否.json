@@ -1,0 +1,49 @@
+{
+  "kanjiId": "否",
+  "character": "否",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "不",
+      "speechText": "ふ、いち、に、さん、し",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くちへん",
+    "radicalMeaning": "口や言葉に関すること",
+    "originDescription": "「不（〜でない）」と「口（くち）」を組み合わせた漢字だよ。口に出して「違う」「だめだ」と打ち消すことから、「いいえ」「否定する」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "否決",
+      "meaning": "議案などを認めないこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "可否",
+      "meaning": "良いか悪いか",
+      "imageUrl": ""
+    },
+    {
+      "word": "否認",
+      "meaning": "事実でないと認めないこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

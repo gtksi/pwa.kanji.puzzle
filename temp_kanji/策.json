@@ -1,0 +1,49 @@
+{
+  "kanjiId": "策",
+  "character": "策",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "竹",
+      "speechText": "たけかんむり、たけ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "束",
+      "speechText": "たば、そく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹に関すること",
+    "originDescription": "竹（たけかんむり）でできた棒（束）で馬を操る様子を表すよ。『説文解字』には「馬を打つ棒」と書かれているんだ。そこから、物事を計画したり、作戦を立てたりする意味で使われるようになったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "政策",
+      "meaning": "国や政府が行う計画や方針。",
+      "imageUrl": ""
+    },
+    {
+      "word": "対策",
+      "meaning": "ある問題に対して行う計画。",
+      "imageUrl": ""
+    },
+    {
+      "word": "策略",
+      "meaning": "目的を達成するためのたくらみ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

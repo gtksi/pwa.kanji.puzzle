@@ -1,0 +1,50 @@
+{
+  "kanjiId": "列",
+  "character": "列",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "がつへん",
+      "speechText": "がつへん（いちた、夕）に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "りっとう",
+      "speechText": "りっとうを並べて、一列に",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀、切ることに関すること",
+    "originDescription": "刀（りっとう）で物を切り分けて、順番に並べることをあらわしています。そこから「ならぶ」「つらなる」という意味になりました。",
+    "synonyms": [
+      "並",
+      "連"
+    ],
+    "antonyms": [
+      "散",
+      "乱"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "列車",
+      "meaning": "車両がたくさんつながった電車の仲間のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "行列",
+      "meaning": "たくさんの人が並んでいること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

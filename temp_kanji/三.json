@@ -1,0 +1,58 @@
+{
+  "kanjiId": "三",
+  "character": "三",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一画目",
+      "speechText": "みじかい イチ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二画目",
+      "speechText": "もっと みじかい イチ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "三画目",
+      "speechText": "ながい イチ で「さん」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ひとつ",
+    "originDescription": "横棒を３本並べた形で、数字の３を表します。昔の人は、計算に使う棒を並べて数を数えていました。一番上が「天」、真ん中が「人」、一番下が「地」を表しているとも言われています。",
+    "synonyms": [
+      "参"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "三月",
+      "meaning": "一年で三ばんめの月。さんがつ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "三日",
+      "meaning": "三ばんめの日のこと。みっか。",
+      "imageUrl": ""
+    },
+    {
+      "word": "三角形",
+      "meaning": "かどが三つある形。さんかっけい。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

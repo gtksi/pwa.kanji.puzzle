@@ -1,0 +1,77 @@
+{
+  "kanjiId": "算",
+  "character": "算",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "竹かんむり",
+      "speechText": "たけかんむり、チョンチョン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "真ん中の横",
+      "speechText": "横棒、ピー、横棒、ピー、横棒、ピー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "マノ",
+      "speechText": "マとノ、キュッ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "点とノ",
+      "speechText": "点、ちょん、ノ、ひゅっ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "下の横",
+      "speechText": "横棒、ピー、横棒、ピー",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "最後の点とノ",
+      "speechText": "点、ちょん、ノ、ひゅっ、点、ちょん",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹に関すること",
+    "originDescription": "竹（たけ）と、いくつかのものを「一緒にそろえる」という意味の「共（きょう）」が合わさった漢字だよ。昔、竹の棒を並べて数を数えたり計算したりしていた様子を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "計算",
+      "meaning": "数を足したり引いたりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "算数",
+      "meaning": "数の計算を学ぶ教科。",
+      "imageUrl": ""
+    },
+    {
+      "word": "予算",
+      "meaning": "使うお金の計画。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

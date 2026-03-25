@@ -1,0 +1,49 @@
+{
+  "kanjiId": "片",
+  "character": "片",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の部分",
+      "speechText": "よこ、ななめ、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中の部分",
+      "speechText": "口と、はねて、かた！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "片",
+    "radicalName": "かたへん",
+    "radicalMeaning": "かたほう、きれはし",
+    "originDescription": "「片」は、一枚の板や木が半分に割られたり、切り分けられたりした様子を表す漢字です。物が二つに分かれたうちの一つ、という意味で使われます。バラバラになった破片や、半分だけ残ったものを指します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "片道",
+      "meaning": "行きだけのこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "片手",
+      "meaning": "一方の手",
+      "imageUrl": ""
+    },
+    {
+      "word": "断片",
+      "meaning": "ばらばらになったかけら",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

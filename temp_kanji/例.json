@@ -1,0 +1,54 @@
+{
+  "kanjiId": "例",
+  "character": "例",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん 書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "がつ・かばね",
+      "speechText": "一と 夕（ゆう）を 書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "りっとう",
+      "speechText": "りっとうを そえる",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人の行動や性質に関わること",
+    "originDescription": "「人」と、順番に並ぶという意味の「列（れつ）」を合わせた漢字です。人が決まった順に並ぶように、「決まったやり方」や「見本」という意味になりました。",
+    "synonyms": [
+      "模範",
+      "比喩"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "例文",
+      "meaning": "言葉の使い方の見本として示される文章。",
+      "imageUrl": ""
+    },
+    {
+      "word": "例外",
+      "meaning": "決まったきまりに当てはまらない、特別なこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

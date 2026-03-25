@@ -1,0 +1,44 @@
+{
+  "kanjiId": "詩",
+  "character": "詩",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寺",
+      "speechText": "お寺（寺）を書けば、ことばの詩",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉に関すること",
+    "originDescription": "言葉（言）と、規則正しい動き（寺）が合わさって、リズムの整った美しい文章（詩）を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "詩人",
+      "meaning": "すてきな詩をたくさん作る人のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "詩集",
+      "meaning": "たくさんの詩を集めて一冊にした本のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

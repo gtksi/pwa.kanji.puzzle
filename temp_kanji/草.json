@@ -1,0 +1,49 @@
+{
+  "kanjiId": "草",
+  "character": "草",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "草かんむり",
+      "speechText": "草かんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はやい",
+      "speechText": "はやい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草木",
+    "originDescription": "「草かんむり」は草を表し、「早」は音を表しています。地面から生える草や植物全体を指すようになりました。草が生い茂る様子を想像してください。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "草原",
+      "meaning": "草が生い茂る広い場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "雑草",
+      "meaning": "いろいろな種類の草",
+      "imageUrl": ""
+    },
+    {
+      "word": "草花",
+      "meaning": "草の花",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

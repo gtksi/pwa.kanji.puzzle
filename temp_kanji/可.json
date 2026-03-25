@@ -1,0 +1,56 @@
+{
+  "kanjiId": "可",
+  "character": "可",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "よこぼう いち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "亅",
+      "speechText": "かぎ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くちへん",
+    "radicalMeaning": "口",
+    "originDescription": "「可」は、口を開けて「いいよ」「できるよ」と返事をする様子を表した漢字だよ。そこから、物事が「できる」「よい」という意味になったんだ。許可を与えるイメージだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "可能",
+      "meaning": "できること。能力があること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "許可",
+      "meaning": "許して良いとすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "可決",
+      "meaning": "議案などが認められ、決定すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

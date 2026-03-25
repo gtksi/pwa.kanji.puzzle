@@ -1,0 +1,49 @@
+{
+  "kanjiId": "鏡",
+  "character": "鏡",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "金",
+      "speechText": "かねへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "竟",
+      "speechText": "きょう、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属",
+    "originDescription": "「金（かねへん）」は金属を表し、「竟（キョウ）」は、かがみで物をくまなく映し出す様子を表すと言われています。もともと金属でできたかがみを意味していました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鏡",
+      "meaning": "姿を映す道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "望遠鏡",
+      "meaning": "遠くを見る道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手鏡",
+      "meaning": "手で持つ小さいかがみ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

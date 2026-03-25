@@ -1,0 +1,59 @@
+{
+  "kanjiId": "監",
+  "character": "監",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "臣",
+      "speechText": "左に臣（おみ）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノと一",
+      "speechText": "右上にノとタテ棒（｜）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "皿",
+      "speechText": "下に皿（さら）を置く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皿",
+    "radicalName": "さら",
+    "radicalMeaning": "うつわ、食器",
+    "originDescription": "大きな水がめ（皿）の中を、上からのぞき込んで（臣）自分のすがたを見る様子を表しています。水面を鏡のようにして注意深く見ることから、「見はる」「とりしまる」という意味になりました。",
+    "synonyms": [
+      "視",
+      "督"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "監督",
+      "meaning": "映画やスポーツチームなどで、全体に指図をしてまとめる責任者のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "監視",
+      "meaning": "おかしな動きがないか、注意深く見守り続けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "監査",
+      "meaning": "仕事の内容やお金の使い方が、決まり通りに正しく行われているか調べること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

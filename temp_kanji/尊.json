@@ -1,0 +1,70 @@
+{
+  "kanjiId": "尊",
+  "character": "尊",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "丷",
+      "speechText": "はつがしら、チョンチョン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "カタカナのノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "米",
+      "speechText": "お米の米",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "酉",
+      "speechText": "お酒の酉",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "寸",
+      "speechText": "すん、手の形",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "手、わずか",
+    "originDescription": "「酋（シュウ：酒を祭る器）」と「寸（すん：手）」が組み合わさった漢字。神に捧げる酒器を両手で丁寧に扱う様子から、敬い、大切にすることを表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "尊重",
+      "meaning": "大切に思い敬うこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "尊敬",
+      "meaning": "その人を高く評価し敬うこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "尊い",
+      "meaning": "価値が高く、敬うべきである",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,51 @@
+{
+  "kanjiId": "梨",
+  "character": "梨",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "利",
+      "speechText": "り",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "梨",
+      "speechText": "きへんに、りで、なし！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、植物",
+    "originDescription": "木と「利（り）」という字が合わさってできました。木に実る果物で、ナイフで切る時の「り」という音や、鋭く切り開くという意味が関係していると言われています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "梨",
+      "meaning": "甘くてみずみずしい果物の一種。",
+      "imageUrl": ""
+    },
+    {
+      "word": "洋梨",
+      "meaning": "ヨーロッパ原産の、ひょうたん形をした梨。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

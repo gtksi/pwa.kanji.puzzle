@@ -1,0 +1,56 @@
+{
+  "kanjiId": "京",
+  "character": "京",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "なべぶた",
+      "speechText": "なべぶた",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "小",
+      "speechText": "ちいさい",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亠",
+    "radicalName": "なべぶた",
+    "radicalMeaning": "たかい、あたま",
+    "originDescription": "高い建物や、高い場所にある建物が並ぶ様子を表した漢字だよ。昔は「みやこ」という意味で使われたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "東京",
+      "meaning": "日本の首都で、とても大きな町。",
+      "imageUrl": ""
+    },
+    {
+      "word": "上京",
+      "meaning": "いなかから東京や京都などの都へ行くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "京子",
+      "meaning": "女の子の名前によく使われる漢字。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

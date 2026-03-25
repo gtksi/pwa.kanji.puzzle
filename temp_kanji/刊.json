@@ -1,0 +1,44 @@
+{
+  "kanjiId": "刊",
+  "character": "刊",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "刀",
+      "speechText": "かたなへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "干",
+      "speechText": "ホスたつ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刃物",
+    "originDescription": "「刀（かたな）」と「干（ほす、たつ）」の形が合わさってできたよ。昔は木を刀で切り開いたり、削ったりして字を彫り、本を印刷したんだ。そこから「出版する」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "刊行",
+      "meaning": "本や雑誌などを出版すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "夕刊",
+      "meaning": "夕方に出される新聞のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

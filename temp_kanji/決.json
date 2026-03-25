@@ -1,0 +1,48 @@
+{
+  "kanjiId": "決",
+  "character": "決",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夬",
+      "speechText": "ヨに突き抜ける一を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水、流れ",
+    "originDescription": "川の堤防が切れて水が一気に流れ出す様子を表しています。そこから、迷いがなくなって「きめる」という意味になりました。",
+    "synonyms": [
+      "定める"
+    ],
+    "antonyms": [
+      "迷う"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "決める",
+      "meaning": "心が一つに決まること。ルールを作ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "決心",
+      "meaning": "「やるぞ！」と心の中で強く思うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

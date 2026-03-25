@@ -1,0 +1,56 @@
+{
+  "kanjiId": "激",
+  "character": "激",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいを左に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中身",
+      "speechText": "白と方を中に並べ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "のぶん",
+      "speechText": "右にのぶんを打ちつける",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関すること。",
+    "originDescription": "水が岩などに当たって激しく飛び散る様子から、勢いが強いことを表します。",
+    "synonyms": [
+      "激しい",
+      "急"
+    ],
+    "antonyms": [
+      "穏やか"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "激流",
+      "meaning": "水の流れがとても速いこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "感激",
+      "meaning": "強く心に感じて気持ちが高ぶること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

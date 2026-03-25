@@ -1,0 +1,49 @@
+{
+  "kanjiId": "舎",
+  "character": "舎",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上部",
+      "speechText": "上の人（ひと）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下部",
+      "speechText": "下の舌（した）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "舌",
+    "radicalName": "した",
+    "radicalMeaning": "舌に関すること",
+    "originDescription": "昔、旅人が泊まる場所（旅館）を表していました。そこから、家や小屋、また一時的に「泊まる」場所という意味で使われるようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宿舎",
+      "meaning": "泊まるための建物、寮。",
+      "imageUrl": ""
+    },
+    {
+      "word": "校舎",
+      "meaning": "学校の建物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "官舎",
+      "meaning": "役所の人が住むための家。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

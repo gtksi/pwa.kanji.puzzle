@@ -1,0 +1,49 @@
+{
+  "kanjiId": "妹",
+  "character": "妹",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "女へん",
+      "speechText": "女へんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "未",
+      "speechText": "まだで、妹！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんな",
+    "radicalMeaning": "女性",
+    "originDescription": "「女」と「未」が合わさってできた漢字だよ。「未」は「まだ小さい」という意味を持つから、まだ幼い女の子、つまり妹を表すようになったんだ。かわいい妹の様子が目に浮かぶね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "姉妹",
+      "meaning": "お姉さんと妹のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "実妹",
+      "meaning": "自分と同じ親から生まれた妹。",
+      "imageUrl": ""
+    },
+    {
+      "word": "末妹",
+      "meaning": "一番年下の妹のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

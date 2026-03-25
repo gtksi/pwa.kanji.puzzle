@@ -1,0 +1,47 @@
+{
+  "kanjiId": "恩",
+  "character": "恩",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "因",
+      "speechText": "因（いん）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "下に心を置いて恩返しの恩",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "気持ち、心",
+    "originDescription": "受けた恵みの「もと（因）」を忘れずに、ありがたく思う「心」を組み合わせています。",
+    "synonyms": [
+      "恵み",
+      "慈しみ"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "恩恵",
+      "meaning": "自然や人から受ける恵み",
+      "imageUrl": ""
+    },
+    {
+      "word": "恩師",
+      "meaning": "お世話になった先生",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

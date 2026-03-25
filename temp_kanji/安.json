@@ -1,0 +1,49 @@
+{
+  "kanjiId": "安",
+  "character": "安",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "おうちのやね！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "女",
+      "speechText": "おんなのこ、座ってる！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、建物",
+    "originDescription": "「安」は、家（宀）の中で女性（女）が静かに座っている様子を表す字だよ。家族が穏やかに過ごせる安心な状態を意味するから、「やすらか、安全」という意味になったんだ。心が落ち着いている様子も表すよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "安全",
+      "meaning": "危なくないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "安心",
+      "meaning": "心配がなくて、やすらかなこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "安い",
+      "meaning": "値段があまり高くないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "券",
+  "character": "券",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上部",
+      "speechText": "二と人を上に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "下に刀でしるしをつける",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "かたな",
+    "radicalMeaning": "切ること、刀に関すること。",
+    "originDescription": "木の札などに刀でしるしをつけて二つに割り、約束の証拠にしたことから、チケットなどを意味します。",
+    "synonyms": [
+      "札",
+      "証書"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "乗車券",
+      "meaning": "電車などに乗るためのチケット",
+      "imageUrl": ""
+    },
+    {
+      "word": "旅券",
+      "meaning": "パスポートのこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

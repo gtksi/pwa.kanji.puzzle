@@ -1,0 +1,55 @@
+{
+  "kanjiId": "略",
+  "character": "略",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たへん",
+      "speechText": "たへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ふゆがしら",
+      "speechText": "ふゆがしら",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "くち",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "たへん",
+    "radicalMeaning": "田んぼ、土地",
+    "originDescription": "田んぼ（土地）を分けて、それぞれの場所を決めることを表します。そこから、大事なところだけを抜き出して「はぶく（短くする）」という意味になりました。",
+    "synonyms": [
+      "ほぼ"
+    ],
+    "antonyms": [
+      "詳"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "省略",
+      "meaning": "簡単にするために、一部をはぶくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "略図",
+      "meaning": "大事なところだけをかいた、簡単な地図のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

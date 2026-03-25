@@ -1,0 +1,49 @@
+{
+  "kanjiId": "損",
+  "character": "損",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "扌",
+      "speechText": "てへん、手へんだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "員",
+      "speechText": "いん、まるいものの員",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手（て）",
+    "originDescription": "「扌（てへん）」と「員（いん）」から、手で物を削り取って減らす様子を表します。減る、へらす、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "損失",
+      "meaning": "損をして失うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "損害",
+      "meaning": "物や財産がこわれたり減ったりして受ける被害。",
+      "imageUrl": ""
+    },
+    {
+      "word": "破損",
+      "meaning": "物がこわれたり、傷ついたりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "党",
+  "character": "党",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尚",
+      "speechText": "「たっとぶ」の上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "儿",
+      "speechText": "ひとあしだよ、はい「党」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "儿",
+    "radicalName": "ひとあし",
+    "radicalMeaning": "人、足",
+    "originDescription": "この漢字は、昔、多くの人々が、同じ考えを持つ仲間として集まる様子を表していました。そこから、「なかま」や「グループ」という意味で使われるようになった漢字です。同じ考えの人が集まるイメージだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "政党",
+      "meaning": "政治を行う目的で組織された団体",
+      "imageUrl": ""
+    },
+    {
+      "word": "党員",
+      "meaning": "政党などのメンバー",
+      "imageUrl": ""
+    },
+    {
+      "word": "党首",
+      "meaning": "政党の代表者",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

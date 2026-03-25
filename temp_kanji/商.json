@@ -1,0 +1,49 @@
+{
+  "kanjiId": "商",
+  "character": "商",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "立",
+      "speechText": "上に立（たつ）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冂口",
+      "speechText": "なべぶたの下に口、さらに冂（まきがまえ）の中にハと口",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口、言葉、話すこと",
+    "originDescription": "お祈りの道具と、台の形を合わせた字です。もともとは「数をはかる」という意味でしたが、今は物を売ったり買ったりする商売のことを表します。",
+    "synonyms": [
+      "売",
+      "買"
+    ],
+    "antonyms": [
+      "工"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "商店",
+      "meaning": "品物を売っているお店のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "商売",
+      "meaning": "利益が出るように、物を売ったり買ったりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

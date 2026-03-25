@@ -1,0 +1,44 @@
+{
+  "kanjiId": "東",
+  "character": "東",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "き",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木や植物に関する漢字",
+    "originDescription": "太陽がのぼる方角に木がある様子を表した、象形文字だよ。昔は、木を袋に入れてしばった形からできたという説もあるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "東西",
+      "meaning": "東と西のこと。いろいろな方角という意味でも使うよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "東口",
+      "meaning": "駅や建物などの東側にある入り口のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

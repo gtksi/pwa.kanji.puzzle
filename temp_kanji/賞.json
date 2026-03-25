@@ -1,0 +1,44 @@
+{
+  "kanjiId": "賞",
+  "character": "賞",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かい",
+      "speechText": "貝、めがね",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "尚",
+      "speechText": "なべぶた、よこ、たて、よこ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、財宝",
+    "originDescription": "かいへんは、昔の「お金」や「宝物」を表すんだ。右側の「尚」は、「高く上げる」「尊ぶ」という意味があるよ。だから、大切な「宝物」を与えて、努力した人を「ほめる」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "賞金",
+      "meaning": "ほめられてもらうお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "受賞",
+      "meaning": "賞をもらうこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

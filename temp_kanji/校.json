@@ -1,0 +1,59 @@
+{
+  "kanjiId": "校",
+  "character": "校",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "き（木）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なべぶた",
+      "speechText": "なべぶた",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ち",
+      "speechText": "ち（父）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "樹木や木製品に関することを表す",
+    "originDescription": "木（き）と、交（まじわる）という字を合わせた漢字です。もともとは木を組み合わせて作った柵（さく）や、囲いを意味していました。そこから転じて、木で囲まれた建物の中で人々が集まり、学ぶ場所である「がっこう」を指すようになりました。",
+    "synonyms": [
+      "学",
+      "園"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "学校（がっこう）",
+      "meaning": "先生に勉強を教わったり、友達と遊んだりする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "校門（こうもん）",
+      "meaning": "学校の入り口にある大きな門。",
+      "imageUrl": ""
+    },
+    {
+      "word": "校長先生（こうちょうせんせい）",
+      "meaning": "学校で一番責任のある、リーダーの先生。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,55 @@
+{
+  "kanjiId": "疑",
+  "character": "疑",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ヒ矢",
+      "speechText": "ヒと矢を横に並べ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "マ",
+      "speechText": "下にマを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "疋",
+      "speechText": "疋（ひき）を書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "疋",
+    "radicalName": "ひき",
+    "radicalMeaning": "足、進む",
+    "originDescription": "道で立ち止まり、どちらへ行けばよいか迷って、うしろをふり返っている人の姿です。本当かなと疑うことや、迷うことを意味します。",
+    "synonyms": [
+      "惑"
+    ],
+    "antonyms": [
+      "信"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "疑問",
+      "meaning": "わからないこと、うたがわしい点",
+      "imageUrl": ""
+    },
+    {
+      "word": "半信半疑",
+      "meaning": "半分信じて、半分うたがうこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

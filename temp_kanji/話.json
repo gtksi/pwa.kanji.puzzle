@@ -1,0 +1,49 @@
+{
+  "kanjiId": "話",
+  "character": "話",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言（ごんべん）",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "舌",
+      "speechText": "した",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉",
+    "originDescription": "この漢字は、言葉を表す「言（ごんべん）」と、口の中にある「舌（した）」を合わせた形なんだ。舌を使って言葉を交わす、「話す」という意味を表しているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "話す",
+      "meaning": "言葉を使って伝える。",
+      "imageUrl": ""
+    },
+    {
+      "word": "会話",
+      "meaning": "二人以上で言葉を交わすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "電話",
+      "meaning": "離れた人と話すための機械。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

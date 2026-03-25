@@ -1,0 +1,56 @@
+{
+  "kanjiId": "希",
+  "character": "希",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "カタカナのノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巾",
+      "speechText": "はば、きん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "米",
+      "speechText": "こめ、よね",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば",
+    "radicalMeaning": "布",
+    "originDescription": "もともとは薄い布でふるいにかける様子を表していました。目が粗くて量が少ない、めったにない、という「まれ」な意味に。そこから、望みや希望の意味に転じました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "希望",
+      "meaning": "こうなったらいいな、と思うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "希少",
+      "meaning": "数が少なく、めったにないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "希薄",
+      "meaning": "薄くて、あまりないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

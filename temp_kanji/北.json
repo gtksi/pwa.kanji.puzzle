@@ -1,0 +1,49 @@
+{
+  "kanjiId": "北",
+  "character": "北",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "匕",
+      "speechText": "スプーン、左",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "匕",
+      "speechText": "スプーン、右",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "匕",
+    "radicalName": "ひ",
+    "radicalMeaning": "さじ",
+    "originDescription": "二人の人が背中を向け合っている様子を表す漢字だよ。もともとは「そむく」という意味だったけれど、寒い方角である「北」を指すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "北国",
+      "meaning": "北の方にある寒い国や地方。",
+      "imageUrl": ""
+    },
+    {
+      "word": "北風",
+      "meaning": "北から吹いてくる冷たい風。",
+      "imageUrl": ""
+    },
+    {
+      "word": "東北",
+      "meaning": "東と北の間の方角。日本の地方の名前でもあるよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

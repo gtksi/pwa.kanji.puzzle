@@ -1,0 +1,49 @@
+{
+  "kanjiId": "非",
+  "character": "非",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "非の左半分",
+      "speechText": "たてぼう、はねて、まがって、もう一本！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "非の右半分",
+      "speechText": "また、たてぼう、はねて、まがって、もう一本、非（ひ）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "非",
+    "radicalName": "ひ",
+    "radicalMeaning": "ちがい、わるい",
+    "originDescription": "「非」の字は、鳥が左右の翼（つばさ）を広げて飛んでいる姿からできたと言われています。二つの翼が互いに背を向け合っている様子から、「違う」「悪い」という意味を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "非常に",
+      "meaning": "とても、ふつうではないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "非行",
+      "meaning": "良くない行い。",
+      "imageUrl": ""
+    },
+    {
+      "word": "是非",
+      "meaning": "いいことと悪いこと、かならず。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

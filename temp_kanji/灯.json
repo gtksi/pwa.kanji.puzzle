@@ -1,0 +1,56 @@
+{
+  "kanjiId": "灯",
+  "character": "灯",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "火",
+      "speechText": "ひへん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丁",
+      "speechText": "てい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "灯",
+      "speechText": "ひへんに、ていで、とう！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひへん",
+    "radicalMeaning": "火、光",
+    "originDescription": "炎を表す「火」と、安定した小さな火を表す「丁」が合わさってできました。暗闇を「照らすあかり」、ランプやライトを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "灯り",
+      "meaning": "光や明かりのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "電灯",
+      "meaning": "電気で光るあかり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "街灯",
+      "meaning": "街中や道路を照らすあかり。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

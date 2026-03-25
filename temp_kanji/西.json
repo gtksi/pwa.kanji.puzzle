@@ -1,0 +1,49 @@
+{
+  "kanjiId": "西",
+  "character": "西",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まるいしかく",
+      "speechText": "まるいしかく、いち、に、さん、し、ご",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なかのくち",
+      "speechText": "なかのくち、いち、に、さん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "西",
+    "radicalName": "にし",
+    "radicalMeaning": "西の方角",
+    "originDescription": "鳥が巣に帰る様子や、鳥がとまる場所を表す形からできた漢字です。日が沈む「西」の方角を指すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "西",
+      "meaning": "四つの方角の一つ。例：日が沈む西。",
+      "imageUrl": ""
+    },
+    {
+      "word": "西口",
+      "meaning": "駅などの西側の出入り口。例：駅の西口。",
+      "imageUrl": ""
+    },
+    {
+      "word": "東西",
+      "meaning": "東と西。例：東西南北。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

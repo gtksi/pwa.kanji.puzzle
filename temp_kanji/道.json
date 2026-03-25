@@ -1,0 +1,44 @@
+{
+  "kanjiId": "道",
+  "character": "道",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "首",
+      "speechText": "くび",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道や歩くことに関する漢字",
+    "originDescription": "「首」と「しんにょう（道を進むことを表す）」が組み合わさってできた漢字だよ。人がまっすぐに進むべき「みち」を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "道路",
+      "meaning": "車や人が通るために作られた道のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水道",
+      "meaning": "生活に使う水を家まで送るための設備や、水そのもののこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

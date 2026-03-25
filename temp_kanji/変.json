@@ -1,0 +1,77 @@
+{
+  "kanjiId": "変",
+  "character": "変",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "点（てん）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横",
+      "speechText": "横（よこ）",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "また",
+      "speechText": "また",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "口",
+      "speechText": "口（くち）",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "又",
+      "speechText": "又（また）の変",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "手",
+    "originDescription": "「糸（いと）」が形を変えた部分と、「又（手）」を組み合わせた字だよ。ねじれた糸のように、手で形が大きく変わる様子を表しているんだ。そこから、「かわる」「かえる」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "変化",
+      "meaning": "物事の様子が変わること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大変",
+      "meaning": "とてもたいせつなこと。また、困ったことや苦しいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "変更",
+      "meaning": "今まで決まっていたことや、やり方を変えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

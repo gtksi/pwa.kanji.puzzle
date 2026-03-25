@@ -1,0 +1,47 @@
+{
+  "kanjiId": "所",
+  "character": "所",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "とだれ",
+      "speechText": "戸（と）の右側に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おのづくり",
+      "speechText": "斤（おの）を書いて、ところ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "戸",
+    "radicalName": "とびらのと",
+    "radicalMeaning": "戸・ドア",
+    "originDescription": "「戸（ドア）」と「斤（おの）」を組み合わせて、おので木を切って建物を作る場所を決めることを表しています。",
+    "synonyms": [
+      "場所",
+      "地点"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "場所",
+      "meaning": "何かがあるところ。空間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "近所",
+      "meaning": "自分の家の近くのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

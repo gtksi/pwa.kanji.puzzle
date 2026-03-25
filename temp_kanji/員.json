@@ -1,0 +1,49 @@
+{
+  "kanjiId": "員",
+  "character": "員",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "おくち、ぱくぱく！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "おかね、キラキラ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くちへん",
+    "radicalMeaning": "口、言葉",
+    "originDescription": "「員」は、口（くち）と貝（かい：昔のお金）を組み合わせた字だよ。昔、役人の人数を数えるときに、口でその財産の数や役職を数え上げたことから、ある集団の一員や人数を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "会社員",
+      "meaning": "会社で働く人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "係員",
+      "meaning": "担当の仕事をする人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "全員",
+      "meaning": "その場にいるすべての人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "美",
+  "character": "美",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊",
+      "speechText": "ひつじ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "大",
+      "speechText": "だい、おお",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羊",
+    "radicalName": "ひつじ",
+    "radicalMeaning": "ヒツジに関すること",
+    "originDescription": "「羊」は古代中国で貴重で良い動物とされていたんだ。その「羊」を大きく見せた形から、見た目が「美しい」という意味を持つようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "美しい",
+      "meaning": "見た目や心がきれいなこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "美人",
+      "meaning": "美しい女性。",
+      "imageUrl": ""
+    },
+    {
+      "word": "美術",
+      "meaning": "絵画や彫刻など、美しいものを作る芸術。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

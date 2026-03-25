@@ -1,0 +1,51 @@
+{
+  "kanjiId": "夏",
+  "character": "夏",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の目のような形",
+      "speechText": "うえの、めのような、かたち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "よこぼう、すーっ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "夊",
+      "speechText": "すいにょう、ゆっくりあるく",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夊",
+    "radicalName": "すいにょう",
+    "radicalMeaning": "ゆっくり歩くこと",
+    "originDescription": "人が腕を大きく広げて踊る姿を絵にした文字が元になっています。明るくて活発な季節である「夏」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "夏休み",
+      "meaning": "暑い季節にある、学校の長いお休み期間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "夏空",
+      "meaning": "夏の季節の空のこと。青く、入道雲などが見られます。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

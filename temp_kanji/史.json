@@ -1,0 +1,56 @@
+{
+  "kanjiId": "史",
+  "character": "史",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒と曲がり",
+      "speechText": "まんなか",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち、はい「史」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口",
+    "originDescription": "「史」は、昔、役所の中で「記録」を残す仕事をしていた人の様子を表す字だよ。たくさんの記録を書き残す人から、「歴史」や「過去の出来事」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "歴史",
+      "meaning": "過去のできごと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "史料",
+      "meaning": "歴史を調べるための大切な資料。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日本史",
+      "meaning": "日本の過去のできごと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

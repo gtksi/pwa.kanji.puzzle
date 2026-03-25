@@ -1,0 +1,49 @@
+{
+  "kanjiId": "中",
+  "character": "中",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しかくいくち",
+      "speechText": "しかくいくち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "真ん中のたてぼう",
+      "speechText": "真ん中のたてぼう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "丨",
+    "radicalName": "ぼう",
+    "radicalMeaning": "たてぼう",
+    "originDescription": "真ん中に旗竿が立っている様子や、物の中心を貫く棒の様子を描いた字です。そこから「まんなか」「うち」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "中学",
+      "meaning": "中学校の略",
+      "imageUrl": ""
+    },
+    {
+      "word": "中心",
+      "meaning": "真ん中、最も大切な部分",
+      "imageUrl": ""
+    },
+    {
+      "word": "真ん中",
+      "meaning": "物や場所の中心",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "村",
+  "character": "村",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへんの木",
+      "speechText": "きへんの木",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "右にすん",
+      "speechText": "右にすん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木",
+    "originDescription": "「木」は木々が集まっている場所を表し、「寸」は土地や距離を示します。木がたくさん生えている場所に人々が集まって住む「むら」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "村人",
+      "meaning": "村に住む人々",
+      "imageUrl": ""
+    },
+    {
+      "word": "村長",
+      "meaning": "村の代表者",
+      "imageUrl": ""
+    },
+    {
+      "word": "山村",
+      "meaning": "山の中にある村",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,58 @@
+{
+  "kanjiId": "祭",
+  "character": "祭",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夕",
+      "speechText": "カタカナのタ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ト",
+      "speechText": "トを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "又",
+      "speechText": "また（又）を書いて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "示",
+      "speechText": "下にしめす（示）",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "示",
+    "radicalName": "しめす",
+    "radicalMeaning": "神仏、まつりごと",
+    "originDescription": "神様へのお供え物のお肉を手で捧げている様子を表しています。神様をおまつりすることを意味する漢字になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お祭り",
+      "meaning": "神様をまつる行事や、にぎやかな催し物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "祭日",
+      "meaning": "お祭りを行う日のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+  "kanjiId": "苦",
+  "character": "苦",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "古い",
+      "speechText": "下に古いと書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "植物、草",
+    "originDescription": "もとは「苦菜（くさい）」という苦い草の名前でした。そこから、味がにがいことや、つらいことを表すようになりました。",
+    "synonyms": [
+      "痛い"
+    ],
+    "antonyms": [
+      "楽"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "苦しい",
+      "meaning": "体が痛かったり、気持ちがつらかったりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "苦手",
+      "meaning": "あまり得意ではなくて、嫌だなと思うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

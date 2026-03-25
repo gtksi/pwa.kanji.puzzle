@@ -1,0 +1,63 @@
+{
+  "kanjiId": "水",
+  "character": "水",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ななめ",
+      "speechText": "ななめにとめて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まがり",
+      "speechText": "まがってはねて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ちょん",
+      "speechText": "ちょんとつける",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ちょん",
+      "speechText": "もういっちょちょん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "みず",
+    "radicalMeaning": "水",
+    "originDescription": "流れる水の様子を絵にした象形文字だよ。川の流れや、波がたっている様子を表現しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "水曜日",
+      "meaning": "曜日の一つ",
+      "imageUrl": ""
+    },
+    {
+      "word": "水泳",
+      "meaning": "水の中で泳ぐこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "海水",
+      "meaning": "海の水",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

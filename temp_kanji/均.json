@@ -1,0 +1,44 @@
+{
+  "kanjiId": "均",
+  "character": "均",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "「つち」と書いたら、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "匀",
+      "speechText": "次に「ひとしい」の「きん」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "土地、地面",
+    "originDescription": "「土（つち）」と「匀（きん）」が合わさった漢字だよ。「土」は地面や土地、「匀」は「まわる」「同じにする」という意味を表す部分なんだ。土地を平らにして、同じ状態にする、つまり「ならす」「ひとしくする」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "平均",
+      "meaning": "いくつかのものを合わせて、同じになるようにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "均等",
+      "meaning": "すべてのものが同じであること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

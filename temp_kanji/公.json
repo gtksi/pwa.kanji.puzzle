@@ -1,0 +1,56 @@
+{
+  "kanjiId": "公",
+  "character": "公",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "八",
+      "speechText": "はち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "ム",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "八",
+    "radicalName": "はち",
+    "radicalMeaning": "数字の八",
+    "originDescription": "「八（わけあう）」と「ム（私）」を組み合わせた字です。自分のものではなく、みんなで分け合う、共有するという意味を表しています。みんなのもの、おおやけ、という意味です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "公園",
+      "meaning": "みんなで使える、草木のある場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "公立",
+      "meaning": "国や地方が作った施設。",
+      "imageUrl": ""
+    },
+    {
+      "word": "公開",
+      "meaning": "みんなに見せること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

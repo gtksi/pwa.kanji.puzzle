@@ -1,0 +1,49 @@
+{
+  "kanjiId": "誕",
+  "character": "誕",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "言葉のごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "延",
+      "speechText": "延びるの「延」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉",
+    "originDescription": "「言（ごんべん）」は言葉、「延」は物が伸びる、生まれることを表します。言葉が広がって生まれること、また、大切な人が生まれる日を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "誕生日",
+      "meaning": "人が生まれた記念の日。",
+      "imageUrl": ""
+    },
+    {
+      "word": "降誕",
+      "meaning": "貴い人などが生まれること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "聖誕祭",
+      "meaning": "イエス・キリストの誕生を祝うお祭り。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "温",
+  "character": "温",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい、チョンチョンチョン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "囚",
+      "speechText": "囚われの、箱の中に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "皿",
+      "speechText": "お皿を、きちんと",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「温」は、水がほどよくあたたかい様子を表す漢字だよ。水に関係する「さんずい」と、中にものが入っている様子を表す部分が合わさって、「あたたかい」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "温度",
+      "meaning": "物のあたたかさや冷たさの度合い。",
+      "imageUrl": ""
+    },
+    {
+      "word": "温泉",
+      "meaning": "地中からわき出る温かいお湯。",
+      "imageUrl": ""
+    },
+    {
+      "word": "温かい",
+      "meaning": "ほどよく熱がある状態。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

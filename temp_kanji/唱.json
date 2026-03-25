@@ -1,0 +1,44 @@
+{
+  "kanjiId": "唱",
+  "character": "唱",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "くちへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "昌",
+      "speechText": "昌だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くちへん",
+    "radicalMeaning": "口",
+    "originDescription": "口を二つ並べて、多くの人が声を合わせて歌ったり、となえたりする様子からできた漢字だよ。歌うことや声に出して言うことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "歌を唱える",
+      "meaning": "歌を声に出して歌うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "合唱",
+      "meaning": "みんなで歌を歌うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

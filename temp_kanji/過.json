@@ -1,0 +1,63 @@
+{
+  "kanjiId": "過",
+  "character": "過",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "なべぶた",
+      "speechText": "なべぶた",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "八",
+      "speechText": "はち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "しんにょう",
+      "speechText": "しんにょう",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "みち",
+    "originDescription": "「しんにょう」は道を進むことを表しているよ。道を行き「すぎる」ことや、やり「すぎる」こと、また「まちがい」の意味で使うようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "通過",
+      "meaning": "ある場所を通り過ぎること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "過半数",
+      "meaning": "半分よりも多い数。",
+      "imageUrl": ""
+    },
+    {
+      "word": "過失",
+      "meaning": "うっかりして起こした間違い。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

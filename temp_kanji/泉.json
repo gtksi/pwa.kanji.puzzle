@@ -1,0 +1,49 @@
+{
+  "kanjiId": "泉",
+  "character": "泉",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "白",
+      "speechText": "上は『白』！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "水",
+      "speechText": "下は『水』！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "みず",
+    "radicalMeaning": "水",
+    "originDescription": "山の下の岩の間から水がこんこんと湧き出てくる様子を表しているよ。冷たい水が流れ出す場所なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "温泉",
+      "meaning": "地中から熱いお湯が湧き出る場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "源泉",
+      "meaning": "水が湧き出るもとの場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "泉水",
+      "meaning": "庭園などに作られた小さな池や湧き水。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

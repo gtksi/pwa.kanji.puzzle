@@ -1,0 +1,49 @@
+{
+  "kanjiId": "顔",
+  "character": "顔",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "彦",
+      "speechText": "ひこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "頁",
+      "speechText": "おおがい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "あたま、かお",
+    "originDescription": "「彦」は人の顔を飾ることを表し、「頁」は頭を表しているよ。これらが合わさって、人の「かお」を意味する漢字になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "顔文字",
+      "meaning": "インターネットなどで使う、顔の表情を表した記号のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "顔色",
+      "meaning": "顔の肌の色で、元気かどうかを表すことがあるよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "顔見知り",
+      "meaning": "知っているけれど、あまり親しくない人のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

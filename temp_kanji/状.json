@@ -1,0 +1,49 @@
+{
+  "kanjiId": "状",
+  "character": "状",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "片",
+      "speechText": "かたへん、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "犬",
+      "speechText": "いぬ、で「状」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "犬",
+    "radicalName": "けものへん",
+    "radicalMeaning": "犬、動物",
+    "originDescription": "片（へん）と犬（いぬ）を組み合わせた形です。犬の形や様子を表すことから、ものの「ありさま」や「すがた」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "状態",
+      "meaning": "物事の今のありさま。",
+      "imageUrl": ""
+    },
+    {
+      "word": "招待状",
+      "meaning": "人を招くためのお知らせの手紙。",
+      "imageUrl": ""
+    },
+    {
+      "word": "症状",
+      "meaning": "病気の様子や具合。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

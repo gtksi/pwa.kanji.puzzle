@@ -1,0 +1,50 @@
+{
+  "kanjiId": "勝",
+  "character": "勝",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "月（つきへん）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "券",
+      "speechText": "右上にハ、一、一、そして下に力（ちから）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、努力",
+    "originDescription": "物を持ち上げる道具と、筋肉の「力」を合わせた字です。重いものを持ち上げるように、力いっぱい努力して相手を上回ることを表します。",
+    "synonyms": [
+      "優",
+      "捷"
+    ],
+    "antonyms": [
+      "負",
+      "敗"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "勝つ",
+      "meaning": "試合やゲームで、相手よりも良い成績を出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "決勝",
+      "meaning": "一番強い人を決めるための、さいごの試合。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

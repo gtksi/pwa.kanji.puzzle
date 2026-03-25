@@ -1,0 +1,51 @@
+{
+  "kanjiId": "栃",
+  "character": "栃",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "万",
+      "speechText": "まん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "栃",
+      "speechText": "きへんに、まんで、とち！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、植物",
+    "originDescription": "木と「万」という字が合わさってできました。「万」はたくさんという意味で、実がたくさんなる木、トチノキを表す日本で作られた国字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "栃木県",
+      "meaning": "関東地方にある県の一つ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "栃の木",
+      "meaning": "とちの実がなる木。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

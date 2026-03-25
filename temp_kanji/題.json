@@ -1,0 +1,47 @@
+{
+  "kanjiId": "題",
+  "character": "題",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ただしい",
+      "speechText": "是（正しい）を左に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おおがい",
+      "speechText": "右に頁（おおがい）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "頭、顔",
+    "originDescription": "「正しい」という意味の字と、顔（頭）を表す「頁」が合わさりました。文章のいちばん大事な「あたま」の部分、つまり「タイトル」や「もんだい」を意味します。",
+    "synonyms": [
+      "目",
+      "標"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "問題",
+      "meaning": "答えるために出された問い。こまったこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宿題",
+      "meaning": "先生から出された、お家でやる勉強。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "級",
+  "character": "級",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "及",
+      "speechText": "右に及（および）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸やつながりに関すること",
+    "originDescription": "糸（糸）を順番につなぎ合わせていくことから、階段のような「だん」や、順番、クラスという意味になりました。",
+    "synonyms": [
+      "位",
+      "段"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "学級",
+      "meaning": "学校のクラスのこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "進級",
+      "meaning": "学年が上がること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

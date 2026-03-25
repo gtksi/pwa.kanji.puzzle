@@ -1,0 +1,32 @@
+{
+  "kanjiId": "孫",
+  "character": "孫",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こども",
+      "speechText": "コ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "イトの変形",
+      "speechText": "ノ、ヨコ、タテ、ハネ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "子",
+    "radicalName": "こ",
+    "radicalMeaning": "子ども",
+    "originDescription": "「子（こども）」と「糸（つづく）」の形を合わせた漢字です。子の子、つまり「まご」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

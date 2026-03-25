@@ -1,0 +1,55 @@
+{
+  "kanjiId": "消",
+  "character": "消",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずいを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "肖",
+      "speechText": "右に肖（ショウ）で「きえる」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水、川、液体",
+    "originDescription": "水の「さんずい」と、肉が削れて小さくなる「肖」を合わせた字です。水によって火が消えたり、物の形がなくなったりすることを表します。",
+    "synonyms": [
+      "滅",
+      "絶"
+    ],
+    "antonyms": [
+      "現",
+      "出"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "消す",
+      "meaning": "あったものをなくすこと。火を止めたり、書いた字を消したりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "消しゴム",
+      "meaning": "えんぴつで書いた字をこすって消すための道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "消防車",
+      "meaning": "火事を消すための道具を積んだ、赤い大きな車。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

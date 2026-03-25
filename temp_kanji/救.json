@@ -1,0 +1,49 @@
+{
+  "kanjiId": "救",
+  "character": "救",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "求（もとめる）",
+      "speechText": "点、ヨコ、タテ、ヨコ、タテ、ノ、タテ、ハネ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "攵（のぶん）",
+      "speechText": "ノンノン、払って、タテ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攵",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "動作、打つ",
+    "originDescription": "左は「求める」、右は「手で打つ（行動する）」ことを表す部分だよ。困っている人を手で助け出す様子から、「助ける」や「救い出す」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "救助",
+      "meaning": "困っている人や危ない状況から助け出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "救急車",
+      "meaning": "急病の人やけが人を病院に運ぶ車。",
+      "imageUrl": ""
+    },
+    {
+      "word": "救う",
+      "meaning": "危険な状態から助け出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

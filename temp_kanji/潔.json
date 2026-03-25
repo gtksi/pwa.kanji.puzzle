@@ -1,0 +1,44 @@
+{
+  "kanjiId": "潔",
+  "character": "潔",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "「みず」の「さんずい」だよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "契",
+      "speechText": "右は「けいやく」の「けい」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "みず",
+    "originDescription": "「水（みず）」と「契（けい）」が組み合わさった漢字だよ。「水」はきれいな水を表す部分、「契」は水が勢いよく流れて、汚れを洗い流す様子を表しているんだ。だから、水のように「きれいでけがれがない」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "清潔",
+      "meaning": "よごれがなく、きれいで気持ちの良いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "簡潔",
+      "meaning": "むだなく、短くまとまっていてわかりやすいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

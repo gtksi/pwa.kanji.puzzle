@@ -1,0 +1,46 @@
+{
+  "kanjiId": "容",
+  "character": "容",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "は・くち",
+      "speechText": "は、くち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "家（うかんむり）と、広い谷（谷）を合わせた字です。谷のように広くて、中にたくさんのものを受け入れる様子を表しています。",
+    "synonyms": [
+      "形"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "内容",
+      "meaning": "中に入っているもの。お話や事がらの中身。",
+      "imageUrl": ""
+    },
+    {
+      "word": "容器",
+      "meaning": "物を入れるための箱や、入れ物のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

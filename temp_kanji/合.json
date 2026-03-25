@@ -1,0 +1,49 @@
+{
+  "kanjiId": "合",
+  "character": "合",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね",
+      "speechText": "一番上は、ひとやね！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "くち",
+      "speechText": "その下には、くちの字！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "くち",
+    "originDescription": "ふたがぴったりと合う様子や、器のふたを閉じる様子を描いた象形文字だよ。二つのものが一つになることを表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "合う",
+      "meaning": "二つのものがぴったり重なること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "合体",
+      "meaning": "二つ以上のものが一つになること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "合計",
+      "meaning": "みんなでいくつになるか、足した数。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

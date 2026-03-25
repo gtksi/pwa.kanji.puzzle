@@ -1,0 +1,49 @@
+{
+  "kanjiId": "利",
+  "character": "利",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "のぎへん",
+      "speechText": "のぎへん、ぴょんと出た、お米のしるし！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "りっとう",
+      "speechText": "りっとう、かたなで、便利だね！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀",
+    "originDescription": "「禾（のぎへん）」はお米のこと。「刀（かたな）」は刃物。お米を刀で刈り取ると、収穫が増えて「便利」で「もうけ」になることから、役に立つことや得することを意味する漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "利用",
+      "meaning": "ものやサービスを役立てて使うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "便利",
+      "meaning": "使いやすくて、役に立つこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "利子",
+      "meaning": "お金を貸したり預けたりしたときに、元のお金に加えてもらえるお金。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

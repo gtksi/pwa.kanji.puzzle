@@ -1,0 +1,49 @@
+{
+  "kanjiId": "絵",
+  "character": "絵",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸へん",
+      "speechText": "いとへんだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "会",
+      "speechText": "あう、かいだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸",
+    "originDescription": "左の「いとへん」は糸のこと。昔は、絹の糸で絵を織ったり、絵の具を塗ったりしたことから、「絵」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "絵本",
+      "meaning": "絵がたくさん描かれている本。",
+      "imageUrl": ""
+    },
+    {
+      "word": "絵画",
+      "meaning": "描かれた絵のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "油絵",
+      "meaning": "油絵の具で描いた絵のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

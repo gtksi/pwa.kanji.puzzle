@@ -1,0 +1,47 @@
+{
+  "kanjiId": "君",
+  "character": "君",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尹",
+      "speechText": "ヨにノを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "下に口を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口、言葉",
+    "originDescription": "手につえ（筆）を持って指示を出す「尹」と「口」を合わせて、人々に命令を出すえらい人を表しています。",
+    "synonyms": [
+      "主",
+      "王"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "君",
+      "meaning": "相手を呼ぶ時の言葉。または、男の子の名前につける言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "君主",
+      "meaning": "国を治める一番えらい人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

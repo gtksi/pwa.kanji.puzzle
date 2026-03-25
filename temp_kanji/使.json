@@ -1,0 +1,46 @@
+{
+  "kanjiId": "使",
+  "character": "使",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "吏の略体",
+      "speechText": "ロ（くち）を書いて、中心の棒を突きだして、左右にはらう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人の活動",
+    "originDescription": "人が棒のような道具を持って、用事や仕事をこなす様子から「使う」という意味になりました。",
+    "synonyms": [
+      "用"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "使う",
+      "meaning": "道具や力を使って何かをすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "大使",
+      "meaning": "国の代表として外国へ送られる大切な役目の人",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "並",
+  "character": "並",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "左のひと",
+      "speechText": "ひとつめの人、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "右のひと",
+      "speechText": "ふたつめの人、ならんでる！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ひとつ、ならぶ",
+    "originDescription": "「並」は、二つのものが同じ高さで横に並んでいる様子を表しています。まるで二人の人が同じ方向を向いて立っている姿や、物がきれいに整列している様子を描いた漢字です。この漢字ひとつで、「ならぶ」「ならべる」という意味が伝わります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "並列",
+      "meaning": "並んでつながっていること",
+      "imageUrl": ""
+    },
+    {
+      "word": "並行",
+      "meaning": "二つのものが並んで進むこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "並木",
+      "meaning": "道に沿って並んでいる木",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

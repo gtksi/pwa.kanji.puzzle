@@ -1,0 +1,77 @@
+{
+  "kanjiId": "本",
+  "character": "本",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横画",
+      "speechText": "よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦画",
+      "speechText": "たて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "左払い",
+      "speechText": "はらい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "右払い",
+      "speechText": "はね",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "本",
+      "speechText": "ほん",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "「木」の漢字の下の方に一本線を引いて、木の「根元（ねもと）」を表していました。そこから、「物事の根本」や「もと」の意味になり、後に「書物」という意味で使われるようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "本屋",
+      "meaning": "本を売っているお店。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日本",
+      "meaning": "私たちの国。",
+      "imageUrl": ""
+    },
+    {
+      "word": "本当",
+      "meaning": "うそではないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

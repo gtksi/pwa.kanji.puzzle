@@ -1,0 +1,56 @@
+{
+  "kanjiId": "円",
+  "character": "円",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "と",
+      "speechText": "まーるく、ひとまわり、とー",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "うかんむり",
+      "speechText": "うえから、そっと、うかーん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "てん",
+      "speechText": "まるい、てん、てん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲む",
+    "originDescription": "昔、銅銭などの丸い形をしたお金を表した字です。丸い形がそのまま「まる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "円",
+      "meaning": "まるい形、または貨幣の単位",
+      "imageUrl": ""
+    },
+    {
+      "word": "百円",
+      "meaning": "百円玉のこと、または金額",
+      "imageUrl": ""
+    },
+    {
+      "word": "丸い",
+      "meaning": "円の形をしているさま",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

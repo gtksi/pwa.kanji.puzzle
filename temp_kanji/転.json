@@ -1,0 +1,56 @@
+{
+  "kanjiId": "転",
+  "character": "転",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "車へん",
+      "speechText": "くるまへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二",
+      "speechText": "にー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ム",
+      "speechText": "むこー",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "車",
+    "radicalName": "くるまへん",
+    "radicalMeaning": "車や回転すること",
+    "originDescription": "車のタイヤがくるくると回る様子を表しています。場所を変えたり、向きが変わったりすることを意味します。",
+    "synonyms": [
+      "回る",
+      "移る"
+    ],
+    "antonyms": [
+      "静止"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "回転",
+      "meaning": "くるくる回ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "運転",
+      "meaning": "車や機械を動かしてあやつること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "毎",
+  "character": "毎",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノと一",
+      "speechText": "チョン、イチノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "母",
+      "speechText": "母で、毎！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "毋",
+    "radicalName": "ぼ",
+    "radicalMeaning": "お母さんの形",
+    "originDescription": "髪飾りをつけたお母さんの姿を表す漢字だよ。女性が髪を飾って毎日を過ごす様子から、「毎日」「〜ごと」という意味を持つようになったんだ。繰り返しを意味する漢字だね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "毎日",
+      "meaning": "一日一日、絶え間なく続くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "毎週",
+      "meaning": "一週間ごとに繰り返されること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "毎回",
+      "meaning": "一回ごとに繰り返されること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,70 @@
+{
+  "kanjiId": "操",
+  "character": "操",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "手",
+      "speechText": "てへん、手で動かす",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "木",
+      "speechText": "木のき",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手",
+    "originDescription": "「手（てへん）」と「喿（ソウ：鳥がさえずる声）」が合わさった漢字。手が忙しく動き回る様子や、物を操る様子を表しました。休まず動くイメージから来ています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "操作",
+      "meaning": "機械などを動かすこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "体操",
+      "meaning": "健康のために体を動かす運動",
+      "imageUrl": ""
+    },
+    {
+      "word": "操縦",
+      "meaning": "乗り物などを動かすこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "万",
+  "character": "万",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "横棒、いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "グーッと曲がって",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "最後の点",
+      "speechText": "万！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ひとつ",
+    "originDescription": "サソリの形から生まれた漢字だよ。たくさんの足を持つサソリの姿から、「たくさん」「数が多い」という意味になり、やがて「一万」という大きな数を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "一万円",
+      "meaning": "一万の価値を持つお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "万歳",
+      "meaning": "お祝いや喜びを表す言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "何万",
+      "meaning": "数の多さを表す言葉で、たくさんの意味。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

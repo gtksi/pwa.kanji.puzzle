@@ -1,0 +1,46 @@
+{
+  "kanjiId": "牧",
+  "character": "牧",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "牛偏（うしへん）",
+      "speechText": "うしへんを書こう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "攵（のぶん）",
+      "speechText": "右に、のぶんを書いたら「牧」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "牛",
+    "radicalName": "うしへん",
+    "radicalMeaning": "うし・家畜",
+    "originDescription": "「牛」と、棒を持った手を表す「攵」が組み合わさった漢字です。牛などの動物を棒で追って、野原で育てる様子を表しています。",
+    "synonyms": [
+      "飼"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "牧場",
+      "meaning": "家畜を飼うための広い場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "牧草",
+      "meaning": "家畜のえさになる草。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

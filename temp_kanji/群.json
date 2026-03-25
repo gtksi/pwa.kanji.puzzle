@@ -1,0 +1,49 @@
+{
+  "kanjiId": "群",
+  "character": "群",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊",
+      "speechText": "ひつじへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "君",
+      "speechText": "きみ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羊",
+    "radicalName": "ひつじ",
+    "radicalMeaning": "羊",
+    "originDescription": "「羊（ひつじへん）」は羊を表し、「君」は多くのものが集まる様子、あるいは統率されるという意味があります。たくさんの羊が群れをなして集まっている様子から、「むれ」「大勢の集まり」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "群れ",
+      "meaning": "動物や人が集まったもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "群集",
+      "meaning": "大勢の人が集まること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "群馬県",
+      "meaning": "関東地方にある県。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

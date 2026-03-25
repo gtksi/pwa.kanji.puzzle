@@ -1,0 +1,47 @@
+{
+  "kanjiId": "球",
+  "character": "球",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おうへん",
+      "speechText": "おうへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "求",
+      "speechText": "右に求（もとむ）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "玉",
+    "radicalName": "おうへん",
+    "radicalMeaning": "宝石や丸いものに関すること",
+    "originDescription": "宝石（王・たま）のように、丸くてきれいな形をしたものを表しています。今ではスポーツのボールや地球のことを言います。",
+    "synonyms": [
+      "丸い",
+      "玉"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "野球",
+      "meaning": "バットとボールを使って遊ぶスポーツ",
+      "imageUrl": ""
+    },
+    {
+      "word": "地球",
+      "meaning": "私たちが住んでいる丸い星",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "織",
+  "character": "織",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへん、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "音",
+      "speechText": "おと、と書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "戈",
+      "speechText": "ほこ、で「織」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸、繊維",
+    "originDescription": "糸（いと）と音（おと）や戈（ほこ）の形を合わせた字です。糸をきちんと整えながら模様を作り出す様子から、「布を織る」や「組み合わせる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "織物",
+      "meaning": "糸を織って作った布。",
+      "imageUrl": ""
+    },
+    {
+      "word": "組織",
+      "meaning": "目的のために集まった人々の集まりや、物事の仕組み。",
+      "imageUrl": ""
+    },
+    {
+      "word": "機織り",
+      "meaning": "織り機を使って布を織ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

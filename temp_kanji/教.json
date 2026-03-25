@@ -1,0 +1,70 @@
+{
+  "kanjiId": "教",
+  "character": "教",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "つち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "子",
+      "speechText": "こどものこ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "攵",
+      "speechText": "ぼくづくり",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攴",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "たたく",
+    "originDescription": "年長者が子どもに何かを伝え、手で示す形だよ。知っていることを人に「おしえる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "教室",
+      "meaning": "勉強する部屋。",
+      "imageUrl": ""
+    },
+    {
+      "word": "教える",
+      "meaning": "知識などを伝えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "先生",
+      "meaning": "教えてくれる人のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

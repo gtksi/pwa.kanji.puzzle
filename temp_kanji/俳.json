@@ -1,0 +1,56 @@
+{
+  "kanjiId": "俳",
+  "character": "俳",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "イ",
+      "speechText": "にんべん、人だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "非",
+      "speechText": "非、違うこと",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "にんべんに 非、わざおぎ、俳！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "イ",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人や人の行動に関することを示す。",
+    "originDescription": "「イ（にんべん）」は人、「非」は背中合わせ。ふざける人や、芸をする人を意味します。役者を表す「俳優」に使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "俳優",
+      "meaning": "芝居や映画に出演する役者。",
+      "imageUrl": ""
+    },
+    {
+      "word": "俳句",
+      "meaning": "五七五の短い詩。日本の伝統的な文学。",
+      "imageUrl": ""
+    },
+    {
+      "word": "俳諧",
+      "meaning": "俳句を含んだ連歌などの文学形式。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

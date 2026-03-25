@@ -1,0 +1,56 @@
+{
+  "kanjiId": "開",
+  "character": "開",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "門",
+      "speechText": "モンガマエを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "横棒の一（いち）、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ニ・ノ・セ",
+      "speechText": "カタカナの「ニ」と「ノ」と「セ」を書こう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "門",
+    "radicalName": "もんがまえ",
+    "radicalMeaning": "門や出入り口に関すること",
+    "originDescription": "門の中に「かんぬき」を外そうとする両手がある様子を表しています。閉じていた扉をひらくことを意味します。",
+    "synonyms": [
+      "展",
+      "啓"
+    ],
+    "antonyms": [
+      "閉"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "公開",
+      "meaning": "みんなに見えるように、広くあけ放つこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "開店",
+      "meaning": "お店の営業をはじめること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

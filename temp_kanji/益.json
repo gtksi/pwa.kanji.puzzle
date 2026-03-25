@@ -1,0 +1,49 @@
+{
+  "kanjiId": "益",
+  "character": "益",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "水",
+      "speechText": "うえは みず",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "皿",
+      "speechText": "したは さら",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皿",
+    "radicalName": "さら",
+    "radicalMeaning": "皿",
+    "originDescription": "「益」は水が皿からあふれ出す様子を表した漢字だよ。水が増えてあふれることから、「ふえる」「もうけ」という意味になったんだ。水がたっぷりある様子をイメージしてみてね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "利益",
+      "meaning": "もうけのこと。得すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "有益",
+      "meaning": "役に立つこと。ためになること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "増益",
+      "meaning": "利益が増えること。もうけが多くなること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

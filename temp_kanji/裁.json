@@ -1,0 +1,56 @@
+{
+  "kanjiId": "裁",
+  "character": "裁",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "戈",
+      "speechText": "ほこ、かく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中央部",
+      "speechText": "まんなか、さい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "衣",
+      "speechText": "ころもへん、ころも",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころもへん",
+    "radicalMeaning": "衣類に関すること",
+    "originDescription": "布をはさみ（戈）で切り、服を作る様子を表すよ。『説文解字』によると「衣服を裁つこと」という意味があるんだ。衣（ころもへん）は衣服に関係する部品だね。布をきちんと形にする意味で使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "裁判",
+      "meaning": "法廷で争いを解決すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "裁縫",
+      "meaning": "針と糸で服などを作ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "独裁",
+      "meaning": "一人で勝手に物事を決めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

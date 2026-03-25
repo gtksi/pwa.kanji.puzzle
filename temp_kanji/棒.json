@@ -1,0 +1,49 @@
+{
+  "kanjiId": "棒",
+  "character": "棒",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "「きへん」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "奉",
+      "speechText": "「右にほう」で、ぼう、ぼう、ぼう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、木材",
+    "originDescription": "「棒」は、「木」と「奉」を組み合わせた漢字だよ。「木」は木材を表すね。「奉」は、人が神様にお供え物をする様子から、突き出すという意味があるんだ。木を突き出した形が「ぼう」になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "棒高跳び",
+      "meaning": "棒を使って高く跳ぶ競技。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鉄棒",
+      "meaning": "鉄でできた棒。",
+      "imageUrl": ""
+    },
+    {
+      "word": "棒読み",
+      "meaning": "抑揚をつけずに読むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

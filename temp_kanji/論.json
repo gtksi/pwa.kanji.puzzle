@@ -1,0 +1,49 @@
+{
+  "kanjiId": "論",
+  "character": "論",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "左に「ごんべん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "侖",
+      "speechText": "右に「りん」、話し合う「ろん」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、話すこと",
+    "originDescription": "「言葉」を表す「言」と、「順序よくまとめる」という意味を持つ「侖」が合わさってできた文字だよ。言葉を順序立てて話したり考えたりすることを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "議論",
+      "meaning": "意見を出し合って話し合うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "論文",
+      "meaning": "あるテーマについてまとめた文章。",
+      "imageUrl": ""
+    },
+    {
+      "word": "論理",
+      "meaning": "物事を筋道立てて考えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

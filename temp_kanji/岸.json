@@ -1,0 +1,54 @@
+{
+  "kanjiId": "岸",
+  "character": "岸",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "山",
+      "speechText": "山（やま）を上に書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "がんだれ",
+      "speechText": "がんだれで山を包み、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "干",
+      "speechText": "下に干（ほす）を書こう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "山",
+    "radicalName": "やま",
+    "radicalMeaning": "山や地形に関すること",
+    "originDescription": "山と水辺の間にある切り立った「がけ」や「水ぎわ」のことを表しています。水と陸のさかいめのことです。",
+    "synonyms": [
+      "浜",
+      "渚"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "海岸",
+      "meaning": "海に面している陸地のところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "対岸",
+      "meaning": "川や湖などをはさんで、向こう側にあるきし。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

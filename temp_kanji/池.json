@@ -1,0 +1,49 @@
+{
+  "kanjiId": "池",
+  "character": "池",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "也",
+      "speechText": "也（や）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「水」という漢字と、「広がる」という意味を持つ「也」という漢字が合わさりました。水が広がる場所、水をためてある場所、つまり「いけ」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "池",
+      "meaning": "水がたまっていて、魚などが泳ぐ場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "電池",
+      "meaning": "電気を作り出す四角い箱。",
+      "imageUrl": ""
+    },
+    {
+      "word": "ため池",
+      "meaning": "水をためておくための大きな池。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

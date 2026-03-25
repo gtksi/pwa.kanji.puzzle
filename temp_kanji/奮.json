@@ -1,0 +1,63 @@
+{
+  "kanjiId": "奮",
+  "character": "奮",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ヨ",
+      "speechText": "よ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "た",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "隹",
+      "speechText": "ふるとり、いち、に、さん、し、ご、ろく、しち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "大",
+      "speechText": "だい",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "大きいことに関すること",
+    "originDescription": "鳥が勢いよく羽ばたいて飛び立つ様子を表しているよ。そこから、力をいっぱい出して頑張る、奮い立つ、という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "奮闘",
+      "meaning": "全力を出して戦うこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "奮発",
+      "meaning": "思い切って何かすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "奮起",
+      "meaning": "心を奮い起こして立ち上がること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

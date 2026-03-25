@@ -1,0 +1,49 @@
+{
+  "kanjiId": "貸",
+  "character": "貸",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "貝",
+      "speechText": "かい、かい、お金の貝",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "代",
+      "speechText": "だい、かわる代",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "貝（かい）",
+    "originDescription": "「貝（かい）」はお金、「代（だい）」は交換を表します。お金などを人に渡して、後で返してもらうことを表す漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "貸出",
+      "meaning": "物やお金を人に貸すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "賃貸",
+      "meaning": "お金を払って物を借りたり貸したりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "貸借",
+      "meaning": "貸すことと借りること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

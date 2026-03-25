@@ -1,0 +1,56 @@
+{
+  "kanjiId": "場",
+  "character": "場",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "つちへん、いち、に、さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ひ",
+      "speechText": "ひ、いち、に、さん、し",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "なつ",
+      "speechText": "よこ、たて、はねて、いち、に、さん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土や地面のこと",
+    "originDescription": "「土」は地面、「昜（ヨウ）」は日が昇る様子を表します。太陽の光が当たる地面、人々が集まる場所という意味から「ばしょ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "場所",
+      "meaning": "どこかがあるところ。例：公園の場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "市場",
+      "meaning": "ものを売ったり買ったりするところ。例：野菜の市場。",
+      "imageUrl": ""
+    },
+    {
+      "word": "広場",
+      "meaning": "広い場所。例：大きな広場。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

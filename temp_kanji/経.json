@@ -1,0 +1,44 @@
+{
+  "kanjiId": "経",
+  "character": "経",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "「いと」の「いとへん」だよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巠",
+      "speechText": "右は「たていと」の「けい」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "いと、布",
+    "originDescription": "「糸（いと）」と「巠（けい）」が合わさった漢字だよ。「糸」は織物の糸、特にたて糸を表しているんだ。「巠」もたて糸を意味する部分なんだ。織物のたて糸のように、物事の「筋道」や「大切な流れ」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "経験",
+      "meaning": "実際にやってみて、それから学ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "経済",
+      "meaning": "お金や物の流れを良くして、生活を豊かにすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

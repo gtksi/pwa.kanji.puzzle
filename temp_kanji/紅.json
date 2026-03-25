@@ -1,0 +1,54 @@
+{
+  "kanjiId": "紅",
+  "character": "紅",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "工",
+      "speechText": "右に工を合わせよう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布、色に関すること",
+    "originDescription": "糸を表す「糸」と、つくることを表す「工」を組み合わせました。糸をあざやかな赤色にきれいに染めることから、もみじのような赤い色を意味します。",
+    "synonyms": [
+      "赤",
+      "朱"
+    ],
+    "antonyms": [
+      "白"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "紅茶",
+      "meaning": "お湯に入れると赤くなるお茶",
+      "imageUrl": ""
+    },
+    {
+      "word": "紅葉",
+      "meaning": "秋に木の葉が赤く変わること",
+      "imageUrl": ""
+    },
+    {
+      "word": "口紅",
+      "meaning": "唇に塗る赤い化粧品",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

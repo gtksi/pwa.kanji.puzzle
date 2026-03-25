@@ -1,0 +1,51 @@
+{
+  "kanjiId": "兆",
+  "character": "兆",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "儿",
+      "speechText": "ひとあし、ひだりへ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "匕",
+      "speechText": "ひ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "兆",
+      "speechText": "ひとあしと、ひで、ちょう！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "儿",
+    "radicalName": "ひとあし",
+    "radicalMeaning": "人の足、歩くこと",
+    "originDescription": "亀の甲羅を焼いた時にできるひび割れの形からきています。昔の人々は、このひび割れで未来の「きざし」を占いました。これから起こることを示すという意味です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "前兆",
+      "meaning": "何か起こる前に見られるしるし。",
+      "imageUrl": ""
+    },
+    {
+      "word": "兆候",
+      "meaning": "物事が起こるきざしや、あらかじめ現れるしるし。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

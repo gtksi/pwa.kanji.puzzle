@@ -1,0 +1,49 @@
+{
+  "kanjiId": "答",
+  "character": "答",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "竹かんむり",
+      "speechText": "たけかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "合",
+      "speechText": "あわせる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹や竹製の道具に関する漢字",
+    "originDescription": "竹を材料にした札（ふだ）に、問いに対する「答え」を書いたことからできた漢字だよ。「言」と「合」から「問いに合う言葉」という意味になったとも言われるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "回答",
+      "meaning": "質問や問いに対して答えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "正答",
+      "meaning": "正しい答えのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "解答",
+      "meaning": "問題や質問に対して、答えを出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

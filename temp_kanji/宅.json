@@ -1,0 +1,49 @@
+{
+  "kanjiId": "宅",
+  "character": "宅",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "屋根の形、うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "たく",
+      "speechText": "音の「たく」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "家を表す「宀（うかんむり）」と、音を表す「乇」が合わさってできました。屋根の下で安心して過ごす場所、つまり家や住まいを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "住宅",
+      "meaning": "人が住むための家や建物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "帰宅",
+      "meaning": "自分の家に帰ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自宅",
+      "meaning": "自分の家。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

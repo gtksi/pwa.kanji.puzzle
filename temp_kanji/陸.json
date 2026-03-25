@@ -1,0 +1,49 @@
+{
+  "kanjiId": "陸",
+  "character": "陸",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "こざとへん、お山のしるし！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "坴",
+      "speechText": "りくのつくり、右につけて、陸地だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阝",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "盛り上がった土地",
+    "originDescription": "「阝（こざとへん）」は、土が盛り上がった丘や山のこと。右側は土が積み重なった様子を表すよ。だから、水のない広い土地や、おか、平らな場所を意味する漢字なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大陸",
+      "meaning": "大きな陸地のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "着陸",
+      "meaning": "飛行機などが地面に降りること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "上陸",
+      "meaning": "船で岸に着いて、陸に上がること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

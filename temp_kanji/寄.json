@@ -1,0 +1,56 @@
+{
+  "kanjiId": "寄",
+  "character": "寄",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "大",
+      "speechText": "だい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "可",
+      "speechText": "か",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "やね",
+    "originDescription": "「宀（うかんむり）」と「奇（めずらしい）」の形が組み合わさってできた漢字だよ。家（やね）の下に身を「寄せる」様子から、近づける、集める、一時的に泊まる、などの意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "寄付",
+      "meaning": "お金や品物を、困っている人や団体に贈ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "寄り道",
+      "meaning": "目的地に行く途中で、別の場所へ立ち寄ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "寄せる",
+      "meaning": "近づける、集めるという意味。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

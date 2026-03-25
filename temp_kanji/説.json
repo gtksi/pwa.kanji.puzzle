@@ -1,0 +1,44 @@
+{
+  "kanjiId": "説",
+  "character": "説",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "兌",
+      "speechText": "兌と書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉",
+    "originDescription": "言葉に関することを表す「ごんべん」と、人を喜ばせるという意味の部分を合わせた漢字だよ。言葉で物事を説明することを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "説明",
+      "meaning": "物事の内容をわかるように話すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小説",
+      "meaning": "物語を書いた本。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "麦",
+  "character": "麦",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "来に似た部分",
+      "speechText": "らい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夂",
+      "speechText": "ち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "麦",
+    "radicalName": "むぎ",
+    "radicalMeaning": "麦",
+    "originDescription": "麦の穂が垂れている様子と、根や茎の形を描いた漢字だよ。麦そのものの姿から生まれたんだ。パンやうどんの材料になる植物だね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "麦畑",
+      "meaning": "麦が植えられている畑。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小麦粉",
+      "meaning": "パンやうどんの材料になる、小麦をひいて作った粉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

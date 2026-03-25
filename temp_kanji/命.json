@@ -1,0 +1,55 @@
+{
+  "kanjiId": "命",
+  "character": "命",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亼",
+      "speechText": "ひとやねの下に一（いち）を引き、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口（くち）を書いて、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "卩",
+      "speechText": "ふしづくり（卩）で、いのち。",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口、話す、言いつける",
+    "originDescription": "ひざまずく人に、神様や王様が口で命令を伝える様子を表しています。そこから「神からさずかった大切な命」という意味も持つようになりました。",
+    "synonyms": [
+      "生"
+    ],
+    "antonyms": [
+      "死"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "生命",
+      "meaning": "生きている力。いのち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "命令",
+      "meaning": "上の人が下の人に、何かをするように言うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

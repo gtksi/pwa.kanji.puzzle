@@ -1,0 +1,50 @@
+{
+  "kanjiId": "客",
+  "character": "客",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "各",
+      "speechText": "下に各（かく）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家や屋根に関すること",
+    "originDescription": "家（宀）の中に、外から来た人（各）がいる様子を表しています。外から訪ねてくる「お客さん」を意味するようになりました。",
+    "synonyms": [
+      "賓",
+      "来客"
+    ],
+    "antonyms": [
+      "主",
+      "主人"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "お客さん",
+      "meaning": "家やお店をたずねてくる人",
+      "imageUrl": ""
+    },
+    {
+      "word": "乗客",
+      "meaning": "電車やバスに乗っている人",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "句",
+  "character": "句",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "勹",
+      "speechText": "まずは「つつむかまえ」を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "中に「くち」を入れるよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "くち、穴",
+    "originDescription": "「口（くち）」と「勹（つつむかまえ）」が合わさってできた漢字だよ。「口」は言葉を出す口のこと、「勹」はものを「つつみこむ」形を表しているんだ。言葉を一つにまとめて区切ることから、文の「区切り」や「短い文」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "俳句",
+      "meaning": "五・七・五の短い言葉で書く日本の詩。",
+      "imageUrl": ""
+    },
+    {
+      "word": "文句",
+      "meaning": "言葉のまとまり。不満を言うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

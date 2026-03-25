@@ -1,0 +1,56 @@
+{
+  "kanjiId": "典",
+  "character": "典",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "八",
+      "speechText": "はち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冊",
+      "speechText": "さつ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "典",
+      "speechText": "はちの下に、さつで、てん！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "八",
+    "radicalName": "はち",
+    "radicalMeaning": "分かれる、開く",
+    "originDescription": "昔の重要な書物（冊）を、両手（八）で大切に持ち上げている様子からできた字です。大切な規則や手本、儀式などを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "辞典",
+      "meaning": "言葉の意味や使い方をまとめた本。",
+      "imageUrl": ""
+    },
+    {
+      "word": "古典",
+      "meaning": "昔から大切に伝えられてきた文学や芸術作品。",
+      "imageUrl": ""
+    },
+    {
+      "word": "祭典",
+      "meaning": "お祭りや式典のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

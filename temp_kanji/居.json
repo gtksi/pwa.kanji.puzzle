@@ -1,0 +1,49 @@
+{
+  "kanjiId": "居",
+  "character": "居",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尸（しかばね）",
+      "speechText": "ノ、カクっとまがって、タテ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "古（ふるい）",
+      "speechText": "ヨコ、タテ、ヨコ、タテ、ヨコ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "尸",
+    "radicalName": "しかばね",
+    "radicalMeaning": "家、場所",
+    "originDescription": "左は「しかばね」という家を表す部分、右は「古い」という字だよ。人が家に落ち着いて長く住む様子から、「いる」や「住む」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "居住",
+      "meaning": "ある場所に住み続けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "居間",
+      "meaning": "家族が日中過ごす部屋のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "住居",
+      "meaning": "住んでいる場所や家のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

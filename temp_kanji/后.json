@@ -1,0 +1,47 @@
+{
+  "kanjiId": "后",
+  "character": "后",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノと一",
+      "speechText": "左からノ、横に一",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "その下に口を書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口や、言葉に関すること",
+    "originDescription": "もともとは言葉で命令する「王さま」を表していました。今では、天皇や王の奥さま（きさき）を指す特別な漢字として使われます。",
+    "synonyms": [
+      "妃",
+      "妃殿下"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "皇后",
+      "meaning": "天皇のきさき",
+      "imageUrl": ""
+    },
+    {
+      "word": "皇太后",
+      "meaning": "先代の天皇のきさき",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "域",
+  "character": "域",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "土（つち）へんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "或",
+      "speechText": "或（あるい）はを書けば地域の域",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土、土地",
+    "originDescription": "土地（土）を武器（戈）を持って守っている様子から、区切られた場所や範囲を意味します。",
+    "synonyms": [
+      "境",
+      "範"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "地域",
+      "meaning": "限られた範囲の場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "聖域",
+      "meaning": "神聖な場所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

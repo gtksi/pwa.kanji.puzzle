@@ -1,0 +1,50 @@
+{
+  "kanjiId": "礼",
+  "character": "礼",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しめすへん",
+      "speechText": "しめすへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "乙",
+      "speechText": "カタカナの「ル」の右側（乙）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "示",
+    "radicalName": "しめすへん",
+    "radicalMeaning": "神様やお祭りに関すること",
+    "originDescription": "神様にお祈りをする台（しめすへん）と、お供え物をあらわしています。神様や目上の人に「ありがとう」と敬意をあらわす意味です。",
+    "synonyms": [
+      "儀",
+      "謝"
+    ],
+    "antonyms": [
+      "非",
+      "侮"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "お礼",
+      "meaning": "感謝の気持ちを伝えること",
+      "imageUrl": ""
+    },
+    {
+      "word": "礼儀",
+      "meaning": "正しい態度やマナーのこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

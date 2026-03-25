@@ -1,0 +1,49 @@
+{
+  "kanjiId": "門",
+  "character": "門",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "門構え",
+      "speechText": "もんがまえだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中の線",
+      "speechText": "なかに、たて、よこ、よこ、よこ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "門",
+    "radicalName": "もんがまえ",
+    "radicalMeaning": "門、とびら",
+    "originDescription": "古い字を見ると、二つの開く扉が並んだ形からできたんだ。お家の入り口や建物の門を表しているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "門",
+      "meaning": "家や建物の入り口。",
+      "imageUrl": ""
+    },
+    {
+      "word": "校門",
+      "meaning": "学校の入り口の門。",
+      "imageUrl": ""
+    },
+    {
+      "word": "入門",
+      "meaning": "何かを学び始めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

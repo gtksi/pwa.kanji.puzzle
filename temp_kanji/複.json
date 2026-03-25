@@ -1,0 +1,62 @@
+{
+  "kanjiId": "複",
+  "character": "複",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ころもへん",
+      "speechText": "ころもへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "日",
+      "speechText": "日をかいて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "なつあし",
+      "speechText": "なつあしをかく",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころもへん",
+    "radicalMeaning": "衣服に関すること",
+    "originDescription": "裏地のついた重なった服を表しています。そこから「かさなる」や「二つ以上」という意味になりました。",
+    "synonyms": [
+      "重"
+    ],
+    "antonyms": [
+      "単"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "複雑",
+      "meaning": "物事がからみ合っていて、わかりにくいこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "複数",
+      "meaning": "数が二つ以上あること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

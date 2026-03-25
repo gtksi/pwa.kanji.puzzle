@@ -1,0 +1,44 @@
+{
+  "kanjiId": "沖",
+  "character": "沖",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なか",
+      "speechText": "なか",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "みず",
+    "radicalMeaning": "水",
+    "originDescription": "「さんずい（水）」と「中（まんなか）」を合わせた漢字です。水の中央、つまり岸から離れた広い海の真ん中を「おき」と呼びます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "沖",
+      "meaning": "陸から遠く離れた海の上。",
+      "imageUrl": ""
+    },
+    {
+      "word": "沖合",
+      "meaning": "陸から少し離れた海の場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

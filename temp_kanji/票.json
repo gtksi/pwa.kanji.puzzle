@@ -1,0 +1,44 @@
+{
+  "kanjiId": "票",
+  "character": "票",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "西（にし）",
+      "speechText": "まずは上の「西」を書くよ。",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "示（しめす）",
+      "speechText": "下の「示」を書くよ。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "示",
+    "radicalName": "しめす",
+    "radicalMeaning": "示す、神",
+    "originDescription": "「西」はもともと鳥の巣の形を表し、そこから風で飛んでいく様子を連想させます。「示」は、目印を示す形です。風でひらひらと飛んでいく紙切れから、「きっぷ」や「ひょう」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "投票",
+      "meaning": "選挙などで、だれに決めるか意見を紙に書いて出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "伝票",
+      "meaning": "お金のやりとりなどを記録する紙。帳簿。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

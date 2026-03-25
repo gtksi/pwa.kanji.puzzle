@@ -1,0 +1,49 @@
+{
+  "kanjiId": "風",
+  "character": "風",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "几",
+      "speechText": "かぜがまえ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "虫",
+      "speechText": "むし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "風",
+    "radicalName": "かぜ",
+    "radicalMeaning": "風",
+    "originDescription": "昔の大きな鳥（鳳凰）が羽ばたく様子を描いた漢字だよ。鳥の羽が起こす「かぜ」から、風そのものを意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "強風",
+      "meaning": "強く吹く風。",
+      "imageUrl": ""
+    },
+    {
+      "word": "台風",
+      "meaning": "強い風と雨をもたらす熱帯低気圧。",
+      "imageUrl": ""
+    },
+    {
+      "word": "風車",
+      "meaning": "風の力で回るおもちゃや発電機。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

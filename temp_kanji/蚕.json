@@ -1,0 +1,56 @@
+{
+  "kanjiId": "蚕",
+  "character": "蚕",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "天の上部",
+      "speechText": "うえのてん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まんなかのかこい",
+      "speechText": "まんなかのかこい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "虫",
+      "speechText": "むし",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "虫",
+    "radicalName": "むし",
+    "radicalMeaning": "昆虫に関すること",
+    "originDescription": "絹を作る、天から授けられた虫の形を表しているよ。『説文解字』には「天虫」と書かれているんだ。上部は頭と角、下部は虫の姿だね。虫（むし）の部品は昆虫に関係するよ。人間の生活に役立つ大切な虫を指すんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "養蚕",
+      "meaning": "蚕を飼って絹糸をとること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "蚕糸",
+      "meaning": "蚕が作る絹糸。",
+      "imageUrl": ""
+    },
+    {
+      "word": "蚕棚",
+      "meaning": "蚕を飼育するための棚。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

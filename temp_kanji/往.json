@@ -1,0 +1,49 @@
+{
+  "kanjiId": "往",
+  "character": "往",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぎょうにんべん",
+      "speechText": "ひだり ぎょうにんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "主",
+      "speechText": "みぎは ぬし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "道、歩く",
+    "originDescription": "「往」は、人が道を進んでいく様子を表した漢字だよ。ぎょうにんべんと「主」を組み合わせているけれど、「主」は音を表しているんだ。どんどん先へ「行く」「進む」という意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "往復",
+      "meaning": "行って帰ってくること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "往来",
+      "meaning": "人や車が行き来すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "以往",
+      "meaning": "それまで、過去のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

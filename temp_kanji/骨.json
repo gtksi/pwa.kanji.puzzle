@@ -1,0 +1,63 @@
+{
+  "kanjiId": "骨",
+  "character": "骨",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亠",
+      "speechText": "なべぶた、てん、よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冂",
+      "speechText": "かこむ、まがる",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "月",
+      "speechText": "つき、にくづきだよ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ハ",
+      "speechText": "はち、ささえる",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "骨",
+    "radicalName": "ほね",
+    "radicalMeaning": "骨や体の一部",
+    "originDescription": "「骨」の字は、肉から骨を分ける様子を描いた象形文字です。骨があることで体が支えられている様子を表しています。私たちの体の「ほね」という意味で使われています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "骨格",
+      "meaning": "生き物の体を支える骨の組立て",
+      "imageUrl": ""
+    },
+    {
+      "word": "骨折",
+      "meaning": "骨が折れたりひびが入ったりすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "頭骨",
+      "meaning": "頭の骨",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,57 @@
+{
+  "kanjiId": "無",
+  "character": "無",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "二",
+      "speechText": "二（に）の下に、たて棒を四本ならべる",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "長い横棒でたて棒をつなぐ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "れっか",
+      "speechText": "最後に、れっかの点四つ（てんてんてんてん）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "れっか",
+    "radicalMeaning": "火、燃えることに関する意味を表す",
+    "originDescription": "もともとは、はねを手に持って踊る人の姿を表していました。今は「ない」という意味で使われます。",
+    "synonyms": [
+      "不",
+      "非",
+      "未"
+    ],
+    "antonyms": [
+      "有"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "無料",
+      "meaning": "代金がいらないこと。ただ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "無理",
+      "meaning": "行うのがむずかしいこと。やりすぎること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

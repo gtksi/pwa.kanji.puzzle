@@ -1,0 +1,49 @@
+{
+  "kanjiId": "陛",
+  "character": "陛",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "こざとへん、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "皆",
+      "speechText": "みんなの皆で、きざはし！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "おか、きざはし",
+    "originDescription": "「陛」は、昔、高い建物、特にお城や宮殿の前にあった「階段」のことを表す漢字です。「阜（こざとへん）」は「丘」や「階段」の意味を持ち、右の「皆」が音を表しています。位の高い人が上り下りする階段を指していました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "陛下",
+      "meaning": "天皇や皇帝への敬称",
+      "imageUrl": ""
+    },
+    {
+      "word": "階段",
+      "meaning": "上り下りするための段々",
+      "imageUrl": ""
+    },
+    {
+      "word": "宮殿",
+      "meaning": "昔の天皇や貴族が住んだ大きな建物",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

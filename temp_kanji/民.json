@@ -1,0 +1,50 @@
+{
+  "kanjiId": "民",
+  "character": "民",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "コ",
+      "speechText": "カタカナのコを横に書く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "氏のような形",
+      "speechText": "中に氏（うじ）のような形を書いて、最後ははねる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氏",
+    "radicalName": "うじ",
+    "radicalMeaning": "家系や一族に関する意味を表す",
+    "originDescription": "たくさんの人々が一緒に暮らしている様子から、国に住む人々（たみ）という意味になりました。",
+    "synonyms": [
+      "衆",
+      "人"
+    ],
+    "antonyms": [
+      "官",
+      "公"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "国民",
+      "meaning": "その国に住んでいるすべての人々。",
+      "imageUrl": ""
+    },
+    {
+      "word": "民間",
+      "meaning": "役所ではなく、一般の人々のあいだ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

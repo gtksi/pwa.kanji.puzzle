@@ -1,0 +1,56 @@
+{
+  "kanjiId": "独",
+  "character": "独",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "けものへん",
+      "speechText": "けものへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "かたかなのム",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "虫",
+      "speechText": "むし",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "犭",
+    "radicalName": "けものへん",
+    "radicalMeaning": "犬や獣に関すること",
+    "originDescription": "「独」は「犭」（けものへん）と「蜀」からできています。「犭」は動物、特に犬やけものを表します。「蜀」は音を表します。本来は、一匹だけでいる犬や獣の様子を表し、「ひとりぼっち」や「ただ一つ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "独立",
+      "meaning": "他の助けなしに、自分ひとりで立つこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "独り言",
+      "meaning": "誰にも聞かせるつもりなく、自分だけで話すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "独特",
+      "meaning": "他にはない、そのものだけが持っている特徴。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

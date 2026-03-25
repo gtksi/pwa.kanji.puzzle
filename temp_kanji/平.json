@@ -1,0 +1,55 @@
+{
+  "kanjiId": "平",
+  "character": "平",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "一（いち）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ハ",
+      "speechText": "下にハ（は）を書き、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "十",
+      "speechText": "最後に十（じゅう）で、たいら。",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "干",
+    "radicalName": "ほし",
+    "radicalMeaning": "武器、盾、または平らなこと",
+    "originDescription": "水面に浮かぶ草が、横に平らに広がっている様子を表しています。そこから「平ら（たいら）」や「穏やか」という意味になりました。",
+    "synonyms": [
+      "均"
+    ],
+    "antonyms": [
+      "険"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "平日",
+      "meaning": "土曜日や日曜日ではない、ふつうの日。",
+      "imageUrl": ""
+    },
+    {
+      "word": "平気",
+      "meaning": "心が落ち着いていて、こわがったりあわてたりしないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

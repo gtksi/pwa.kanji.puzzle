@@ -1,0 +1,49 @@
+{
+  "kanjiId": "液",
+  "character": "液",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "ひだり さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夜",
+      "speechText": "みぎは よる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「液」は「水」と「夜」を組み合わせた漢字だよ。「水」は液体の意味で、「夜」は音を表しているんだ。とろっとした液体のイメージから、水の性質をもつもの全般を表すようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "液体",
+      "meaning": "形が決まっていない水のようなもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "溶液",
+      "meaning": "あるものが水などに溶けた液体。",
+      "imageUrl": ""
+    },
+    {
+      "word": "血液",
+      "meaning": "体の中を流れる赤い液体、血のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

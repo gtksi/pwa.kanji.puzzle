@@ -1,0 +1,50 @@
+{
+  "kanjiId": "暑",
+  "character": "暑",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひ",
+      "speechText": "日（ひ）の下に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "もの",
+      "speechText": "者（もの）を書いて、あつい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽・時間",
+    "originDescription": "「太陽」と、たくさんのものが集まることを表す「者」が組み合わさり、太陽の熱がこもって気温が高い様子を表します。",
+    "synonyms": [
+      "酷暑",
+      "猛暑"
+    ],
+    "antonyms": [
+      "寒",
+      "寒い"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "暑い",
+      "meaning": "夏の気温が高い時の感じ方のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "猛暑",
+      "meaning": "ものすごく、耐えられないくらい暑いこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

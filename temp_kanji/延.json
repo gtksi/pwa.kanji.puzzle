@@ -1,0 +1,49 @@
+{
+  "kanjiId": "延",
+  "character": "延",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "正",
+      "speechText": "ノ（の）に、止（とめる）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "廴",
+      "speechText": "えんにょうを書いて延長の延",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "廴",
+    "radicalName": "えんにょう",
+    "radicalMeaning": "長く歩く",
+    "originDescription": "足を引きのばして遠くまで歩く様子から、長さや時間をのばすことを意味するようになりました。",
+    "synonyms": [
+      "伸",
+      "長"
+    ],
+    "antonyms": [
+      "縮"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "延長",
+      "meaning": "長さや時間をのばすこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "延期",
+      "meaning": "期日を先にのばすこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

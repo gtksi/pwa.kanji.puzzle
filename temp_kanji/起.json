@@ -1,0 +1,50 @@
+{
+  "kanjiId": "起",
+  "character": "起",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "走",
+      "speechText": "そうにょう（走る）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "己",
+      "speechText": "右に『おのれ』をのせれば、『おきる』の完成！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "走",
+    "radicalName": "そうにょう",
+    "radicalMeaning": "走る、進む",
+    "originDescription": "「走」は走ること、「己」は膝を曲げている人が立ち上がろうとする様子です。じっとしていた状態から、動き出す、立ち上がるという意味になりました。",
+    "synonyms": [
+      "立つ",
+      "始まる"
+    ],
+    "antonyms": [
+      "寝る",
+      "伏せる"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "早起き",
+      "meaning": "朝、早い時間に目がさめること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "起立",
+      "meaning": "「立ってください」という合図で、立ち上がること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,63 @@
+{
+  "kanjiId": "包",
+  "character": "包",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "カクン",
+      "speechText": "カクン",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "巳",
+      "speechText": "巳（み）の包",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "勹",
+    "radicalName": "つつみがまえ",
+    "radicalMeaning": "包み込む",
+    "originDescription": "「勹（つつみがまえ）」と「巳（へび）」を組み合わせた字だよ。お母さんのおなかの中に赤ちゃんが「つつまれている」様子を表しているんだ。そこから、「つつむ」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "包み",
+      "meaning": "物を包んだもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "包囲",
+      "meaning": "まわりを囲むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "包装",
+      "meaning": "物を包んで、きれいにしたり守ったりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

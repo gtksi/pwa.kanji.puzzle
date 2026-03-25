@@ -1,0 +1,49 @@
+{
+  "kanjiId": "芽",
+  "character": "芽",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "上に、くさかんむり、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "牙",
+      "speechText": "下に、牙、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草、植物",
+    "originDescription": "「芽」は、植物の種から初めて出る若くて小さな茎や葉を表す漢字だよ。新しいものが始まる、という意味もあるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "発芽",
+      "meaning": "種から芽が出ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "新芽",
+      "meaning": "新しい芽。",
+      "imageUrl": ""
+    },
+    {
+      "word": "芽生える",
+      "meaning": "芽が出ること、新しいことが始まること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

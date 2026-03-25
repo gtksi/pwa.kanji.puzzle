@@ -1,0 +1,56 @@
+{
+  "kanjiId": "力",
+  "character": "力",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "折れ画",
+      "speechText": "まがったせん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "払い",
+      "speechText": "はらい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "力",
+      "speechText": "ちから",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "ちから",
+    "originDescription": "腕（うで）の筋肉が盛り上がって、力強く曲がっている様子を描いた漢字だと言われています。そこから、「力」そのものを表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "努力",
+      "meaning": "目的を達成するためにがんばること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "力持ち",
+      "meaning": "力持ちの人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "学力",
+      "meaning": "学ぶ力。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,70 @@
+{
+  "kanjiId": "承",
+  "character": "承",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "フ",
+      "speechText": "フ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "亅",
+      "speechText": "チョンカギ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "一",
+      "speechText": "横棒一本",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手",
+    "originDescription": "『説文解字』によると、「承」は人がひざまずいて何かを受け止めている様子からできた会意文字です。上から来るものを受け止め、引き継ぐという意味が生まれました。物を引き受ける、承諾するといった行動を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "承諾",
+      "meaning": "頼みを聞き入れること、引き受けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "継承",
+      "meaning": "前の人から後の人へと、何かを受け継ぐこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "了承",
+      "meaning": "事情をくみとって納得すること、認めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

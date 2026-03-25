@@ -1,0 +1,49 @@
+{
+  "kanjiId": "歩",
+  "character": "歩",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "止",
+      "speechText": "止める、シュッシュッ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "少",
+      "speechText": "少ない、トントン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "止",
+    "radicalName": "とめる",
+    "radicalMeaning": "止まる",
+    "originDescription": "人の足の形を表す漢字だよ。足跡を一つずつ踏みしめて進む様子を表しているんだ。止まるという意味の「止」と、小さいという意味の「少」が組み合わさってできたんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "散歩",
+      "meaning": "気分転換に、ぶらぶら歩くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "歩道",
+      "meaning": "人が安全に歩くための道。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一歩",
+      "meaning": "足を前に一回出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

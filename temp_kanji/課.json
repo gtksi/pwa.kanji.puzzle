@@ -1,0 +1,49 @@
+{
+  "kanjiId": "課",
+  "character": "課",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "左に、ごんべん、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "果",
+      "speechText": "右は、果、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉",
+    "originDescription": "「課」は、物事を細かく分けて、それぞれに仕事や課題を割り当てる様子を表す漢字だよ。授業の区分や税金など、決められた分を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "課題",
+      "meaning": "解決すべき問題。",
+      "imageUrl": ""
+    },
+    {
+      "word": "授業",
+      "meaning": "学校の勉強の時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "課税",
+      "meaning": "税金をかけること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

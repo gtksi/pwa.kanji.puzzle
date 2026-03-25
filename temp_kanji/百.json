@@ -1,0 +1,56 @@
+{
+  "kanjiId": "百",
+  "character": "百",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "白",
+      "speechText": "しろ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "百",
+      "speechText": "ひゃく",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "白",
+    "radicalName": "しろ",
+    "radicalMeaning": "白い",
+    "originDescription": "「一」と「白」の組み合わせです。かつては、たくさんのものをまとめることを表す「白」に「一」を加えて、数が多いことを示す漢字になりました。たくさんの白いもので数を表したのかもしれません。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "百姓",
+      "meaning": "昔の農家の人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "百科",
+      "meaning": "いろいろな種類の物事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "百円",
+      "meaning": "100円。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

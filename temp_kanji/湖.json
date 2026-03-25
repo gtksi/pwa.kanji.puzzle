@@ -1,0 +1,54 @@
+{
+  "kanjiId": "湖",
+  "character": "湖",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "古",
+      "speechText": "となりに古いを置いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "月",
+      "speechText": "右に月を書けばみずうみ（湖）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関係すること",
+    "originDescription": "「水」と、広々とした意味を持つ「古・月」が合わさりました。陸にかこまれた、広くて深い大きな水のたまり場を指します。",
+    "synonyms": [
+      "沼",
+      "池"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "湖",
+      "meaning": "陸にかこまれた広い水の場所。みずうみ",
+      "imageUrl": ""
+    },
+    {
+      "word": "琵琶湖",
+      "meaning": "日本で一番大きなみずうみの名前",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

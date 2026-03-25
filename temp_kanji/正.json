@@ -1,0 +1,70 @@
+{
+  "kanjiId": "正",
+  "character": "正",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "よこ",
+      "speechText": "上によこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "たて",
+      "speechText": "まんなかたてぼう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "よこ",
+      "speechText": "したによこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "とめる",
+      "speechText": "ぴたっととめる",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "よこ",
+      "speechText": "真ん中よこぼう",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "止",
+    "radicalName": "とめる",
+    "radicalMeaning": "止まる",
+    "originDescription": "一つの場所で足を止める様子を表す漢字だよ。目的地にまっすぐ進んで止まることから、「正しい」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "正直",
+      "meaning": "うそをつかないこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "正しい",
+      "meaning": "まちがっていないこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "正月",
+      "meaning": "1月1日を含む月の初め",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "腸",
+  "character": "腸",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづき",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "昜",
+      "speechText": "よう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "にくづき",
+    "radicalMeaning": "肉、体の一部",
+    "originDescription": "「にくづき」と「昜」を合わせた漢字です。「にくづき」は体の一部を示し、「昜」は中が空洞の器を表します。体の中にある、食べ物を消化する管状の臓器を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大腸",
+      "meaning": "消化器官の一つで、便を作る部分",
+      "imageUrl": ""
+    },
+    {
+      "word": "胃腸",
+      "meaning": "胃と腸の総称",
+      "imageUrl": ""
+    },
+    {
+      "word": "盲腸",
+      "meaning": "大腸の始まりにある袋状の部分",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

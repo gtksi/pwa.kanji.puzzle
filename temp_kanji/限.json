@@ -1,0 +1,56 @@
+{
+  "kanjiId": "限",
+  "character": "限",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "こざとへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "艮",
+      "speechText": "とどまる！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "限",
+      "speechText": "まとめて、限！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "おかや山に関すること",
+    "originDescription": "こざとへんと「とどまる」という漢字の組み合わせで、山や崖が行く手をさえぎって、それ以上進めない「境目」を表す漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "期限",
+      "meaning": "物事が終わる期日や、有効な期間のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "制限",
+      "meaning": "範囲や量などを、それ以上にならないように決めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "限界",
+      "meaning": "物事のこれ以上は無理という一番端のところ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

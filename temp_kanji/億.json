@@ -1,0 +1,56 @@
+{
+  "kanjiId": "億",
+  "character": "億",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "左に、にんべん、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "音",
+      "speechText": "右の、上は、音、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "心",
+      "speechText": "その下に、心、かくよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "「億」は、たくさんの人が集まっている様子から、数が非常に多いことを表す漢字だよ。一万のさらに一万倍の数なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "一億",
+      "meaning": "数の単位。",
+      "imageUrl": ""
+    },
+    {
+      "word": "億万長者",
+      "meaning": "とてもお金持ちの人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "数億",
+      "meaning": "何億という数。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+  "kanjiId": "問",
+  "character": "問",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "門",
+      "speechText": "門（もん）を大きく書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "その中に口（くち）で、とう。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "言葉、話すこと",
+    "originDescription": "家の「門」の前に立って、「口」を使って家の人にたずねる様子を表しています。わからないことを聞く「とう」という意味です。",
+    "synonyms": [
+      "訊"
+    ],
+    "antonyms": [
+      "答"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "問題",
+      "meaning": "テストなどで答えるべき問い。また、こまった出来事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "質問",
+      "meaning": "わからないことを聞くこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

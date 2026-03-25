@@ -1,0 +1,56 @@
+{
+  "kanjiId": "葬",
+  "character": "葬",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "草冠",
+      "speechText": "まず「くさかんむり」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "真ん中の部分",
+      "speechText": "その下に、カタカナの「ワ」と短い横棒",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "衣",
+      "speechText": "最後に「衣（ころも）」を書いて、「葬」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艹",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草、植物",
+    "originDescription": "「葬」という漢字は、人が亡くなったときに、土の中に埋めて大切にしまうことを表しているよ。上の「くさかんむり」は、草木が生い茂る場所や、花をお供えする様子を表しているんだ。真ん中の部分は、亡くなった人のことを意味していて、下にある「衣（ころも）」は、体を包む服のこと。亡くなった人を草や布で包んで、土に埋めて見送る様子からできた漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "葬式",
+      "meaning": "亡くなった人を見送るための儀式のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "埋葬",
+      "meaning": "亡くなった人の遺体を、土の中に埋めてしまうこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "火葬",
+      "meaning": "亡くなった人の遺体を、火で焼いて骨にすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

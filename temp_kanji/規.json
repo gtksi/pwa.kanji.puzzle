@@ -1,0 +1,49 @@
+{
+  "kanjiId": "規",
+  "character": "規",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夫",
+      "speechText": "おっと",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "見",
+      "speechText": "みる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "見",
+    "radicalName": "みる",
+    "radicalMeaning": "みる",
+    "originDescription": "古い字形は、丸い線を引くための道具である「コンパス」の形を表していたよ。そこから、物事を行うときの「きまり」や「ルール」、また「手本」という意味で使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "規則",
+      "meaning": "みんなで守るべき、きめられたルールのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "規模",
+      "meaning": "物事の大きさや、広さのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "定規",
+      "meaning": "線をまっすぐに引いたり、長さを測ったりする道具のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

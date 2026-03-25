@@ -1,0 +1,47 @@
+{
+  "kanjiId": "局",
+  "character": "局",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しかばね",
+      "speechText": "しかばねに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "句",
+      "speechText": "クを書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "尸",
+    "radicalName": "しかばね",
+    "radicalMeaning": "体の形や、建物",
+    "originDescription": "仕切りがある小さな部屋や、物事が分かれている場所を表しています。自分たちの役割を果たす場所という意味もあります。",
+    "synonyms": [
+      "署",
+      "部"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "郵便局",
+      "meaning": "手紙や荷物を届けてくれる場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "結局",
+      "meaning": "いろいろあった後、最後にはこうなったという結果のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

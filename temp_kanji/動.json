@@ -1,0 +1,48 @@
+{
+  "kanjiId": "動",
+  "character": "動",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おもい",
+      "speechText": "重（おも）いを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ちから",
+      "speechText": "右に力（ちから）で、うごく（動）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、働き",
+    "originDescription": "重い荷物を力いっぱい押して、場所をかえる様子を表しています。そこから「うごく」という意味になりました。",
+    "synonyms": [
+      "移"
+    ],
+    "antonyms": [
+      "静"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "運動",
+      "meaning": "体を動かすこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "動物",
+      "meaning": "人間や犬などの動く生き物",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

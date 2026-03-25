@@ -1,0 +1,49 @@
+{
+  "kanjiId": "値",
+  "character": "値",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "人のこと、にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "直",
+      "speechText": "なおすの「直」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亻",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "「亻（にんべん）」は人、「直」はまっすぐなことや値段を表します。人がまっすぐに出す商品の値段や、物事の価値を表す漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "値段",
+      "meaning": "品物の価格や料金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "価値",
+      "meaning": "そのものが持っている意味や大切さ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "数値",
+      "meaning": "数字で表された数量や値。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

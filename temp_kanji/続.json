@@ -1,0 +1,44 @@
+{
+  "kanjiId": "続",
+  "character": "続",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "うる",
+      "speechText": "タテ、ヨコ、タテ、ヨコ、ノ、テンテン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いと",
+    "radicalMeaning": "いと",
+    "originDescription": "「糸」と「売（うれる）」を合わせた漢字です。「売」には続くという意味があり、糸を連ねてつなぐことから、途切れない「つづく」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "続く",
+      "meaning": "途中でとぎれず、前と同じ状態や動作が繰り返し起こる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "継続",
+      "meaning": "あることをやめずに続けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

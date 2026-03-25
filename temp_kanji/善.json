@@ -1,0 +1,49 @@
+{
+  "kanjiId": "善",
+  "character": "善",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊",
+      "speechText": "上は『羊』！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "言",
+      "speechText": "下には『言』！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羊",
+    "radicalName": "ひつじ",
+    "radicalMeaning": "ひつじ",
+    "originDescription": "上の「羊」は、昔から美しくて良いものとされていた動物だよ。その下の「言」は言葉、「口」は言うこと。みんなで「良い」と認め合う言葉や行いを表す字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "善良",
+      "meaning": "心が正しくて良いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "改善",
+      "meaning": "悪い点を改めて良くすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "善悪",
+      "meaning": "良いことと悪いこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

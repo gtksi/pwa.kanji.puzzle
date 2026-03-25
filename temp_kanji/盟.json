@@ -1,0 +1,49 @@
+{
+  "kanjiId": "盟",
+  "character": "盟",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "皿",
+      "speechText": "「さら」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "明",
+      "speechText": "「したにあきらか」で、めい、めい、めい！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皿",
+    "radicalName": "さら",
+    "radicalMeaning": "皿",
+    "originDescription": "「盟」は、「明」と「皿」を組み合わせた漢字だよ。「明」は明るいという意味だね。「皿」は神様に誓いを立てる時に使う器を表しているんだ。神様に誓うことで、約束をはっきり「明るく」することで「ちかい」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "同盟",
+      "meaning": "目的のために協力し合うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "盟約",
+      "meaning": "固く誓った約束。",
+      "imageUrl": ""
+    },
+    {
+      "word": "連盟",
+      "meaning": "団体が集まってできた組織。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

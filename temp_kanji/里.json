@@ -1,0 +1,49 @@
+{
+  "kanjiId": "里",
+  "character": "里",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田",
+      "speechText": "た",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "土",
+      "speechText": "つち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "里",
+    "radicalName": "さと",
+    "radicalMeaning": "村",
+    "originDescription": "この漢字は、昔の字を見ると、田んぼと土が組み合わさった形をしているんだ。人が集まって住む田舎の村や、距離を表す単位を意味するようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "里",
+      "meaning": "田舎の村。人が住む集落。",
+      "imageUrl": ""
+    },
+    {
+      "word": "里山",
+      "meaning": "人が暮らす場所の近くにある山。",
+      "imageUrl": ""
+    },
+    {
+      "word": "里親",
+      "meaning": "子どもを育てる親の役をする人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

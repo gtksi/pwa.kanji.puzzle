@@ -1,0 +1,49 @@
+{
+  "kanjiId": "政",
+  "character": "政",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "正",
+      "speechText": "まず「正（ただしい）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "攵（ぼくづくり）",
+      "speechText": "次に「攵（ぼくづくり）」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攵",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "動作、はたらきかけること",
+    "originDescription": "「正」と「攵（ぼくづくり）」からできています。「正」はまっすぐにする、「攵」は打つ、はたらきかけることを表します。まっすぐにして物事を治めること、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "政治",
+      "meaning": "国や社会を治めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "政府",
+      "meaning": "国を動かすしくみ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "行政",
+      "meaning": "国や地方公共団体が社会のために行う仕事。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

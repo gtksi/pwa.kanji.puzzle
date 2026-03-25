@@ -1,0 +1,70 @@
+{
+  "kanjiId": "止",
+  "character": "止",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上のタテ",
+      "speechText": "タテ、とめて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "上の横",
+      "speechText": "横棒、ピー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "真ん中の横",
+      "speechText": "横棒、ピー",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "下の横",
+      "speechText": "横棒、ピー",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ノ",
+      "speechText": "ノ、ひゅっ",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "止",
+    "radicalName": "とめる",
+    "radicalMeaning": "止まること",
+    "originDescription": "足の裏や足の指の形から生まれた漢字だよ。足が地面について、そこで動きが「止まる」様子を表しているんだ。だから、「止まる」ことや「とめる」という意味で使うんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "停止",
+      "meaning": "動きが止まること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "中止",
+      "meaning": "途中でやめること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "止める",
+      "meaning": "動きをやめさせること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

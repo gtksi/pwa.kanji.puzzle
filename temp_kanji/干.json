@@ -1,0 +1,41 @@
+{
+  "kanjiId": "干",
+  "character": "干",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "干",
+      "speechText": "一（いち）を書いて、下に十（じゅう）を書こう",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "干",
+    "radicalName": "ほす",
+    "radicalMeaning": "武器や、乾かすことに関すること",
+    "originDescription": "先が二つに分かれた武器の形や、食べ物を乾かす台の形を表しています。水気がなくなるまで「ほす」という意味です。",
+    "synonyms": [
+      "乾"
+    ],
+    "antonyms": [
+      "湿"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "干物",
+      "meaning": "魚などを干して乾燥させた食べ物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "干潮",
+      "meaning": "海の潮が引いて、水位が低くなること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

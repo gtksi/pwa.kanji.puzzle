@@ -1,0 +1,49 @@
+{
+  "kanjiId": "給",
+  "character": "給",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "合",
+      "speechText": "あう、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸",
+    "originDescription": "「糸（いとへん）」は、糸を整えることや、物のやりとりを表します。「合」は合わせる、そろえるという意味です。必要なものを合わせて、きちんと与える、という意味から、物を与える、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "給食",
+      "meaning": "学校などで出される食事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "給水",
+      "meaning": "水を供給すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "月給",
+      "meaning": "毎月もらえるお金。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "特",
+  "character": "特",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "牛",
+      "speechText": "うしへん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寺",
+      "speechText": "てら",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "特",
+      "speechText": "うしへんに、てらで、とく！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "牛",
+    "radicalName": "うしへん",
+    "radicalMeaning": "牛に関すること",
+    "originDescription": "神に供えるために「特別」に選ばれた、角がまっすぐな牛を表す字です。そこから「特別」なことや「特に」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "特別",
+      "meaning": "他とはちがって、ふつうではないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "特急",
+      "meaning": "特に速い電車や列車。",
+      "imageUrl": ""
+    },
+    {
+      "word": "特徴",
+      "meaning": "他と区別できる、そのものだけが持っている目立つ点。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

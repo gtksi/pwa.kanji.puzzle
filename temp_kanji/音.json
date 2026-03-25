@@ -1,0 +1,63 @@
+{
+  "kanjiId": "音",
+  "character": "音",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひーがーひとつ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丶",
+      "speechText": "てんてんてん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "いちー",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "立",
+      "speechText": "たつー",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "立",
+    "radicalName": "たつ",
+    "radicalMeaning": "立つこと、そびえ立つこと",
+    "originDescription": "「立」は人が立ち上がる様子を表し、「日」は口を開けて声を発する様子を表しています。人が立ち上がって声を発する様子から「音」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "音楽",
+      "meaning": "たのしいおとをならすこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "音声",
+      "meaning": "こえやことばのおと",
+      "imageUrl": ""
+    },
+    {
+      "word": "発音",
+      "meaning": "ことばなどを、はっきりとだすこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

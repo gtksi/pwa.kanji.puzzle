@@ -1,0 +1,49 @@
+{
+  "kanjiId": "責",
+  "character": "責",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "貝",
+      "speechText": "まず「貝（かい）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "朿",
+      "speechText": "次に「朿（シ）」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "財産、価値",
+    "originDescription": "「貝（かい）」と「朿（シ、とげ）」が合わさっています。「貝」は昔のお金、「朿」はとげを意味します。お金を取り立てるときに厳しく迫る様子から、責任を追及する、とがめる、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "責任",
+      "meaning": "自分が果たすべき務め。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自責",
+      "meaning": "自分の失敗を自分でとがめること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "担当",
+      "meaning": "仕事を受け持つこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "洋",
+  "character": "洋",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "羊",
+      "speechText": "ひつじを書く、広い海",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水や液体に関すること",
+    "originDescription": "水（さんずい）と、たくさん群れる「羊」を合わせました。ひつじの群れのように、果てしなく広がる大きな海（大海原）を表します。",
+    "synonyms": [
+      "海",
+      "灘"
+    ],
+    "antonyms": [
+      "和"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "太平洋",
+      "meaning": "日本とアメリカの間にあるとても大きな海",
+      "imageUrl": ""
+    },
+    {
+      "word": "洋服",
+      "meaning": "西洋風の服（シャツやズボンなど）",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

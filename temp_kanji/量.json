@@ -1,0 +1,49 @@
+{
+  "kanjiId": "量",
+  "character": "量",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひの形、上のますだよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "里",
+      "speechText": "里の字を、下につけたら、量るだよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "里",
+    "radicalName": "さと",
+    "radicalMeaning": "さと",
+    "originDescription": "上の部分は、昔お米の量をはかる「ます」という道具。下の「里（さと）」は土地の広さ。そこから、物をはかりで測ることや、量ること、広さを測ることを意味する漢字なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "量る",
+      "meaning": "ものの重さや量を調べること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "分量",
+      "meaning": "物のまとまった量。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水量",
+      "meaning": "水の量。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "痛",
+  "character": "痛",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "疒",
+      "speechText": "やまいだれ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "甬",
+      "speechText": "よう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "疒",
+    "radicalName": "やまいだれ",
+    "radicalMeaning": "病気",
+    "originDescription": "「やまいだれ」と「甬」を合わせた漢字です。「やまいだれ」は病気や体の不調を示し、「甬」は道が通る様子を表します。体の中を通る、つらい感覚、痛みを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "頭痛",
+      "meaning": "頭が痛いこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "痛み",
+      "meaning": "体の不快な感覚",
+      "imageUrl": ""
+    },
+    {
+      "word": "苦痛",
+      "meaning": "精神的または肉体的なつらさ",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

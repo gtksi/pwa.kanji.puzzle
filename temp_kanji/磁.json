@@ -1,0 +1,49 @@
+{
+  "kanjiId": "磁",
+  "character": "磁",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いしへん",
+      "speechText": "「いしへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "兹",
+      "speechText": "「兹」で「じしゃく」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "石",
+    "radicalName": "いしへん",
+    "radicalMeaning": "石",
+    "originDescription": "「石」（石）と「兹」（草木がしげる、引き寄せる）が合わさってできました。鉄を引き寄せる不思議な力を持つ特別な石、「磁石」を表す漢字です。見えない力が働く様子を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "磁石",
+      "meaning": "鉄を引き寄せる石。",
+      "imageUrl": ""
+    },
+    {
+      "word": "磁力",
+      "meaning": "磁石が物を引きつける力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "磁器",
+      "meaning": "陶器の一種で、磁土で作られた器。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

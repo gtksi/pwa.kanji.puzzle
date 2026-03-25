@@ -1,0 +1,49 @@
+{
+  "kanjiId": "注",
+  "character": "注",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "主",
+      "speechText": "主（ぬし）を書いたら、そそぐ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水、流れる",
+    "originDescription": "水と、ろうそくの火（主）を合わせた漢字です。水を一点にじっと注ぎ入れる様子から、心を一つのことに向ける「注意」の意味もできました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "注ぐ",
+      "meaning": "水などを入れる、流れ込む",
+      "imageUrl": ""
+    },
+    {
+      "word": "注意",
+      "meaning": "気をつけること",
+      "imageUrl": ""
+    },
+    {
+      "word": "注文",
+      "meaning": "お店などでほしいものをたのむこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

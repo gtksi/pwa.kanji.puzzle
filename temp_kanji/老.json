@@ -1,0 +1,77 @@
+{
+  "kanjiId": "老",
+  "character": "老",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノをひとつ、ぴょん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノをふたつ、ぴょん！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ヒ",
+      "speechText": "ヒを書いて、ひー！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "タテ",
+      "speechText": "タテ棒、すーっ！",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ヨコ",
+      "speechText": "ヨコ棒、ぴっ！",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "ヨコ",
+      "speechText": "もう一本ヨコ棒、ぴっ！",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "老",
+    "radicalName": "おいがしら",
+    "radicalMeaning": "老いる、年老いた人",
+    "originDescription": "「老」は、年をとった人の様子を表す漢字だよ。昔の形を見ると、腰をかがめた人が杖をついている姿と、髪の毛が白くなった様子が合わさってできたんだって。この漢字一つで、「としをとる」という意味を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "老人",
+      "meaning": "年をとった人のことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "年老いる",
+      "meaning": "年をとって、体が弱っていくことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "老後",
+      "meaning": "年をとってからの人生のことだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

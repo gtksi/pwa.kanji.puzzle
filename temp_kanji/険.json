@@ -1,0 +1,56 @@
+{
+  "kanjiId": "険",
+  "character": "険",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "こざとへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "僉",
+      "speechText": "たくさんの人！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "険",
+      "speechText": "まとめて、険！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "おかや山に関すること",
+    "originDescription": "こざとへんと「たくさんの人」の絵からできていて、みんなが崖のような危険な場所にいる様子を表す漢字だよ。だから「けわしい」「あぶない」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "危険",
+      "meaning": "あぶないこと。けがをしたり、悪いことがおこったりする可能性のあること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "険しい",
+      "meaning": "山道などがとても急で、登りにくい様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "保険",
+      "meaning": "もしもの時に、お金を出し合って助け合う仕組み。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

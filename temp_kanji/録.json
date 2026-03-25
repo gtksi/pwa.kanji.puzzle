@@ -1,0 +1,77 @@
+{
+  "kanjiId": "録",
+  "character": "録",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "金へん",
+      "speechText": "左は金へん、きん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ソリ",
+      "speechText": "ノをすーっ！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ヨコ",
+      "speechText": "ヨコ棒、ぴっ！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "タテ",
+      "speechText": "タテ棒、すーっ！",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ノハライ",
+      "speechText": "ノ、ハライ！",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "ノハライ",
+      "speechText": "またノ、ハライ！",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属",
+    "originDescription": "「録」は、「金」（きんぞく）と「彔」（ろく）という部分が合わさってできた漢字だよ。昔は、大切なことを「金属」に彫ったり、筆を使って紙に「書き残したり」したから、「記録する」「書きとめる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "記録",
+      "meaning": "出来事や考えを書き残しておくことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "録音",
+      "meaning": "人の声や音楽の音を、機械を使って保存することだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "登録",
+      "meaning": "正式に名前や情報を書きとめて、記録することだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

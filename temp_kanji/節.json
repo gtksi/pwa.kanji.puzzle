@@ -1,0 +1,49 @@
+{
+  "kanjiId": "節",
+  "character": "節",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "竹かんむり",
+      "speechText": "たけ、たけかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "即",
+      "speechText": "ソク、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹",
+    "originDescription": "『説文解字』では「竹のふしなり」とあり、「竹」と「即（ふしが連続してつながる様子）」から、竹のつなぎ目や区切りを意味します。物事の区切りや季節の節目といった意味に広がりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "季節",
+      "meaning": "春夏秋冬のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "節約",
+      "meaning": "むだづかいをしないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "節目",
+      "meaning": "物事の大事な区切り。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

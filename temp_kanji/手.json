@@ -1,0 +1,56 @@
+{
+  "kanjiId": "手",
+  "character": "手",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ななめの一",
+      "speechText": "ななめの イチに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二（よこよこ）",
+      "speechText": "ニ、サン",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "カギ",
+      "speechText": "カギをはねて、手！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "て",
+    "radicalMeaning": "からだの一部である「手」の動作や状態を表します。",
+    "originDescription": "手のひらと、広げた五本の指を横から見た形から生まれた漢字です。手首から指先までの形をそのまま絵にしたものですよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "右手",
+      "meaning": "右側の手のこと。箸（はし）を持つ方の手とされることが多いです。",
+      "imageUrl": ""
+    },
+    {
+      "word": "上手",
+      "meaning": "何かが得意で、とてもうまくできること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手紙",
+      "meaning": "自分の伝えたいことを紙に書いて、誰かに送るもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

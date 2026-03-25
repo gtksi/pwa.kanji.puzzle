@@ -1,0 +1,56 @@
+{
+  "kanjiId": "肺",
+  "character": "肺",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづき、体の一部",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "市",
+      "speechText": "いち、広がる形",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "にくづきに いち、はい、肺！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "体の一部や肉に関することを示す。",
+    "originDescription": "「月（にくづき）」は体の部分、「市」は肺の広がる形。呼吸をする大切な臓器、「肺」を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "肺活量",
+      "meaning": "肺が出し入れできる空気の量。",
+      "imageUrl": ""
+    },
+    {
+      "word": "肺炎",
+      "meaning": "肺に炎症が起きる病気。",
+      "imageUrl": ""
+    },
+    {
+      "word": "心肺停止",
+      "meaning": "心臓と肺の機能が停止すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

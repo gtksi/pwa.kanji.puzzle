@@ -1,0 +1,63 @@
+{
+  "kanjiId": "高",
+  "character": "高",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "なべぶた",
+      "speechText": "一番上は、なべぶた！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一つ目の口",
+      "speechText": "その下は、ちいさい口！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "長いタテ棒",
+      "speechText": "真ん中には、長いタテ棒！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "大きな口",
+      "speechText": "下にあるのは、大きな口！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "高",
+    "radicalName": "たかい",
+    "radicalMeaning": "たかいこと",
+    "originDescription": "高い建物や展望台の形をかたどった象形文字だよ。屋根や窓、土台が描かれていて、高さを表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "高い",
+      "meaning": "上の方にあること。値段が高いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "高校",
+      "meaning": "中学校の次に行く学校。",
+      "imageUrl": ""
+    },
+    {
+      "word": "高山",
+      "meaning": "とても高い山。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

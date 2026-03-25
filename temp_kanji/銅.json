@@ -1,0 +1,49 @@
+{
+  "kanjiId": "銅",
+  "character": "銅",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かねへん",
+      "speechText": "かねへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "同",
+      "speechText": "おなじ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属に関すること",
+    "originDescription": "「銅」は「金」と「同」からできています。「金」は金属を表し、「同」は音を表す部分です。昔から使われていた赤っぽい色の金属の名前を表す漢字になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "銅メダル",
+      "meaning": "３位になった人にわたされる、銅でできたメダル。",
+      "imageUrl": ""
+    },
+    {
+      "word": "青銅",
+      "meaning": "銅と錫（すず）を混ぜて作った、昔からある金属。",
+      "imageUrl": ""
+    },
+    {
+      "word": "銅色",
+      "meaning": "銅のような赤みがかった茶色。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

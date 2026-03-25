@@ -1,0 +1,56 @@
+{
+  "kanjiId": "寸",
+  "character": "寸",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "「よこぼう」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亅",
+      "speechText": "「たてぼう」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "丶",
+      "speechText": "「てん」と唱えよう！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "長さやわずかなこと",
+    "originDescription": "人の手の親指の付け根から少し上の部分を表す形からできた漢字だよ。短い長さやほんのわずかな時間、気持ちを表すときに使うんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "寸法",
+      "meaning": "物の長さや大きさを測ったもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一寸",
+      "meaning": "ほんの少しの時間や距離、またはわずかな気持ち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "寸志",
+      "meaning": "ほんの少しばかりの気持ちを表す贈り物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

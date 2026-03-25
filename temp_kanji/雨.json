@@ -1,0 +1,77 @@
+{
+  "kanjiId": "雨",
+  "character": "雨",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一（いち）",
+      "speechText": "てん　いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丶（ちょてん）",
+      "speechText": "てん　ちょてん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一（いち）",
+      "speechText": "てん　いち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "丶（ちょてん）",
+      "speechText": "てん　ちょてん",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "一（いち）",
+      "speechText": "てん　いち",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "丶（ちょてん）",
+      "speechText": "てん　ちょてん",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "雨",
+    "radicalName": "あめ",
+    "radicalMeaning": "空から降ってくる水",
+    "originDescription": "空から雨つぶが落ちてくる様子を、点（てん）や線（せん）で表した絵からできています。空から水が降っている様子がわかります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "雨雲（あまぐも）",
+      "meaning": "雨を降らせる雲",
+      "imageUrl": ""
+    },
+    {
+      "word": "降雨（こうう）",
+      "meaning": "雨が降ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "梅雨（つゆ）",
+      "meaning": "春から夏にかけて降る雨",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

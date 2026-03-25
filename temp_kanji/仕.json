@@ -1,0 +1,46 @@
+{
+  "kanjiId": "仕",
+  "character": "仕",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "士",
+      "speechText": "さむらい（士）を書けば、つかえる仕事",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人の活動や状態",
+    "originDescription": "「人」と、立派な人を表す「士」が合わさって、だれかのために働くことを表します。",
+    "synonyms": [
+      "勤める"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "仕事",
+      "meaning": "お金をもらったり人の役に立ったりするために働くこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "仕上げる",
+      "meaning": "物事を最後までやって完成させること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "巻",
+  "character": "巻",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上部",
+      "speechText": "ソを書いて、二と人を書こう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "卩",
+      "speechText": "下にふしづくり（卩）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "己",
+    "radicalName": "おのれ",
+    "radicalMeaning": "丸める、膝を折る動作に関すること",
+    "originDescription": "両手で上からおさえ、人が丸まっている姿を表します。くるくると「まく」ことや、昔の書物（巻物）を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "全巻",
+      "meaning": "そのシリーズの本がすべてそろっていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "上巻",
+      "meaning": "２冊以上に分かれている本の、最初の１冊。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

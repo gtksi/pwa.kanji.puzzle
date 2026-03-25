@@ -1,0 +1,46 @@
+{
+  "kanjiId": "相",
+  "character": "相",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "目",
+      "speechText": "お目めの目",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "め",
+    "radicalMeaning": "目、見る",
+    "originDescription": "木をじっと「目」で見る様子から、人と人が向き合うことや、助け合うことを表すようになりました。",
+    "synonyms": [
+      "互い"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "相手",
+      "meaning": "自分と一緒に何かをする人、または対戦する人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "相談",
+      "meaning": "困ったことなどを相手に話して、解決法を考えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

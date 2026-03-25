@@ -1,0 +1,57 @@
+{
+  "kanjiId": "誤",
+  "character": "誤",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "右に口を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "天のような形",
+      "speechText": "その下に天のような形を書こう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉に関すること",
+    "originDescription": "言葉を表す「言」と、騒がしいという意味の「呉」が組み合わさりました。言葉が乱れて、正しく伝わらないことから「間違い」という意味になりました。",
+    "synonyms": [
+      "過",
+      "謬"
+    ],
+    "antonyms": [
+      "正",
+      "直"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "誤解",
+      "meaning": "意味を取り違えること",
+      "imageUrl": ""
+    },
+    {
+      "word": "誤字",
+      "meaning": "間違って書いた文字",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

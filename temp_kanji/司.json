@@ -1,0 +1,56 @@
+{
+  "kanjiId": "司",
+  "character": "司",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "横棒、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口の字、真ん中だよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "乚",
+      "speechText": "曲がる、おつ、下だよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口や命令に関する意味を表す",
+    "originDescription": "「司」は、もともと「命令」を下す人や、物事を「つかさどる」役目を表した漢字だよ。そこから、「役目を果たす」や「管理する」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "司会",
+      "meaning": "会議などで進行役を務めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "担当",
+      "meaning": "仕事や役目を引き受けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "司令",
+      "meaning": "命令を下すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

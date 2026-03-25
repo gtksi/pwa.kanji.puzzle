@@ -1,0 +1,56 @@
+{
+  "kanjiId": "首",
+  "character": "首",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "自",
+      "speechText": "みずからに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "てん",
+      "speechText": "てんに",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "目",
+      "speechText": "め",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "首",
+    "radicalName": "くび",
+    "radicalMeaning": "首",
+    "originDescription": "「首」は、人の顔から首の部分の形をそのまま漢字にしたものだよ。頭と体をつなぐ、とても大事な部分を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "首",
+      "meaning": "頭と体をつなぐ部分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "首都",
+      "meaning": "国や地域の中で、政治や文化の中心となるまち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "首長",
+      "meaning": "グループや組織のリーダー。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

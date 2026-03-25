@@ -1,0 +1,49 @@
+{
+  "kanjiId": "師",
+  "character": "師",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "帀（つかん）",
+      "speechText": "つかん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巾",
+      "speechText": "はば、はい「師」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば",
+    "radicalMeaning": "布、きれ",
+    "originDescription": "「師」は、もともと「多くの人が集まった軍隊」を表した字だよ。たくさんの人をまとめ、教え導く人という意味から、「先生」や「師匠」を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "教師",
+      "meaning": "学校で勉強を教える人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "医師",
+      "meaning": "病気やけがを治すお医者さん。",
+      "imageUrl": ""
+    },
+    {
+      "word": "恩師",
+      "meaning": "お世話になった先生。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

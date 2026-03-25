@@ -1,0 +1,49 @@
+{
+  "kanjiId": "幕",
+  "character": "幕",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "巾",
+      "speechText": "「はば」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "莫",
+      "speechText": "「右にぼ」で、まく、まく、まく！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば",
+    "radicalMeaning": "布、織物",
+    "originDescription": "「幕」は、「巾（きん）」と「莫（ぼ）」を組み合わせた漢字だよ。「巾」は布（ぬの）を表しているね。「莫」は、草が茂って暗くなる様子から、全体を覆い隠すという意味があるんだ。布で全体を覆い隠すものが「まく」なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "幕府",
+      "meaning": "昔の武士の政府。",
+      "imageUrl": ""
+    },
+    {
+      "word": "開幕",
+      "meaning": "演劇などが始まること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "序幕",
+      "meaning": "物語の始まりの部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

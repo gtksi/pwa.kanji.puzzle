@@ -1,0 +1,49 @@
+{
+  "kanjiId": "数",
+  "character": "数",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "米",
+      "speechText": "こめ、いち、に、さん、し、ご、ろく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "攵",
+      "speechText": "ぼくづくり、いち、に、さん、し",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攴",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "打ちたたくこと、道具",
+    "originDescription": "「米（こめ）」を細かく分けたり数えたりする様子と、棒でたたく（攵）ことを組み合わせた漢字です。そこから「かず」や「かぞえる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "数",
+      "meaning": "物の量。例：いくつあるかの数。",
+      "imageUrl": ""
+    },
+    {
+      "word": "数える",
+      "meaning": "物の数を一つずつ確かめること。例：数を数える。",
+      "imageUrl": ""
+    },
+    {
+      "word": "数字",
+      "meaning": "数を表すしるし。例：数字を書く。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

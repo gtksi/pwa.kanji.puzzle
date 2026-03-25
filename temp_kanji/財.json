@@ -1,0 +1,49 @@
+{
+  "kanjiId": "財",
+  "character": "財",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かいへん",
+      "speechText": "たて、よこ、まがる、よこ、たて、よこ、たて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "さい",
+      "speechText": "よこ、たて、はね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かいへん",
+    "radicalMeaning": "財貨、宝、お金",
+    "originDescription": "「貝（かいへん）」は、昔のお金や宝物を表すよ。「才」は「ざい」の音を表すんだ。お金や宝物など、大切なものすべてを「財産」というように、「たからもの」や「おかね」の意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "財産",
+      "meaning": "お金や土地、建物など、人が持っている大切なものすべて。",
+      "imageUrl": ""
+    },
+    {
+      "word": "財布",
+      "meaning": "お金を入れるもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "財宝",
+      "meaning": "貴重な宝物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

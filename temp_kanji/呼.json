@@ -1,0 +1,49 @@
+{
+  "kanjiId": "呼",
+  "character": "呼",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くちへん",
+      "speechText": "口（くち）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "乎",
+      "speechText": "ノを書いて二、ノとハを書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くちへん",
+    "radicalMeaning": "口、呼吸、食べる、話す",
+    "originDescription": "「口」と、息を吐き出す様子を表す「乎」が組み合わさっています。口から息を吐いたり、声をあげて人をよんだりすることを表します。",
+    "synonyms": [
+      "喚",
+      "招"
+    ],
+    "antonyms": [
+      "吸"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "呼吸",
+      "meaning": "息をはいたり吸ったりすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "点呼",
+      "meaning": "一人ずつ名前をよんで人数をたしかめること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

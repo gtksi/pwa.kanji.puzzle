@@ -1,0 +1,61 @@
+{
+  "kanjiId": "女",
+  "character": "女",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "く",
+      "speechText": "「く」をかいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ななめに「ノ」",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "よこに「いち」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんな",
+    "radicalMeaning": "女性、しなやかな様子",
+    "originDescription": "むかしの人が、ひざをついて手をていねいに前で重ね、しずかに座っている女性の姿をかたどって作られました。やさしさや、しなやかさを表す漢字です。",
+    "synonyms": [
+      "女子",
+      "婦人"
+    ],
+    "antonyms": [
+      "男"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "女の子",
+      "meaning": "子どもの女性。ガール。",
+      "imageUrl": ""
+    },
+    {
+      "word": "王女",
+      "meaning": "王様のむすめ。プリンセス。",
+      "imageUrl": ""
+    },
+    {
+      "word": "女子",
+      "meaning": "おんなの人。女の子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

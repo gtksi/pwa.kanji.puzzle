@@ -1,0 +1,49 @@
+{
+  "kanjiId": "板",
+  "character": "板",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "反",
+      "speechText": "はん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木や木製品に関すること",
+    "originDescription": "「木」と「反」が組み合わさってできた漢字だよ。「反」は平らなものや裏返すことを表し、木を平らにして作られた「板」の意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "板",
+      "meaning": "平らな木の材。",
+      "imageUrl": ""
+    },
+    {
+      "word": "看板",
+      "meaning": "お店の名前などを書いた板。",
+      "imageUrl": ""
+    },
+    {
+      "word": "黒板",
+      "meaning": "教室で先生が字を書くための大きな板。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

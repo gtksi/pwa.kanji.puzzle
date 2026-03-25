@@ -1,0 +1,47 @@
+{
+  "kanjiId": "習",
+  "character": "習",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羽",
+      "speechText": "羽（はね）の下に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "白",
+      "speechText": "白を書いたら、ならう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羽",
+    "radicalName": "はね",
+    "radicalMeaning": "鳥の羽",
+    "originDescription": "鳥のひなが何度も羽をパタパタさせて、飛ぶ練習をする様子を表しています。何度も繰り返して身につけることを意味します。",
+    "synonyms": [
+      "学ぶ",
+      "練習"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "習う",
+      "meaning": "教えてもらって、できるようになること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "学習",
+      "meaning": "勉強して知識や技術を身につけること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

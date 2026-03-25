@@ -1,0 +1,56 @@
+{
+  "kanjiId": "曜",
+  "character": "曜",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "おひさまの、ひへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "羽",
+      "speechText": "はねの、かたち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "隹",
+      "speechText": "ふるとり、ぴょんぴょん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽",
+    "originDescription": "この漢字は「かがやく」という意味から来ているんだ。太陽を表す「日」と、鳥が羽ばたくように光がひろがる様子を表す部分が合わさって、曜日を表すようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "曜日",
+      "meaning": "一週間の中の、月や火などの日を表す言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "月曜日",
+      "meaning": "一週間の初めの曜日。",
+      "imageUrl": ""
+    },
+    {
+      "word": "火曜日",
+      "meaning": "火の曜日。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

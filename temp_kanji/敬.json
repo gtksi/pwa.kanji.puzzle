@@ -1,0 +1,49 @@
+{
+  "kanjiId": "敬",
+  "character": "敬",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "草冠",
+      "speechText": "くさかんむりと句を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "のぶん",
+      "speechText": "右にのぶんを合わせる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攴",
+    "radicalName": "ぼくづくり・のぶん",
+    "radicalMeaning": "たたく、動作を加えること。",
+    "originDescription": "神様の前で身なりを整え、自分を引き締めてうやまう様子を表しています。",
+    "synonyms": [
+      "尊ぶ",
+      "敬う"
+    ],
+    "antonyms": [
+      "侮る"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "尊敬",
+      "meaning": "相手をすぐれたものとしてうやまうこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "敬語",
+      "meaning": "相手をうやまう時に使う言葉",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

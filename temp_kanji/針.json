@@ -1,0 +1,63 @@
+{
+  "kanjiId": "針",
+  "character": "針",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "金",
+      "speechText": "かねへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "十",
+      "speechText": "じゅう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "寸",
+      "speechText": "すん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属",
+    "originDescription": "『説文解字』によると、「針」は金属で作られた細い道具を表す形声文字です。金（金属）と十（音を表す）が組み合わさり、縫い物や医療などに使う細く尖った道具を指します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "針金",
+      "meaning": "金属を細くのばして作った線。",
+      "imageUrl": ""
+    },
+    {
+      "word": "指針",
+      "meaning": "進むべき方向や行動の目安。",
+      "imageUrl": ""
+    },
+    {
+      "word": "方針",
+      "meaning": "進むべき方向や計画。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

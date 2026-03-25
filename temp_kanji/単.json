@@ -1,0 +1,51 @@
+{
+  "kanjiId": "単",
+  "character": "単",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね",
+      "speechText": "ひとやね",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨコ、タテ、ハネ",
+      "speechText": "ヨコ、タテ、ハネ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "卜",
+    "radicalName": "ぼくのと",
+    "radicalMeaning": "うらなう、占いの道具",
+    "originDescription": "狩りのための投げ縄を表す形から、もともと投げ縄を意味しました。一本の縄から「ひとつだけ」という意味になり、単独、簡単という意味に転じました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "単語",
+      "meaning": "言葉の最小単位。いくつか合わさって文になるもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "簡単",
+      "meaning": "手間がかからず、わかりやすいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "職",
+  "character": "職",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "耳",
+      "speechText": "みみ、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "音",
+      "speechText": "おと、と書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "戈",
+      "speechText": "ほこ、で「職」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "耳",
+    "radicalName": "みみ",
+    "radicalMeaning": "耳",
+    "originDescription": "耳（みみ）と音（おと）や戈（ほこ）の形を合わせた字です。耳で指示を聞き、決められた役割を果たす様子から、「仕事」や「役目」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "職場",
+      "meaning": "仕事をする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "職業",
+      "meaning": "生活のためにしている仕事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "職員",
+      "meaning": "会社や役所などで働いている人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,42 @@
+{
+  "kanjiId": "用",
+  "character": "用",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "用の形",
+      "speechText": "たて、よこまがる、よこ。まんなかたて、よこふたつ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "用",
+    "radicalName": "もちいる",
+    "radicalMeaning": "用いる",
+    "originDescription": "この漢字の古い形は、何かを「使う」ための道具を表していたと考えられているよ。そこから、「使う」「用いる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "用事",
+      "meaning": "しなければならないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "用意",
+      "meaning": "前もって準備すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "活用",
+      "meaning": "うまく使いこなすこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

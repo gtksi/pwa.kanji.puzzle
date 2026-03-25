@@ -1,0 +1,49 @@
+{
+  "kanjiId": "外",
+  "character": "外",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夕",
+      "speechText": "ゆうがたのゆう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "卜",
+      "speechText": "ぼくのとだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夕",
+    "radicalName": "ゆう",
+    "radicalMeaning": "ゆうがた",
+    "originDescription": "「夕（ゆう）」は夕方を表す。夕焼けの時、家の「外」に出る様子や、内側ではない「外側」を意味する漢字になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "外国",
+      "meaning": "自分の国ではない、ほかの国。",
+      "imageUrl": ""
+    },
+    {
+      "word": "外出",
+      "meaning": "家や建物の外に出かけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "屋外",
+      "meaning": "建物の外のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

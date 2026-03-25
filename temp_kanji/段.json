@@ -1,0 +1,49 @@
+{
+  "kanjiId": "段",
+  "character": "段",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "殳",
+      "speechText": "るまた",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "かり",
+      "speechText": "かるとつくり",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "殳",
+    "radicalName": "るまた",
+    "radicalMeaning": "武器、たたく",
+    "originDescription": "「殳（るまた）」は棒や武器、「叚」は段々になる様子を表します。棒で物をたたいて区切る様子や、階段のように区切られた部分を意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "段階",
+      "meaning": "物事の進み具合や程度の区切り。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手段",
+      "meaning": "何かを成し遂げるための方法や方法。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一段と",
+      "meaning": "以前よりもさらに、いっそう。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

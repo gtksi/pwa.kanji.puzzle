@@ -1,0 +1,77 @@
+{
+  "kanjiId": "蔵",
+  "character": "蔵",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "艹",
+      "speechText": "くさかんむり、草がしげる",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "臣",
+      "speechText": "おみ、家来のおみ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "戈",
+      "speechText": "ほこ、武器のほこ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "一",
+      "speechText": "いちの線",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ノ",
+      "speechText": "カタカナのノ",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草、覆うもの",
+    "originDescription": "「艸（くさかんむり、ここでは覆うもの）」と「臧（ゾウ：良い、隠す）」が組み合わさった漢字。物を隠して大切にしまっておく様子や、大切なものをしまっておく「くら」を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "貯蔵",
+      "meaning": "ためてしまっておくこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "冷蔵庫",
+      "meaning": "物を冷やしてしまっておく機械",
+      "imageUrl": ""
+    },
+    {
+      "word": "秘蔵",
+      "meaning": "秘密にして大切にしまっておくこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

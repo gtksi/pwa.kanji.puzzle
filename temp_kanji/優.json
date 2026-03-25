@@ -1,0 +1,49 @@
+{
+  "kanjiId": "優",
+  "character": "優",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亻（にんべん）",
+      "speechText": "にんべん、いちに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "憂",
+      "speechText": "うれい、いちにさんしごろしちはちきゅうじゅうじゅういちじゅうにじゅうさんじゅうしゅうご",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "「人」と「憂（心配する）」が合わさってできた漢字だよ。もともとは、心配してうろうろする人の様子を表したんだ。そこから、役者が人々を喜ばせるために芸をする「俳優」の意味になり、転じて「優れている」という意味も持つようになったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "優しい",
+      "meaning": "思いやりがあること、おだやかなこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "優勝",
+      "meaning": "試合や競技で一番になること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "俳優",
+      "meaning": "映画や舞台で役を演じる人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

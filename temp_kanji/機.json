@@ -1,0 +1,49 @@
+{
+  "kanjiId": "機",
+  "character": "機",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "幾",
+      "speechText": "いく、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木",
+    "originDescription": "「木（きへん）」は木材や木製の道具を、「幾」はかすかで見えにくい様子や、糸をからめて機を織る機械を表します。もともとは織り機のことで、そこから、からくり全般や、ちょうど良い機会、機械の意味に広がりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "機械",
+      "meaning": "エンジンなどで動く装置。",
+      "imageUrl": ""
+    },
+    {
+      "word": "飛行機",
+      "meaning": "空を飛ぶ乗り物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "機会",
+      "meaning": "ちょうどいい時やチャンス。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

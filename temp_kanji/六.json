@@ -1,0 +1,70 @@
+{
+  "kanjiId": "六",
+  "character": "六",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横画",
+      "speechText": "よこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "斜め線",
+      "speechText": "ななめ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "六",
+      "speechText": "ろく",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "八",
+    "radicalName": "はち",
+    "radicalMeaning": "はち",
+    "originDescription": "この漢字の形は、昔の家のような「屋根（やね）」を表す象形文字に由来すると言われています。この形が後に「数字の六」として使われるようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "六月",
+      "meaning": "6番目の月。",
+      "imageUrl": ""
+    },
+    {
+      "word": "六つ",
+      "meaning": "6個。",
+      "imageUrl": ""
+    },
+    {
+      "word": "六年生",
+      "meaning": "6年生。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

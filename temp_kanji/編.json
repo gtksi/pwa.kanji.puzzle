@@ -1,0 +1,53 @@
+{
+  "kanjiId": "編",
+  "character": "編",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "戸",
+      "speechText": "戸の下に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "冊",
+      "speechText": "冊をかく",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布に関すること",
+    "originDescription": "糸を使って、竹のふだ（冊）をバラバラにならないようにつなげる様子を表しています。",
+    "synonyms": [
+      "綴"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "編集",
+      "meaning": "本や動画の材料を整理して、一つの作品にまとめること",
+      "imageUrl": ""
+    },
+    {
+      "word": "編み物",
+      "meaning": "毛糸などを編んで作った、セーターなどのこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

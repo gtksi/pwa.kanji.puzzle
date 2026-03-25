@@ -1,0 +1,63 @@
+{
+  "kanjiId": "際",
+  "character": "際",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "ななめに かいて、かぎ、たてぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しめす",
+      "speechText": "ちょん、よこ、たて、よこ、ちょん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "また",
+      "speechText": "みぎて、また、つぎは…",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "つき",
+      "speechText": "つき、よこ、よこ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阝",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "丘、土地、場所",
+    "originDescription": "「阝（こざとへん）」は「場所」を、右の「祭」は「まつり」の音を表すよ。昔、神様にお祈りする特別な場所と、ふつうの場所の「境目」をはっきりさせていたことから、「きわ」や「境目」、「時」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "国際",
+      "meaning": "「国」と「国」との「きわ」をこえた関係。世界中の国と国とのつながり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "実際",
+      "meaning": "ほんとうにあったことや、ほんとうのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "交際",
+      "meaning": "人と人とのつながり、つきあい。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

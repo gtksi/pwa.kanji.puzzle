@@ -1,0 +1,49 @@
+{
+  "kanjiId": "植",
+  "character": "植",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "木（きへん）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "直",
+      "speechText": "右に直（なおす）で「うえる」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き・きへん",
+    "radicalMeaning": "樹木、木材",
+    "originDescription": "「木」と、まっすぐを意味する「直」を合わせた字です。苗木を地面にまっすぐ立てて、育つように植えることを表します。",
+    "synonyms": [
+      "樹",
+      "蒔"
+    ],
+    "antonyms": [
+      "抜"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "植える",
+      "meaning": "草や木の苗を、地面に埋めて育つようにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "植物",
+      "meaning": "草や木のように、地面に根をはって生きている生き物のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

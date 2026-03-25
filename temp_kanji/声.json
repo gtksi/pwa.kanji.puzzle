@@ -1,0 +1,56 @@
+{
+  "kanjiId": "声",
+  "character": "声",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "士",
+      "speechText": "さむらい、いち、に、さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち、いち、に、さん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "又",
+      "speechText": "また、いち、に",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "士",
+    "radicalName": "さむらい",
+    "radicalMeaning": "男の人、兵士",
+    "originDescription": "口（くち）から「声」が出ている様子と、手を合わせて祈る様子（又）を表しています。人が口から出す「こえ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "声",
+      "meaning": "口から出す音。例：大きな声。",
+      "imageUrl": ""
+    },
+    {
+      "word": "音声",
+      "meaning": "音と声。例：音声を聞く。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大声",
+      "meaning": "大きい声。例：大声で笑う。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

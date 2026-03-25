@@ -1,0 +1,48 @@
+{
+  "kanjiId": "勤",
+  "character": "勤",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "サ口一土",
+      "speechText": "サと口と一と土を縦に並べ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "力",
+      "speechText": "右に力を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、労働",
+    "originDescription": "土を力強くつき固める様子から、一生懸命に力をつくして働くことを意味するようになりました。仕事に通うことも表します。",
+    "synonyms": [
+      "勉"
+    ],
+    "antonyms": [
+      "怠"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "勤勉",
+      "meaning": "まじめに一生懸命はたらくこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "通勤",
+      "meaning": "仕事場へ通うこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

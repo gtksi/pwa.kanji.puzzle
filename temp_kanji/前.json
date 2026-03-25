@@ -1,0 +1,49 @@
+{
+  "kanjiId": "前",
+  "character": "前",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "止",
+      "speechText": "とめるの止、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "りっとうの刀！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刃物",
+    "originDescription": "「止」（足を止める）と、ものを前に進める「舟」の形（月）を組み合わせた漢字です。前に進むことや、向かっている方を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "前",
+      "meaning": "向き合っている方向や、時間の順番で早い方。",
+      "imageUrl": ""
+    },
+    {
+      "word": "午前",
+      "meaning": "朝からお昼までの時間のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手前",
+      "meaning": "こちらに近い方の場所や、自分のすぐ近く。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

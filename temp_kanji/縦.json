@@ -1,0 +1,49 @@
+{
+  "kanjiId": "縦",
+  "character": "縦",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸へん",
+      "speechText": "ぎゅっとまくまく いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "従",
+      "speechText": "人がずらり、したがう従",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布",
+    "originDescription": "「縦」は、糸（いと）と従（したがう）からできています。糸が長くまっすぐにつながっていく様子や、人が順番に並んで進む様子から、たて方向や、物事を自由にするという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "縦列駐車",
+      "meaning": "車を縦に並べて駐車すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "縦断",
+      "meaning": "たて方向に通り抜けること",
+      "imageUrl": ""
+    },
+    {
+      "word": "縦書き",
+      "meaning": "文字を上から下へ書くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "梅",
+  "character": "梅",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木（きへん）",
+      "speechText": "左側の「木」だよ。",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "毎（まい）",
+      "speechText": "右側の「毎」だよ。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木、植物",
+    "originDescription": "「木」は植物、「毎」は形が似ているから音が同じものを表します。木の枝に実る「うめ」という植物や、その実をさす漢字として使われるようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "梅雨",
+      "meaning": "6月から7月ごろ、雨が多く降る季節。",
+      "imageUrl": ""
+    },
+    {
+      "word": "梅干し",
+      "meaning": "梅の実を塩漬けにして干したもの。すっぱい食べ物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

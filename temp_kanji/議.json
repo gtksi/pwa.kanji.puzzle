@@ -1,0 +1,49 @@
+{
+  "kanjiId": "議",
+  "character": "議",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "義",
+      "speechText": "ぎ、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉",
+    "originDescription": "「言（ごんべん）」は言葉や話すことを、「義」は正しいことや道理を表します。正しいかどうかを言葉で話し合う、という意味から、みんなで意見を出し合い、物事を決める「会議」などの意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "会議",
+      "meaning": "みんなで話し合うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "議論",
+      "meaning": "意見を出し合って話し合うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "議員",
+      "meaning": "会議で意見を述べる人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

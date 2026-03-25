@@ -1,0 +1,42 @@
+{
+  "kanjiId": "旧",
+  "character": "旧",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "臼（うす）",
+      "speechText": "うすは、タテ、ヨコ、タテ、ヨコ、タテ、ヨコ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "臼",
+    "radicalName": "うす",
+    "radicalMeaning": "穀物をひく道具",
+    "originDescription": "昔使われていた「うす」の形からできた漢字だよ。昔の道具は長く使われたから、「古い」や「昔のもの」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "旧友",
+      "meaning": "昔からの友達のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "旧式",
+      "meaning": "古いやり方や型のもののこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "旧正月",
+      "meaning": "昔の暦でいうお正月のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

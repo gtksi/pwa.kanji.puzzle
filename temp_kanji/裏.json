@@ -1,0 +1,49 @@
+{
+  "kanjiId": "裏",
+  "character": "裏",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "衣",
+      "speechText": "まずは「ころも」の字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "里",
+      "speechText": "その下に「さと」の字、くっついて「うら」だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころも",
+    "radicalMeaning": "服、おおい",
+    "originDescription": "服を表す「衣」と、その中に隠れている「里」が合わさってできた文字。服の隠れた側、つまり「うら」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "裏側",
+      "meaning": "物事の見えない側。",
+      "imageUrl": ""
+    },
+    {
+      "word": "裏返す",
+      "meaning": "表と裏をひっくり返す。",
+      "imageUrl": ""
+    },
+    {
+      "word": "裏庭",
+      "meaning": "家の裏にある庭。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

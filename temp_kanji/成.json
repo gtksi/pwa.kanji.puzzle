@@ -1,0 +1,51 @@
+{
+  "kanjiId": "成",
+  "character": "成",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "戊",
+      "speechText": "つちのとだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "横棒だよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "戈",
+    "radicalName": "かのほこ",
+    "radicalMeaning": "武器",
+    "originDescription": "昔の武器である戈（ほこ）が盾に当たって、物事が完成した様子を表す文字だよ。物事が出来上がる、という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "成長",
+      "meaning": "大きくなること、育つこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "成立",
+      "meaning": "物事がきちんとできること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

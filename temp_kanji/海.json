@@ -1,0 +1,49 @@
+{
+  "kanjiId": "海",
+  "character": "海",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "みずのみずだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "毎",
+      "speechText": "まいごとまいだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "左の「さんずい」は水のこと。右の「毎」は、水がどんどん集まって、どこまでも広がる様子を表しているんだ。広くて大きい「海」のことだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "海外",
+      "meaning": "海の向こう、外国のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "海水浴",
+      "meaning": "海で泳いだり遊んだりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日本海",
+      "meaning": "日本の西にある海の名前。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

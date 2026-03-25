@@ -1,0 +1,56 @@
+{
+  "kanjiId": "銭",
+  "character": "銭",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かねへん",
+      "speechText": "かねへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二",
+      "speechText": "右には『二』！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "戈",
+      "speechText": "その下に『戈』！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属",
+    "originDescription": "左の「かねへん」は金属を表すよ。昔のお金は金属製だったからね。右側は、小さな金属片や細かいものが重なる様子から、お金という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "金銭",
+      "meaning": "お金のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小銭",
+      "meaning": "細かいお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "銭湯",
+      "meaning": "お金を払って入るお風呂屋さん。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

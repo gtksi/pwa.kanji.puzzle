@@ -1,0 +1,42 @@
+{
+  "kanjiId": "比",
+  "character": "比",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "比",
+      "speechText": "人が二人、ならんでるよ、シュッ、トン、シュッ、トン！",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "比",
+    "radicalName": "ならび",
+    "radicalMeaning": "並ぶ、比べる",
+    "originDescription": "二人の人が横に並んでいる様子を表す絵のような漢字です。そのため、「並べる」「くらべる」という意味になりました。二つのものを見比べて、違いや共通点を見つけるときに使います。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "比例",
+      "meaning": "二つのものが、一方の増減に合わせてもう一方も増減する関係。",
+      "imageUrl": ""
+    },
+    {
+      "word": "比率",
+      "meaning": "二つの数量を比べて、その割合を表すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "比べる",
+      "meaning": "二つのものの違いや共通点を見つけること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

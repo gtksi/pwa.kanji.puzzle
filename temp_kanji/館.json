@@ -1,0 +1,47 @@
+{
+  "kanjiId": "館",
+  "character": "館",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しょくへん",
+      "speechText": "しょくへんを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "官",
+      "speechText": "右側にうかんむりと口を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "食",
+    "radicalName": "しょくへん",
+    "radicalMeaning": "食べ物やもてなし、建物に関すること",
+    "originDescription": "「食」は食べたり泊まったりすることを、「官」は役所を意味します。人が集まって食事をしたり泊まったりする立派な建物のことです。",
+    "synonyms": [
+      "舎",
+      "院"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "図書館",
+      "meaning": "本をたくさん集めて、みんなが読めるようにしている場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "体育館",
+      "meaning": "運動をしたり集会をしたりするための大きな建物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

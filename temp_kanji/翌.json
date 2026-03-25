@@ -1,0 +1,49 @@
+{
+  "kanjiId": "翌",
+  "character": "翌",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羽",
+      "speechText": "はね、いちにさんしごろく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "立",
+      "speechText": "たつ、いちにさんしご",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羽",
+    "radicalName": "はね",
+    "radicalMeaning": "鳥の羽",
+    "originDescription": "「羽（はね）」と「立（たつ）」が組み合わさってできた漢字だよ。鳥が羽ばたいて飛び立つ様子から、夜が明けて次の日が始まることを表すようになったんだ。前の日の次に続く日、つまり「翌日」のような意味で使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "翌日",
+      "meaning": "その次の日。",
+      "imageUrl": ""
+    },
+    {
+      "word": "翌週",
+      "meaning": "その次の週。",
+      "imageUrl": ""
+    },
+    {
+      "word": "翌年",
+      "meaning": "その次の年。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

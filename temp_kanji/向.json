@@ -1,0 +1,53 @@
+{
+  "kanjiId": "向",
+  "character": "向",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノを書いてから",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "わかんむり",
+      "speechText": "わかんむりをかぶせて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "中に口を書けばむく",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口や場所に関係すること",
+    "originDescription": "家の壁にある「窓」の形から生まれた漢字です。窓が特定の方向を向いていることから、どこかを向く、という意味になりました。",
+    "synonyms": [
+      "対"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "方向",
+      "meaning": "むいている方のこと。北や南など",
+      "imageUrl": ""
+    },
+    {
+      "word": "向上心",
+      "meaning": "もっと上手になりたい、良くなりたいと思う心",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

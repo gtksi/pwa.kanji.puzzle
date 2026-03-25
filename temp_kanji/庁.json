@@ -1,0 +1,49 @@
+{
+  "kanjiId": "庁",
+  "character": "庁",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "广",
+      "speechText": "まだれ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丁",
+      "speechText": "てい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "建物、家",
+    "originDescription": "「まだれ」と「丁」を合わせた漢字です。「まだれ」は建物を表し、「丁」はきちんとした場所の様子を示します。人々が集まり、仕事を行う広い建物、役所を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "県庁",
+      "meaning": "県の行政を行う役所",
+      "imageUrl": ""
+    },
+    {
+      "word": "官庁",
+      "meaning": "国の行政を行う役所",
+      "imageUrl": ""
+    },
+    {
+      "word": "市庁",
+      "meaning": "市の行政を行う役所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

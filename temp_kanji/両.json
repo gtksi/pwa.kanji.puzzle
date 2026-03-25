@@ -1,0 +1,56 @@
+{
+  "kanjiId": "両",
+  "character": "両",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "一（いち）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "わく",
+      "speechText": "大きな門のようなワクを書き",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "山っぽい中身",
+      "speechText": "中に山を書いて、突き抜ける",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "数や基準",
+    "originDescription": "もともとは、天秤（てんびん）にかける２つの重りをあらわしています。そこから「ふたつ」「そろっている」という意味になりました。",
+    "synonyms": [
+      "二",
+      "双"
+    ],
+    "antonyms": [
+      "片"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "両親",
+      "meaning": "お父さんとお母さんのこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "両方",
+      "meaning": "二つのうち、どちらも。ふたつとも",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

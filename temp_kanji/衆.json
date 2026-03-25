@@ -1,0 +1,63 @@
+{
+  "kanjiId": "衆",
+  "character": "衆",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "血",
+      "speechText": "ち、血",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "人、ひとり",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "人",
+      "speechText": "人、ふたり",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "人",
+      "speechText": "人、さんにん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "血",
+    "radicalName": "ち",
+    "radicalMeaning": "血",
+    "originDescription": "「衆」の古い形は、たくさんの人が集まっている様子を表していました。上の「血」の形は、もともと「目」の変化で、下の３つの「人」の形が多くの人々を表しています。大勢の人が集まるという意味があります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大衆",
+      "meaning": "多くの人々",
+      "imageUrl": ""
+    },
+    {
+      "word": "衆議院",
+      "meaning": "国会を構成する議院の一つ",
+      "imageUrl": ""
+    },
+    {
+      "word": "聴衆",
+      "meaning": "話を聞く人々",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

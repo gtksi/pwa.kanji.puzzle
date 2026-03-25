@@ -1,0 +1,46 @@
+{
+  "kanjiId": "軽",
+  "character": "軽",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くるまへん",
+      "speechText": "くるまへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "圣",
+      "speechText": "又（また）の上に土をのせる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "車",
+    "radicalName": "くるま",
+    "radicalMeaning": "乗り物、車",
+    "originDescription": "もとは、すいすいと速く走る軽い「車」のことを表していました。そこから重くないことを意味するようになりました。",
+    "synonyms": [],
+    "antonyms": [
+      "重"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "軽い",
+      "meaning": "重さが少ない。また、簡単だという意味。",
+      "imageUrl": ""
+    },
+    {
+      "word": "軽食",
+      "meaning": "サンドイッチなど、さっと食べられる軽い食事。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

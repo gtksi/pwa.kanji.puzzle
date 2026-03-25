@@ -1,0 +1,56 @@
+{
+  "kanjiId": "権",
+  "character": "権",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "木へんを左に立てて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "草冠",
+      "speechText": "右に草かんむりと口二つ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "隹",
+      "speechText": "最後にふるとりをそえる",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、または木製の道具に関すること。",
+    "originDescription": "もともとは木の重りで、物事のバランスをはかることから、力や「権利」を意味するようになりました。",
+    "synonyms": [
+      "力",
+      "権限"
+    ],
+    "antonyms": [
+      "義務"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "権利",
+      "meaning": "当然受けることができる利益",
+      "imageUrl": ""
+    },
+    {
+      "word": "政権",
+      "meaning": "政治を行うための権力",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,52 @@
+{
+  "kanjiId": "念",
+  "character": "念",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "今",
+      "speechText": "今（いま）の下に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "心（こころ）をかく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心、感情、思い",
+    "originDescription": "上の「今」は口を閉じる様子から「心の中に閉じ込める」という意味があり、下の「心」と合わせて、ある思いをずっと心の中にとどめて、じっと思い続けることを表しています。",
+    "synonyms": [
+      "思",
+      "想"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "残念",
+      "meaning": "あきらめきれなくて、心残りでくやしいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "記念",
+      "meaning": "大切なことを忘れないように、思い出に残しておくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "念願",
+      "meaning": "いつも心の中で強く願っていたことがかなうこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

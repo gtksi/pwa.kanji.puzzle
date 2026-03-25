@@ -1,0 +1,69 @@
+{
+  "kanjiId": "冷",
+  "character": "冷",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にすい",
+      "speechText": "にすいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ひとやね",
+      "speechText": "ひとやね",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "いち",
+      "speechText": "ひと",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ま",
+      "speechText": "マを書く",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "冫",
+    "radicalName": "にすい",
+    "radicalMeaning": "氷や冷たいこと",
+    "originDescription": "「氷」を表す「にすい」と、「澄みきった」という意味を持つ「令」が組み合わさってできました。氷のようにひんやりと冷たく、心が引きしまるような様子を表しています。",
+    "synonyms": [
+      "寒",
+      "涼"
+    ],
+    "antonyms": [
+      "温",
+      "熱"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "冷水",
+      "meaning": "氷のように冷たい水のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "冷静",
+      "meaning": "あわてたりせず、心が落ち着いていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "冷蔵庫",
+      "meaning": "食べ物などを冷やして、悪くならないように保存する入れ物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

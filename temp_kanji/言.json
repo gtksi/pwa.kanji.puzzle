@@ -1,0 +1,63 @@
+{
+  "kanjiId": "言",
+  "character": "言",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒",
+      "speechText": "よこ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことば",
+    "originDescription": "口から言葉が出ている様子を表した形だよ。だから、「いう」や「ことば」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "言う",
+      "meaning": "声に出して伝えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "言動",
+      "meaning": "話し方と行動のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "方言",
+      "meaning": "その土地だけで使う言葉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

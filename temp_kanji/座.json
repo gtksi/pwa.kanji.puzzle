@@ -1,0 +1,56 @@
+{
+  "kanjiId": "座",
+  "character": "座",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "广",
+      "speechText": "まだれ、いえやね",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "ひと",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "土",
+      "speechText": "つち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家屋、建物に関すること",
+    "originDescription": "家屋（广）の中で人々（人）が地面（土）に座っている様子を表すよ。『説文解字』によると「座る場所」という意味。みんなで腰を下ろす場所を指すようになったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "正座",
+      "meaning": "きちんとした座り方。",
+      "imageUrl": ""
+    },
+    {
+      "word": "星座",
+      "meaning": "夜空の星を線で結んでできた動物や人物の形。",
+      "imageUrl": ""
+    },
+    {
+      "word": "口座",
+      "meaning": "銀行でお金を預けたり引き出したりするための場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

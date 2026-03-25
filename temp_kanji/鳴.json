@@ -1,0 +1,49 @@
+{
+  "kanjiId": "鳴",
+  "character": "鳴",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "口に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "鳥",
+      "speechText": "鳥で、鳴く！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "鳥",
+    "radicalName": "とり",
+    "radicalMeaning": "鳥",
+    "originDescription": "「口」と「鳥」が合わさってできた漢字だよ。鳥が口を開けてさえずる様子から、「なく」「鳴らす」という意味になったんだ。動物の声を想像してみてね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鳴き声",
+      "meaning": "動物や鳥が出す声のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鳴らす",
+      "meaning": "音を出すこと。例えば、鐘を鳴らす。",
+      "imageUrl": ""
+    },
+    {
+      "word": "共鳴",
+      "meaning": "音が響き合うこと。また、人の考えに賛同すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

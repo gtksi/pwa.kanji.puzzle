@@ -1,0 +1,48 @@
+{
+  "kanjiId": "放",
+  "character": "放",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "方",
+      "speechText": "方（ほう）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "攵",
+      "speechText": "のぶん（ぼくづくり）を横に、はなす。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攵",
+    "radicalName": "のぶん",
+    "radicalMeaning": "たたく、動作を加える",
+    "originDescription": "「方」は横にならんだいかだを表し、「攵」は棒（ぼう）でたたく動作です。いかだを棒で突いて川へ流し出すことから、「はなす」という意味になりました。",
+    "synonyms": [
+      "離"
+    ],
+    "antonyms": [
+      "捕"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "放送",
+      "meaning": "テレビやラジオで音や映像をたくさんの人に送ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "放課後",
+      "meaning": "学校の授業が終わったあとの時間。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

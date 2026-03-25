@@ -1,0 +1,49 @@
+{
+  "kanjiId": "英",
+  "character": "英",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "上に、くさかんむり、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "央",
+      "speechText": "下に、央、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草、植物",
+    "originDescription": "「英」は、花の優れた部分、つまり花びらや花そのものを表す漢字だよ。そこから、特に優れたものや、りっぱなことを意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "英国",
+      "meaning": "イギリスのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "英語",
+      "meaning": "イギリスなどで話される言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "英雄",
+      "meaning": "勇敢で立派な人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

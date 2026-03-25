@@ -1,0 +1,58 @@
+{
+  "kanjiId": "媛",
+  "character": "媛",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おんなへん",
+      "speechText": "左に、おんなへん、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "カギ",
+      "speechText": "右の、上は、カギ、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "又",
+      "speechText": "まんなかに、又、かくよ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ノとはらい",
+      "speechText": "したは、ノとはらい、かいてね",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女",
+    "originDescription": "「媛」は、美しい女性を表す漢字だよ。特に若い女性や、魅力的な女性を指す言葉として使われたんだ。愛媛県の名前にも使われているね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "愛媛県",
+      "meaning": "日本の県の一つ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "媛",
+      "meaning": "お姫様。美しい女性。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

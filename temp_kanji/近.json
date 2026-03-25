@@ -1,0 +1,49 @@
+{
+  "kanjiId": "近",
+  "character": "近",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "斤",
+      "speechText": "きん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "辶",
+      "speechText": "しんにょう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "みち",
+    "originDescription": "道を進む「しんにょう」と、斧で切り開く「斤」の組み合わせ。道を進んで目的の場所へ「ちかい」様子を表しているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "近い",
+      "meaning": "距離が短いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "近道",
+      "meaning": "目的地まで短い道のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "近所",
+      "meaning": "近くの場所のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

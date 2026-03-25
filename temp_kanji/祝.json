@@ -1,0 +1,44 @@
+{
+  "kanjiId": "祝",
+  "character": "祝",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "礻",
+      "speechText": "しめすへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "兄",
+      "speechText": "兄さんだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "示",
+    "radicalName": "しめすへん",
+    "radicalMeaning": "神様に関すること",
+    "originDescription": "神様に祈る人が言葉を器に入れる様子からできた文字だよ。お祝いの言葉や儀式を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お祝い",
+      "meaning": "何かめでたいことがあった時に喜ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "祝日",
+      "meaning": "国がお祝いする特別な日。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "倍",
+  "character": "倍",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "ニンベン（亻）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ほう",
+      "speechText": "右に立（たつ）と口（くち）で、ばい（倍）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人間の動作、状態",
+    "originDescription": "人（亻）と、分かれることを表す「咅」を合わせた漢字です。一つが二つに分かれて数が増えることから、「ばい（ふえること）」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "二倍",
+      "meaning": "ある数が二つ分になること",
+      "imageUrl": ""
+    },
+    {
+      "word": "百倍",
+      "meaning": "ある数が百個分になること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

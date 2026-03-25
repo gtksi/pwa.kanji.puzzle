@@ -1,0 +1,49 @@
+{
+  "kanjiId": "資",
+  "character": "資",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "次",
+      "speechText": "つぎ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "かい、はい「資」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "貝、お金",
+    "originDescription": "「資」は、「お金」を表す「貝」と、「次に続く」という意味の「次」が合わさった字だよ。これから役立つお金や材料、資源などを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "資料",
+      "meaning": "何かを調べたり、決めたりするときに役立つ物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "資本",
+      "meaning": "会社を始めるためのお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "資源",
+      "meaning": "私たちの生活に必要な、自然にある材料。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

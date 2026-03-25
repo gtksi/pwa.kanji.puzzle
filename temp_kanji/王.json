@@ -1,0 +1,56 @@
+{
+  "kanjiId": "王",
+  "character": "王",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "まっすぐ横に、おうさまのおうち！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "真ん中の縦棒",
+      "speechText": "ぴょんと縦に、まっすぐつー！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一番下の横棒",
+      "speechText": "ぐーんと下にも、おうさまはすごい！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "一番、最初",
+    "originDescription": "昔の王様が、天と地と人を結ぶ力を持つと考えられていたことから、「王」という字は、天地人を結ぶ棒が3本と、それらをまとめる横棒でできています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "王子",
+      "meaning": "王様のこども。",
+      "imageUrl": ""
+    },
+    {
+      "word": "女王",
+      "meaning": "女性の王様。",
+      "imageUrl": ""
+    },
+    {
+      "word": "王様",
+      "meaning": "国を治める一番えらい人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

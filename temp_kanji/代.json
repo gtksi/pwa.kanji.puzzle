@@ -1,0 +1,47 @@
+{
+  "kanjiId": "代",
+  "character": "代",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しき",
+      "speechText": "右にイキ（弋）を立てる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関する",
+    "originDescription": "「人」と、目印の杭（くい）を表す「弋」が合わさりました。人が順番に入れかわる様子から、「かわる」や「時代」という意味になりました。",
+    "synonyms": [
+      "替",
+      "換"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "交代",
+      "meaning": "役目や順番を入れかわること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "時代",
+      "meaning": "歴史を区切った、長い時間のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

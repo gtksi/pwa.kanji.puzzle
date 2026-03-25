@@ -1,0 +1,50 @@
+{
+  "kanjiId": "他",
+  "character": "他",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん（人）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なり",
+      "speechText": "右に也（なり）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関する",
+    "originDescription": "「人」と、ヘビの形から生まれた「也」という字が合わさりました。自分ではない「別の人」や「ほかのもの」を表すようになりました。",
+    "synonyms": [
+      "外",
+      "別"
+    ],
+    "antonyms": [
+      "自",
+      "己"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "他人",
+      "meaning": "自分ではない、ほかの人のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "その他",
+      "meaning": "今まで言ったもの以外の、あまったもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

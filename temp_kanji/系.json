@@ -1,0 +1,47 @@
+{
+  "kanjiId": "系",
+  "character": "系",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノを書いてから",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "糸",
+      "speechText": "下にいとをたらす",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いと",
+    "radicalMeaning": "糸や、つながることを表す。",
+    "originDescription": "いくつもの糸が上からつながって垂れている様子から、物事のつながりや「なかま」を意味します。",
+    "synonyms": [
+      "系統",
+      "列"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "太陽系",
+      "meaning": "太陽を中心とした天体の集まり",
+      "imageUrl": ""
+    },
+    {
+      "word": "理系",
+      "meaning": "理科や数学に関する分野",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

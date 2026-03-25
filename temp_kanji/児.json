@@ -1,0 +1,49 @@
+{
+  "kanjiId": "児",
+  "character": "児",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "臼",
+      "speechText": "うすの字、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "儿",
+      "speechText": "ひとあし、下だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "儿",
+    "radicalName": "ひとあし",
+    "radicalMeaning": "人に関する意味を表す",
+    "originDescription": "「児」は、赤ちゃんの頭の形と、体がまだ小さいことを表す「儿（ひとあし）」からできています。そこから、「まだ幼い子ども」や「幼児」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "子ども",
+      "meaning": "小さい子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "児童",
+      "meaning": "小学生ぐらいの子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "幼児",
+      "meaning": "小さな子、主に幼稚園に通う前の子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

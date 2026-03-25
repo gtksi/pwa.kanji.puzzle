@@ -1,0 +1,56 @@
+{
+  "kanjiId": "強",
+  "character": "強",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "弓",
+      "speechText": "ゆみへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "厶",
+      "speechText": "む",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "虫",
+      "speechText": "むし",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "弓",
+    "radicalName": "ゆみ",
+    "radicalMeaning": "ゆみ",
+    "originDescription": "弓と虫の形から生まれた漢字だよ。かたい甲羅を持つ虫のように、「つよい」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "強い",
+      "meaning": "力があること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "強風",
+      "meaning": "強い風のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "強気",
+      "meaning": "積極的な気持ち。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,51 @@
+{
+  "kanjiId": "帳",
+  "character": "帳",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "巾",
+      "speechText": "はばへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "長",
+      "speechText": "長（ながい）で、とばり",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はばへん",
+    "radicalMeaning": "布、ぬの",
+    "originDescription": "布（巾）と、長いことを表す「長」からできています。もとは長い布で作ったカーテン（とばり）のことですが、今は紙をまとめた「ノート」の意味でよく使われます。",
+    "synonyms": [
+      "記"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "手帳",
+      "meaning": "予定などを書きとめる小さなノート",
+      "imageUrl": ""
+    },
+    {
+      "word": "通帳",
+      "meaning": "銀行のお金の出し入れを記録するノート",
+      "imageUrl": ""
+    },
+    {
+      "word": "記帳",
+      "meaning": "名前や数字をノートに書き入れること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

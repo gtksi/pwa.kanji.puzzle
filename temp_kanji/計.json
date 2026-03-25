@@ -1,0 +1,49 @@
+{
+  "kanjiId": "計",
+  "character": "計",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "十",
+      "speechText": "じゅう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことば",
+    "originDescription": "言葉を表す「ごんべん」と、数を表す「十」の組み合わせ。言葉で数を数えたり、計算したりすることから「はかる」という意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "時計",
+      "meaning": "時間を測るもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "合計",
+      "meaning": "全ての数を合わせること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "計画",
+      "meaning": "物事を前もって考えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

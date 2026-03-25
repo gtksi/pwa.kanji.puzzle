@@ -1,0 +1,63 @@
+{
+  "kanjiId": "殺",
+  "character": "殺",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ななめ",
+      "speechText": "ななめに、すっと",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "め",
+      "speechText": "ちょんちょん、よこ、たて、はね",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "き",
+      "speechText": "たて、よこ、ななめ、ななめ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "るまた",
+      "speechText": "よこ、ななめ、たて、かぎ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "殳",
+    "radicalName": "るまた",
+    "radicalMeaning": "ほこ、たたく、武器",
+    "originDescription": "右の「殳（るまた）」は、昔の「武器」を表しているよ。左側は、斧のような道具で「木」を切り倒す様子を描いているんだ。この二つの形が合わさって、「命をうばう」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "殺害",
+      "meaning": "人を殺すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "殺虫剤",
+      "meaning": "虫を殺す薬。",
+      "imageUrl": ""
+    },
+    {
+      "word": "殺処分",
+      "meaning": "動物の命をうばうこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,84 @@
+{
+  "kanjiId": "立",
+  "character": "立",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横画",
+      "speechText": "よこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "左払い",
+      "speechText": "ひだりばらい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "右払い",
+      "speechText": "みぎばらい",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "横画",
+      "speechText": "よこ",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "縦画",
+      "speechText": "たて",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "立",
+      "speechText": "りつ",
+      "chantOrder": 7,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "立",
+    "radicalName": "りっとう",
+    "radicalMeaning": "たつ",
+    "originDescription": "大地にしっかりと足をつけて、人が「立っている」様子を上から見た形に由来すると言われています。まっすぐ立っている姿を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "起立",
+      "meaning": "立ち上がること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "国立",
+      "meaning": "国が作ったもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自立",
+      "meaning": "自分で考えて行動すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

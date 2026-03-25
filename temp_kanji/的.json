@@ -1,0 +1,56 @@
+{
+  "kanjiId": "的",
+  "character": "的",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "白",
+      "speechText": "しろ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "勺",
+      "speechText": "ひのさじ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "的",
+      "speechText": "しろに、ひのさじで、てき！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "白",
+    "radicalName": "しろ",
+    "radicalMeaning": "白い、清らか",
+    "originDescription": "弓で射る「的」の中心にある白い部分と、矢を射ることを表す「勺」が合わさってできました。ねらいや目標、また「〜のような」という意味で使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "的",
+      "meaning": "弓矢などでねらう目標。",
+      "imageUrl": ""
+    },
+    {
+      "word": "目的",
+      "meaning": "何のために行うか、ねらいのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "具体的",
+      "meaning": "はっきりとした形や内容を持っていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

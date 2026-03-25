@@ -1,0 +1,44 @@
+{
+  "kanjiId": "郡",
+  "character": "郡",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "君",
+      "speechText": "きみ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "邑",
+      "speechText": "おおざと",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "邑",
+    "radicalName": "おおざと",
+    "radicalMeaning": "土地",
+    "originDescription": "「君」は統治者や支配者を意味し、「邑（おおざと）」は町や村、領地を表します。もともと、君主が治める土地の区画を意味し、現代では都道府県の下にある行政区画の一つとなりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "郡",
+      "meaning": "市や町の上にある行政区画。",
+      "imageUrl": ""
+    },
+    {
+      "word": "郡部",
+      "meaning": "郡がある地域。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

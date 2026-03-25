@@ -1,0 +1,50 @@
+{
+  "kanjiId": "連",
+  "character": "連",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くるま",
+      "speechText": "車（くるま）を 書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょうで つなぐ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行くこと、進むこと",
+    "originDescription": "道を行くことを表す「しんにょう」と「車」を合わせた漢字です。たくさんの車が道に並んでずっと続くことから、「つながる」や「つれていく」という意味になりました。",
+    "synonyms": [
+      "続",
+      "接"
+    ],
+    "antonyms": [
+      "断",
+      "離"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "連続",
+      "meaning": "休みなく、ずっと続くこと。ドラマの放送など。",
+      "imageUrl": ""
+    },
+    {
+      "word": "連合",
+      "meaning": "同じ目的を持った仲間が集まって、一つの組になること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

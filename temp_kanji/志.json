@@ -1,0 +1,49 @@
+{
+  "kanjiId": "志",
+  "character": "志",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "士",
+      "speechText": "さむらい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "こころ、はい「志」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心",
+    "originDescription": "「志」は、「心」がどこかに「向かっていく」様子を表した字だよ。自分の心の中で決めた目標や、将来こうなりたいという強い気持ちを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "意志",
+      "meaning": "これからやろうと心に決めたこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "志願",
+      "meaning": "自分で望んで、あることをしたいと申し出ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "志望",
+      "meaning": "自分の目標や希望を心に決めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

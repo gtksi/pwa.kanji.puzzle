@@ -1,0 +1,49 @@
+{
+  "kanjiId": "福",
+  "character": "福",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "示",
+      "speechText": "しめすへんを左に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一・口・田",
+      "speechText": "右に一、口、田と重ねよう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "示",
+    "radicalName": "しめすへん",
+    "radicalMeaning": "神様、お祭り",
+    "originDescription": "神様にお供え物をして、幸せを祈る様子を表しています。お酒がたっぷりある幸せな状態から「しあわせ」を意味します。",
+    "synonyms": [
+      "幸",
+      "吉"
+    ],
+    "antonyms": [
+      "禍"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "幸福",
+      "meaning": "とても幸せなこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "福引き",
+      "meaning": "くじを引いて当たると景品がもらえること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

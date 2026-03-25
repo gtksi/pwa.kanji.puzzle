@@ -1,0 +1,54 @@
+{
+  "kanjiId": "字",
+  "character": "字",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "子",
+      "speechText": "こ、をかいて、じ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "屋根、家",
+    "originDescription": "家（うかんむり）の中で、子ども（子）が生まれて増えていく様子を表しています。文字も、子どもと同じように組み合わさってどんどん増えていくものなので、「じ」という意味になりました。",
+    "synonyms": [
+      "文字",
+      "記号"
+    ],
+    "antonyms": [
+      "絵"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "漢字",
+      "meaning": "日本や中国で使われる文字のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "名字",
+      "meaning": "家族の名前（姓）のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "数字",
+      "meaning": "数を表すための文字（１、２、３など）",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

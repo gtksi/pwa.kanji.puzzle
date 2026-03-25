@@ -1,0 +1,48 @@
+{
+  "kanjiId": "付",
+  "character": "付",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべんに、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寸",
+      "speechText": "すん（十にてん）を書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "ひと",
+    "originDescription": "人と、手（寸）を表しています。人に物を手渡してそばに置くことから、「つける」という意味になりました。",
+    "synonyms": [
+      "着"
+    ],
+    "antonyms": [
+      "離"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "付近",
+      "meaning": "その場所の近く。",
+      "imageUrl": ""
+    },
+    {
+      "word": "受付",
+      "meaning": "案内や申し込みをするところ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

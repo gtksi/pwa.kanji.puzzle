@@ -1,0 +1,62 @@
+{
+  "kanjiId": "流",
+  "character": "流",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "上部",
+      "speechText": "カタカナのト、ヌを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "川",
+      "speechText": "下に川を流しましょう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関すること",
+    "originDescription": "「さんずい」は水、右側は「生まれたばかりの子」と「川」を表しています。水が川となって、さらさらと流れていく様子をあらわした漢字です。",
+    "synonyms": [
+      "通",
+      "漂"
+    ],
+    "antonyms": [
+      "留",
+      "止"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "流行",
+      "meaning": "世の中で、あるものが広く行われること",
+      "imageUrl": ""
+    },
+    {
+      "word": "交流",
+      "meaning": "人と人が行き来して、仲良くなること",
+      "imageUrl": ""
+    },
+    {
+      "word": "流れる",
+      "meaning": "水などが低い方へ動いていくこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

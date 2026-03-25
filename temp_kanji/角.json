@@ -1,0 +1,63 @@
+{
+  "kanjiId": "角",
+  "character": "角",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横、カギ",
+      "speechText": "よこ、かぎだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まがり、はね",
+      "speechText": "まがってはねるよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ななめのはらい",
+      "speechText": "ななめにはらい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "てん",
+      "speechText": "ちょんとてん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "角",
+    "radicalName": "つの",
+    "radicalMeaning": "つの",
+    "originDescription": "牛や鹿（しか）の「角（つの）」の形からできた漢字だよ。もののとがった部分や、曲がり「角」のこと、角度を表すのにも使うんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "三角",
+      "meaning": "三つの角がある形。",
+      "imageUrl": ""
+    },
+    {
+      "word": "四角",
+      "meaning": "四つの角がある形。",
+      "imageUrl": ""
+    },
+    {
+      "word": "角度",
+      "meaning": "角の大きさ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

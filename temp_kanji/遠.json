@@ -1,0 +1,44 @@
+{
+  "kanjiId": "遠",
+  "character": "遠",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "袁",
+      "speechText": "なべぶた、くち、くるっとまがり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょう、すすむかたち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、行くこと",
+    "originDescription": "道を行く「しんにょう」と、遠くのものを表す部分を組み合わせた漢字です。はるか遠くまで行くことや、距離がはなれていることを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "遠足",
+      "meaning": "みんなで遠くの場所へ出かける、楽しい学校の行事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "遠方",
+      "meaning": "今いる場所から、はなれている遠い場所のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

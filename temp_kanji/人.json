@@ -1,0 +1,49 @@
+{
+  "kanjiId": "人",
+  "character": "人",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "はらい",
+      "speechText": "すっとひだりにはらい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はらい",
+      "speechText": "しっかりみぎにはらい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと・にんべん",
+    "radicalMeaning": "人間",
+    "originDescription": "人が腕を広げて立っている姿を描いた象形文字だよ。まっすぐ立つ人の形から「人」という漢字が生まれたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大人",
+      "meaning": "成長した人",
+      "imageUrl": ""
+    },
+    {
+      "word": "人口",
+      "meaning": "住んでいる人の数",
+      "imageUrl": ""
+    },
+    {
+      "word": "人々",
+      "meaning": "多くの人たち",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

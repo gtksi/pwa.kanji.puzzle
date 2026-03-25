@@ -1,0 +1,42 @@
+{
+  "kanjiId": "刀",
+  "character": "刀",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "刀",
+      "speechText": "かたなの形、そのものずばり『刀』",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "かたな",
+    "radicalMeaning": "刃物の刀",
+    "originDescription": "この漢字は、昔の人が使っていた「かたな」の形をそのまま絵にした、象形文字なんだ。物を切ったり、削ったりするための大切な道具だった「刀」そのものを表しているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "日本刀",
+      "meaning": "日本の伝統的な刀。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小刀",
+      "meaning": "小さな刀。",
+      "imageUrl": ""
+    },
+    {
+      "word": "太刀",
+      "meaning": "古い時代の日本刀の一種で、長い刀。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

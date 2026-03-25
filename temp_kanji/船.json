@@ -1,0 +1,56 @@
+{
+  "kanjiId": "船",
+  "character": "船",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "舟",
+      "speechText": "ふねへんの舟、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "八",
+      "speechText": "はちの字、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "舟",
+    "radicalName": "ふね",
+    "radicalMeaning": "舟や船",
+    "originDescription": "水の上を進む「舟」の形からできた漢字です。昔の船の様子がそのまま漢字になっています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "船",
+      "meaning": "水の上を進む乗り物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小船",
+      "meaning": "小さな船のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "船長",
+      "meaning": "船の一番えらい人のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

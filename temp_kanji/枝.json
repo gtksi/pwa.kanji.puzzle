@@ -1,0 +1,49 @@
+{
+  "kanjiId": "枝",
+  "character": "枝",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木へん",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "支",
+      "speechText": "じゅう、みぎはらい、また、はい「枝」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "「枝」は、「木」と「支」を組み合わせた字だよ。「支」は分かれるという意味があるから、木の幹から「分かれて伸びる」部分、つまり木のえだを表すんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "小枝",
+      "meaning": "細くて小さい木の枝。",
+      "imageUrl": ""
+    },
+    {
+      "word": "枝葉",
+      "meaning": "木の枝と葉のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "枝豆",
+      "meaning": "さやごとゆでて食べる豆。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

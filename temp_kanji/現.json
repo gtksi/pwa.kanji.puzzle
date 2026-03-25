@@ -1,0 +1,56 @@
+{
+  "kanjiId": "現",
+  "character": "現",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おうへん",
+      "speechText": "おうへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "見",
+      "speechText": "みる！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "現",
+      "speechText": "まとめて、現！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "玉",
+    "radicalName": "おうへん",
+    "radicalMeaning": "玉や宝石に関すること",
+    "originDescription": "おうへんと「見る」という漢字の組み合わせで、隠れていた宝物（玉）が外にあらわれたり、はっきり見える様子を表す漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "現在",
+      "meaning": "今の時間や、今の状況のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "表現",
+      "meaning": "自分の気持ちや考えを、言葉や絵などで表すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "現れる",
+      "meaning": "見えなかったものが姿を見せること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

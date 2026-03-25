@@ -1,0 +1,56 @@
+{
+  "kanjiId": "件",
+  "character": "件",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "牛",
+      "speechText": "うし！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "件",
+      "speechText": "まとめて、件！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "人と牛の絵からできていて、牛の数を数えるように、「ものの数」や「事柄」を表すようになった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "事件",
+      "meaning": "出来事や問題のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "用件",
+      "meaning": "話したい事やお願いしたい事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "条件",
+      "meaning": "何かをするために必要なきまりや内容。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

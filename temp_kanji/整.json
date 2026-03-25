@@ -1,0 +1,41 @@
+{
+  "kanjiId": "整",
+  "character": "整",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "束・攵・正",
+      "speechText": "束（たば）と攵（のぶん）、下に正（ただしい）を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攴",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "たたく、動作をする",
+    "originDescription": "木を束ねて、たたいて形をそろえる（正す）ことを表しています。バラバラなものをきれいにそろえるという意味です。",
+    "synonyms": [
+      "斉"
+    ],
+    "antonyms": [
+      "乱"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "整理",
+      "meaning": "いらないものをすてたり、形を整えたりしてかたづけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "整列",
+      "meaning": "みんなで、きれいに一列にならぶこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "裝",
+  "character": "裝",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "衣",
+      "speechText": "ころもへん、服を表す衣",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "士",
+      "speechText": "さむらいの士",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "爿",
+      "speechText": "しょうへん、半分のかたち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころもへん",
+    "radicalMeaning": "衣服",
+    "originDescription": "「衣（ころも）」と「壯（ソウ：丈夫な、立派な）」が組み合わさった漢字。服をきちんとして飾りつけ、立派に着飾る様子を表しています。荷物をまとめて身につけるという意味にもつながります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "裝束",
+      "meaning": "衣服や身につける道具",
+      "imageUrl": ""
+    },
+    {
+      "word": "裝飾",
+      "meaning": "飾りつけをすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "假裝",
+      "meaning": "見せかけること、ふりをする",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

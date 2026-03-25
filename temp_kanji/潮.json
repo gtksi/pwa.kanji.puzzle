@@ -1,0 +1,49 @@
+{
+  "kanjiId": "潮",
+  "character": "潮",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "朝",
+      "speechText": "あさ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「さんずい」と「朝」を合わせた漢字です。「さんずい」は水に関係することを示し、「朝」は時間を表します。朝に海の満ち引きが起こる様子から、海の水の上がり下がりを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "満潮",
+      "meaning": "潮が満ちて水位が最も高くなること",
+      "imageUrl": ""
+    },
+    {
+      "word": "干潮",
+      "meaning": "潮が引いて水位が最も低くなること",
+      "imageUrl": ""
+    },
+    {
+      "word": "潮流",
+      "meaning": "潮の流れる動き",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

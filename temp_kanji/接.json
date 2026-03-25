@@ -1,0 +1,49 @@
+{
+  "kanjiId": "接",
+  "character": "接",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "扌（てへん）",
+      "speechText": "まず「扌（てへん）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "妾",
+      "speechText": "次に「妾（しょう）」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手、動作",
+    "originDescription": "「手（てへん）」と「妾（しょう）」が合わさった漢字です。「手」は手で触れること、「妾」は「近くにつける」という音を表します。手で触れるように、物と物が触れ合うこと、つながること、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "接続",
+      "meaning": "物と物を繋ぐこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "接近",
+      "meaning": "近くまで寄ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "面接",
+      "meaning": "相手と会って話すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

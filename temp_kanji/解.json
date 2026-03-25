@@ -1,0 +1,56 @@
+{
+  "kanjiId": "解",
+  "character": "解",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つのへん",
+      "speechText": "つのへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "かたな",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "牛",
+      "speechText": "うし",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "角",
+    "radicalName": "つのへん",
+    "radicalMeaning": "つの",
+    "originDescription": "牛の角を「刀」で切り「わける」様子からできた漢字だよ。そこから、ほどく、そして物事を「りかい」するという意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "解決",
+      "meaning": "問題をうまく片づけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "理解",
+      "meaning": "物事の意味や内容をよくわかること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "解答",
+      "meaning": "質問や問題に答えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

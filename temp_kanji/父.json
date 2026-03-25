@@ -1,0 +1,37 @@
+{
+  "kanjiId": "父",
+  "character": "父",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "父",
+      "speechText": "ちち",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "父",
+    "radicalName": "ちち",
+    "radicalMeaning": "父",
+    "originDescription": "手（又）に物を持って、子どもを教え導く様子を描いた漢字だよ。家を支える「お父さん」を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "父親",
+      "meaning": "男性の親。",
+      "imageUrl": ""
+    },
+    {
+      "word": "父母",
+      "meaning": "父と母。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

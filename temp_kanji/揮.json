@@ -1,0 +1,46 @@
+{
+  "kanjiId": "揮",
+  "character": "揮",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "手",
+      "speechText": "てへんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "軍",
+      "speechText": "軍（ぐん）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手の動作",
+    "originDescription": "手と、軍隊が円を描いて進む様子を合わせた字です。手で合図をして、たくさんの人を動かしたり、外に振りまいたりすることを意味します。",
+    "synonyms": [
+      "振"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "発揮",
+      "meaning": "持っている力を外に出すこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "指揮",
+      "meaning": "合図をして全体を動かすこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "欲",
+  "character": "欲",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "欠",
+      "speechText": "あくび、いちにさんし",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "谷",
+      "speechText": "たに、いちにさんしごろしち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "欠",
+    "radicalName": "あくび",
+    "radicalMeaning": "口を開ける、不足する",
+    "originDescription": "「欠（あくびをするように口を開ける）」と「谷（たに、へこんだ場所）」が合わさってできた漢字だよ。口を開けて何かを欲しがる、あるいは心が空っぽで何かで満たしたいという気持ちを表しているんだ。強い願いや不足を感じる気持ちを意味するよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "欲望",
+      "meaning": "何かを得たい、満たしたいという強い気持ち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "食欲",
+      "meaning": "食べたいという気持ち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "意欲",
+      "meaning": "積極的に何かをしようとする気持ち。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

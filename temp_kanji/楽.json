@@ -1,0 +1,56 @@
+{
+  "kanjiId": "楽",
+  "character": "楽",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "白",
+      "speechText": "しろいろのしろ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "きのきだよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "短い線ふたつ",
+      "speechText": "チョンチョンだよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "昔の楽器の形からできた漢字だよ。楽器を演奏して、楽しい気持ちになることから、「たのしい」や「楽（らく）だ」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "音楽",
+      "meaning": "音で表現する芸術。",
+      "imageUrl": ""
+    },
+    {
+      "word": "楽しい",
+      "meaning": "面白くて心が満たされること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "楽な",
+      "meaning": "苦労がなくて、心地よいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

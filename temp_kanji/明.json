@@ -1,0 +1,49 @@
+{
+  "kanjiId": "明",
+  "character": "明",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "日と",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "月",
+      "speechText": "月で、明るい！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "太陽",
+    "originDescription": "「日（太陽）」と「月」が合わさった漢字だよ。太陽と月が両方とも出ている、明るい夜明けの様子を表しているんだ。夜が明ける明るいイメージだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "明るい",
+      "meaning": "光がたくさんあり、よく見えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "明日",
+      "meaning": "今日の次の日、あすやあしたのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "説明",
+      "meaning": "物事をわかりやすく教えたり話したりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

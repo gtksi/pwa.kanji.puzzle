@@ -1,0 +1,56 @@
+{
+  "kanjiId": "皮",
+  "character": "皮",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "の",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ひとやね",
+      "speechText": "ひとやね",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "い",
+      "speechText": "い",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皮",
+    "radicalName": "けがわ",
+    "radicalMeaning": "皮、毛皮",
+    "originDescription": "動物の皮をはいで、手で持っている様子を表す漢字だよ。そこから「皮」や「表面」という意味を持つようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "皮",
+      "meaning": "動物や果物の表面。",
+      "imageUrl": ""
+    },
+    {
+      "word": "皮膚",
+      "meaning": "人や動物の体の表面を覆うもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "毛皮",
+      "meaning": "動物の毛のついた皮。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

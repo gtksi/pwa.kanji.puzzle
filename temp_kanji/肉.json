@@ -1,0 +1,51 @@
+{
+  "kanjiId": "肉",
+  "character": "肉",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "肉のそとがわ",
+      "speechText": "にくのそとがわ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なかのたてぼう",
+      "speechText": "なかのたてぼう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "もういっぽん",
+      "speechText": "もういっぽん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "肉や体の一部に関する漢字",
+    "originDescription": "動物の肉の形をそのまま描いた象形文字だよ。筋肉や脂肪がついた肉の様子を表しているんだ。人の体の部分を表す漢字にも使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "肉体",
+      "meaning": "体のこと。体つきや健康な状態を表すこともあるよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "牛肉",
+      "meaning": "牛のお肉のこと。食べ物として使われるよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

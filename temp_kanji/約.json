@@ -1,0 +1,49 @@
+{
+  "kanjiId": "約",
+  "character": "約",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへん（糸）を左に書く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "勺",
+      "speechText": "右側に、包（つつみ）のような形のなかに点ひとつ（勺）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸、つなぐことに関する意味を表す",
+    "originDescription": "糸をたばねて、きゅっと結び合わせる様子を表しています。そこから「約束する」という意味になりました。",
+    "synonyms": [
+      "束",
+      "結"
+    ],
+    "antonyms": [
+      "解"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "約束",
+      "meaning": "相手と決まりごとを交わして、守るようにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "節約",
+      "meaning": "むだをはぶいて、大切に使うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

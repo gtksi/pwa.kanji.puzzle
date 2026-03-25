@@ -1,0 +1,44 @@
+{
+  "kanjiId": "準",
+  "character": "準",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい、ちょんちょんちょん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "隼",
+      "speechText": "ハヤブサの、くちばし、め、しっぽ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "さんずいは「水」を表すよ。右側の「隼」はハヤブサという鳥で、正確に獲物を捕らえるんだ。その正確さから、「物事を測るための基準」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "準備",
+      "meaning": "何かを始める前に、前もって用意すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "基準",
+      "meaning": "物事を比べたり決めたりするもとになるもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

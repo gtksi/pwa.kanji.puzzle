@@ -1,0 +1,49 @@
+{
+  "kanjiId": "就",
+  "character": "就",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "京",
+      "speechText": "きょう、たかいみやこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "尤",
+      "speechText": "もっとも、ゆう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "尢",
+    "radicalName": "まげあし",
+    "radicalMeaning": "ひらがなのエ、足",
+    "originDescription": "「就」は、高い建物や都（京）に人々が集まってくる様子から、「近づく」「そこに行く」という意味が生まれました。目標に向かって進み、達成する、という意味でも使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "就職",
+      "meaning": "仕事に就くこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "成就",
+      "meaning": "願いを達成すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "就任",
+      "meaning": "役職に就くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

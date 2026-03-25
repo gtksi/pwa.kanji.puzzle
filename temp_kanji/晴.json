@@ -1,0 +1,44 @@
+{
+  "kanjiId": "晴",
+  "character": "晴",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひへんのひ、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "青",
+      "speechText": "あおぞらの青！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "太陽や時間",
+    "originDescription": "「日」（太陽）と「青」（あお、澄んだ色）を合わせた漢字です。太陽が出て、空が青く澄んだ良い天気を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "晴れ",
+      "meaning": "雨が降っていなくて、太陽が出ている天気のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "晴天",
+      "meaning": "雲が少なくて、青空が広がっている良い天気のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

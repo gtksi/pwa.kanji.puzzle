@@ -1,0 +1,91 @@
+{
+  "kanjiId": "見",
+  "character": "見",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たてぼう",
+      "speechText": "たてぼう、まっすぐ、いち、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "よこぼう",
+      "speechText": "よこぼう、やま、に、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "よこぼう",
+      "speechText": "よこぼう、はし、さん、",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "くち",
+      "speechText": "くち、あむ、よん、",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "たてぼう",
+      "speechText": "たてぼう、まわる、ご、",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "よこぼう",
+      "speechText": "よこぼう、やま、ろく、",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "まがる",
+      "speechText": "まがる、ぐるり、しち、",
+      "chantOrder": 7,
+      "strokes": []
+    },
+    {
+      "id": "p8",
+      "name": "たてぼう",
+      "speechText": "たてぼう、おしまい、はち、",
+      "chantOrder": 8,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "見",
+    "radicalName": "みる",
+    "radicalMeaning": "見る、現れる",
+    "originDescription": "昔の人は、立った人の目に、大きいものが見える様子を表した漢字です。目を使って何かを見ている形からできています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "見る",
+      "meaning": "目に入ったものをおさめる。ながめる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "見せる",
+      "meaning": "相手がそれを見られるようにする。",
+      "imageUrl": ""
+    },
+    {
+      "word": "意見",
+      "meaning": "ある事柄について、自分の考え。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

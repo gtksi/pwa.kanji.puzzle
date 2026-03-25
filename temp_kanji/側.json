@@ -1,0 +1,44 @@
+{
+  "kanjiId": "側",
+  "character": "側",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "のり",
+      "speechText": "ヨコ、タテ、ヨコ、カギ、ハネ、ノ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "人",
+    "originDescription": "人の横にひざまずいて、きまりを守る様子から、わき、かたわら、という意味になりました。そこから「〜のそば」に使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "右側",
+      "meaning": "ものの右の方。",
+      "imageUrl": ""
+    },
+    {
+      "word": "両側",
+      "meaning": "物の右と左、両方。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

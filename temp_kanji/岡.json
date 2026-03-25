@@ -1,0 +1,49 @@
+{
+  "kanjiId": "岡",
+  "character": "岡",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くにがまえ",
+      "speechText": "外側を、くにがまえ、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "山",
+      "speechText": "その中に、山、かくよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "山",
+    "radicalName": "おか",
+    "radicalMeaning": "丘",
+    "originDescription": "「岡」は、周りを囲まれた丘の様子を表す漢字だよ。小さな山や盛り上がった土地を意味する言葉で、地名によく使われるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "岡山",
+      "meaning": "地名。",
+      "imageUrl": ""
+    },
+    {
+      "word": "福岡",
+      "meaning": "地名。",
+      "imageUrl": ""
+    },
+    {
+      "word": "静岡",
+      "meaning": "地名。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

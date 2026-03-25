@@ -1,0 +1,49 @@
+{
+  "kanjiId": "我",
+  "character": "我",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ横Ｌ",
+      "speechText": "ノ（の）・横（よこ）・Ｌ（える）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "戈",
+      "speechText": "斜め（ななめ）・点（てん）で自分の我",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "戈",
+    "radicalName": "ほこづくり",
+    "radicalMeaning": "武器、ほこ",
+    "originDescription": "ギザギザのついた武器の形から。自分を守ることから「自分自身」を表すようになりました。",
+    "synonyms": [
+      "私",
+      "自己"
+    ],
+    "antonyms": [
+      "彼"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "我慢",
+      "meaning": "つらくても耐えること",
+      "imageUrl": ""
+    },
+    {
+      "word": "自我",
+      "meaning": "自分という意識",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "鉱",
+  "character": "鉱",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "金",
+      "speechText": "かねへん、左側だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "広",
+      "speechText": "右に、広いと書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属やお金に関すること",
+    "originDescription": "「金」は金属、「広」は広いという意味だよ。山の中に広く埋まっている金属や、そこからとれる石（鉱石）を表す漢字なんだ。大切な資源だね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鉱物",
+      "meaning": "地中からとれる、金属ではない岩石などの固い物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鉱山",
+      "meaning": "鉱物を掘り出す山や場所のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鉱石",
+      "meaning": "金属などがとれる石のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

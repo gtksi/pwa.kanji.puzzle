@@ -1,0 +1,49 @@
+{
+  "kanjiId": "誌",
+  "character": "誌",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "「ごんべん」さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "志",
+      "speechText": "「志」で「しるす」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、話す",
+    "originDescription": "「言」（言葉）と「志」（記録する、目標）が組み合わさってできました。大切なことを言葉で記録する、という元々の意味から、「雑誌」や「日誌」のように、情報をまとめる本や記録という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "雑誌",
+      "meaning": "さまざまな記事を集めた本。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日誌",
+      "meaning": "毎日の出来事を記録したもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "文芸誌",
+      "meaning": "文学作品を集めた雑誌。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

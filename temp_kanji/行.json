@@ -1,0 +1,49 @@
+{
+  "kanjiId": "行",
+  "character": "行",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "左半分",
+      "speechText": "左のタテ棒、短い横棒、タテ棒！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "右半分",
+      "speechText": "右のタテ棒、上の横棒、下の横棒！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "行",
+    "radicalName": "ぎょうがまえ",
+    "radicalMeaning": "みち",
+    "originDescription": "十字路や道の形を描いた象形文字だよ。人が道の真ん中を歩く様子や、道の交差点を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "行く",
+      "meaning": "どこかへ進むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "通行",
+      "meaning": "道を通って行き来すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "行列",
+      "meaning": "人や物が並んでいる様子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

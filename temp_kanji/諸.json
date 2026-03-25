@@ -1,0 +1,49 @@
+{
+  "kanjiId": "諸",
+  "character": "諸",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言べん",
+      "speechText": "ことばを話す ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "者",
+      "speechText": "たくさんいる人、もの 者",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことばや言うこと",
+    "originDescription": "「諸」は、言（ことば）と、たくさんの人が集まる「者（もの）」からできています。たくさんの人がいろいろなことを言う様子から、たくさんある、いろいろな、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "諸外国",
+      "meaning": "いろいろな国々",
+      "imageUrl": ""
+    },
+    {
+      "word": "諸問題",
+      "meaning": "いろいろな問題",
+      "imageUrl": ""
+    },
+    {
+      "word": "諸君",
+      "meaning": "皆様、みんな",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

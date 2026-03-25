@@ -1,0 +1,49 @@
+{
+  "kanjiId": "店",
+  "character": "店",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "广",
+      "speechText": "まだれに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "占",
+      "speechText": "うらないの占で『店』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家や建物の形",
+    "originDescription": "家の形（まだれ）と、場所を「占める」という字が合わさって、人が集まって物を売ったり買ったりする「お店」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "店先",
+      "meaning": "お店の入り口や前。",
+      "imageUrl": ""
+    },
+    {
+      "word": "本店",
+      "meaning": "一番大事なお店、または元のお店。",
+      "imageUrl": ""
+    },
+    {
+      "word": "店番",
+      "meaning": "お店を見張ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

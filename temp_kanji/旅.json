@@ -1,0 +1,64 @@
+{
+  "kanjiId": "旅",
+  "character": "旅",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ほうへん",
+      "speechText": "ほうへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "一（いち）を引いて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "足",
+      "speechText": "右と左に足を広げる",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "方",
+    "radicalName": "ほうへん",
+    "radicalMeaning": "はた、方角に関すること",
+    "originDescription": "「ほうへん」は旗（はた）をあらわしています。旗の下にたくさんの人が集まって、遠くへお出かけしたり移動したりすることをあらわしています。",
+    "synonyms": [
+      "遊",
+      "行"
+    ],
+    "antonyms": [
+      "住",
+      "留"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "旅行",
+      "meaning": "見学や遊びのために遠くへ行くこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "旅人",
+      "meaning": "旅をしている人のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

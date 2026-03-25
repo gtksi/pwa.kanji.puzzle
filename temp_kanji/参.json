@@ -1,0 +1,63 @@
+{
+  "kanjiId": "参",
+  "character": "参",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "厶",
+      "speechText": "むの字、左上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "厶",
+      "speechText": "むの字、右上だよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "厶",
+      "speechText": "むの字、真ん中だよ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "又",
+      "speechText": "またの字、下だよ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "厶",
+    "radicalName": "む",
+    "radicalMeaning": "「私」や「個人的なこと」に関する形",
+    "originDescription": "「参」は、元々、三つの星（オリオン座の三つ星）を表す漢字です。その星に向かって進むように、「行く」や「加わる」という意味になったり、意見を「まじえる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "参加",
+      "meaning": "催し物や活動に加わること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "参考",
+      "meaning": "自分の考えや判断の足しにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "参る",
+      "meaning": "行く、来るの謙譲語。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

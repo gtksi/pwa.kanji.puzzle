@@ -1,0 +1,49 @@
+{
+  "kanjiId": "番",
+  "character": "番",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "采",
+      "speechText": "つめ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "た",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "畑、田んぼ",
+    "originDescription": "畑を獣から守るために、人が見張りを「する」様子を表した漢字だよ。順番や番をするという意味に使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "番号",
+      "meaning": "物事の順序や種類を示す数字。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一番",
+      "meaning": "数や順序が最初であること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "当番",
+      "meaning": "決められた順番で仕事をすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

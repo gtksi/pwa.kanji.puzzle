@@ -1,0 +1,41 @@
+{
+  "kanjiId": "昔",
+  "character": "昔",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "二十・日",
+      "speechText": "二十（にじゅう）を書いてから、下に日（ひ）を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "太陽、時間",
+    "originDescription": "上の部分は、薄く切った肉が重なっている様子。それに「日」を合わせて、時間がたくさん積み重なった「ずっと前」のことを表します。",
+    "synonyms": [
+      "旧"
+    ],
+    "antonyms": [
+      "今"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "昔話",
+      "meaning": "「むかしむかし…」で始まる、古い時代の物語。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大昔",
+      "meaning": "ずっとずっと前の、とても古い時代のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

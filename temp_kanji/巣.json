@@ -1,0 +1,51 @@
+{
+  "kanjiId": "巣",
+  "character": "巣",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ツメ",
+      "speechText": "ツメ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "キのえだ",
+      "speechText": "ヨコ、タテ、ヨコ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "コメ",
+      "speechText": "コメ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "爪",
+    "radicalName": "つめ",
+    "radicalMeaning": "つめ、手の指先",
+    "originDescription": "木の上に小鳥が木の枝を組み立てて作った巣の形から、鳥の「す」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鳥の巣",
+      "meaning": "鳥が卵を産んだり、ひなを育てたりする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "巣作り",
+      "meaning": "鳥や虫が自分の巣を作る活動。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

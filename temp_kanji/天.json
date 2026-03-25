@@ -1,0 +1,49 @@
+{
+  "kanjiId": "天",
+  "character": "天",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "上に「一」、一番上",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "大",
+      "speechText": "下に「大」、大きく立って",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "あめ、そら",
+    "originDescription": "大勢の人が手を広げて立っている姿の「大」の上に、横棒を一つ足したものだよ。人の頭の上、つまり「空」や「宇宙」を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "天気",
+      "meaning": "空の様子",
+      "imageUrl": ""
+    },
+    {
+      "word": "天国",
+      "meaning": "幸せな場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "天才",
+      "meaning": "とても才能がある人",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

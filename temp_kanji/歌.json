@@ -1,0 +1,58 @@
+{
+  "kanjiId": "歌",
+  "character": "歌",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "くち、ましかく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち、ましかく",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち、ましかく",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "欠",
+      "speechText": "かける、あくびのかたち",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "欠",
+    "radicalName": "かける",
+    "radicalMeaning": "口を開ける、あくび",
+    "originDescription": "口で歌う様子と、体をくねらせて踊る様子を組み合わせた漢字です。楽しく声を出して歌うことや、うたそのものを表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "歌手",
+      "meaning": "歌を専門に歌う人のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "校歌",
+      "meaning": "その学校の歌。入学式や卒業式で歌われます。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

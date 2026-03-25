@@ -1,0 +1,49 @@
+{
+  "kanjiId": "破",
+  "character": "破",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "石",
+      "speechText": "いしへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "皮",
+      "speechText": "「かわ」の字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "石",
+    "radicalName": "いし",
+    "radicalMeaning": "石",
+    "originDescription": "石（いし）と、皮（ひ）という音と意味を表す部分からできています。石で物を打ち破ったり、皮をはがすように破ったりする様子から、「こわす」「やぶる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "突破",
+      "meaning": "困難なことを乗り越えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "破る",
+      "meaning": "物をこわしたり、約束を守らなかったりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "破産",
+      "meaning": "財産がなくなってしまうこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

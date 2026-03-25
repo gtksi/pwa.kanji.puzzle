@@ -1,0 +1,44 @@
+{
+  "kanjiId": "静",
+  "character": "静",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "青",
+      "speechText": "青いと書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "争",
+      "speechText": "争うだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "青",
+    "radicalName": "あお",
+    "radicalMeaning": "あお",
+    "originDescription": "清らかな「青」い場所で争いを「やめる」様子からできた漢字だよ。物音一つなく、心が落ち着いている状態を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "静か",
+      "meaning": "物音がなく、穏やかな様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "平静",
+      "meaning": "落ち着いていて、穏やかなこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

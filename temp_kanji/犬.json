@@ -1,0 +1,56 @@
+{
+  "kanjiId": "犬",
+  "character": "犬",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "けものへん",
+      "speechText": "けものへん、いち、に、さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "「て」",
+      "speechText": "て、て、て",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "「ふ」",
+      "speechText": "ふ、ふ、ふ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "犭",
+    "radicalName": "けものへん",
+    "radicalMeaning": "けもの（動物）に関係する意味",
+    "originDescription": "昔の中国で、犬は人間にとって身近な動物で、番をしたり、狩りを手伝ったりする大切な家族でした。その様子を絵にしたものが「犬」の字の始まりです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "犬小屋",
+      "meaning": "犬が住むための家。",
+      "imageUrl": ""
+    },
+    {
+      "word": "子犬",
+      "meaning": "生まれたばかりの小さい犬。",
+      "imageUrl": ""
+    },
+    {
+      "word": "愛犬",
+      "meaning": "かわいがっている犬。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

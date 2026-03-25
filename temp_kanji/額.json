@@ -1,0 +1,49 @@
+{
+  "kanjiId": "額",
+  "character": "額",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "各",
+      "speechText": "それぞれの「各」(かく)",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おおがい",
+      "speechText": "おおがい (頁)",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "あたま",
+    "originDescription": "「頁」はおでこや頭を表し、「各」は音を表しているよ。おでこの「ひたい」を表す漢字だけど、決められたお金の「きんがく」という意味でも使われるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "金額",
+      "meaning": "お金の値段。",
+      "imageUrl": ""
+    },
+    {
+      "word": "額縁",
+      "meaning": "絵などを入れるわく。",
+      "imageUrl": ""
+    },
+    {
+      "word": "満額",
+      "meaning": "決められた全部の金額。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

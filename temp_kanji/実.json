@@ -1,0 +1,56 @@
+{
+  "kanjiId": "実",
+  "character": "実",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "三",
+      "speechText": "数字の、三",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "人",
+      "speechText": "人の、人（ひと）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "家（宀）の中に、たくさんの宝物（貝）がある様子から、中身がつまっている「実」や「本当」を意味します。",
+    "synonyms": [
+      "誠",
+      "真"
+    ],
+    "antonyms": [
+      "虚"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "木の実",
+      "meaning": "木になる、たねやくだもの。きのみ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "実現",
+      "meaning": "思ったことが、本当になること。じつげん。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

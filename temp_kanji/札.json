@@ -1,0 +1,49 @@
+{
+  "kanjiId": "札",
+  "character": "札",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "乙",
+      "speechText": "おつの、乙、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木に関する意味を表す",
+    "originDescription": "「札」は、「木」と「乙（おつ）」からできています。「乙」は曲がった形。木を薄く削って、書いたり貼ったりする板や、しるしをつけた木片を表す漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "切符",
+      "meaning": "電車などに乗るための紙片。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お札",
+      "meaning": "紙でできたお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "名札",
+      "meaning": "名前を書いた小さい板。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

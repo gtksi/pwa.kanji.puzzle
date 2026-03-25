@@ -1,0 +1,63 @@
+{
+  "kanjiId": "直",
+  "character": "直",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十",
+      "speechText": "上からじゅう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "目",
+      "speechText": "その下に目",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ハ",
+      "speechText": "右にちょんちょん",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "一直線",
+      "speechText": "最後は長い一直線",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "め",
+    "radicalMeaning": "物を見る目",
+    "originDescription": "いろんな目でしっかり見て、曲がっていないか確認する様子から、「まっすぐ」や「正しい」という意味になったんだ。まっすぐな線が引ける道具の形も入っているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "直す",
+      "meaning": "悪いところを良い状態にする。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一直",
+      "meaning": "一直線に進むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "正直",
+      "meaning": "うそをつかないで、正しいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

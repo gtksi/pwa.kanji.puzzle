@@ -1,0 +1,49 @@
+{
+  "kanjiId": "講",
+  "character": "講",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん、さきにかこう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冓",
+      "speechText": "つくりは「コウ」、むずかしいけどかくぞ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことば",
+    "originDescription": "「言（ことば）」と「冓（こう）」を組み合わせた漢字だよ。冓は、木を組み合わせて作った家の骨組みを表すんだ。言葉を組み立てて、みんなに説明するという意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "講義",
+      "meaning": "先生がみんなに、大切なことを教えてくれる授業のことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "講演",
+      "meaning": "たくさんの人の前で、大切な話を聞かせることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "受講",
+      "meaning": "授業や講座を受けることだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

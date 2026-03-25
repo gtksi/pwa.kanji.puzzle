@@ -1,0 +1,49 @@
+{
+  "kanjiId": "菜",
+  "character": "菜",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "采",
+      "speechText": "とるの、采、下だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艹",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草木に関する意味を表す",
+    "originDescription": "「菜」は、「くさかんむり」と「采（とる）」からできています。「采」は手で実を摘み取る様子。食用にする草を摘み取ることから、「野菜」や「料理」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "野菜",
+      "meaning": "畑でとれる食べられる草。",
+      "imageUrl": ""
+    },
+    {
+      "word": "料理",
+      "meaning": "食材を調理すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "山菜",
+      "meaning": "山でとれる食べられる草。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

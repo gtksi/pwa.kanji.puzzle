@@ -1,0 +1,44 @@
+{
+  "kanjiId": "熊",
+  "character": "熊",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "能",
+      "speechText": "のう、という字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "灬",
+      "speechText": "れっか",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "爪",
+    "radicalName": "つめ",
+    "radicalMeaning": "爪",
+    "originDescription": "この漢字は、頭が大きく、体がごつごつしていて、四本の足を持つクマの姿をそのまま絵にした象形文字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "熊",
+      "meaning": "動物のクマ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "子熊",
+      "meaning": "小さなクマ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

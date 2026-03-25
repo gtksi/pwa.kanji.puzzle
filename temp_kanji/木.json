@@ -1,0 +1,70 @@
+{
+  "kanjiId": "木",
+  "character": "木",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横画",
+      "speechText": "よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦画",
+      "speechText": "たて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "左払い",
+      "speechText": "はらい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "右払い",
+      "speechText": "はね",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "木",
+      "speechText": "き",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "大地に根を張り、枝を伸ばしている木の姿をそのまま絵のように描いて作られた漢字です。幹（みき）や枝、根の形がよく表されています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "木立",
+      "meaning": "たくさんの木が立っているところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大木",
+      "meaning": "大きな木。",
+      "imageUrl": ""
+    },
+    {
+      "word": "木々",
+      "meaning": "たくさんの木。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

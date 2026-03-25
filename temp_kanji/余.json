@@ -1,0 +1,48 @@
+{
+  "kanjiId": "余",
+  "character": "余",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね",
+      "speechText": "ひとやねに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "に・き",
+      "speechText": "に、き",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひとやね",
+    "radicalMeaning": "人、屋根",
+    "originDescription": "もともとは、屋根のある小さな「家」の形からできました。そこから、ゆとりがあることや、使って残った「あまり」という意味になりました。",
+    "synonyms": [
+      "余り"
+    ],
+    "antonyms": [
+      "不足"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "余分",
+      "meaning": "必要な分よりも多くあって、あまっていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "余る",
+      "meaning": "全部使わずに、残ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

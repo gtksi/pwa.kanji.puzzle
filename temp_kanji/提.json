@@ -1,0 +1,49 @@
+{
+  "kanjiId": "提",
+  "character": "提",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "扌",
+      "speechText": "左に『てへん』",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "是",
+      "speechText": "右に『是』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "て",
+    "originDescription": "「提」は「手（てへん）」と「是（ぜ）」が組み合わさっています。「是」は何かをまっすぐに持つ様子を表しています。手で物を持ち上げる様子から、「さげる」「さしだす」「ていあんする」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "提案",
+      "meaning": "意見や考えを出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "提出",
+      "meaning": "書類や物を差し出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "提げる",
+      "meaning": "手で物をぶらさげて持つこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

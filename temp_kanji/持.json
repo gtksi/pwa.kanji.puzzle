@@ -1,0 +1,49 @@
+{
+  "kanjiId": "持",
+  "character": "持",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "てへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寺",
+      "speechText": "お寺の、寺",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手の動作",
+    "originDescription": "手を使って、お寺（寺）の仕事を手伝ったり守ったりすることから、手に「もつ」や「たもつ」という意味になりました。",
+    "synonyms": [
+      "保",
+      "有"
+    ],
+    "antonyms": [
+      "放"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "持ち物",
+      "meaning": "自分が持っている道具や持ち物。もちもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "支持",
+      "meaning": "考えにさんせいして、ささえること。しじ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "鋼",
+  "character": "鋼",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "金",
+      "speechText": "かねへん、きらきらきんぞく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "岡",
+      "speechText": "おかのじ、がっしりつよい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属やお金",
+    "originDescription": "左の「金（かねへん）」は金属を表します。右側の「岡（おか）」は、固くて強いものや、山のように積み重なったものを表す部分です。これらが合わさって、金属の中でも特に固く強い「はがね」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鋼鉄",
+      "meaning": "鉄を加工した、かたくて強い金属",
+      "imageUrl": ""
+    },
+    {
+      "word": "鋼板",
+      "meaning": "鋼を板状にしたもの",
+      "imageUrl": ""
+    },
+    {
+      "word": "製鋼",
+      "meaning": "鋼をつくること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

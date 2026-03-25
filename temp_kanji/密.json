@@ -1,0 +1,56 @@
+{
+  "kanjiId": "密",
+  "character": "密",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "「うかんむり」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "必",
+      "speechText": "「したにひっ」、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "山",
+      "speechText": "「そのしたやま」で、みつ、みつ、みつ！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、建物",
+    "originDescription": "「密」は、宀（うかんむり）と必（ひつ）、山を組み合わせた漢字だよ。「宀」は家、必はぎっしり詰まった様子を表すんだ。家の中に物がたくさん詰まってすき間がない様子から、「こっそり」や「ぎっしり」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "秘密",
+      "meaning": "他の人に知られてはいけないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "密集",
+      "meaning": "ぎっしり集まっていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "精密",
+      "meaning": "とても細かく正確なこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

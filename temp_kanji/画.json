@@ -1,0 +1,56 @@
+{
+  "kanjiId": "画",
+  "character": "画",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "どうがまえ",
+      "speechText": "どうがまえだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "たんぼのた",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "縦画",
+      "speechText": "ぐぐっとたて線",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "凵",
+    "radicalName": "うけばこ",
+    "radicalMeaning": "ものをかこむ",
+    "originDescription": "昔の人が、筆で何かを描く様子を表している漢字だよ。地面に線で区切りを描いたり、絵を描いたりすることを意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "画用紙",
+      "meaning": "絵を描くための紙。",
+      "imageUrl": ""
+    },
+    {
+      "word": "計画",
+      "meaning": "何かをしようと考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "画面",
+      "meaning": "テレビやコンピューターで絵や文字がうつるところ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

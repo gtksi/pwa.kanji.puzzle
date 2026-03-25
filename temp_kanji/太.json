@@ -1,0 +1,56 @@
+{
+  "kanjiId": "太",
+  "character": "太",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "よこぼう、いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "下にひとがまえ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "点",
+      "speechText": "ちょんと点",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "おお",
+    "radicalMeaning": "大きい、ひろい",
+    "originDescription": "「大」は人が大きく手を広げた形です。そこに点を加えることで、さらに「大きい」こと、「ふとっている」ことを表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "太陽",
+      "meaning": "お昼の空に輝く、熱くてまぶしい星。",
+      "imageUrl": ""
+    },
+    {
+      "word": "太る",
+      "meaning": "体がだんだん大きくなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "太い",
+      "meaning": "道や糸などの幅が広いこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

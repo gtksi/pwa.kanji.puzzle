@@ -1,0 +1,63 @@
+{
+  "kanjiId": "黄",
+  "character": "黄",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "上の部分は、くさかんむり！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田んぼ",
+      "speechText": "真ん中には、田んぼの田！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "下の八",
+      "speechText": "その下に、八の字！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "土",
+      "speechText": "最後は、土の字だよ！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "黄",
+    "radicalName": "きいろ",
+    "radicalMeaning": "きいろ",
+    "originDescription": "もともとは弓につける装飾品を描いた文字だけど、地面の色である『きいろ』を表すようになったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "黄色",
+      "meaning": "太陽やレモンなどの色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "黄金",
+      "meaning": "きらきら光る金のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "黄門",
+      "meaning": "江戸時代の水戸黄門のような役職名。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

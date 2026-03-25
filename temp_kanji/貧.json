@@ -1,0 +1,49 @@
+{
+  "kanjiId": "貧",
+  "character": "貧",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ハの字",
+      "speechText": "ハの字！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "貝（かい）で、貧（ひん）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、財産",
+    "originDescription": "「貧」の字は、お金や財産を表す「貝」と、「分ける」「少ない」という意味を表す「分」が合わさってできました。財産が分けられて少なくなる様子から、「お金が少ない」「まずしい」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "貧しい",
+      "meaning": "お金や物が少ないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "貧乏",
+      "meaning": "お金や財産が少ないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "貧困",
+      "meaning": "非常に貧しいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

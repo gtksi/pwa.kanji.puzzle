@@ -1,0 +1,56 @@
+{
+  "kanjiId": "酸",
+  "character": "酸",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひよみのとり",
+      "speechText": "よこ、たて、よこ、たて、よこ、たて、よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "む",
+      "speechText": "ななめに、かぎ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ち",
+      "speechText": "ななめ、ななめ、たて",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "酉",
+    "radicalName": "ひよみのとり",
+    "radicalMeaning": "酒、酒器、発酵",
+    "originDescription": "左の「酉（ひよみのとり）」は、お酒を入れるかめや、発酵する様子を表すよ。お酒が発酵しすぎると「すっぱく」なることから、「すっぱい」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "酸っぱい",
+      "meaning": "食べ物や飲み物の味が、レモンのようにきつい味。",
+      "imageUrl": ""
+    },
+    {
+      "word": "酸素",
+      "meaning": "空気の中にある、生きていくために大切な気体。",
+      "imageUrl": ""
+    },
+    {
+      "word": "炭酸",
+      "meaning": "二酸化炭素が水にとけているもの。サイダーなど。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

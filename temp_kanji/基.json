@@ -1,0 +1,44 @@
+{
+  "kanjiId": "基",
+  "character": "基",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "其",
+      "speechText": "その",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "土",
+      "speechText": "つち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "つち",
+    "originDescription": "「土」と「其（その）」という漢字が合わさってできたよ。建物を建てるときに、しっかりとした「土」の上に「その」土台を築く様子から、物事の「根本」や「基礎」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "基礎",
+      "meaning": "物事の土台となる、とても大事な部分のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "基本",
+      "meaning": "物事を行う上で、もとになる大切なきまりや考え方のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

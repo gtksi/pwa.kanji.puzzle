@@ -1,0 +1,51 @@
+{
+  "kanjiId": "七",
+  "character": "七",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横画",
+      "speechText": "横ぼう、グッと右上がり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "折れ曲がり",
+      "speechText": "タテから、まがって、右にはねる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ひとつ。また、指を一本横にした形。",
+    "originDescription": "もともとは、何かを「切る」ことを表す形でした。横の線と縦の線が交差しているのは、切られた断面を表しています。のちに、数が「ななつ」あることを表すための専用の漢字として使われるようになりました。",
+    "synonyms": [
+      "7"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "七つ",
+      "meaning": "数がななつあること、または七歳のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "七夕",
+      "meaning": "七月七日の夜。願いごとを短冊に書いて飾る日本の行事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "七日",
+      "meaning": "一か月のうちの七番目の日。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

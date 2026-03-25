@@ -1,0 +1,49 @@
+{
+  "kanjiId": "曲",
+  "character": "曲",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "枠",
+      "speechText": "はこを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中身",
+      "speechText": "たてぼう二本、横に一本",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "曰",
+    "radicalName": "ひらび",
+    "radicalMeaning": "言葉や枠組みに関すること",
+    "originDescription": "竹などで編んだカゴの形や、線がまがっている様子を表しています。まっすぐではないことを意味します。",
+    "synonyms": [
+      "まがる",
+      "メロディ"
+    ],
+    "antonyms": [
+      "直"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "曲がる",
+      "meaning": "まっすぐではなく、折れる",
+      "imageUrl": ""
+    },
+    {
+      "word": "作曲",
+      "meaning": "音楽のメロディを作ること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

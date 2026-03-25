@@ -1,0 +1,54 @@
+{
+  "kanjiId": "章",
+  "character": "章",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "立",
+      "speechText": "立（たつ）を上に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "真ん中に日（ひ）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "十",
+      "speechText": "一番下に十（じゅう）で「文章の章」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "立",
+    "radicalName": "たつ",
+    "radicalMeaning": "立つ、成立",
+    "originDescription": "音楽の区切りや、はっきりした模様を表す字です。今は文章の大きな区切り（チャプター）や、身分を表すためのしるし（バッジ）を表します。",
+    "synonyms": [
+      "句",
+      "段"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "文章",
+      "meaning": "言葉をつなげて、まとまった内容を書いたもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "第一章",
+      "meaning": "本や物語の、一番はじめの区切りのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

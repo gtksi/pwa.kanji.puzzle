@@ -1,0 +1,51 @@
+{
+  "kanjiId": "下",
+  "character": "下",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "まっすぐ　ひくよ、　よこぼう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒",
+      "speechText": "したに　のびるよ、　たてぼう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ものごとのはじまり、ひとつ",
+    "originDescription": "地面（横棒）に向かって、人が降りていく（縦棒）様子を表した漢字です。「下」は、低い場所や、物事の根本・原因という意味も持ちます。",
+    "synonyms": [],
+    "antonyms": [
+      "上"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "下車",
+      "meaning": "乗り物から降りること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "下手",
+      "meaning": "技量が未熟なこと。また、その人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "下記",
+      "meaning": "下に書かれていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

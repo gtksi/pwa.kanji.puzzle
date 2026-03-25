@@ -1,0 +1,56 @@
+{
+  "kanjiId": "年",
+  "character": "年",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "干",
+      "speechText": "「干」を書いて、乾燥の干",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "横棒一本、間に引く",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "「口」を書いて、下の口",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "干",
+    "radicalName": "かん",
+    "radicalMeaning": "とし、一年",
+    "originDescription": "稲穂が実り、収穫が終わるまでの周期を表した象形文字だよ。昔は稲の成長を一年と考えていたことから、「とし」の意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "今年",
+      "meaning": "今の年",
+      "imageUrl": ""
+    },
+    {
+      "word": "来年",
+      "meaning": "次の年",
+      "imageUrl": ""
+    },
+    {
+      "word": "少年",
+      "meaning": "若い男の子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

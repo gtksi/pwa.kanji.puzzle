@@ -1,0 +1,49 @@
+{
+  "kanjiId": "展",
+  "character": "展",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尸",
+      "speechText": "しかばねだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "幵",
+      "speechText": "ならぶだよ、はい「展」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "尸",
+    "radicalName": "しかばね",
+    "radicalMeaning": "体を横たえる、覆う",
+    "originDescription": "この漢字は、もともと「体を広げる」様子や、物を平らに広げる様子を表していました。そこから、色々なものを「ひろげる」や「展示する」という意味で使われるようになった漢字です。広い場所で広げているイメージだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "展示",
+      "meaning": "品物などを並べて見せること",
+      "imageUrl": ""
+    },
+    {
+      "word": "発展",
+      "meaning": "物事が進歩し、規模が大きくなること",
+      "imageUrl": ""
+    },
+    {
+      "word": "展開",
+      "meaning": "広げて開くこと、物事が広がる様子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

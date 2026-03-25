@@ -1,0 +1,53 @@
+{
+  "kanjiId": "炭",
+  "character": "炭",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "やま",
+      "speechText": "山（やま）を上に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "がんだれ",
+      "speechText": "がんだれの下に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ひ",
+      "speechText": "火（ひ）を燃やそう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひ",
+    "radicalMeaning": "火、燃える",
+    "originDescription": "「山」の中で木を「火」で焼いて作ったのが「すみ」です。エネルギーになる黒いかたまりのことを表しています。",
+    "synonyms": [
+      "煤"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "石炭",
+      "meaning": "大昔の木が地面の中で固まって、燃料になったもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "二酸化炭素",
+      "meaning": "私たちが息をはくときに出るガスの名前。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

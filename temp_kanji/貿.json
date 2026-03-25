@@ -1,0 +1,42 @@
+{
+  "kanjiId": "貿",
+  "character": "貿",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "卯",
+      "speechText": "上（うえ）に卯（うさぎ）を書（か）いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "下（した）に貝（かい）を書（か）く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、たからもの",
+    "originDescription": "「卯」は左右（さゆう）に開（あ）いた門の形を、「貝」はお金を表します。物やお金をやり取りして、入れかえることを表しています。",
+    "synonyms": [
+      "換",
+      "易"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "貿易",
+      "meaning": "国と国の間で、品物（しなもの）を売り買いすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

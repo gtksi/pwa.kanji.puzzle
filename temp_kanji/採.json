@@ -1,0 +1,49 @@
+{
+  "kanjiId": "採",
+  "character": "採",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "扌",
+      "speechText": "てへんを、左にかくぞ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "采",
+      "speechText": "つくりは「サイ」、とる意味！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "て",
+    "originDescription": "「てへん（手）」と「采（さい）」を組み合わせた漢字だよ。采は、木の実を手で摘み取る様子を表すんだ。手を使って、草花や実などを「とる」「集める」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "採用",
+      "meaning": "人を選んで、会社や学校に迎え入れることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "採集",
+      "meaning": "草花や虫などを、集めることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "採点",
+      "meaning": "テストや作文に、点数をつけることだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

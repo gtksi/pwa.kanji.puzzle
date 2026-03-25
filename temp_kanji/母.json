@@ -1,0 +1,56 @@
+{
+  "kanjiId": "母",
+  "character": "母",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点々",
+      "speechText": "点々、一本",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦線",
+      "speechText": "真ん中、スゥー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "点々",
+      "speechText": "点々、お母さん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "母",
+    "radicalName": "はは",
+    "radicalMeaning": "お母さん",
+    "originDescription": "赤ちゃんを抱っこしているお母さんの姿から生まれた漢字だよ。胸と腕の形がよく表されているね。優しいお母さんの様子が伝わってくるようだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "母親",
+      "meaning": "自分を産んでくれたお母さんのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "母国",
+      "meaning": "自分が生まれた国やふるさとのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "父母",
+      "meaning": "お父さんとお母さんのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

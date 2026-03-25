@@ -1,0 +1,46 @@
+{
+  "kanjiId": "粉",
+  "character": "粉",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こめへん",
+      "speechText": "こめへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "分",
+      "speechText": "分をかく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "米",
+    "radicalName": "こめへん",
+    "radicalMeaning": "お米や穀物に関すること",
+    "originDescription": "お米（米）を細かく分ける（分）ことを表し、こなという意味になりました。",
+    "synonyms": [
+      "末"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "小麦粉",
+      "meaning": "小麦をひいてこなにしたもの。パンなどの材料になる",
+      "imageUrl": ""
+    },
+    {
+      "word": "花粉",
+      "meaning": "花のめしべにつく、とても細かい粉",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

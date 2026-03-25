@@ -1,0 +1,49 @@
+{
+  "kanjiId": "製",
+  "character": "製",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "衣（ころもへん）",
+      "speechText": "まず「衣（ころもへん）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "制",
+      "speechText": "次に「制（せい）」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころもへん",
+    "radicalMeaning": "服、布",
+    "originDescription": "「衣（ころも）」と「制（せい）」が組み合わさっています。「衣」は服や布、「制」は型を定めることを表します。布を裁って服を作るように、材料から物を作り出すこと、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "製品",
+      "meaning": "工場などでつくられた品物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "製造",
+      "meaning": "材料から物をつくること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "木製",
+      "meaning": "木でできていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

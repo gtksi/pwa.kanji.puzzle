@@ -1,0 +1,49 @@
+{
+  "kanjiId": "総",
+  "character": "総",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "くるくる「いとへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "悤",
+      "speechText": "まとめる「ソウ」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸、織物",
+    "originDescription": "「糸」は糸、「悤」は多くの糸がまとまる様子を表すよ。たくさんの糸を束ねることから、「すべてをまとめる」や「全体」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "全部",
+      "meaning": "全てのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "総合",
+      "meaning": "いろいろなものを一つにまとめること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "総額",
+      "meaning": "合計の金額。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "律",
+  "character": "律",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "彳",
+      "speechText": "左に「ぎょうにんべん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "聿",
+      "speechText": "右に「ふでづくり」、きまりの「りつ」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "道、行くこと",
+    "originDescription": "「道を行く」を表す「彳」と、「筆」の形がもとになった「聿」が合わさってできたよ。筆で書かれた正しいきまりに従って進むという意味から「おきて、きまり」になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "規律",
+      "meaning": "守るべききまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "法律",
+      "meaning": "国や社会のきまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "律儀",
+      "meaning": "きちょうめんで真面目なこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

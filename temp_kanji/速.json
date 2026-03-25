@@ -1,0 +1,49 @@
+{
+  "kanjiId": "速",
+  "character": "速",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たば",
+      "speechText": "たばねるのタバを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょうで、はしる！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "⻌",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行く、進む",
+    "originDescription": "「道」を表すしんにょうと、「束ねる」という意味の漢字が合わさりました。荷物をまとめてテキパキと進むことから、「速い」という意味になりました。",
+    "synonyms": [
+      "急",
+      "早"
+    ],
+    "antonyms": [
+      "遅"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "速い",
+      "meaning": "動くスピードがはやいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "高速",
+      "meaning": "とてもはやいスピードのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,57 @@
+{
+  "kanjiId": "受",
+  "character": "受",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "爫",
+      "speechText": "つめかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冖",
+      "speechText": "わかんむり",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "又",
+      "speechText": "また",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "手、再び",
+    "originDescription": "上から出す手（爫）と、下で受けとる手（又）の間に物がある形で、何かを「うけとる」ことを意味します。",
+    "synonyms": [
+      "承",
+      "得"
+    ],
+    "antonyms": [
+      "授",
+      "与"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "受ける",
+      "meaning": "やってくるものを自分の手でとめる、またはもらう。うける。",
+      "imageUrl": ""
+    },
+    {
+      "word": "受付",
+      "meaning": "会社や学校で、お客さんの案内をするところ。うけつけ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

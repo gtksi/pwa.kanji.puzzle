@@ -1,0 +1,56 @@
+{
+  "kanjiId": "春",
+  "character": "春",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "三",
+      "speechText": "三本線に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "ひと",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "日",
+      "speechText": "ひ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "太陽、時間",
+    "originDescription": "「春」は、草木が芽吹き（上部の形）、太陽（日）が暖かくなり、みんなが楽しみにする季節を表しているよ。日がだんだん長くなる様子も含まれているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "春",
+      "meaning": "冬のあと、夏の前の季節。",
+      "imageUrl": ""
+    },
+    {
+      "word": "春休み",
+      "meaning": "春の長いお休み。",
+      "imageUrl": ""
+    },
+    {
+      "word": "青春",
+      "meaning": "若くて元気な時期。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

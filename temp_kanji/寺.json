@@ -1,0 +1,63 @@
+{
+  "kanjiId": "寺",
+  "character": "寺",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "土の字、ピー、スー、ピー",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寸の横",
+      "speechText": "寸の横棒、ピー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "寸のノ",
+      "speechText": "寸のノ、ひゅっ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "寸の点",
+      "speechText": "寸の点、ちょん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "手の動作や規則に関すること",
+    "originDescription": "上の部分は「土」を表し、下の「寸（すん）」は手の動きを表すよ。昔は役所のような公共の場所を指したけど、仏教が伝わってからは「お寺」という意味で使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "寺院",
+      "meaning": "お寺のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "古寺",
+      "meaning": "古いお寺。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お寺",
+      "meaning": "仏様をまつる場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

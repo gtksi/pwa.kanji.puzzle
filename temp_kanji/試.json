@@ -1,0 +1,49 @@
+{
+  "kanjiId": "試",
+  "character": "試",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "式",
+      "speechText": "式の字、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉に関する意味を表す",
+    "originDescription": "「試」は、「言葉」と「式（しき）」からできています。「式」は物事の決まったやり方。言葉で問いかけたり、定まった方法で力を「ためす」様子を表すことから、「ためす」や「挑戦する」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "試験",
+      "meaning": "学んだことをためすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "試す",
+      "meaning": "実際にやってみて、確かめること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "試着",
+      "meaning": "服を実際に着てみること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

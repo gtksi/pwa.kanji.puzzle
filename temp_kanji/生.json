@@ -1,0 +1,70 @@
+{
+  "kanjiId": "生",
+  "character": "生",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "よこ",
+      "speechText": "上によこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "たて",
+      "speechText": "たてぼうはねて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "よこ",
+      "speechText": "真ん中よこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "よこ",
+      "speechText": "下によこぼう",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "よこ",
+      "speechText": "一番下よこぼう",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "生",
+    "radicalName": "いきる",
+    "radicalMeaning": "生まれる",
+    "originDescription": "土から芽が出てくる様子を描いた象形文字だよ。新しい命が生まれてくる様子から、「生きる」や「生まれる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "誕生日",
+      "meaning": "生まれた日",
+      "imageUrl": ""
+    },
+    {
+      "word": "先生",
+      "meaning": "物事を教える人",
+      "imageUrl": ""
+    },
+    {
+      "word": "生活",
+      "meaning": "日々の暮らし",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

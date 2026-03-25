@@ -1,0 +1,49 @@
+{
+  "kanjiId": "武",
+  "character": "武",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "止",
+      "speechText": "止（とめる）！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "戈",
+      "speechText": "戈（ほこ）で、武（ぶ）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "止",
+    "radicalName": "とめる",
+    "radicalMeaning": "足、とどまる",
+    "originDescription": "「武」の字は、武器を表す「戈（ほこ）」と、「止める」という字が合わさってできました。争いを止めるために武器を持つこと、または敵の攻撃を止めるための力、という意味から、「戦いや軍事」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "武士",
+      "meaning": "昔の日本で、戦いの仕事をした人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "武力",
+      "meaning": "戦いをするための力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "武器",
+      "meaning": "戦いで使う道具。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

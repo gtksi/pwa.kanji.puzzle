@@ -1,0 +1,44 @@
+{
+  "kanjiId": "灰",
+  "character": "灰",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ナ",
+      "speechText": "ナ（ひだりて）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "火",
+      "speechText": "下に火を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひ",
+    "radicalMeaning": "火に関すること",
+    "originDescription": "「火」の上に、人の手（ナ）をのせている姿です。火を手でさわって熱くない、もえかすの「はい」を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "灰色",
+      "meaning": "灰のような、ねずみ色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "石灰",
+      "meaning": "石灰岩を焼いて作る白い粉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

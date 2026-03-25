@@ -1,0 +1,49 @@
+{
+  "kanjiId": "航",
+  "character": "航",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "舟",
+      "speechText": "ふねへん、左側だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亢",
+      "speechText": "右に、高いの亢（こう）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "舟",
+    "radicalName": "ふね",
+    "radicalMeaning": "ふねに関すること",
+    "originDescription": "「舟」はふね、「亢」はまっすぐ進むという意味だよ。船が水の上をまっすぐに進んでいく様子を表す漢字なんだ。空を飛ぶことにも使うよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "航空",
+      "meaning": "飛行機などで空を飛ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "航海",
+      "meaning": "船に乗って海を旅すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "出航",
+      "meaning": "船が港から出発すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

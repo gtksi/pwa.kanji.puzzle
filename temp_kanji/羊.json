@@ -1,0 +1,44 @@
+{
+  "kanjiId": "羊",
+  "character": "羊",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ツ",
+      "speechText": "ソを書いて三を引く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丨",
+      "speechText": "最後にたてぼう、ひつじ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羊",
+    "radicalName": "ひつじ",
+    "radicalMeaning": "ひつじに関すること",
+    "originDescription": "ひつじの頭を正面から見た様子をそのまま漢字にしました。角と耳、そして顔の形がもとになっています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "子羊",
+      "meaning": "ひつじの子供",
+      "imageUrl": ""
+    },
+    {
+      "word": "羊毛",
+      "meaning": "ひつじの毛（ウール）",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "映",
+  "character": "映",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "日（ひ）へんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "央",
+      "speechText": "央（おう）を書いて、映画の映",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽、光",
+    "originDescription": "太陽（日）の光が真ん中（央）にあたり、影や姿がはっきりと映ることを表しています。",
+    "synonyms": [
+      "写",
+      "照"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "映画",
+      "meaning": "スクリーンに映るお話",
+      "imageUrl": ""
+    },
+    {
+      "word": "夕映え",
+      "meaning": "夕日に照らされて美しく見えること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

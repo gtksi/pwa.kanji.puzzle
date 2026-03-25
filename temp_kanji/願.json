@@ -1,0 +1,49 @@
+{
+  "kanjiId": "願",
+  "character": "願",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "原",
+      "speechText": "はら、ゲン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "頁",
+      "speechText": "おおがい、ページのおおがい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "頭",
+    "originDescription": "「原」は泉がわき出る形、「頁」は人の頭を表します。「頭をたれて、心の底から願いをこめる」という意味から、「ねがう」「のぞむ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "願い",
+      "meaning": "心からかなえたいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "願書",
+      "meaning": "願い事を書いた書類。",
+      "imageUrl": ""
+    },
+    {
+      "word": "志願",
+      "meaning": "自分から進んで願い出ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

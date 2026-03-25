@@ -1,0 +1,70 @@
+{
+  "kanjiId": "士",
+  "character": "士",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒",
+      "speechText": "に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒",
+      "speechText": "さん",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "縦棒",
+      "speechText": "し",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "横棒",
+      "speechText": "ご、はい「士」！",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "士",
+    "radicalName": "さむらい",
+    "radicalMeaning": "武士、学士",
+    "originDescription": "「士」は、もともと「仕事をする人」や「学識のある人」を表す字だよ。「十」と「一」が合わさって、たくさんのことを学び、一つの道を極める人、つまり知識人や立派な武士を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "武士",
+      "meaning": "昔、戦いに出て国を守った人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "学士",
+      "meaning": "大学を卒業した人に与えられる称号。",
+      "imageUrl": ""
+    },
+    {
+      "word": "博士",
+      "meaning": "学問を深く研究した、とても知識のある人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

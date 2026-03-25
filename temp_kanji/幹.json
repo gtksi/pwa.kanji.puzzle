@@ -1,0 +1,49 @@
+{
+  "kanjiId": "幹",
+  "character": "幹",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "干",
+      "speechText": "ホスたつ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "き",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "干",
+    "radicalName": "かん",
+    "radicalMeaning": "盾、干す",
+    "originDescription": "「木」と、木の下半分、根や幹の部分を表す昔の文字が組み合わさってできたよ。木の中でも一番太くて大事な「幹」そのものを表すようになったんだ。物事の「中心」という意味でも使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "幹部",
+      "meaning": "組織の中心となって働く人たちのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "幹線",
+      "meaning": "人や物がたくさん行き交う、主要な道路や鉄道のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "新幹線",
+      "meaning": "とても速い日本の電車のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

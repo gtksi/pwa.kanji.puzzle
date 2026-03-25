@@ -1,0 +1,56 @@
+{
+  "kanjiId": "工",
+  "character": "工",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "｜",
+      "speechText": "たてぼう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "工",
+    "radicalName": "こう",
+    "radicalMeaning": "物を作る職人、仕事",
+    "originDescription": "物を作るための道具の形を表した象形文字です。まっすぐに物を加工する定規や工具の形から、細工をする、巧みに作る、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "工事",
+      "meaning": "建物などを作ったり直したりする作業。",
+      "imageUrl": ""
+    },
+    {
+      "word": "工場",
+      "meaning": "物を作るための大きな建物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "細工",
+      "meaning": "細かく美しいものを作ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

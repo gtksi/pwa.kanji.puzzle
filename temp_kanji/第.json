@@ -1,0 +1,47 @@
+{
+  "kanjiId": "第",
+  "character": "第",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たけかんむり",
+      "speechText": "たけかんむりを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おとうと",
+      "speechText": "下に弟（おとうと）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹、ふだ",
+    "originDescription": "竹の札（ふだ）を、ひもで順番に並べた形からできました。そこから「じゅんばん」や「おだいさま」という意味になりました。",
+    "synonyms": [
+      "番",
+      "順"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "第一",
+      "meaning": "いちばんはじめ。もっとも大切なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "次第",
+      "meaning": "物事が決まっていく順番のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

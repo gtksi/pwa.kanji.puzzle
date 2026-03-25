@@ -1,0 +1,56 @@
+{
+  "kanjiId": "欠",
+  "character": "欠",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "カタカナのノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "カギ",
+      "speechText": "カギ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ",
+      "speechText": "右のノ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "欠",
+    "radicalName": "けん",
+    "radicalMeaning": "あくび",
+    "originDescription": "人が口を開けて「あくび」をする様子を表す象形文字です。あくびをすると息が途切れることから、「足りない」「欠ける」といった意味に広がりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "欠席",
+      "meaning": "学校などを休むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "欠点",
+      "meaning": "足りないところや悪いところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "欠ける",
+      "meaning": "一部がなくなること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+  "kanjiId": "病",
+  "character": "病",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "疒",
+      "speechText": "やまいだれを屋根のように書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丙",
+      "speechText": "中にへいのひ（一・内）を入れよう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "疒",
+    "radicalName": "やまいだれ",
+    "radicalMeaning": "病気、体の不調",
+    "originDescription": "ベッドに寝ている人と、体が熱くなることを表す記号が組み合わさっています。体がだるくて苦しい「病気」を意味します。",
+    "synonyms": [
+      "患い"
+    ],
+    "antonyms": [
+      "健康"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "病院",
+      "meaning": "お医者さんが病気を治してくれる場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "病気",
+      "meaning": "体の具合が悪くなること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

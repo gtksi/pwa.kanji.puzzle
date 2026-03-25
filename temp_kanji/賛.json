@@ -1,0 +1,56 @@
+{
+  "kanjiId": "賛",
+  "character": "賛",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さき",
+      "speechText": "ななめ、たて、よこ、ななめ、よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "さき",
+      "speechText": "ななめ、たて、よこ、ななめ、よこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "かい",
+      "speechText": "たて、よこ、まがる、よこ、たて、よこ、たて",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "財貨、宝、お金",
+    "originDescription": "上の「兟」は、たくさんの人が進み出る様子を、下の「貝」は「お金」を表すよ。人々がお金を出して助けたり、ほめたたえたりする様子から、「賛成する」や「ほめる」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "賛成",
+      "meaning": "相手の意見に同じ気持ちになること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "賛美",
+      "meaning": "ほめたたえること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "賛同",
+      "meaning": "意見や考えに同意すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

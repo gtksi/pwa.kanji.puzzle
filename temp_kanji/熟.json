@@ -1,0 +1,49 @@
+{
+  "kanjiId": "熟",
+  "character": "熟",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "孰",
+      "speechText": "なにかを煮る、じゅく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "火",
+      "speechText": "めらめら燃える 火",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひ",
+    "radicalMeaning": "火や熱",
+    "originDescription": "「熟」は、ものを煮る「孰（じゅく）」と、火を表す「火」からできています。火を使って食べ物をじっくり煮て、やわらかくしたり、ちょうどよい状態にしたりすることから、ものが十分に整う、熟すという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "成熟",
+      "meaning": "十分に成長すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "熟語",
+      "meaning": "漢字を組み合わせた言葉",
+      "imageUrl": ""
+    },
+    {
+      "word": "熟練",
+      "meaning": "経験を積んで上達すること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "谷",
+  "character": "谷",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の八",
+      "speechText": "谷の上の、八の字！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "真ん中の口",
+      "speechText": "真ん中にある、四角い口！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "底の二本",
+      "speechText": "下の部分は、たてと横が二本ずつ！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "谷",
+    "radicalName": "たに",
+    "radicalMeaning": "たに",
+    "originDescription": "山と山の間にある、水が流れる深い谷間の形を描いた象形文字だよ。入り口から奥へ続く様子を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "谷間",
+      "meaning": "山と山の間にある、へこんだ土地。",
+      "imageUrl": ""
+    },
+    {
+      "word": "谷川",
+      "meaning": "谷間を流れる小さな川。",
+      "imageUrl": ""
+    },
+    {
+      "word": "谷水",
+      "meaning": "谷間を流れる水。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

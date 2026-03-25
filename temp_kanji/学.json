@@ -1,0 +1,70 @@
+{
+  "kanjiId": "学",
+  "character": "学",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つつがえる",
+      "speechText": "つつがえる",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "がくがしら",
+      "speechText": "がくがしら",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "よこぼう",
+      "speechText": "よこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "たてぼう",
+      "speechText": "たてぼう",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "はねぼう",
+      "speechText": "はねぼう",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "子",
+    "radicalName": "こ",
+    "radicalMeaning": "こども",
+    "originDescription": "昔、子どもがおじいさんのひざの上で、机に向かって文字を習っている様子を表した漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "学校",
+      "meaning": "勉強するところ",
+      "imageUrl": ""
+    },
+    {
+      "word": "学生",
+      "meaning": "学校で勉強する人",
+      "imageUrl": ""
+    },
+    {
+      "word": "学ぶ",
+      "meaning": "勉強する",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

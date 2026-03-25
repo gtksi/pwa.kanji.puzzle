@@ -1,0 +1,49 @@
+{
+  "kanjiId": "逆",
+  "character": "逆",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "屰（さかさま）",
+      "speechText": "ノ、ヨコ、タテ、ノ、ヨコ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "辶（しんにょう）",
+      "speechText": "点、ぐるっとまがって、シュッ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、歩くこと",
+    "originDescription": "「屰（さかさま）」と「しんにょう」が合わさった漢字だよ。「しんにょう」は道を表し、「屰」は顔を背けるように逆らう様子から、「逆方向」や「反対」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "逆さま",
+      "meaning": "上と下、または前後がひっくり返っている状態のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "逆転",
+      "meaning": "状況が今までと反対になること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "逆らう",
+      "meaning": "相手の意見や命令に反対すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

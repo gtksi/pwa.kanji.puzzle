@@ -1,0 +1,49 @@
+{
+  "kanjiId": "勢",
+  "character": "勢",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "埶",
+      "speechText": "左側の「埶（ゲイ）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "力",
+      "speechText": "右側の「力（ちから）」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、強いこと",
+    "originDescription": "「埶（とる）」と「力（ちから）」が組み合わさった漢字です。ものをしっかりとつかむ力、強く何かをする力、という意味を表します。勢いのある様子を指すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "勢力",
+      "meaning": "相手を動かす力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大勢",
+      "meaning": "人がたくさんいること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "体勢",
+      "meaning": "体の構え。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,63 @@
+{
+  "kanjiId": "授",
+  "character": "授",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "てへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ツメ",
+      "speechText": "右のツメ（爪）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "冖",
+      "speechText": "真ん中ワカンムリ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "又",
+      "speechText": "下のマタの字",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手に関すること",
+    "originDescription": "「手」と「受（うける）」を組み合わせた漢字。手で物を受け渡す様子から、人に何かを「与える」、教えを「伝える」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "授ける",
+      "meaning": "人に物を与えたり、教えたりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "教授",
+      "meaning": "大学の先生のこと。また、学問や技を教え伝えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "授業",
+      "meaning": "先生が教えて、生徒が学ぶ時間。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

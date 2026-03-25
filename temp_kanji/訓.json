@@ -1,0 +1,49 @@
+{
+  "kanjiId": "訓",
+  "character": "訓",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "川",
+      "speechText": "かわ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉",
+    "originDescription": "「言（ごんべん）」は言葉や話すことを、「川」は水が自然に流れる様子を表します。言葉を使って、自然に道理や正しい行いを教え導く、という意味から、「教え」「教訓」や、漢字の「訓読み」の意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "訓練",
+      "meaning": "繰り返し練習して身につけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "教訓",
+      "meaning": "人に教えとなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "訓読み",
+      "meaning": "漢字を日本語の意味で読むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

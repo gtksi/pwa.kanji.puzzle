@@ -1,0 +1,44 @@
+{
+  "kanjiId": "歯",
+  "character": "歯",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "止",
+      "speechText": "上に止（とまる）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下の部分",
+      "speechText": "凵（うけいこ）の中に米を書けば、は",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "歯",
+    "radicalName": "は",
+    "radicalMeaning": "はの形、はに関すること",
+    "originDescription": "口の中にある「は」の形を絵にした漢字です。きれいに並んだ歯の様子を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "虫歯",
+      "meaning": "ばいきんのせいで穴があいてしまった歯のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "歯医者",
+      "meaning": "歯の病気をなおしてくれる先生や病院のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

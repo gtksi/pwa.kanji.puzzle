@@ -1,0 +1,63 @@
+{
+  "kanjiId": "興",
+  "character": "興",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ヨ",
+      "speechText": "上は「よ」の形だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "その下に、口（くち）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "さらに下に、横棒",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "八",
+      "speechText": "最後に、八（はち）",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "臼",
+    "radicalName": "うす",
+    "radicalMeaning": "うすや道具に関すること",
+    "originDescription": "みんなで力を合わせて、重いものを持ち上げたり、何かを立ち上げたりする様子を表しているよ。元々は屋根の梁を組み上げる意味から来ているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "興味",
+      "meaning": "ある物事に心ひかれて、もっと知りたいと思う気持ち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "復興",
+      "meaning": "災害などでこわれた町や文化を、元の状態に戻し、盛り上げること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "振興",
+      "meaning": "ある物事を、ますます盛んにしていくこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

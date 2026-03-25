@@ -1,0 +1,42 @@
+{
+  "kanjiId": "一",
+  "character": "一",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "いち、はじまり、まっすぐ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "物事の始まり、一番最初",
+    "originDescription": "昔、物事を数えるとき、一本の指を立てて「ひとつ」と数えたことから、「ひとつ」や「はじめ」という意味になりました。一番のものです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "一番",
+      "meaning": "成績や順位などが一番上であること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一致",
+      "meaning": "二つ以上のものがぴったり同じであること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一日",
+      "meaning": "ひとひ。ひとつのひ。また、その日。３０日または３１日などのひとまとまり。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

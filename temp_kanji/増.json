@@ -1,0 +1,49 @@
+{
+  "kanjiId": "増",
+  "character": "増",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "つちつち「つちへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "曽",
+      "speechText": "かさねる「ソウ」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土、土地",
+    "originDescription": "「土」は土、「曽」は物が積み重なって増えていく様子を表すよ。土を盛り上げて高さを増すように、物の量や数が「ふえる」ことを意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "増加",
+      "meaning": "数や量が増えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "増減",
+      "meaning": "増えることと減ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "増加量",
+      "meaning": "増えた量。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

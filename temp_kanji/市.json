@@ -1,0 +1,63 @@
+{
+  "kanjiId": "市",
+  "character": "市",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の部分",
+      "speechText": "タテ、まがって横、ノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巾の横",
+      "speechText": "横棒、ピー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "巾のタテ",
+      "speechText": "タテ、スー",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "巾の最後",
+      "speechText": "ノ、ひゅっ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば",
+    "radicalMeaning": "布や幅に関すること",
+    "originDescription": "物を売ったり買ったりする「市場」や、たくさんの人が集まる場所の絵からできた漢字だよ。昔の「まち」や「いちば」の様子を表していて、そこから「市」という漢字になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "市場",
+      "meaning": "物を売買する場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "都市",
+      "meaning": "人がたくさん住む大きな町。",
+      "imageUrl": ""
+    },
+    {
+      "word": "市民",
+      "meaning": "市に住む人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

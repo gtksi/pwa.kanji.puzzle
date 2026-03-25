@@ -1,0 +1,58 @@
+{
+  "kanjiId": "飛",
+  "character": "飛",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "真ん中のたてぼう",
+      "speechText": "まずは真ん中のたてぼうから。",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "左のハネ",
+      "speechText": "左の上のハネを書いて。",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "右のハネ",
+      "speechText": "右の上のハネを書いて。",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "下の点",
+      "speechText": "最後に下の点を書くよ。",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "飛",
+    "radicalName": "とぶ",
+    "radicalMeaning": "とぶこと",
+    "originDescription": "鳥が空を大きく羽ばたいて飛んでいく姿を形にした漢字です。漢字の両側が鳥の翼、真ん中が胴体を表していると言われています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "飛行機",
+      "meaning": "空を飛ぶ乗り物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "飛び出す",
+      "meaning": "急に外へ出る。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

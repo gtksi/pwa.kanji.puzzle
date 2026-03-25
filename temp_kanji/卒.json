@@ -1,0 +1,51 @@
+{
+  "kanjiId": "卒",
+  "character": "卒",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ジュウ",
+      "speechText": "ジュウ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨコ、ハネ",
+      "speechText": "ヨコ、ハネ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ、タテ、ハネ、テン",
+      "speechText": "ノ、タテ、ハネ、テン",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "十",
+    "radicalName": "じゅう",
+    "radicalMeaning": "十（たくさん、十の数字）",
+    "originDescription": "兵隊の服装と旗を合わせた形から、兵隊を意味し、転じて兵役を終える「おわる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "卒業",
+      "meaning": "学校での教育課程を終えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "兵卒",
+      "meaning": "軍隊の位の低い兵士。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

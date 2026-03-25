@@ -1,0 +1,56 @@
+{
+  "kanjiId": "伝",
+  "character": "伝",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亻",
+      "speechText": "にんべん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "専",
+      "speechText": "もっぱら",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "伝",
+      "speechText": "にんべんに、もっぱらで、でん！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "人と「専（せん）」という字が合わさってできました。「専」は糸巻きが糸を紡ぎ広げる様子を表します。人が情報や物を「伝える」ことを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "伝える",
+      "meaning": "人から人へ情報や気持ちを知らせる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "伝記",
+      "meaning": "ある人の生涯や行いを書いたもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手伝う",
+      "meaning": "人の仕事や作業を助けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

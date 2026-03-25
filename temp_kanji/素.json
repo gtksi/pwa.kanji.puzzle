@@ -1,0 +1,49 @@
+{
+  "kanjiId": "素",
+  "character": "素",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "くるくる「いとへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "白",
+      "speechText": "まっしろ「しろ」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸、織物",
+    "originDescription": "「糸」は糸、「白」は染めていない白い布を表すよ。飾り気がなく、混じりけのない「もと」の状態や「しろい」ことを意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "素材",
+      "meaning": "物を作るためのもとになる材料。",
+      "imageUrl": ""
+    },
+    {
+      "word": "素直",
+      "meaning": "性格がひねくれておらず、まっすぐなこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "元素",
+      "meaning": "物質の基本的な種類のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

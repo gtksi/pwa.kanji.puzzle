@@ -1,0 +1,49 @@
+{
+  "kanjiId": "兄",
+  "character": "兄",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "ひとあし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "くち",
+    "originDescription": "人がひざまずき、口で神さまに祈る形から生まれたよ。昔、家族の中で一番年上の人が祈っていたことから「あに」になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "兄",
+      "meaning": "自分の兄のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "兄弟",
+      "meaning": "兄と弟のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お兄さん",
+      "meaning": "人の兄、または年上の男性。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

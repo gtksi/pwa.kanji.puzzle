@@ -1,0 +1,56 @@
+{
+  "kanjiId": "障",
+  "character": "障",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "阝",
+      "speechText": "こざとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "音",
+      "speechText": "おと",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "寸",
+      "speechText": "すん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "丘、盛り土",
+    "originDescription": "『説文解字』によると、「障」は土や壁がじゃまになる様子を表す形声文字です。高い塀や山（阜）が、ものごとをさえぎることを示し、進むことを妨げる意味が生まれました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "障害",
+      "meaning": "ものごとの進行を妨げるさまたげ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "故障",
+      "meaning": "機械などがうまく動かなくなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "障壁",
+      "meaning": "行く手をはばむ壁や障害物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

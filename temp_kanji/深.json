@@ -1,0 +1,41 @@
+{
+  "kanjiId": "深",
+  "character": "深",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい・穴・木",
+      "speechText": "さんずい、穴（あな）かんむりに、木（き）を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関すること",
+    "originDescription": "水の中に手を入れて、奥深くにあるものを探り出す様子を表しています。水のそこが遠いことや、考えが深いことを表します。",
+    "synonyms": [
+      "奥"
+    ],
+    "antonyms": [
+      "浅"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "深い",
+      "meaning": "上から下まで、または入り口から奥までが長いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "深呼吸",
+      "meaning": "大きく息を吸って、はき出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

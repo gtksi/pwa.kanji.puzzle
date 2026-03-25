@@ -1,0 +1,49 @@
+{
+  "kanjiId": "点",
+  "character": "点",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "占",
+      "speechText": "うらないの占に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "灬",
+      "speechText": "れっかをつける『点』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひ",
+    "radicalMeaning": "火のこと",
+    "originDescription": "黒い墨で「占」の形に印をつける様子から、「ちょん」と打つ小さな点や印、または物事の一部を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "点々",
+      "meaning": "小さい点がたくさんある様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "交点",
+      "meaning": "線が交わる点。",
+      "imageUrl": ""
+    },
+    {
+      "word": "重点",
+      "meaning": "大切にするところ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

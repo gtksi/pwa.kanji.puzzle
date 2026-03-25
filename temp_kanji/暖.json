@@ -1,0 +1,49 @@
+{
+  "kanjiId": "暖",
+  "character": "暖",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひへん",
+      "speechText": "日の光、ひへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "爰",
+      "speechText": "あらの「あら」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽、日",
+    "originDescription": "「日（ひへん）」は太陽、「爰」は引っ張る、または暖まる様子を表します。太陽の光で暖かくなること、温かいことを意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "暖かい",
+      "meaning": "ちょうど良い熱があって心地よいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "暖房",
+      "meaning": "部屋などを暖かくすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "温暖",
+      "meaning": "暖かくて穏やかな気候。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

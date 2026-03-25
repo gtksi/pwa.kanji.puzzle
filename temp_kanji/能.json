@@ -1,0 +1,56 @@
+{
+  "kanjiId": "能",
+  "character": "能",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "匕",
+      "speechText": "スプーンの「ひ」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "「む」の字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "能の下の月のような部分",
+      "speechText": "月だよ、シュッ、ポン！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "つきへん",
+    "radicalMeaning": "肉体、体の一部",
+    "originDescription": "もとは、力強い動きをするクマのような動物の姿を表していました。その動物が「よくできる」という意味を持つことから、「能力」や「できること」を表す漢字になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "能力",
+      "meaning": "物事をすることができる力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "芸能",
+      "meaning": "歌や踊りなど、人を楽しませる芸。",
+      "imageUrl": ""
+    },
+    {
+      "word": "可能",
+      "meaning": "することができること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

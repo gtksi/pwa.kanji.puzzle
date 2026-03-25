@@ -1,0 +1,49 @@
+{
+  "kanjiId": "捨",
+  "character": "捨",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "「てへん」さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "舎",
+      "speechText": "「舎」で「すてる」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "扌",
+    "radicalName": "てへん",
+    "radicalMeaning": "手",
+    "originDescription": "「扌」（手）と「舎」（家、立ち止まる場所）が組み合わさってできました。家の中から何かを手で放り出す、つまり不要なものを「すてる」ことを表します。物事を思い切って手放す、という意味もあります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "捨てる",
+      "meaning": "不要なものを投げ出す。",
+      "imageUrl": ""
+    },
+    {
+      "word": "取捨選択",
+      "meaning": "良いものを選び、不要なものを捨てること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "断捨離",
+      "meaning": "物への執着を断ち、不要なものを捨てること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

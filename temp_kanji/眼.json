@@ -1,0 +1,49 @@
+{
+  "kanjiId": "眼",
+  "character": "眼",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "目",
+      "speechText": "めへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "艮",
+      "speechText": "こん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "めへん",
+    "radicalMeaning": "め",
+    "originDescription": "「目」と「艮（とどまる）」が組み合わさってできた漢字だよ。「目」で物事をじっと見つめ、「とどまる」様子から、目そのもの、特に「目の玉」や「見る力」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "視力",
+      "meaning": "目の見える力のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "眼科",
+      "meaning": "目の病気を専門に診るお医者さんのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "着眼",
+      "meaning": "物事の大切な点に目を向けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "泣",
+  "character": "泣",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "水",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "立",
+      "speechText": "たつ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「水（さんずい）」は涙を、「立」は人が声をあげて泣き叫ぶ様子を表します。この二つを合わせて、涙を流しながら声をあげて泣く、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "泣く",
+      "meaning": "涙を流すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "泣き虫",
+      "meaning": "すぐに泣く人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "号泣",
+      "meaning": "大声で泣き叫ぶこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "演",
+  "character": "演",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "ひだり さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寅",
+      "speechText": "みぎは とら",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「演」は「水」と「寅」を組み合わせた漢字だよ。「水」は流れる様子を表し、「寅」は音を表しているんだ。水がよどみなく流れるように、何かをやってみせるという意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "演劇",
+      "meaning": "役者が舞台で物語を演じること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "講演",
+      "meaning": "大勢の人前で話すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "熱演",
+      "meaning": "一生懸命に演じること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

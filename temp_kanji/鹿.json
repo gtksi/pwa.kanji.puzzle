@@ -1,0 +1,65 @@
+{
+  "kanjiId": "鹿",
+  "character": "鹿",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "广",
+      "speechText": "まだれだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "匕",
+      "speechText": "ひっかけ、ひ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "匕",
+      "speechText": "また、ひっかけ、ひ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "七",
+      "speechText": "七を書いて",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "寸",
+      "speechText": "すんで終わり",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "鹿",
+    "radicalName": "しか",
+    "radicalMeaning": "しか",
+    "originDescription": "鹿の形をそのまま描いた文字だよ。角や体、足、尾の形が見えるかな？昔の人は、鹿を見てこの漢字を作ったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鹿肉",
+      "meaning": "鹿のお肉のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "奈良の鹿",
+      "meaning": "奈良県にいる鹿のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

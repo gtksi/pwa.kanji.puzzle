@@ -1,0 +1,56 @@
+{
+  "kanjiId": "害",
+  "character": "害",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "上に、うかんむり、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丰",
+      "speechText": "下は、ヨコヨコ、十、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "その下に、口、かくよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "「害」は、家の中に虫や病気が入り込んで、作物を傷つける様子を表す漢字だよ。悪い影響や損害を与える、という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "被害",
+      "meaning": "損害を受けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "公害",
+      "meaning": "環境への悪い影響。",
+      "imageUrl": ""
+    },
+    {
+      "word": "害虫",
+      "meaning": "作物や人に害を与える虫。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

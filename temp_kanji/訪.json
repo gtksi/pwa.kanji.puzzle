@@ -1,0 +1,49 @@
+{
+  "kanjiId": "訪",
+  "character": "訪",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "方",
+      "speechText": "ほうこうの方で、おとずれる！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことば、はなす",
+    "originDescription": "「訪」は、相手のところへ行って「尋ねる」ことや「訪ねる」ことを表す漢字です。左の「言（ごんべん）」は「言葉」を意味し、右の「方」は「方向」を示し、音を表します。人に会いにいく様子が目に浮かびます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "訪問",
+      "meaning": "訪ねていくこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "探訪",
+      "meaning": "訪ねて調べたりすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "訪日",
+      "meaning": "日本を訪れること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

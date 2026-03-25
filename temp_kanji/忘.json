@@ -1,0 +1,49 @@
+{
+  "kanjiId": "忘",
+  "character": "忘",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亡",
+      "speechText": "「ぼう」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "「したにこころ」で、わすれる、わすれる、ぼう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心、気持ち",
+    "originDescription": "「忘」は、「亡」と「心」を組み合わせた漢字だよ。「亡」はいなくなるという意味。「心」がいなくなる、つまり、心の中から何かが消えてしまうことで「わすれる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "忘却",
+      "meaning": "忘れること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "健忘",
+      "meaning": "物をよく忘れること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "忘れ物",
+      "meaning": "忘れてきた物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

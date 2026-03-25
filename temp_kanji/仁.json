@@ -1,0 +1,49 @@
+{
+  "kanjiId": "仁",
+  "character": "仁",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二",
+      "speechText": "二",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人、人間",
+    "originDescription": "『説文解字』では、「仁」は人が互いに思いやる心を表す会意文字です。二人（人＋二）が寄り添い、相手を大切にする気持ちを示すとされます。人を愛し、優しく接する「仁徳」の精神です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "仁愛",
+      "meaning": "人をいつくしみ、思いやる心。",
+      "imageUrl": ""
+    },
+    {
+      "word": "仁義",
+      "meaning": "人として守るべき道徳。",
+      "imageUrl": ""
+    },
+    {
+      "word": "仁術",
+      "meaning": "人を救うための優れた医療。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "旗",
+  "character": "旗",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "はたがまえ",
+      "speechText": "はたがまえ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "其",
+      "speechText": "その、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "方",
+    "radicalName": "ほう",
+    "radicalMeaning": "方角",
+    "originDescription": "「㫃（はた）」は旗の形を表し、「其（キ）」は、旗が風になびく様子を表すと言われています。もともとは、軍隊の目印として使う旗を意味していました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "旗",
+      "meaning": "目印となる布。",
+      "imageUrl": ""
+    },
+    {
+      "word": "国旗",
+      "meaning": "国のしるしの旗。",
+      "imageUrl": ""
+    },
+    {
+      "word": "旗手",
+      "meaning": "旗を持つ人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "要",
+  "character": "要",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "西の上の形",
+      "speechText": "上に西のような形（かなめ）を書く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "女",
+      "speechText": "下に女（おんな）を書いて、どっしり支える",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "襾",
+    "radicalName": "かなめ・にし",
+    "radicalMeaning": "おおうこと、または腰に関する意味を表す",
+    "originDescription": "人が腰に手を当てている姿を表しています。腰は体の中心で大切な場所なので「大事なこと」という意味になりました。",
+    "synonyms": [
+      "必",
+      "枢"
+    ],
+    "antonyms": [
+      "不要"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "必要",
+      "meaning": "どうしてもなくてはならないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "重要",
+      "meaning": "とても大切で、おろそかにできないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

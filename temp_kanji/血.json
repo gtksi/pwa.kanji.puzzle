@@ -1,0 +1,44 @@
+{
+  "kanjiId": "血",
+  "character": "血",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "上にノを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "皿",
+      "speechText": "下に皿（さら）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "血",
+    "radicalName": "ち",
+    "radicalMeaning": "血、生命",
+    "originDescription": "お皿の中に、神様にささげるための生き物の血が入っている形からできました。体の中を流れる赤い液体のことです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "血液",
+      "meaning": "体の中を流れている血のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鼻血",
+      "meaning": "鼻の中から出る血。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

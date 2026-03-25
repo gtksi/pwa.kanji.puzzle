@@ -1,0 +1,32 @@
+{
+  "kanjiId": "置",
+  "character": "置",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "あみめ",
+      "speechText": "あみめ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なお",
+      "speechText": "ヨコ、タテ、ヨコ、タテ、ハネ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "网",
+    "radicalName": "あみめ",
+    "radicalMeaning": "あみ",
+    "originDescription": "「网（あみ）」と「直（まっすぐ）」を合わせた漢字です。網をまっすぐ広げて設置する様子から、物を「おく」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

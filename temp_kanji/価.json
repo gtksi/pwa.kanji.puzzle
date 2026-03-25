@@ -1,0 +1,49 @@
+{
+  "kanjiId": "価",
+  "character": "価",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "かい (貝)",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "ひと",
+    "originDescription": "「人」と「貝」を組み合わせてできた漢字だよ。「貝」は昔お金として使われていたから、人の持っている値うち、つまり「ねだん」や「かち」を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "価格",
+      "meaning": "品物の値段。",
+      "imageUrl": ""
+    },
+    {
+      "word": "価値",
+      "meaning": "そのものがもっている大切さ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "定価",
+      "meaning": "お店で決まっている値段。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

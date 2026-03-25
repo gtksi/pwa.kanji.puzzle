@@ -1,0 +1,49 @@
+{
+  "kanjiId": "告",
+  "character": "告",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "牛",
+      "speechText": "うえは「うし」の形！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "したは「くち」の形だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "牛",
+    "radicalName": "うしへん",
+    "radicalMeaning": "うし",
+    "originDescription": "「牛（うし）」と「口（くち）」を組み合わせた漢字だよ。昔、神様に牛をささげて、口で願い事を伝えたことから、「つげる」「しらせる」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "広告",
+      "meaning": "みんなに商品や情報を知ってもらうためのものだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "報告",
+      "meaning": "状況や結果を人に伝えることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "予告",
+      "meaning": "前もって、何かを知らせることだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

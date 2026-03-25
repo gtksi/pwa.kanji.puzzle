@@ -1,0 +1,63 @@
+{
+  "kanjiId": "四",
+  "character": "四",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たて棒",
+      "speechText": "たて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横・縦・ハネ",
+      "speechText": "カギ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "中の八",
+      "speechText": "なかのハ（八）",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "底の横線",
+      "speechText": "とじて四",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲むこと",
+    "originDescription": "もともとは、口から息が「スッ」と出る様子を表した漢字でしたが、同じ「し」という音を持つ「四」の数字として使われるようになりました。四角い箱の中に、二本の線が入っているように見えますね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "四つ",
+      "meaning": "四つの数、または四個のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "四角",
+      "meaning": "角（かど）が四つある、ましかくな形のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "四月",
+      "meaning": "一年の中で四番目の月。春のはじまりの月。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

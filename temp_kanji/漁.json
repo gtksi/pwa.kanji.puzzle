@@ -1,0 +1,49 @@
+{
+  "kanjiId": "漁",
+  "character": "漁",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "水",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "魚",
+      "speechText": "さかな",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「水（さんずい）」は水や海を、「魚」は魚そのものを表します。この二つを合わせて、水辺で魚をとる「漁業」の意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "漁業",
+      "meaning": "魚をとる仕事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "漁師",
+      "meaning": "魚をとる人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大漁",
+      "meaning": "魚がたくさんとれること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

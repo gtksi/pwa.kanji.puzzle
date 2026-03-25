@@ -1,0 +1,49 @@
+{
+  "kanjiId": "移",
+  "character": "移",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへん、おこめ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "多",
+      "speechText": "た、おおい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "稲",
+    "originDescription": "「禾（のぎへん）」はお米の植物を表し、「多（た）」は音を表しているよ。田んぼで稲を別の場所に「うつしかえる」様子から、物や場所を「うごかす」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "移動",
+      "meaning": "場所をうごかすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "移る",
+      "meaning": "別の場所へ行く。",
+      "imageUrl": ""
+    },
+    {
+      "word": "転移",
+      "meaning": "位置や状態を移すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

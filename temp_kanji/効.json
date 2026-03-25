@@ -1,0 +1,49 @@
+{
+  "kanjiId": "効",
+  "character": "効",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "力",
+      "speechText": "ちからへん、左側だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "交",
+      "speechText": "右に、交わると書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "ちからに関すること",
+    "originDescription": "「力」はちから、「交」はまじわるという意味だよ。力がまじりあって、良い結果が生まれる様子を表す漢字なんだ。役に立つという意味もあるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "効果",
+      "meaning": "何かをしたり、使ったりした結果のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "効く",
+      "meaning": "薬や方法が、ねらいどおりの良い結果を出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "効力",
+      "meaning": "働く力や、ききめのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

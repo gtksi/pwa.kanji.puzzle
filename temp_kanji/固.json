@@ -1,0 +1,49 @@
+{
+  "kanjiId": "固",
+  "character": "固",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くにがまえ",
+      "speechText": "くにがまえ、囲むよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "古",
+      "speechText": "ふるいの、古、中だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲むこと、場所に関する意味を表す",
+    "originDescription": "「固」は、「囗（くにがまえ）」と「古（ふるい）」からできています。「囗」は囲い、「古」は昔からの堅いものを表します。昔から変わらず、しっかりと固まっている様子を表す漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "固定",
+      "meaning": "動き出さないように、しっかり留めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "固まる",
+      "meaning": "液体が固くなったり、集まって一つになったりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "固い",
+      "meaning": "丈夫で、壊れにくい様子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

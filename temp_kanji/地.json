@@ -1,0 +1,49 @@
+{
+  "kanjiId": "地",
+  "character": "地",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つちへん",
+      "speechText": "つちへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "也",
+      "speechText": "也（や）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土、地面",
+    "originDescription": "「土」という漢字と、「広がる」という意味を持つ「也」という漢字が合わさりました。広がる「地面」や「大地」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "地面",
+      "meaning": "足もとにある土や土地のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "地図",
+      "meaning": "土地の形や、道、建物などを示した絵。",
+      "imageUrl": ""
+    },
+    {
+      "word": "土地",
+      "meaning": "地面や地面のある場所のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

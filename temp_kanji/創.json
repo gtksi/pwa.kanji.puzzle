@@ -1,0 +1,49 @@
+{
+  "kanjiId": "創",
+  "character": "創",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "倉",
+      "speechText": "左は『倉』！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "りっとう",
+      "speechText": "右は『りっとう』！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀",
+    "originDescription": "右の「りっとう」は刀、左の「倉」は準備する様子を表すよ。刀で切り開いて新しいものを生み出したり、物事を始めるという意味が込められているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "創造",
+      "meaning": "新しいものを作り出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "創作",
+      "meaning": "物語や音楽などを新しく作り出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "創立",
+      "meaning": "学校や会社などを新しく設けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

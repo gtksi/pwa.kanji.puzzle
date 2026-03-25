@@ -1,0 +1,47 @@
+{
+  "kanjiId": "対",
+  "character": "対",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぶん",
+      "speechText": "文（ぶん）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "すん",
+      "speechText": "右に寸（すん）をならべる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "手の動き、長さ",
+    "originDescription": "もともとは、ろうそく立てを向かい合わせに置く形からできました。そこから「むかいあう」や「ふたつで一つ」という意味になりました。",
+    "synonyms": [
+      "向",
+      "偶"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "反対",
+      "meaning": "あべこべなこと。意見に賛成しないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "対決",
+      "meaning": "どっちが強いか勝負すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

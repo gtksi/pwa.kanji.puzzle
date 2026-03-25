@@ -1,0 +1,63 @@
+{
+  "kanjiId": "魚",
+  "character": "魚",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "撇",
+      "speechText": "の",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "田",
+      "speechText": "た",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "四点",
+      "speechText": "てん、てん、てん、てん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "魚",
+    "radicalName": "さかな",
+    "radicalMeaning": "さかな",
+    "originDescription": "お魚の頭、胴体、そして尾びれやウロコの形をうまく組み合わせて作られた漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "金魚",
+      "meaning": "小さくて赤い、観賞用の魚。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小魚",
+      "meaning": "小さい魚のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "魚肉",
+      "meaning": "魚の身のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

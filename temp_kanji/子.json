@@ -1,0 +1,55 @@
+{
+  "kanjiId": "子",
+  "character": "子",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "フの形",
+      "speechText": "「フ」を書いて、ぴょんとはねて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "まんなかに、よこぼうの「一」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "子",
+    "radicalName": "こ",
+    "radicalMeaning": "子ども、生まれる",
+    "originDescription": "生まれたばかりの赤ちゃんの形からできた漢字です。大きな頭と、元気に動かしている両手を表しています。新しい命や、大切な家族の一員を意味しています。",
+    "synonyms": [
+      "児童",
+      "わらべ"
+    ],
+    "antonyms": [
+      "親",
+      "大人"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "子供",
+      "meaning": "小さい人のこと。お父さんやお母さんから生まれた人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "男子",
+      "meaning": "男の子のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "女子",
+      "meaning": "女の子のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

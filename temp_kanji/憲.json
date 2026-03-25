@@ -1,0 +1,61 @@
+{
+  "kanjiId": "憲",
+  "character": "憲",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丰",
+      "speechText": "三を書いてタテ棒",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "目",
+      "speechText": "目（め）を書いて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "心",
+      "speechText": "心（こころ）をそえる",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心、感情、精神的な働き",
+    "originDescription": "家の屋根、目、そして心を合わせた字です。正しい道から外れないよう、自分の心にきびしい「おきて」を設けることを表しています。",
+    "synonyms": [
+      "典",
+      "則"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "憲法",
+      "meaning": "国家の基本となる最も重要な法律",
+      "imageUrl": ""
+    },
+    {
+      "word": "合憲",
+      "meaning": "憲法の定めに合っていること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

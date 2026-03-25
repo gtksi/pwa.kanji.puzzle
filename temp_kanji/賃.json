@@ -1,0 +1,49 @@
+{
+  "kanjiId": "賃",
+  "character": "賃",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "貝",
+      "speechText": "かい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "任",
+      "speechText": "にん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "貨幣、財産",
+    "originDescription": "「貝」と「任」を合わせた漢字です。「貝」は昔のお金を意味し、「任」は「まかせる」という意味です。仕事に対して支払われるお金や、物を借りたときに払う代金を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "賃金",
+      "meaning": "労働の対価として支払われるお金",
+      "imageUrl": ""
+    },
+    {
+      "word": "家賃",
+      "meaning": "家や部屋を借りる代金",
+      "imageUrl": ""
+    },
+    {
+      "word": "運賃",
+      "meaning": "乗り物に乗る料金や物を運ぶ料金",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

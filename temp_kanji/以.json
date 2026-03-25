@@ -1,0 +1,49 @@
+{
+  "kanjiId": "以",
+  "character": "以",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "上に、人、書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "イ",
+      "speechText": "下に、カタカナの、イ、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "人",
+    "originDescription": "「以」は、人が手に何かを持っている形からできた漢字だよ。何かを使って物事を行う、という気持ちを表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "以外",
+      "meaning": "それ以外のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "以上",
+      "meaning": "それよりも上のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "以前",
+      "meaning": "前のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

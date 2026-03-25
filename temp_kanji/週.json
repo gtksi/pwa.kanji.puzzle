@@ -1,0 +1,49 @@
+{
+  "kanjiId": "週",
+  "character": "週",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "辶",
+      "speechText": "しんにょうに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "周",
+      "speechText": "まわる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、行く",
+    "originDescription": "「週」は、道を行く（辶）ことと、ぐるりと一周する（周）ことを組み合わせた漢字だよ。七日間で一周する時間の単位を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "一週間",
+      "meaning": "七日間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "今週",
+      "meaning": "今の七日間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "週末",
+      "meaning": "週の終わり、土曜日と日曜日。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

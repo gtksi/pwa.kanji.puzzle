@@ -1,0 +1,44 @@
+{
+  "kanjiId": "駅",
+  "character": "駅",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うまへん",
+      "speechText": "馬へん、たてぼう長く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "尺",
+      "speechText": "尺の字を、まっすぐに",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "馬",
+    "radicalName": "うまへん",
+    "radicalMeaning": "馬",
+    "originDescription": "「駅」は、昔、馬を使って人や物を運んだ宿場を表す漢字だよ。馬に関係する「馬」と、距離や場所を意味する「尺」が組み合わさって、乗り物を乗り降りする「えき」の意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "駅前",
+      "meaning": "駅の入り口の前の場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "駅員",
+      "meaning": "駅で働く人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

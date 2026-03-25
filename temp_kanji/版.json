@@ -1,0 +1,49 @@
+{
+  "kanjiId": "版",
+  "character": "版",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "片",
+      "speechText": "かたへん、シュッ、トン、トン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "反",
+      "speechText": "「はん」の字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "片",
+    "radicalName": "かた",
+    "radicalMeaning": "片方、板",
+    "originDescription": "片（かたへん）と、音を表す反（はん）からできています。片は「板切れ」を表し、木版を使って文字や絵を印刷する様子から、「印刷用の板」や「出版」の意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "出版",
+      "meaning": "本や雑誌を作って世に出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "版画",
+      "meaning": "木や金属の板に絵を彫って印刷した絵。",
+      "imageUrl": ""
+    },
+    {
+      "word": "初版",
+      "meaning": "最初に出版されたもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

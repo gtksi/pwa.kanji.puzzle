@@ -1,0 +1,44 @@
+{
+  "kanjiId": "横",
+  "character": "横",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木へん",
+      "speechText": "木へん、まっすぐたてぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "黄",
+      "speechText": "黄色の字、きれいな形に",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木",
+    "originDescription": "「横」は、木が水平に伸びている様子や、木で作ったつっかい棒が横にある様子を表す漢字だよ。木に関係する「木」と、黄色い色を表す「黄」が組み合わさって、「よこ」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "横断",
+      "meaning": "道などを横切ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "横書き",
+      "meaning": "文を左から右へ横に書くこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

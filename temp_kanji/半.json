@@ -1,0 +1,49 @@
+{
+  "kanjiId": "半",
+  "character": "半",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "八",
+      "speechText": "はち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "牛",
+      "speechText": "うし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "十",
+    "radicalName": "じゅう",
+    "radicalMeaning": "数字の十",
+    "originDescription": "大きな牛を、半分に「分ける」様子を表した漢字だよ。物事を真ん中で二つに区切ることを意味しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "半分",
+      "meaning": "全体を二つに分けた一つ分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "半年",
+      "meaning": "一年の半分、六か月。",
+      "imageUrl": ""
+    },
+    {
+      "word": "半日",
+      "meaning": "一日の半分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

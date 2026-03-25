@@ -1,0 +1,84 @@
+{
+  "kanjiId": "自",
+  "character": "自",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "横棒、ピー",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "タテ",
+      "speechText": "タテ、スー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒",
+      "speechText": "横棒、ピー",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "タテ",
+      "speechText": "タテ、スー",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "横棒",
+      "speechText": "横棒、ピー",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "横棒",
+      "speechText": "横棒、ピー",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "タテ",
+      "speechText": "タテ、スー",
+      "chantOrder": 7,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "自",
+    "radicalName": "みずから",
+    "radicalMeaning": "自分自身に関すること",
+    "originDescription": "昔の人の「鼻」の形からできた漢字だよ。昔は「自分」のことを指すときに鼻を指したことから、そこから「自分自身」という意味を表すようになったんだね。ユニークな字源だね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "自分",
+      "meaning": "わたし自身のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自由",
+      "meaning": "好きなようにできること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自動",
+      "meaning": "自分で動くこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

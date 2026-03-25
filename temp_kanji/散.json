@@ -1,0 +1,49 @@
+{
+  "kanjiId": "散",
+  "character": "散",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "敝",
+      "speechText": "へいの字、下だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攴",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "棒で打つことに関する意味を表す",
+    "originDescription": "「散」は、もともと物がバラバラになる様子や、草がまき散らされる様子を表した漢字だよ。手で物を打ち散らすという意味から、「ちらばる」や「ばらばらにする」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "散歩",
+      "meaning": "気分転換に歩くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "散る",
+      "meaning": "花や葉が落ちること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "解散",
+      "meaning": "集まっていたものが別々に分かれること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

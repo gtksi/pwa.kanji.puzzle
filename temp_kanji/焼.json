@@ -1,0 +1,44 @@
+{
+  "kanjiId": "焼",
+  "character": "焼",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "火",
+      "speechText": "ひへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "尭",
+      "speechText": "尭と書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひへん",
+    "radicalMeaning": "火",
+    "originDescription": "火に関することを表す「ひへん」と、「尭（ぎょう）」という音を表す部分を合わせた漢字だよ。火で物を焼くことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "焼く",
+      "meaning": "火を使って熱を加えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "焼き肉",
+      "meaning": "肉を焼いて食べること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

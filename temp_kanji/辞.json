@@ -1,0 +1,49 @@
+{
+  "kanjiId": "辞",
+  "character": "辞",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "辛",
+      "speechText": "からいの、辛、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "舌",
+      "speechText": "舌の字、下だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辛",
+    "radicalName": "からい",
+    "radicalMeaning": "罪や間違いに関する意味を表す",
+    "originDescription": "「辞」は、「辛（からい）」と「舌（した）」からできています。「辛」は罪を、「舌」は言葉を表します。もともと、間違いを言葉で訴えたり、弁解したりする意味だったが、次第に「言葉」全般や「やめる」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "言葉",
+      "meaning": "人が話したり書いたりする音や文字。",
+      "imageUrl": ""
+    },
+    {
+      "word": "辞書",
+      "meaning": "言葉の意味を調べる本。",
+      "imageUrl": ""
+    },
+    {
+      "word": "辞める",
+      "meaning": "仕事や役目を終えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

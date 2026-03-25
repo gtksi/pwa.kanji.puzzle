@@ -1,0 +1,63 @@
+{
+  "kanjiId": "耳",
+  "character": "耳",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "一（いち）をかいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦二本",
+      "speechText": "左にタテ、右にタテ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "中の二",
+      "speechText": "中に短い二（に）をかいて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "最後の一",
+      "speechText": "下の一（いち）を長くつき出す",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "耳",
+    "radicalName": "みみ",
+    "radicalMeaning": "耳に関わる動作や状態を表す",
+    "originDescription": "「耳」は、人の耳を横から見た形をかたどって作られた漢字です。外側のわくと、中の複雑な形が組み合わさって今の文字になりました。音を聞くための大切な体の器官であることを表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "耳",
+      "meaning": "体の、音を聞くところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "初耳",
+      "meaning": "初めて聞くこと。今まで知らなかったこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "耳あて",
+      "meaning": "寒くないように、耳をおおう防寒具。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

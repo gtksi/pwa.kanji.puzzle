@@ -1,0 +1,48 @@
+{
+  "kanjiId": "留",
+  "character": "留",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ク・マ",
+      "speechText": "ク、マ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "た",
+      "speechText": "た",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田んぼ、土地",
+    "originDescription": "田んぼに水がたまっている様子や、人がそこにとどまることを表しています。そこから、動かずにそこに「とどまる」という意味になりました。",
+    "synonyms": [
+      "止まる"
+    ],
+    "antonyms": [
+      "去る"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "留守",
+      "meaning": "家をあけて、外に出ていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "留学",
+      "meaning": "外国へ行って、その国で勉強すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

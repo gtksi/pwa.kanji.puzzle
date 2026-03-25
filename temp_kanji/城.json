@@ -1,0 +1,52 @@
+{
+  "kanjiId": "城",
+  "character": "城",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つちへん",
+      "speechText": "つちへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "成",
+      "speechText": "成る（なる）と書けば、お城のできあがり！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち・つちへん",
+    "radicalMeaning": "土、土地、地面に関係すること",
+    "originDescription": "「土」と、完成するという意味の「成」が組み合わさってできました。土を高く盛り上げて、敵から町を守るための大きなカベや建物を作ったことを表しており、「しろ」という意味になりました。",
+    "synonyms": [
+      "城郭",
+      "要塞"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お城",
+      "meaning": "敵から自分たちの町を守るために建てられた、立派な建物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "城跡",
+      "meaning": "昔、お城が建っていた場所。今も石垣などが残っている場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "城下町",
+      "meaning": "お城を中心にして、その周りにたくさんの人が住んで発展した町。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

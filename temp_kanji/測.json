@@ -1,0 +1,49 @@
+{
+  "kanjiId": "測",
+  "character": "測",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずい、水が流れる",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "則",
+      "speechText": "そく、きまりの則",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水（みず）",
+    "originDescription": "「水（みず）」と「則（そく）」から、水深や物の長さなどをはかることを表します。はかる、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "測定",
+      "meaning": "長さや重さなどをはかること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "予測",
+      "meaning": "これからどうなるか、前もって考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "観測",
+      "meaning": "天気や星などを注意して見ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

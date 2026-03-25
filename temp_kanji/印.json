@@ -1,0 +1,49 @@
+{
+  "kanjiId": "印",
+  "character": "印",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つめ",
+      "speechText": "上は、つめ、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ふしづくり",
+      "speechText": "下は、ふしづくり、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "卩",
+    "radicalName": "ふしづくり",
+    "radicalMeaning": "ひざまずく人、しるし",
+    "originDescription": "「印」は、ひざまずいた人が手に物を押さえつける様子を表す漢字だよ。そこから、しるしを押すという意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "印鑑",
+      "meaning": "名前やしるしを押す道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "目印",
+      "meaning": "何かを見つけるためのしるし。",
+      "imageUrl": ""
+    },
+    {
+      "word": "印刷",
+      "meaning": "文字や絵を紙に写し出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

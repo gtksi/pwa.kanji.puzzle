@@ -1,0 +1,49 @@
+{
+  "kanjiId": "先",
+  "character": "先",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上のツノ",
+      "speechText": "上のツノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下の足",
+      "speechText": "下の足",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "儿",
+    "radicalName": "ひとあし",
+    "radicalMeaning": "人が足を出す様子",
+    "originDescription": "人が足を前に出して進む様子を表す字。これから「まえ」「さき」という意味になりました。物事の始まりや、時や場所の「さき」を示します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "先生",
+      "meaning": "教える人、教師",
+      "imageUrl": ""
+    },
+    {
+      "word": "先月",
+      "meaning": "前の月",
+      "imageUrl": ""
+    },
+    {
+      "word": "先週",
+      "meaning": "前の週",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "倉",
+  "character": "倉",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね",
+      "speechText": "ひとやね",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ロ",
+      "speechText": "カタカナのロ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "人や建物",
+    "originDescription": "屋根と入口のある建物の中に物を蓄える様子から、米などをしまっておく「くら」を表す漢字ができました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "倉庫",
+      "meaning": "物をしまっておく大きな建物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "土蔵",
+      "meaning": "土で作られた、火事に強い古い倉庫。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

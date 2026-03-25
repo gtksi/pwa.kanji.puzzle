@@ -1,0 +1,49 @@
+{
+  "kanjiId": "糖",
+  "character": "糖",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "米",
+      "speechText": "こめへんだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "唐",
+      "speechText": "からだよ、はい「糖」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "米",
+    "radicalName": "こめへん",
+    "radicalMeaning": "こめ、穀物",
+    "originDescription": "この漢字は、お米などの穀物から作られる、甘い「あめ」や「砂糖」を表していました。唐は音を表すよ。そこから、「さとう」や「甘いもの」という意味で使われるようになった漢字です。お米から甘いものができるんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "砂糖",
+      "meaning": "甘味料の一種",
+      "imageUrl": ""
+    },
+    {
+      "word": "糖分",
+      "meaning": "糖質の成分",
+      "imageUrl": ""
+    },
+    {
+      "word": "糖質",
+      "meaning": "炭水化物の一部で甘みのある物質",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

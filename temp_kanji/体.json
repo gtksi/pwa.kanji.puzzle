@@ -1,0 +1,49 @@
+{
+  "kanjiId": "体",
+  "character": "体",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "本",
+      "speechText": "もと",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人、人間",
+    "originDescription": "人という漢字と、木の根っこを表す「本」という漢字を組み合わせてできました。人にとってとても大切な「からだ」を表すようになった漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "体",
+      "meaning": "人や動物の全身のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "体育",
+      "meaning": "学校で体を動かす運動の時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "体力",
+      "meaning": "体の力の強さ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

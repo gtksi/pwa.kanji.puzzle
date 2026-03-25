@@ -1,0 +1,44 @@
+{
+  "kanjiId": "弁",
+  "character": "弁",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ム",
+      "speechText": "ムをかいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "にじゅうあし",
+      "speechText": "下ににじゅうあしをかく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "廾",
+    "radicalName": "にじゅうあし",
+    "radicalMeaning": "両手でささげること",
+    "originDescription": "冠（かんむり）を頭にのせる様子から、けじめをつけることや、言葉で分けることを表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お弁当",
+      "meaning": "外出先で食べるために、容器に入れたごはん",
+      "imageUrl": ""
+    },
+    {
+      "word": "関西弁",
+      "meaning": "大阪や京都など、関西地方で使われる言葉のなまり",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

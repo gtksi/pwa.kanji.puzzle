@@ -1,0 +1,49 @@
+{
+  "kanjiId": "肥",
+  "character": "肥",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづき、シュッ、トン、シュッ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巴",
+      "speechText": "まあるい「は」の字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "つきへん",
+    "radicalMeaning": "肉体、体の一部",
+    "originDescription": "にくづき（⺼）と、音を表す巴（は）からできています。巴はまるく太ったヘビの様子を表し、肉がついて太る様子や、土が豊かになる様子を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "肥料",
+      "meaning": "作物がよく育つように土に入れる栄養。",
+      "imageUrl": ""
+    },
+    {
+      "word": "肥満",
+      "meaning": "体に脂肪がつきすぎている状態。",
+      "imageUrl": ""
+    },
+    {
+      "word": "肥大",
+      "meaning": "大きくなること、ふとること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

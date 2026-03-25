@@ -1,0 +1,49 @@
+{
+  "kanjiId": "閉",
+  "character": "閉",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "もんがまえ",
+      "speechText": "もんがまえ、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "才",
+      "speechText": "才能の才で、とじる！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "門",
+    "radicalName": "もんがまえ",
+    "radicalMeaning": "もん、とびら",
+    "originDescription": "「閉」は、「門」が閉じられている様子を表す漢字です。昔の家の門や、入り口をふさぐ様子から生まれました。左側の「門」が扉の意味を、右側の「才」が音を表します。「開」と反対の意味で使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "閉会",
+      "meaning": "会合や会議を終わりにすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "閉店",
+      "meaning": "店を閉めること",
+      "imageUrl": ""
+    },
+    {
+      "word": "閉鎖",
+      "meaning": "閉じて出入りをできなくすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

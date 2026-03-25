@@ -1,0 +1,49 @@
+{
+  "kanjiId": "討",
+  "character": "討",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべんがあるよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寸",
+      "speechText": "すんだよ、はい「討」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことば、話す",
+    "originDescription": "昔、言葉を使って相手の罪を問いただしたり、ものごとについて話し合って深く調べたりする様子から生まれました。そこから、「追求する」や「とがめる」という意味になった漢字です。話し合って答えを探すイメージだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "討論",
+      "meaning": "意見を出し合って議論すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "討伐",
+      "meaning": "敵や悪者を攻め滅ぼすこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "検討",
+      "meaning": "物事を詳しく調べて考えること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

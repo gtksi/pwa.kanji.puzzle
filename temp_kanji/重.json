@@ -1,0 +1,43 @@
+{
+  "kanjiId": "重",
+  "character": "重",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "千と里",
+      "speechText": "千（せん）の下に、里（さと）を書いて、おもい",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "里",
+    "radicalName": "さと",
+    "radicalMeaning": "村・距離",
+    "originDescription": "人が重い荷物を背負って、地面に力強く立っている様子を表しています。そこから「おもい」や「かさなる」という意味になりました。",
+    "synonyms": [
+      "重要",
+      "重力"
+    ],
+    "antonyms": [
+      "軽",
+      "軽い"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "重い",
+      "meaning": "体重や荷物の目方が大きいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "体重",
+      "meaning": "体の重さのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

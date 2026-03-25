@@ -1,0 +1,58 @@
+{
+  "kanjiId": "左",
+  "character": "左",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "まずは、横（よこ）に「一（いち）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はらい",
+      "speechText": "左（ひだり）に「ノ（の）」とはらって",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "たくみ",
+      "speechText": "下に「工（え）」を書けば、「左」のできあがり！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "工",
+    "radicalName": "たくみ",
+    "radicalMeaning": "道具や工作、仕事",
+    "originDescription": "「左」という字は、左手と、おまじないの道具である「工」を組み合わせて作られました。昔の人は、左手に道具を持って神様へのお祈りを助けていたことから、「助ける」や「左」という意味になりました。",
+    "synonyms": [],
+    "antonyms": [
+      "右"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "左手",
+      "meaning": "ひだりがわの手。",
+      "imageUrl": ""
+    },
+    {
+      "word": "左右",
+      "meaning": "左と右。両方のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "左がわ",
+      "meaning": "左の方角や位置。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "寒",
+  "character": "寒",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "井",
+      "speechText": "井戸（いど）の井（い）、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ハ・二",
+      "speechText": "カタカナの「ハ」の下にチョンチョン二つの点",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家や屋根に関すること",
+    "originDescription": "家の中で人が、わら（草）にくるまって、床の氷（二つの点）から寒さをしのいでいる姿を表しています。",
+    "synonyms": [
+      "冷"
+    ],
+    "antonyms": [
+      "暑",
+      "暖"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "寒冷",
+      "meaning": "空気や気温がとてもつめたくて寒いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "寒風",
+      "meaning": "冬の冷たい風のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

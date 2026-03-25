@@ -1,0 +1,58 @@
+{
+  "kanjiId": "馬",
+  "character": "馬",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横",
+      "speechText": "よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まがる線",
+      "speechText": "まがるせん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "点々",
+      "speechText": "てんてんてんてん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "馬",
+    "radicalName": "うまへん",
+    "radicalMeaning": "馬に関する漢字",
+    "originDescription": "たてがみやしっぽ、足の様子など、馬の姿をそのまま描いた象形文字だよ。力強く走る馬の姿が想像できるね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "乗馬",
+      "meaning": "馬に乗ること。スポーツとしても人気だよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "馬車",
+      "meaning": "馬がひいて走る車のこと。昔は人や物を運ぶのに使われたよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

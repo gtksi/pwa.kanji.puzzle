@@ -1,0 +1,56 @@
+{
+  "kanjiId": "名",
+  "character": "名",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夕",
+      "speechText": "ゆう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "名",
+      "speechText": "な",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口",
+    "originDescription": "「夕方（ゆうがた）」を表す「夕」と、「口」を組み合わせた漢字です。昔は暗い夕方には、相手の顔が見えにくいので、自分の「名前」を口で告げて、誰であるかを伝えました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "名前",
+      "meaning": "人や物に付けられた呼び名。",
+      "imageUrl": ""
+    },
+    {
+      "word": "有名",
+      "meaning": "多くの人に知られていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "名月",
+      "meaning": "美しい月。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

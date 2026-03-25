@@ -1,0 +1,51 @@
+{
+  "kanjiId": "港",
+  "character": "港",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "共",
+      "speechText": "共通の共をのせて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "己",
+      "speechText": "下に己（おのれ）を書けばみなと",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関係すること",
+    "originDescription": "「水」と、みんなが集まるという意味の「共」などが合わさりました。たくさんの船が集まって止まる場所を指します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "空港",
+      "meaning": "飛行機が乗り降りする場所。空のみなと",
+      "imageUrl": ""
+    },
+    {
+      "word": "港町",
+      "meaning": "海の近くにあって、船がたくさん来る町",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

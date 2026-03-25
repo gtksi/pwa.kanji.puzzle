@@ -1,0 +1,49 @@
+{
+  "kanjiId": "間",
+  "character": "間",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "門",
+      "speechText": "もんだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "ひだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "門",
+    "radicalName": "もんがまえ",
+    "radicalMeaning": "もん",
+    "originDescription": "「門（もん）」のすきまから、光がさしこむ様子を表した漢字だよ。二つのものの「間」や、時間の「間」という意味で使うんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "時間",
+      "meaning": "時の流れ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "昼間",
+      "meaning": "昼の時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "間に合う",
+      "meaning": "決められた時間や場所に間に合うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

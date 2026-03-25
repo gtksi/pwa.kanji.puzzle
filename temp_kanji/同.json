@@ -1,0 +1,56 @@
+{
+  "kanjiId": "同",
+  "character": "同",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "外枠",
+      "speechText": "そとのかこい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口や口の動きに関する漢字",
+    "originDescription": "同じ家の中で一緒に暮らす様子や、同じ口から同じ声が出る様子を表すと言われているよ。みんなと「同じ」という意味だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "同じ",
+      "meaning": "違いがなく、そっくりであること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "同時",
+      "meaning": "二つ以上のことが、ちょうど同じ時間に行われること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "同級生",
+      "meaning": "同じ学年にいる友達のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

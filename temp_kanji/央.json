@@ -1,0 +1,44 @@
+{
+  "kanjiId": "央",
+  "character": "央",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "大",
+      "speechText": "大の字、大きく広げて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中の点",
+      "speechText": "真ん中に、ちょんと点",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "大きい",
+    "originDescription": "「央」は、物の真ん中、中心を表す漢字だよ。人が胸に何かを抱えている様子を表すともいわれ、一番大切な「まんなか」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "中央",
+      "meaning": "真ん中。中心。",
+      "imageUrl": ""
+    },
+    {
+      "word": "中央公園",
+      "meaning": "都市の真ん中にある大きな公園。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

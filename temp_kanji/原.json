@@ -1,0 +1,49 @@
+{
+  "kanjiId": "原",
+  "character": "原",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "厂",
+      "speechText": "がんだれ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "泉",
+      "speechText": "いずみ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "厂",
+    "radicalName": "がんだれ",
+    "radicalMeaning": "がけ",
+    "originDescription": "崖を表す「がんだれ」と、水がわき出る「泉」の組み合わせ。崖の下から水がわき出る場所、広い「野原」を表すようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "野原",
+      "meaning": "広々とした土地。",
+      "imageUrl": ""
+    },
+    {
+      "word": "原っぱ",
+      "meaning": "広々とした野原。",
+      "imageUrl": ""
+    },
+    {
+      "word": "原料",
+      "meaning": "物を作るもとになるもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

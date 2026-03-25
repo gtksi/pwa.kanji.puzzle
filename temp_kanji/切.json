@@ -1,0 +1,49 @@
+{
+  "kanjiId": "切",
+  "character": "切",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "七",
+      "speechText": "ななのしち、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "かたなの刀！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刃物",
+    "originDescription": "「七」（ものが分かれる様子）と「刀」（刃物）を組み合わせた漢字です。刀で物をスパッと切り分ける様子を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "切る",
+      "meaning": "ハサミや包丁などで物を分けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大切",
+      "meaning": "とても大事で、失いたくないもののこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "切手",
+      "meaning": "手紙などを送るときに貼る小さな紙のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

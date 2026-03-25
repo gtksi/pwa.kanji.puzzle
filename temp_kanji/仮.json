@@ -1,0 +1,49 @@
+{
+  "kanjiId": "仮",
+  "character": "仮",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "ひだり にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "反",
+      "speechText": "みぎは はん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "「仮」は「人」と「反」を組み合わせた漢字だよ。「反」は音を表している。もとは人に物を「貸す」という意味だったけれど、そこから「一時的なもの」「かりそめの」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "仮定",
+      "meaning": "もしもの話として、そうだと考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "仮病",
+      "meaning": "うそで病気のふりをすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "仮説",
+      "meaning": "まだ証明されていないけれど、多分そうだろうと考える意見。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

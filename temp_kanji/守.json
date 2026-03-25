@@ -1,0 +1,49 @@
+{
+  "kanjiId": "守",
+  "character": "守",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寸",
+      "speechText": "すん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "建物（宀）の中で、大事なものを手（寸）でしっかりおさえることから、「まもる」という意味になりました。",
+    "synonyms": [
+      "護",
+      "防"
+    ],
+    "antonyms": [
+      "攻"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "お守り",
+      "meaning": "神様が守ってくれるようにと願いがこめられたもの。おまもり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "留守",
+      "meaning": "家をあけて、だれもいないこと。るす。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

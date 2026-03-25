@@ -1,0 +1,42 @@
+{
+  "kanjiId": "真",
+  "character": "真",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十・目・一・ハ",
+      "speechText": "十と目、一を書いたら、下にハ（はち）を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "め",
+    "radicalMeaning": "目に関すること",
+    "originDescription": "もともとは食べ物を入れる器の中に、ぎっしり中身がつまっている様子を表しています。そこから「いっぱい」や「うそがない（本当）」という意味になりました。",
+    "synonyms": [
+      "実",
+      "正"
+    ],
+    "antonyms": [
+      "偽"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "写真",
+      "meaning": "カメラでとった、本当の姿をうつしたもののこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "真っ白",
+      "meaning": "少しもよごれがなく、とても白いこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

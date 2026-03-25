@@ -1,0 +1,70 @@
+{
+  "kanjiId": "鳥",
+  "character": "鳥",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "白",
+      "speechText": "しろ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノの字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "フ",
+      "speechText": "フの字",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "四つの点",
+      "speechText": "てん、てん、てん、てん",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "鳥",
+    "radicalName": "とり",
+    "radicalMeaning": "鳥",
+    "originDescription": "空を飛ぶ「鳥」の形をそのまま絵にした漢字です。鳥の頭、目、体、羽、足の形がはっきりと見て取れます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鳥",
+      "meaning": "空を飛ぶ動物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "小鳥",
+      "meaning": "小さくてかわいい鳥。",
+      "imageUrl": ""
+    },
+    {
+      "word": "焼き鳥",
+      "meaning": "鳥の肉を焼いて作った食べ物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

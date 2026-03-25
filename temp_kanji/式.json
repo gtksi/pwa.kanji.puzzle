@@ -1,0 +1,47 @@
+{
+  "kanjiId": "式",
+  "character": "式",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "工",
+      "speechText": "たくみの、工（え）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "弋",
+      "speechText": "しきがまえ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "弋",
+    "radicalName": "しきがまえ",
+    "radicalMeaning": "くい、くいを打つ",
+    "originDescription": "矢（弋）と、道具（工）を使って決まった形を作ることから、やり方や決まりという意味になりました。",
+    "synonyms": [
+      "型",
+      "法"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "開会式",
+      "meaning": "行事が始まる時に行う、決まった儀式。かいかいしき。",
+      "imageUrl": ""
+    },
+    {
+      "word": "数式",
+      "meaning": "算数で、数字や記号を使って表したもの。すうしき。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

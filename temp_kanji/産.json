@@ -1,0 +1,56 @@
+{
+  "kanjiId": "産",
+  "character": "産",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "がんだれ",
+      "speechText": "がんだれ、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "文",
+      "speechText": "文の字、中だよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "生",
+      "speechText": "生きるの、生、下だよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "生",
+    "radicalName": "うまれる",
+    "radicalMeaning": "生きること、生み出すことに関する意味を表す",
+    "originDescription": "「産」は、「生まれる」という意味の「生」に、「ものを生み出す場所」を表す部分が組み合わされています。大地から作物が「生み出される」様子から、「生む」や「生産する」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "生産",
+      "meaning": "物を作ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "産業",
+      "meaning": "物を作り出す仕事全般。",
+      "imageUrl": ""
+    },
+    {
+      "word": "財産",
+      "meaning": "お金や土地、建物など、価値のあるもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

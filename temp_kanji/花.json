@@ -1,0 +1,49 @@
+{
+  "kanjiId": "花",
+  "character": "花",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり、草がたくさん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はな",
+      "speechText": "きれいな花",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艹",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草や植物を表す。",
+    "originDescription": "草かんむりは植物の「くさ」を表しています。その下に「化」がついて、植物が「かわっていく」様子、つまり咲いていく様子を表したのが「花」です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "花屋",
+      "meaning": "花を売る店。",
+      "imageUrl": ""
+    },
+    {
+      "word": "花火",
+      "meaning": "夜空を美しく彩る火。",
+      "imageUrl": ""
+    },
+    {
+      "word": "花見",
+      "meaning": "桜などの花が咲いているのを楽しむこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

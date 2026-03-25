@@ -1,0 +1,49 @@
+{
+  "kanjiId": "晩",
+  "character": "晩",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひへん、いち、に、さん、し",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "免",
+      "speechText": "まぬがれる、いち、に、さん、し、ご、ろく、しち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽や時間に関すること",
+    "originDescription": "「日（ひ）」と「免（まぬがれる）」を組み合わせた漢字。日が沈んで見えなくなる時間、つまり「夕方」や「夜」を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "今晩",
+      "meaning": "今日の夜",
+      "imageUrl": ""
+    },
+    {
+      "word": "晩御飯",
+      "meaning": "夕食",
+      "imageUrl": ""
+    },
+    {
+      "word": "早晩",
+      "meaning": "遅かれ早かれ、いずれ",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

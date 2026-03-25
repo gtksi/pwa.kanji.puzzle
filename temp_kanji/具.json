@@ -1,0 +1,46 @@
+{
+  "kanjiId": "具",
+  "character": "具",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "目",
+      "speechText": "目（め）の下に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "棒とハ",
+      "speechText": "横棒一本、ハ（はち）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "八",
+    "radicalName": "はち",
+    "radicalMeaning": "分ける、広がる",
+    "originDescription": "両手で大事な器をささげ持っている形です。お供え物の準備が整ったことから、「道具」や「そなえる」という意味になりました。",
+    "synonyms": [
+      "備える"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "道具",
+      "meaning": "何かを作る時や使う時に必要なもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "家具",
+      "meaning": "つくえやイス、タンスなど家で使う大きな道具。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

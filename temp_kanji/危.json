@@ -1,0 +1,55 @@
+{
+  "kanjiId": "危",
+  "character": "危",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ク",
+      "speechText": "クを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "厂",
+      "speechText": "がけ（厂）を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "巳",
+      "speechText": "巳（み）を書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "卩",
+    "radicalName": "ふしづくり",
+    "radicalMeaning": "人がひざまずく様子",
+    "originDescription": "高い崖（がけ）の上に人がいて、下の人がひざまずいて見上げている姿を表しています。高い場所から落ちそうであぶない様子を意味しています。",
+    "synonyms": [
+      "険"
+    ],
+    "antonyms": [
+      "安"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "危険",
+      "meaning": "あぶないこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "危惧",
+      "meaning": "あぶないと心配すること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

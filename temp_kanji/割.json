@@ -1,0 +1,46 @@
+{
+  "kanjiId": "割",
+  "character": "割",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "害",
+      "speechText": "うかんむり、三、口（害）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刂",
+      "speechText": "右にりっとう（刂）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀や切る動作に関すること",
+    "originDescription": "刃物（刂）を使って、固いものを切り分けることを表します。一つのものをいくつかに「わける」という意味です。",
+    "synonyms": [
+      "分"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "割合",
+      "meaning": "全体に対する、ある部分の大きさのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "分割",
+      "meaning": "いくつかに分けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

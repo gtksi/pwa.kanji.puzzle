@@ -1,0 +1,44 @@
+{
+  "kanjiId": "術",
+  "character": "術",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぎょうがまえ",
+      "speechText": "ぎょうがまえ、たてよこたてよこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "朮",
+      "speechText": "きへんに、たてぼう、よこぼう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "行",
+    "radicalName": "ぎょうがまえ",
+    "radicalMeaning": "道、行くこと",
+    "originDescription": "ぎょうがまえは「道」や「行くこと」を表すよ。右側の「朮」はもともとは道を進む様子を表す形だったんだ。だから、「道」や「やり方」から「技術」や「わざ」の意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "技術",
+      "meaning": "物事をうまく行うためのわざ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手術",
+      "meaning": "医者さんが病気やけがを治すために体を治療する特別なわざ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

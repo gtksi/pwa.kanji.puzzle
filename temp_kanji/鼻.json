@@ -1,0 +1,56 @@
+{
+  "kanjiId": "鼻",
+  "character": "鼻",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "自",
+      "speechText": "みずから",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "た",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "廾",
+      "speechText": "にじゅうあし",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "鼻",
+    "radicalName": "はな",
+    "radicalMeaning": "鼻",
+    "originDescription": "「自」が鼻の形を表し、そこに「田」や「廾」（両手で持つ形）が加わった漢字だよ。鼻の形や呼吸する様子が、より詳しく描かれるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鼻",
+      "meaning": "顔の中心にある、においをかいだり息をしたりする器官。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鼻水",
+      "meaning": "鼻から出る液体。",
+      "imageUrl": ""
+    },
+    {
+      "word": "鼻歌",
+      "meaning": "歌のメロディを口ずさむこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

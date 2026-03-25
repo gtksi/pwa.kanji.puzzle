@@ -1,0 +1,49 @@
+{
+  "kanjiId": "枚",
+  "character": "枚",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "「きへん」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "殳",
+      "speechText": "「右にるまた」で、まい、まい、まい！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、木材",
+    "originDescription": "「枚」は、「木」と「殳（るまた）」を組み合わせた漢字だよ。「木」は木材を、「殳」は棒でたたく様子を表しているんだ。もとは木の板を数える単位から、数えるもの一般に使われるようになったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "枚数",
+      "meaning": "紙などのものの数。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一枚",
+      "meaning": "一つの平たいもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "葉一枚",
+      "meaning": "葉が一つ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

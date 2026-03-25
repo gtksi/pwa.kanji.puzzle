@@ -1,0 +1,56 @@
+{
+  "kanjiId": "築",
+  "character": "築",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "竹",
+      "speechText": "たけかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "工",
+      "speechText": "工",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "貝",
+      "speechText": "貝",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "たけ",
+    "originDescription": "「築」は、竹で編んだ道具を使って土を突き固め、壁を作る様子を表しています。そこから「つくる」「きずく」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "建築",
+      "meaning": "家やビルなどをつくること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "築く",
+      "meaning": "土台や関係など、しっかりした物をつくりあげること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "新築",
+      "meaning": "新しく建物を建てること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "家",
+  "character": "家",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむり、やねのかたち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "豕",
+      "speechText": "いのこ、ぶたのかたち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "屋根を表す「宀」と、ぶたを表す「豕」を組み合わせた漢字です。昔は家の中でぶたを飼っていたことから、人が住む場所や家族を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "家事",
+      "meaning": "家の中で行う、料理やそうじなどのいろいろな仕事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自宅",
+      "meaning": "自分の住んでいる家のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

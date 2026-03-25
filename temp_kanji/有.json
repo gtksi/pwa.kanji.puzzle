@@ -1,0 +1,48 @@
+{
+  "kanjiId": "有",
+  "character": "有",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ナ",
+      "speechText": "左はらいに横ぼう（ナ）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "月",
+      "speechText": "下に月（つき）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "つき",
+    "radicalMeaning": "肉や体に関すること（ここでは肉）",
+    "originDescription": "「ナ」は手、「月」はお肉を表します。手に肉を持っていることから、「持っている」や「ある」という意味になりました。",
+    "synonyms": [
+      "在"
+    ],
+    "antonyms": [
+      "無"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "有名",
+      "meaning": "名前が広く知られていること",
+      "imageUrl": ""
+    },
+    {
+      "word": "国有",
+      "meaning": "国が持っていること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

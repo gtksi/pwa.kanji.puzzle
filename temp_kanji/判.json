@@ -1,0 +1,49 @@
+{
+  "kanjiId": "判",
+  "character": "判",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "半",
+      "speechText": "はんぶんの「はん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刂",
+      "speechText": "りっとう、シュッ、トン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀、刃物",
+    "originDescription": "りっとう（刂）と、音を表す半（はん）からできています。刀（かたな）で物を半分に分ける様子から、「分ける」「見分ける」「決める」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "判断",
+      "meaning": "物事をよく考えて決めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "判定",
+      "meaning": "正しいかどうかを決めたり、結果を決めたりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "判子",
+      "meaning": "名前などをしるすための印。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

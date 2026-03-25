@@ -1,0 +1,44 @@
+{
+  "kanjiId": "岐",
+  "character": "岐",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "山",
+      "speechText": "やま、やま",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "支",
+      "speechText": "シ、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "山",
+    "radicalName": "やま",
+    "radicalMeaning": "山",
+    "originDescription": "「山」は山を表し、「支」は木の枝が分かれる様子を表します。この二つを合わせて、道が山で二つに分かれる場所という意味になりました。選択を迫られる状況や分岐点といった意味にも使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "分岐点",
+      "meaning": "道や考え方が分かれるところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "多岐",
+      "meaning": "多くの方面に分かれること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

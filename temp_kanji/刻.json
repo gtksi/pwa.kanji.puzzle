@@ -1,0 +1,49 @@
+{
+  "kanjiId": "刻",
+  "character": "刻",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亥",
+      "speechText": "いのこ、いのししだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "りっとう、はもののかたち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刃物や切る動作",
+    "originDescription": "左の「亥（いのしし）」は、もともとブタが地面を掘る様子を表していました。右の「刀（りっとう）」は刃物を意味します。刃物で木などを「きざむ」、時間を区切る「とき」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "時刻",
+      "meaning": "時間のきまった点",
+      "imageUrl": ""
+    },
+    {
+      "word": "彫刻",
+      "meaning": "木や石などを彫って形を作ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "刻む",
+      "meaning": "細かく切ったり彫ったりすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,70 @@
+{
+  "kanjiId": "長",
+  "character": "長",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノの字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒",
+      "speechText": "よこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "まがる線",
+      "speechText": "まがる線",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "三つの点",
+      "speechText": "てん、てん、てん",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "長",
+    "radicalName": "ながい",
+    "radicalMeaning": "長い",
+    "originDescription": "もともと、長い髪の毛をきれいにとかした人の姿を表していました。そこから、「長い」という意味や、人の上に立つ「おさ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "長い",
+      "meaning": "物がすーっと伸びている様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "社長",
+      "meaning": "会社で一番えらい人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "身長",
+      "meaning": "人の体の高さのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

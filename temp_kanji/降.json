@@ -1,0 +1,56 @@
+{
+  "kanjiId": "降",
+  "character": "降",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "阜",
+      "speechText": "こざとへん、たかいおか",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夂",
+      "speechText": "ふゆがしら、ふくふく",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "止",
+      "speechText": "とめる、あしのかたち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "坂や丘、高い場所",
+    "originDescription": "「阜（こざとへん）」は高い丘や階段を表し、右側の「夅（こう）」は、足が上から下へ降りてくる様子を表す字でした。この二つが合わさって、高いところから低いところへ「おりる」という意味の漢字になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "降水",
+      "meaning": "雨や雪が降ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "降雪",
+      "meaning": "雪が降ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "降下",
+      "meaning": "高い所から低い所へ下りること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

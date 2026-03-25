@@ -1,0 +1,49 @@
+{
+  "kanjiId": "団",
+  "character": "団",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "囗",
+      "speechText": "くにがまえ、囲むくにかまえ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寸",
+      "speechText": "すん、ちいさい寸",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲（かこい）",
+    "originDescription": "「囗（くにがまえ）」は囲むこと、「寸（すん）」は丸めること。集まってまとまりを作ることから、団体という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "集団",
+      "meaning": "たくさんの人が集まってできたグループ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "団体",
+      "meaning": "目的のために集まった人々のまとまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "布団",
+      "meaning": "寝るときに使う、ふかふかの敷物や掛け物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

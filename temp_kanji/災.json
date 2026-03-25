@@ -1,0 +1,49 @@
+{
+  "kanjiId": "災",
+  "character": "災",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "巛",
+      "speechText": "うえは「さんぼんがわ」！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "火",
+      "speechText": "したは「ひ」だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひ",
+    "radicalMeaning": "ひ",
+    "originDescription": "「巛（さんぼんがわ）」と「火（ひ）」を組み合わせた漢字だよ。昔、水害（洪水など）と火事が大きな被害をもたらす災いだったことから、災害全般を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "災害",
+      "meaning": "地震や台風などで起きる、人々に大きな被害を与えることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "防災",
+      "meaning": "災害が起きても大丈夫なように、日ごろから準備することだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "被災",
+      "meaning": "災害によって、被害を受けることだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

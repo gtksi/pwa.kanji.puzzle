@@ -1,0 +1,61 @@
+{
+  "kanjiId": "出",
+  "character": "出",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "縦線",
+      "speechText": "まん中のたて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "上の山形",
+      "speechText": "カクン、カクン",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "下の山形",
+      "speechText": "下にも、カクン、カクン",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "凵",
+    "radicalName": "かんにょう",
+    "radicalMeaning": "入れ物やくぼみ",
+    "originDescription": "穴の中から、足を踏み出して外へ出ていく様子を表しています。草の芽が地上にひょっこりと出てくる形から生まれたとも言われ、何かが「外へ出る」ことを意味します。",
+    "synonyms": [
+      "出る",
+      "出外"
+    ],
+    "antonyms": [
+      "入"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "出口",
+      "meaning": "外へ出るところ",
+      "imageUrl": ""
+    },
+    {
+      "word": "出す",
+      "meaning": "中にあるものを外に出す",
+      "imageUrl": ""
+    },
+    {
+      "word": "日の出",
+      "meaning": "太陽がのぼってくること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

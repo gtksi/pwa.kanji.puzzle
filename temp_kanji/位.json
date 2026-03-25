@@ -1,0 +1,49 @@
+{
+  "kanjiId": "位",
+  "character": "位",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "左に、にんべん、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "立の略字",
+      "speechText": "右は、たてよこ、てんと点、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "「位」は、人が立つ場所や座る席を表す漢字だよ。そこから、立場や順序、地位という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "地位",
+      "meaning": "社会での立場。",
+      "imageUrl": ""
+    },
+    {
+      "word": "順位",
+      "meaning": "順番。",
+      "imageUrl": ""
+    },
+    {
+      "word": "単位",
+      "meaning": "数や量を表す基準。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

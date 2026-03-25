@@ -1,0 +1,51 @@
+{
+  "kanjiId": "短",
+  "character": "短",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "矢",
+      "speechText": "矢（や）をかいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "豆",
+      "speechText": "右に豆（まめ）で、みじかい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "矢",
+    "radicalName": "やへん",
+    "radicalMeaning": "矢、短いこと",
+    "originDescription": "矢（や）と豆（まめ）の形からできています。矢は長さを測る基準になり、豆は足の短い小さな食器を表します。そこから「みじかい」という意味になりました。",
+    "synonyms": [],
+    "antonyms": [
+      "長"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "短い",
+      "meaning": "長さや時間が足りない様子",
+      "imageUrl": ""
+    },
+    {
+      "word": "短所",
+      "meaning": "自分の苦手なところ、弱いところ",
+      "imageUrl": ""
+    },
+    {
+      "word": "短気",
+      "meaning": "すぐにおこってしまうこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

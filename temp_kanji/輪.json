@@ -1,0 +1,49 @@
+{
+  "kanjiId": "輪",
+  "character": "輪",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くるまへん",
+      "speechText": "くるまへん、車だよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "侖",
+      "speechText": "侖（ろん）の字を、右につけて、輪っかだよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "車",
+    "radicalName": "くるまへん",
+    "radicalMeaning": "くるま",
+    "originDescription": "「車（くるまへん）」は車や乗り物。右側は音とともに、ものがくるくる回る様子も表すよ。だから、車輪のように丸いものや、丸く切ったものを意味する漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "車輪",
+      "meaning": "車のわっかの部分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "指輪",
+      "meaning": "指にはめる輪っか。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大車輪",
+      "meaning": "体操の技で、体を大きく回転させること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

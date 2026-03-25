@@ -1,0 +1,49 @@
+{
+  "kanjiId": "圧",
+  "character": "圧",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "厂",
+      "speechText": "がんだれ、いっぽん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "土",
+      "speechText": "つち、にほん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "厂",
+    "radicalName": "がんだれ",
+    "radicalMeaning": "崖、岩",
+    "originDescription": "崖(がけ)の下に土がギュッと押さえつけられている様子からできた漢字だよ。重いもので上から「おしつける」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "圧力",
+      "meaning": "強くおしつける力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "押圧",
+      "meaning": "強くおさえつけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "気圧",
+      "meaning": "空気の力。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "皇",
+  "character": "皇",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "白",
+      "speechText": "上に白を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "王",
+      "speechText": "下に王を並べよう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "白",
+    "radicalName": "しろ",
+    "radicalMeaning": "白い、明るい、輝く",
+    "originDescription": "「白」は光り輝く様子、「王」は国のリーダーを指します。まばゆい光を放つような、とても立派で尊い支配者（天皇など）を意味します。",
+    "synonyms": [
+      "帝",
+      "王"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "皇居",
+      "meaning": "天皇陛下がお住まいの場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "天皇",
+      "meaning": "日本の象徴である位",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

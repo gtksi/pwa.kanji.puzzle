@@ -1,0 +1,44 @@
+{
+  "kanjiId": "臣",
+  "character": "臣",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "縦長の目",
+      "speechText": "縦長の目のような形",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下部",
+      "speechText": "その下に、たて、横、横だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "臣",
+    "radicalName": "しん",
+    "radicalMeaning": "家来",
+    "originDescription": "目を縦にした形で、頭を垂れてかしこまっている家来の様子を表しているよ。主君につかえる人や、国の役職を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "家臣",
+      "meaning": "昔、主君につかえた人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大臣",
+      "meaning": "国の重要な仕事をする役職。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

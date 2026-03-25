@@ -1,0 +1,49 @@
+{
+  "kanjiId": "月",
+  "character": "月",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つき",
+      "speechText": "まんまる おつきさま",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "かげ",
+      "speechText": "おつきさまの かげ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "つき",
+    "radicalMeaning": "夜空に光るもの、時間の単位",
+    "originDescription": "昔の人は、夜空に光るおつきさまの形を見て「月」という字をつくりました。新月から満月になるまで形が変わる様子を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "月曜日",
+      "meaning": "週の始まりの曜日の一つ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一月",
+      "meaning": "年の最初の月。",
+      "imageUrl": ""
+    },
+    {
+      "word": "月光",
+      "meaning": "月があたりを照らす光。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

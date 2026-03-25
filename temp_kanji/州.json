@@ -1,0 +1,40 @@
+{
+  "kanjiId": "州",
+  "character": "州",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずいのような点と川",
+      "speechText": "三つの点に、三本の川で、しゅう",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "川",
+    "radicalName": "かわ",
+    "radicalMeaning": "川の流れ",
+    "originDescription": "川の流れの中に、土や砂がたまってできた陸地（中州）の形から、「くに」や「土地」を意味するようになりました。",
+    "synonyms": [
+      "国",
+      "地"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "本州",
+      "meaning": "日本で一番大きな島のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "九州",
+      "meaning": "日本の南西にある大きな島のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

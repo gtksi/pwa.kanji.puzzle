@@ -1,0 +1,44 @@
+{
+  "kanjiId": "達",
+  "character": "達",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しんにょう",
+      "speechText": "しんにょう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "たつ",
+      "speechText": "ツチ、ヨコ、タテ、ハネ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、進む",
+    "originDescription": "「しんにょう（道を進む）」と「大（おおきい）」などを組み合わせました。道が通じ、ものごとがうまくいく「とどく」という意味。人々の集まりにも使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "友達",
+      "meaning": "一緒に遊んだり、話したりする仲の良い人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "到達",
+      "meaning": "目的地や目標にたどり着くこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

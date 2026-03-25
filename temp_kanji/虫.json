@@ -1,0 +1,49 @@
+{
+  "kanjiId": "虫",
+  "character": "虫",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の目みたいな形",
+      "speechText": "上の目みたいな形",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下のくねくね",
+      "speechText": "下のくねくね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "虫",
+    "radicalName": "むし",
+    "radicalMeaning": "むし",
+    "originDescription": "ヘビやトカゲのような生き物や、小さな昆虫の姿を描いた字です。そこから、地面をはう小さな生き物全般、「むし」を指すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "虫歯",
+      "meaning": "歯の病気",
+      "imageUrl": ""
+    },
+    {
+      "word": "昆虫",
+      "meaning": "虫の種類",
+      "imageUrl": ""
+    },
+    {
+      "word": "弱虫",
+      "meaning": "気が弱くて臆病な人",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

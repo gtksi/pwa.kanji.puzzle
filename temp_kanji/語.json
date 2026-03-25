@@ -1,0 +1,49 @@
+{
+  "kanjiId": "語",
+  "character": "語",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "吾",
+      "speechText": "われ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉や話に関すること",
+    "originDescription": "「言（ことば）」と「吾（われ）」を組み合わせた漢字です。「吾」は自分の発する音を表し、口から言葉を話す、伝えるという意味になりました。言葉、話すことを表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "言葉",
+      "meaning": "話したり書いたりする時の音や文字。",
+      "imageUrl": ""
+    },
+    {
+      "word": "語る",
+      "meaning": "話して伝えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "国語",
+      "meaning": "日本の言葉、日本語。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

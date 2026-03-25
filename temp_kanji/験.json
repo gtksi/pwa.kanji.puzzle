@@ -1,0 +1,49 @@
+{
+  "kanjiId": "験",
+  "character": "験",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うまへん",
+      "speechText": "うまへん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "僉",
+      "speechText": "そろえる、けん、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "馬",
+    "radicalName": "うまへん",
+    "radicalMeaning": "馬に関する意味を表す",
+    "originDescription": "「験」は、「馬」と「僉（けん）」からできています。「僉」はたくさんの馬が並んで走る様子を表し、音の「ケン」も表しています。馬を試すように、物事を試したり、経験したりする意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "経験",
+      "meaning": "実際に見たり、したりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "試験",
+      "meaning": "学んだことをためすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "実験",
+      "meaning": "実際にやってみて確かめること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

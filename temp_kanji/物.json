@@ -1,0 +1,46 @@
+{
+  "kanjiId": "物",
+  "character": "物",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "牛",
+      "speechText": "うしへんを左に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "勿",
+      "speechText": "右にひき、ノ、ノを並べるよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "牛",
+    "radicalName": "うしへん",
+    "radicalMeaning": "牛、動物",
+    "originDescription": "もともとは、いろいろな色が混ざった牛のことを表していました。そこから、世の中にある「いろいろなもの」を意味するようになりました。",
+    "synonyms": [
+      "事"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "動物",
+      "meaning": "犬やネコのように動く生き物",
+      "imageUrl": ""
+    },
+    {
+      "word": "忘れ物",
+      "meaning": "持っていくのを忘れてしまった物",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

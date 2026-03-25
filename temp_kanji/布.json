@@ -1,0 +1,56 @@
+{
+  "kanjiId": "布",
+  "character": "布",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たてぼう",
+      "speechText": "たてぼう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "よこ棒",
+      "speechText": "よこ棒！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "チョンチョン",
+      "speechText": "チョンチョン、布（ふ）！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば、きん",
+    "radicalMeaning": "きぬ、ぬの",
+    "originDescription": "「布」の字は、布（ぬの）を表す「巾（はば）」と、広げることを意味する部分が合わさってできました。元々は、布を広げて人々に分け与える様子を表し、そこから「ぬの」そのものや、「広める」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "布地",
+      "meaning": "布の生地。",
+      "imageUrl": ""
+    },
+    {
+      "word": "分布",
+      "meaning": "広く散らばって存在すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "布団",
+      "meaning": "寝るときに使うもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

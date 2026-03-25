@@ -1,0 +1,44 @@
+{
+  "kanjiId": "省",
+  "character": "省",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "少",
+      "speechText": "少ないを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "目",
+      "speechText": "下に目だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "め",
+    "radicalMeaning": "目",
+    "originDescription": "目の上に少ないものを置いた形からできた文字だよ。少ない部分を見つめ直す、無駄をはぶく、という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "反省",
+      "meaning": "自分の行いを振り返ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "省く",
+      "meaning": "無駄な部分をなくすこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "私",
+  "character": "私",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "のぎへん",
+      "speechText": "「のぎへん」さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "「ム」を書いて「わたくし」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "稲などの穀物",
+    "originDescription": "「禾」（穀物）と「厶」（特定の場所や個人的な口）が合わさってできました。もともとは私的な場所で収穫された穀物を指し、やがて「自分だけのもの」「個人的なこと」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "私鉄",
+      "meaning": "個人の会社が経営する鉄道。",
+      "imageUrl": ""
+    },
+    {
+      "word": "私服",
+      "meaning": "制服でなく、個人の服。",
+      "imageUrl": ""
+    },
+    {
+      "word": "私物",
+      "meaning": "個人の持ち物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

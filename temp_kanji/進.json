@@ -1,0 +1,42 @@
+{
+  "kanjiId": "進",
+  "character": "進",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ふるとり・しんにょう",
+      "speechText": "ふるとり、書いてから、しんにょうを合体！",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行くこと",
+    "originDescription": "「鳥（ふるとり）」が「道（しんにょう）」を前へ進む様子を表しています。鳥は後ろに下がれないので、前へ行くという意味になりました。",
+    "synonyms": [
+      "前進"
+    ],
+    "antonyms": [
+      "退",
+      "後退"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "進む",
+      "meaning": "前の方へ動いていくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "進級",
+      "meaning": "学校で、学年が一つ上がること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

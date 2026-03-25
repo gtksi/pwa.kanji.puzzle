@@ -1,0 +1,63 @@
+{
+  "kanjiId": "班",
+  "character": "班",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "王",
+      "speechText": "おうさま、いち、に、さん、し",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "刀",
+      "speechText": "かたな",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "玉",
+    "radicalName": "たまへん",
+    "radicalMeaning": "宝石や玉に関すること",
+    "originDescription": "「玉（たま）」と「刀（かたな）」を組み合わせた漢字だよ。昔、玉を刀で分けて、グループごとに配ったことから「グループ」や「仲間」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "班長",
+      "meaning": "班のリーダー",
+      "imageUrl": ""
+    },
+    {
+      "word": "当番",
+      "meaning": "順番に担当すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "分班",
+      "meaning": "グループに分けること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

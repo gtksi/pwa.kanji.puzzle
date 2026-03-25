@@ -1,0 +1,63 @@
+{
+  "kanjiId": "絶",
+  "character": "絶",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "くるくる「いとへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "スパッと「かたな」",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "巴",
+      "speechText": "ぐるぐる「ともえ」",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "卩",
+      "speechText": "ピシッと「ふしづくり」",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸、織物",
+    "originDescription": "「糸」は糸や綱、「刀」は刃物。糸を刀でぷっつりと断ち切る様子から、「途切れる」や「なくなる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "絶交",
+      "meaning": "友達との関係をきっぱりとやめること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "絶対",
+      "meaning": "どんなことがあっても必ずそうなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "絶滅",
+      "meaning": "種類が全ていなくなって、二度と現れないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

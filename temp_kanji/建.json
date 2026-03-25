@@ -1,0 +1,49 @@
+{
+  "kanjiId": "建",
+  "character": "建",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "聿",
+      "speechText": "ふで、という字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "廴",
+      "speechText": "えんにょう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "廴",
+    "radicalName": "えんにょう",
+    "radicalMeaning": "長く引く",
+    "originDescription": "「聿（ふで）」は筆を表し、物事を計画し作り上げることを示唆します。「廴（えんにょう）」は長く引くことや道を意味します。計画に基づいて建物を「建てる」ことや、国を「打ち立てる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "建物",
+      "meaning": "家やビルなどの建造物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "建設",
+      "meaning": "建物などをつくること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "建立",
+      "meaning": "寺や塔などを建てること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

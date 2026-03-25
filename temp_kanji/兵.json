@@ -1,0 +1,49 @@
+{
+  "kanjiId": "兵",
+  "character": "兵",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "八",
+      "speechText": "八（はち）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "斤",
+      "speechText": "斤（きん）の兵",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "斤",
+    "radicalName": "きん",
+    "radicalMeaning": "おの、武器",
+    "originDescription": "「斤（おの）」と、両手で何かを持つ形を組み合わせた字だよ。昔の人は、おのを両手で持って戦ったんだね。そこから、「ぶき」や「へいし」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "兵士",
+      "meaning": "戦う人のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "兵隊",
+      "meaning": "国を守る軍隊の一員。",
+      "imageUrl": ""
+    },
+    {
+      "word": "兵器",
+      "meaning": "戦いに使う道具。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,77 @@
+{
+  "kanjiId": "臓",
+  "character": "臓",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづき、体の一部",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "臣",
+      "speechText": "おみ、家来のおみ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "戈",
+      "speechText": "ほこ、武器のほこ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "一",
+      "speechText": "いちの線",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ノ",
+      "speechText": "カタカナのノ",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "にくづき",
+    "radicalMeaning": "肉、体",
+    "originDescription": "「月（にくづき、体の部分）」と「臧（ゾウ：良い、隠す）」が組み合わさった漢字。体の中にあって隠されている、生命にとって大切な「はらわた」や「内臓」を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "内臓",
+      "meaning": "体の中にある大切な器官",
+      "imageUrl": ""
+    },
+    {
+      "word": "肝臓",
+      "meaning": "体の中にある臓器の一つ",
+      "imageUrl": ""
+    },
+    {
+      "word": "心臓",
+      "meaning": "血液を送り出す臓器",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

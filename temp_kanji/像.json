@@ -1,0 +1,49 @@
+{
+  "kanjiId": "像",
+  "character": "像",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "人の「にんべん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "象",
+      "speechText": "ゾウさん「かたち」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "「人」は人、「象」はゾウの形を表し、「かたどる」という意味もあるよ。人や物の形を似せて作った像や絵を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "画像",
+      "meaning": "絵や写真などの視覚的な情報。",
+      "imageUrl": ""
+    },
+    {
+      "word": "想像",
+      "meaning": "心の中で何かを思い描くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "肖像画",
+      "meaning": "人の顔を描いた絵。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

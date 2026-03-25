@@ -1,0 +1,54 @@
+{
+  "kanjiId": "緑",
+  "character": "緑",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨ",
+      "speechText": "カタカナのヨを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "水",
+      "speechText": "下に水を書きましょう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布に関すること",
+    "originDescription": "「いとへん」は糸。右側は「皮をむく」ことをあらわします。草木の色をうつして、糸をきれいな若草色にそめたことをあらわす漢字です。",
+    "synonyms": [
+      "碧",
+      "翠"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "緑色",
+      "meaning": "草や葉っぱのような色",
+      "imageUrl": ""
+    },
+    {
+      "word": "新緑",
+      "meaning": "春から初夏にかけての、新しい葉の緑",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

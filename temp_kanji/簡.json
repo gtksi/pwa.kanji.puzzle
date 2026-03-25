@@ -1,0 +1,49 @@
+{
+  "kanjiId": "簡",
+  "character": "簡",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "竹",
+      "speechText": "たけかんむりを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "間",
+      "speechText": "下にあいだ（間）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹や書物に関すること",
+    "originDescription": "竹（たけかんむり）と、すきまを表す「間」が組み合わさりました。昔、短い手紙を書くのに使った竹のふだを表し、それが「かんたん」という意味になりました。",
+    "synonyms": [
+      "単"
+    ],
+    "antonyms": [
+      "繁",
+      "難"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "簡単",
+      "meaning": "複雑ではなく、やさしいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "簡潔",
+      "meaning": "手短で、はっきりしていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

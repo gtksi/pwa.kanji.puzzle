@@ -1,0 +1,50 @@
+{
+  "kanjiId": "末",
+  "character": "末",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "長い横線",
+      "speechText": "上の線を長くひくよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "下はみじかく、木（き）を書いて「末」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "樹木",
+    "originDescription": "「木」のてっぺんに長い横線を引いて、木の枝の「さきっぽ」を表しています。そこから、物事の「おわり」という意味になりました。",
+    "synonyms": [
+      "終",
+      "端"
+    ],
+    "antonyms": [
+      "本",
+      "始"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "年末",
+      "meaning": "一年の終わりの時期。",
+      "imageUrl": ""
+    },
+    {
+      "word": "末っ子",
+      "meaning": "きょうだいで一番最後に生まれた子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "義",
+  "character": "義",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊（ひつじ）",
+      "speechText": "ひつじ、タテ、ヨコ、チョン、チョン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "我（われ）",
+      "speechText": "ノン、点、払って、止めて、もう一回",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羊",
+    "radicalName": "ひつじ",
+    "radicalMeaning": "ひつじ",
+    "originDescription": "上は「羊」、下は「我（われ）」が組み合わさっているよ。美しい羊のように正しく、自分（我）の心に正直であることを表すよ。「正しい行い」や「道理」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "正義",
+      "meaning": "正しい道理や行いのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "意義",
+      "meaning": "その物事のもつ大切な意味や価値のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "義務",
+      "meaning": "人が果たさなければならない務めのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

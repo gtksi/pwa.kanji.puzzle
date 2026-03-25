@@ -1,0 +1,44 @@
+{
+  "kanjiId": "周",
+  "character": "周",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "四角を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "同",
+      "speechText": "中に同じと書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口",
+    "originDescription": "ものを囲む様子を表す漢字だよ。人が囲いの中にいることを表し、その後「まわり」や「一周する」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "周り",
+      "meaning": "ものの外側や周囲のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一周",
+      "meaning": "一まわりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

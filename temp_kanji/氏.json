@@ -1,0 +1,56 @@
+{
+  "kanjiId": "氏",
+  "character": "氏",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "のの字、上からシュッ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "横棒、スー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "乚",
+      "speechText": "かぎの、おつ、下まで",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氏",
+    "radicalName": "うじ",
+    "radicalMeaning": "氏族や名前に関する意味を表す",
+    "originDescription": "「氏」は、古代の氏族を表す印や、人々を区別するための名前を表した漢字だよ。次第に「〜さん」のように、人の名前につけて敬意を表す言葉としても使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "氏名",
+      "meaning": "人の名前と苗字のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "両氏",
+      "meaning": "二人の人の名前を敬って言う言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "氏族",
+      "meaning": "同じ血筋の親戚の集まり。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

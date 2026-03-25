@@ -1,0 +1,49 @@
+{
+  "kanjiId": "断",
+  "character": "断",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "米",
+      "speechText": "お米のコメ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "斤",
+      "speechText": "斧のキン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "斤",
+    "radicalName": "きん",
+    "radicalMeaning": "おの",
+    "originDescription": "「断」は、古い漢字では「糸」を「斤（おの）」で切り離す様子を表していました。糸をスパッと切ることから、「きる」「たえる」「きっぱり」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "断る",
+      "meaning": "「しません」「いりません」と返事をすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "判断",
+      "meaning": "物事のよしあしや、どうするかを決めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "断水",
+      "meaning": "水の供給が止まること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

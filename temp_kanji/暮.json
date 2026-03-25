@@ -1,0 +1,63 @@
+{
+  "kanjiId": "暮",
+  "character": "暮",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日へん",
+      "speechText": "ひへん、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "おおきな大",
+      "speechText": "おおきな大、",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "また日",
+      "speechText": "その下にひ、暮れる！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "ひ、たいよう",
+    "originDescription": "「暮」は、日が沈んであたりが暗くなる、「夕暮れ」の様子を表す漢字です。一日や季節、人生の終わりを意味することもあります。上部の「日」は太陽を、下の「莫」が音と意味を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "暮色",
+      "meaning": "夕暮れの景色や雰囲気",
+      "imageUrl": ""
+    },
+    {
+      "word": "暮らす",
+      "meaning": "生活すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "年末",
+      "meaning": "年の終わり",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

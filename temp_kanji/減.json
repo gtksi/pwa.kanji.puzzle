@@ -1,0 +1,56 @@
+{
+  "kanjiId": "減",
+  "character": "減",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "咸",
+      "speechText": "だんだんへる！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "減",
+      "speechText": "まとめて、減！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関すること",
+    "originDescription": "さんずいと「すべて」という漢字の組み合わせで、水がだんだん減っていく様子を表す漢字だよ。だから「へる」「へらす」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "減少",
+      "meaning": "数や量が減ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "減らす",
+      "meaning": "数や量を少なくすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "加減",
+      "meaning": "増やしたり減らしたりして、ちょうどよい状態にすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

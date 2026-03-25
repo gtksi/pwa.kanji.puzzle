@@ -1,0 +1,49 @@
+{
+  "kanjiId": "源",
+  "character": "源",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "原",
+      "speechText": "原（はら）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水、河川、液体の状態",
+    "originDescription": "水を表す「さんずい」と、崖から水がわき出る様子を表す「原」を組み合わせて、水がわき出る「みなもと」を意味します。",
+    "synonyms": [
+      "根",
+      "基"
+    ],
+    "antonyms": [
+      "流"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "資源",
+      "meaning": "産業や生活に必要なもととなるもの",
+      "imageUrl": ""
+    },
+    {
+      "word": "震源",
+      "meaning": "地震が発生した地下の場所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

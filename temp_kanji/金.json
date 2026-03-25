@@ -1,0 +1,66 @@
+{
+  "kanjiId": "金",
+  "character": "金",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね",
+      "speechText": "ひとやねの",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二",
+      "speechText": "下に二を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "｜",
+      "speechText": "たてぼう引いて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "点々",
+      "speechText": "左右に点々",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かね",
+    "radicalMeaning": "金属やお金に関すること",
+    "originDescription": "土の中に光りかがやく鉱石（こうせき）がうまっている様子を表しています。上の部分は土をおおう屋根のような形、下の部分は土の中にある金のつぶを表しており、そこから「黄金」や「かね」を意味するようになりました。",
+    "synonyms": [
+      "黄金",
+      "貨幣"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お金",
+      "meaning": "品物を買うときに使うもの",
+      "imageUrl": ""
+    },
+    {
+      "word": "金曜日",
+      "meaning": "一週間のなかで木曜日の次の日",
+      "imageUrl": ""
+    },
+    {
+      "word": "金メダル",
+      "meaning": "スポーツなどの大会で１番になったときにもらえるメダル",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

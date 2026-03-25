@@ -1,0 +1,47 @@
+{
+  "kanjiId": "穴",
+  "character": "穴",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりを広めに書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "八",
+      "speechText": "下に八の字を広げる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "穴",
+    "radicalName": "あな・あなかんむり",
+    "radicalMeaning": "空間、洞窟に関すること。",
+    "originDescription": "岩山にある入り口（屋根のような形）と、その下の空間（八）で、ほら穴を表しています。",
+    "synonyms": [
+      "孔",
+      "洞"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "穴場",
+      "meaning": "あまり知られていない良い場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "墓穴",
+      "meaning": "お墓のために掘ったあな",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

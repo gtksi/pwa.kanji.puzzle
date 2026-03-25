@@ -1,0 +1,56 @@
+{
+  "kanjiId": "広",
+  "character": "広",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "厂",
+      "speechText": "がんだれ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "ム",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ハ",
+      "speechText": "ハ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "厂",
+    "radicalName": "がんだれ",
+    "radicalMeaning": "がけ、屋根",
+    "originDescription": "「厂（がんだれ）」は家の屋根やがけを表し、その中に広い場所があることを示しています。ひろびろとしている、空間が大きいことを意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "広い",
+      "meaning": "面積や空間が大きいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "広がる",
+      "meaning": "範囲が大きくなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "広場",
+      "meaning": "建物などがなく、広い場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

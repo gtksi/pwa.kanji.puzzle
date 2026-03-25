@@ -1,0 +1,49 @@
+{
+  "kanjiId": "入",
+  "character": "入",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "左払い",
+      "speechText": "左に払うよ、すっとね",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "右払い",
+      "speechText": "右に払うよ、しゅっとね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "入",
+    "radicalName": "いり",
+    "radicalMeaning": "はいる",
+    "originDescription": "物が中へ入り込む様子を絵にした漢字だよ。入り口のすき間から中へ入っていく様子を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "入学",
+      "meaning": "学校に入ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "入口",
+      "meaning": "入る場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "収入",
+      "meaning": "お金が入ってくること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "望",
+  "character": "望",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "立",
+      "speechText": "立（たつ）に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "月",
+      "speechText": "月（つき）に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "王",
+      "speechText": "王（おう）様の望",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "つき",
+    "radicalMeaning": "月",
+    "originDescription": "「立（たつ）」と「月（つき）」と「王（おう）」のような形を組み合わせた字だよ。人が高く立って、月をじっと「のぞみ見る」様子を表しているんだ。そこから、「願いをかける」「期待する」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "希望",
+      "meaning": "何かをしたいと願うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "満月",
+      "meaning": "まるい形になった月。",
+      "imageUrl": ""
+    },
+    {
+      "word": "要望",
+      "meaning": "必要なことを言ったり、願ったりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

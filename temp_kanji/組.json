@@ -1,0 +1,49 @@
+{
+  "kanjiId": "組",
+  "character": "組",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへんの糸、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "且",
+      "speechText": "かつの且！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布",
+    "originDescription": "「糸」（いと）と「且」（組み立てる様子）を組み合わせた漢字です。糸をより合わせるように、たくさんのものを集めてまとめたり、組み立てたりする様子を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "組",
+      "meaning": "いくつかのものが集まってできたまとまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "組体操",
+      "meaning": "みんなで体を組んで作る体操のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "組み方",
+      "meaning": "物を組み合わせる方法。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

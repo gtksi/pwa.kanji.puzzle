@@ -1,0 +1,57 @@
+{
+  "kanjiId": "乗",
+  "character": "乗",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "千",
+      "speechText": "上に千（せん）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ハ",
+      "speechText": "真ん中にハ（はち）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "木",
+      "speechText": "一番下に木（き）で「のる」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "丿",
+    "radicalName": "の",
+    "radicalMeaning": "曲がる、払う",
+    "originDescription": "木の上に人が立っている様子を表しています。高いところに登ることや、馬や車などの乗り物の上に乗ることを意味します。",
+    "synonyms": [
+      "登",
+      "載"
+    ],
+    "antonyms": [
+      "降",
+      "下"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "乗る",
+      "meaning": "車や電車、自転車などの上や中に入って移動すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "乗客",
+      "meaning": "電車やバスなどに乗っているお客さんのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

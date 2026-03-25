@@ -1,0 +1,56 @@
+{
+  "kanjiId": "午",
+  "character": "午",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "十",
+      "speechText": "じゅう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "｜",
+      "speechText": "たてぼう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "十",
+    "radicalName": "じゅう",
+    "radicalMeaning": "数字のじゅう",
+    "originDescription": "棒が交差する形から生まれました。もともとは「杵（きね）」という道具の象形と言われます。後に昼の「十二時」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "午前",
+      "meaning": "昼の十二時より前の時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "午後",
+      "meaning": "昼の十二時より後の時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "正午",
+      "meaning": "ちょうど昼の十二時。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

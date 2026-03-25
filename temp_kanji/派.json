@@ -1,0 +1,56 @@
+{
+  "kanjiId": "派",
+  "character": "派",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずい、水だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "𠂢",
+      "speechText": "はけ、分かれる",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "さんずいに はけ、わかれる派！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水や液体に関することを示す。",
+    "originDescription": "「氵（さんずい）」は水、「𠂢」は水が分かれて流れる様子。一つのものがいくつかに「分かれる」、広がるという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "派遣",
+      "meaning": "人を目的の場所へ送り出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "流派",
+      "meaning": "学問や芸術などでの系統や一派。",
+      "imageUrl": ""
+    },
+    {
+      "word": "党派",
+      "meaning": "政治的な考え方を同じくする集団。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

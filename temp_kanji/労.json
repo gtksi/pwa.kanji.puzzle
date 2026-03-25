@@ -1,0 +1,84 @@
+{
+  "kanjiId": "労",
+  "character": "労",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノをひとつ、ぴょん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨコ",
+      "speechText": "ヨコ棒、すーっ！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ヨコ",
+      "speechText": "ヨコ棒、ぴっ！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "カギ",
+      "speechText": "カギを曲げて、くるっ！",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "タテ",
+      "speechText": "力（ちから）のタテ、すーっ！",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "カギ",
+      "speechText": "力（ちから）のカギ、くるっ！",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "ノ",
+      "speechText": "力（ちから）のノ、ぴょん！",
+      "chantOrder": 7,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力",
+    "originDescription": "「労」は、元々「勞」という漢字だったんだ。これは「火」を燃やしてご飯を作る大変な作業と、「力」を合わせることで、「つかれたり、がんばって働くこと」を表すようになったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "労働",
+      "meaning": "お金をもらって働くこと。仕事のことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "苦労",
+      "meaning": "大変なことや、骨が折れる努力のことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "努力",
+      "meaning": "目標を達成するために、一生懸命がんばることだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

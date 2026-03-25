@@ -1,0 +1,51 @@
+{
+  "kanjiId": "着",
+  "character": "着",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊の変形",
+      "speechText": "ひつじの三本めを長くはらって",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "目",
+      "speechText": "下に目（め）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羊",
+    "radicalName": "ひつじ",
+    "radicalMeaning": "ひつじ、服",
+    "originDescription": "羊の毛で作られた服が体にぴったりつく様子から生まれました。服を「きる」ことや、目的地に「つく」ことを意味します。",
+    "synonyms": [],
+    "antonyms": [
+      "脱"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "着る",
+      "meaning": "洋服を身につける",
+      "imageUrl": ""
+    },
+    {
+      "word": "到着",
+      "meaning": "目的地にたどり着くこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "上着",
+      "meaning": "一番上に着る服",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

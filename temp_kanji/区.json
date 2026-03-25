@@ -1,0 +1,46 @@
+{
+  "kanjiId": "区",
+  "character": "区",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "はこがまえ",
+      "speechText": "はこがまえに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "メ",
+      "speechText": "カタカナのメを入れる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "匸",
+    "radicalName": "はこがまえ",
+    "radicalMeaning": "隠す、囲い",
+    "originDescription": "物を箱に入れて、きれいに分けて整理することを表しています。土地を分けた場所の名前にも使われます。",
+    "synonyms": [
+      "分ける"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "区役所",
+      "meaning": "住んでいる地域のいろいろな手続きをする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "区分",
+      "meaning": "種類や場所でいくつかに分けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

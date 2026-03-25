@@ -1,0 +1,70 @@
+{
+  "kanjiId": "文",
+  "character": "文",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横画",
+      "speechText": "よこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "右払い",
+      "speechText": "ななめ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "左払い",
+      "speechText": "はらい",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "文",
+      "speechText": "ぶん",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "文",
+    "radicalName": "ぶん",
+    "radicalMeaning": "もよう、かざり",
+    "originDescription": "もともとは、胸のあたりに入れた「入れ墨（いれずみ）」の美しい模様（もよう）を表す漢字でした。そこから、美しい形や文字、文章などの意味に広がりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "文字",
+      "meaning": "書かれたことば。",
+      "imageUrl": ""
+    },
+    {
+      "word": "文学",
+      "meaning": "物語や詩などのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "文化",
+      "meaning": "人間が作り上げた生活のやり方や考え方。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

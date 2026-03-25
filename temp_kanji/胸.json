@@ -1,0 +1,53 @@
+{
+  "kanjiId": "胸",
+  "character": "胸",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "肉",
+      "speechText": "にくづきを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "包",
+      "speechText": "包（つつむ）を書き",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "メ",
+      "speechText": "中にメを書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "体の一部",
+    "originDescription": "体を表す「にくづき」と、包み込む様子を合わせた字です。心臓を大切に包んでいる、体の前側の「むね」を意味します。",
+    "synonyms": [
+      "肺腑"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "度胸",
+      "meaning": "おじけづかない強い心",
+      "imageUrl": ""
+    },
+    {
+      "word": "胸囲",
+      "meaning": "むねのまわりの長さ",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

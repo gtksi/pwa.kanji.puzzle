@@ -1,0 +1,63 @@
+{
+  "kanjiId": "山",
+  "character": "山",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "中たて棒",
+      "speechText": "たて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "かぎ",
+      "speechText": "カギ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "右たて棒",
+      "speechText": "たて",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "山",
+    "radicalName": "やま",
+    "radicalMeaning": "山の形",
+    "originDescription": "「山」は、3つの高い峰（みね）が並んでいる様子をそのまま絵にした文字です。真ん中の高い山と、その両側の山が描かれています。昔の人が遠くから見た山の姿が、今の漢字の形になりました。",
+    "synonyms": [
+      "岳",
+      "峰"
+    ],
+    "antonyms": [
+      "谷",
+      "里",
+      "海"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "ふじ山",
+      "meaning": "日本で一番高い有名な山（富士山）。",
+      "imageUrl": ""
+    },
+    {
+      "word": "山道",
+      "meaning": "山の中にある、歩くための道。",
+      "imageUrl": ""
+    },
+    {
+      "word": "火山",
+      "meaning": "火をふいたり、溶岩（ようがん）が流れ出したりする山。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

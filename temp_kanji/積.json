@@ -1,0 +1,44 @@
+{
+  "kanjiId": "積",
+  "character": "積",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "責",
+      "speechText": "責任の責だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "穀物",
+    "originDescription": "稲を積み重ねる様子を表す漢字だよ。ものを重ねて集めることや、ためることを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "積む",
+      "meaning": "物を重ねたり、ためたりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "面積",
+      "meaning": "平らなものの広さ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

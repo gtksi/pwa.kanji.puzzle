@@ -1,0 +1,56 @@
+{
+  "kanjiId": "弟",
+  "character": "弟",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尸",
+      "speechText": "しかばねに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二",
+      "speechText": "にの字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "弓",
+      "speechText": "ゆみつけると『弟』",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "弓",
+    "radicalName": "ゆみ",
+    "radicalMeaning": "弓の形",
+    "originDescription": "ひもをくるくる巻いていく様子や、竹の節を並べている様子から、順序や「次のもの」という意味になったんだ。そこから、自分より年下の男の子、「おとうと」を指すようになったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "兄弟",
+      "meaning": "同じ親から生まれた子供たち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "弟子",
+      "meaning": "先生から教えを受ける人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "弟分",
+      "meaning": "兄のように慕う年下の人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

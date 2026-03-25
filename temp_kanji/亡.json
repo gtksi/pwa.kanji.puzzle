@@ -1,0 +1,42 @@
+{
+  "kanjiId": "亡",
+  "character": "亡",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぼう",
+      "speechText": "まがる線と、のばす線で、ぼう、ぼう、ぼう！",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亡",
+    "radicalName": "ぼう",
+    "radicalMeaning": "いなくなる",
+    "originDescription": "「亡」は、人が隠れて見えなくなる様子を表した漢字だよ。どこかへいなくなってしまう、逃げ出す、滅びる、という意味があるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "死亡",
+      "meaning": "死ぬこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "滅亡",
+      "meaning": "滅びること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "逃亡",
+      "meaning": "逃げ出すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

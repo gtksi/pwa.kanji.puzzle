@@ -1,0 +1,49 @@
+{
+  "kanjiId": "朗",
+  "character": "朗",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "左に「つき」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "良",
+      "speechText": "右に「よい」、明るい「ろう」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "つき",
+    "radicalMeaning": "月、明るい",
+    "originDescription": "「月」と「良い」が合わさってできた文字。月が明るく輝いて良い様子を表すことから、「明るい、ほがらか」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "朗読",
+      "meaning": "声に出して読むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "朗らか",
+      "meaning": "明るく晴れやかな様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "朗報",
+      "meaning": "良い知らせ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

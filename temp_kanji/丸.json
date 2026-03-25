@@ -1,0 +1,56 @@
+{
+  "kanjiId": "丸",
+  "character": "丸",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "撇",
+      "speechText": "の",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横折弯钩",
+      "speechText": "よこ、まがる、はね",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "丸",
+    "radicalName": "まる",
+    "radicalMeaning": "まるいこと",
+    "originDescription": "まっすぐな線と曲がった線が合わさって、なめらかなもの、まるいものを表す漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "丸い",
+      "meaning": "形が丸いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日の丸",
+      "meaning": "日本の国旗で、赤い丸が真ん中にある旗のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "丸太",
+      "meaning": "木をそのまま切った、丸い形をした材木。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

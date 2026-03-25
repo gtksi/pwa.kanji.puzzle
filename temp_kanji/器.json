@@ -1,0 +1,70 @@
+{
+  "kanjiId": "器",
+  "character": "器",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "大",
+      "speechText": "おお、一つ目",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "大",
+      "speechText": "おお、二つ目",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "大",
+      "speechText": "おお、三つ目",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "大",
+      "speechText": "おお、四つ目",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "口",
+      "speechText": "まんなかにくち",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口",
+    "originDescription": "四つの「口」で囲まれた「大」の形からできています。「大」は犬、「口」は入れ物を意味すると言われています。たくさんの物が入っている様子を表し、食器や道具全般を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "食器",
+      "meaning": "食事につかう器。",
+      "imageUrl": ""
+    },
+    {
+      "word": "楽器",
+      "meaning": "音を出す道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "器用",
+      "meaning": "手先がじょうずなこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

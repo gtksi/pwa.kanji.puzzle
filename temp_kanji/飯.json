@@ -1,0 +1,44 @@
+{
+  "kanjiId": "飯",
+  "character": "飯",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "食（しょくへん）",
+      "speechText": "左側の「食へん」だよ。",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "反（はん）",
+      "speechText": "右側の「反」だよ。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "食",
+    "radicalName": "しょく",
+    "radicalMeaning": "食べ物、食事",
+    "originDescription": "「食へん」は食べ物や食事に関することを示します。「反」は米を炊くときにお米がふくらむ様子や、音を表しています。炊いたご飯や、毎日の食事全体を意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "ご飯",
+      "meaning": "炊いたお米。また、食事のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "夕飯",
+      "meaning": "夕方の食事。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

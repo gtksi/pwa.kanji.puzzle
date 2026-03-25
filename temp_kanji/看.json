@@ -1,0 +1,47 @@
+{
+  "kanjiId": "看",
+  "character": "看",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "手",
+      "speechText": "ななめの手（手）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "目",
+      "speechText": "下に目（め）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "め",
+    "radicalMeaning": "見ることに関すること",
+    "originDescription": "目の上に手をかざして、遠くをじっと「みる」姿を表しています。注意深く見守る、お世話をするという意味もあります。",
+    "synonyms": [
+      "観",
+      "見"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "看板",
+      "meaning": "店の名前などを書いて、目立つように立てる板。",
+      "imageUrl": ""
+    },
+    {
+      "word": "看護師",
+      "meaning": "病気やけがの人のお世話をする仕事の人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

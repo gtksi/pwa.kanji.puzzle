@@ -1,0 +1,48 @@
+{
+  "kanjiId": "副",
+  "character": "副",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "左側",
+      "speechText": "一、口、田を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "りっとう",
+      "speechText": "右にりっとうをそえる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "かたな、切る",
+    "originDescription": "お酒を入れる器を刀（りっとう）で二つに分けることを表します。そこから「二番目」や「そばで助ける」という意味になりました。",
+    "synonyms": [
+      "添"
+    ],
+    "antonyms": [
+      "正"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "副会長",
+      "meaning": "会長の次にえらい人。会長を助ける人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "副作用",
+      "meaning": "薬などを飲んだとき、本来の目的とは別に出てしまう反応。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

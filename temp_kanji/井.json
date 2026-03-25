@@ -1,0 +1,65 @@
+{
+  "kanjiId": "井",
+  "character": "井",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横",
+      "speechText": "横棒を一本",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦",
+      "speechText": "たて棒を一本",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横",
+      "speechText": "また横棒",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "縦",
+      "speechText": "またたて棒",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "横",
+      "speechText": "最後に横棒だよ",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "井",
+    "radicalName": "い",
+    "radicalMeaning": "井戸",
+    "originDescription": "井戸の形を上から見た様子をそのまま描いた文字だよ。囲いがあり、そこから水が湧き出る場所を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "井戸",
+      "meaning": "地面を掘って地下の水をくみ上げる場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "天井",
+      "meaning": "部屋の上の部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

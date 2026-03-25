@@ -1,0 +1,49 @@
+{
+  "kanjiId": "飲",
+  "character": "飲",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "食",
+      "speechText": "ごはん、もぐもぐ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "欠",
+      "speechText": "あくび、がばっと！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "食",
+    "radicalName": "しょくへん",
+    "radicalMeaning": "食事、食べる",
+    "originDescription": "「飲」は、食べ物や飲み物を意味する「食（しょくへん）」と、口を大きく開けている様子（欠）を組み合わせた字だよ。水や液体を口から体に入れる動作、つまり「飲む」という意味を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "飲む",
+      "meaning": "水などを口から体に入れること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "飲料",
+      "meaning": "飲み物のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "飲食",
+      "meaning": "飲んだり食べたりすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,55 @@
+{
+  "kanjiId": "貴",
+  "character": "貴",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "中",
+      "speechText": "中を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "一の下に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "貝",
+      "speechText": "貝（かい）を書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、財産",
+    "originDescription": "貝（お金）を両手で持ち上げている様子を表しています。価値がとても高くて、大切に扱われるべきことを意味しています。",
+    "synonyms": [
+      "尊"
+    ],
+    "antonyms": [
+      "賤"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "貴重",
+      "meaning": "とても大切で値打ちがあること",
+      "imageUrl": ""
+    },
+    {
+      "word": "貴族",
+      "meaning": "特別な地位のある身分の高い家柄",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

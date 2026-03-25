@@ -1,0 +1,49 @@
+{
+  "kanjiId": "分",
+  "character": "分",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "八",
+      "speechText": "はち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "かたな",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "かたな",
+    "radicalMeaning": "刀",
+    "originDescription": "物を「分ける」という意味の「八」と、「刀」を組み合わせた漢字だよ。何かを切り離したり、いくつかに分けたりする様子を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "分かる",
+      "meaning": "物事の意味や状況が理解できる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "分ける",
+      "meaning": "一つを二つ以上に区切る。",
+      "imageUrl": ""
+    },
+    {
+      "word": "三分",
+      "meaning": "3分間。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

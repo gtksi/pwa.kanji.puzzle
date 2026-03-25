@@ -1,0 +1,46 @@
+{
+  "kanjiId": "波",
+  "character": "波",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "サンズイ（氵）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "かわ",
+      "speechText": "右に皮（かわ）を書いたら、なみ（波）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水、川、液体",
+    "originDescription": "水（氵）と、表面が盛り上がることを表す「皮」を合わせた漢字です。水面が皮のように盛り上がって動く「なみ」を表します。",
+    "synonyms": [
+      "浪"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "電波",
+      "meaning": "空中に飛んでいる電気の波",
+      "imageUrl": ""
+    },
+    {
+      "word": "高波",
+      "meaning": "ふだんより高いなみのこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

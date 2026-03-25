@@ -1,0 +1,49 @@
+{
+  "kanjiId": "汽",
+  "character": "汽",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "気",
+      "speechText": "き",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "みず",
+    "originDescription": "水が蒸発して、もくもくと立ちのぼる様子を表しているよ。水蒸気や、それを利用した乗り物に使われる漢字なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "汽船",
+      "meaning": "蒸気の力で進む船のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "汽車",
+      "meaning": "蒸気の力で走る列車のこと。昔はよく使われていたよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "蒸気",
+      "meaning": "水を温めると出る、もくもくした気体のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

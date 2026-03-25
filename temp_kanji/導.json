@@ -1,0 +1,56 @@
+{
+  "kanjiId": "導",
+  "character": "導",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しんにょう",
+      "speechText": "しんにょう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巳",
+      "speechText": "み",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "寸",
+      "speechText": "すん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道や行くことに関すること",
+    "originDescription": "「導」は「道」と同じように、道を歩くことに関係があります。この漢字は、手を引いて道を教える様子を表していて、正しい方向へ導く、案内するという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "案内",
+      "meaning": "人を目的地まで連れて行ったり、場所を教えたりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "指導",
+      "meaning": "目標を達成できるように教え導くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "導入",
+      "meaning": "新しいものを取り入れること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

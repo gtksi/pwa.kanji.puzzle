@@ -1,0 +1,39 @@
+{
+  "kanjiId": "弓",
+  "character": "弓",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横",
+      "speechText": "よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦",
+      "speechText": "たて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "曲がり",
+      "speechText": "まがり",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "弓",
+    "radicalName": "ゆみ",
+    "radicalMeaning": "ゆみ",
+    "originDescription": "弓の形をそのまま漢字にしたものだよ。昔の人は、これで矢を飛ばして狩りをしたり戦ったりしたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

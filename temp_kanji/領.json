@@ -1,0 +1,46 @@
+{
+  "kanjiId": "領",
+  "character": "領",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね・マ",
+      "speechText": "ひとやね、マに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おおがい",
+      "speechText": "おおがい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "頭、顔",
+    "originDescription": "大切な頭（頁）と、命令を出す（令）が組み合わさりました。体の中心である首や、全体をまとめて支配する「土地」のことを表します。",
+    "synonyms": [
+      "治める"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "領土",
+      "meaning": "その国が支配している、自分の国の土地。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大統領",
+      "meaning": "国を代表して、全体をまとめる一番上のリーダー。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

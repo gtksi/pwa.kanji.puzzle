@@ -1,0 +1,49 @@
+{
+  "kanjiId": "季",
+  "character": "季",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "子",
+      "speechText": "こ、こども",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "子",
+    "radicalName": "こ",
+    "radicalMeaning": "子",
+    "originDescription": "「禾（のぎへん）」は穀物の穂を表し、「子」は子供を表します。この組み合わせで、穀物が実る「季節の終わり」や、兄弟の中で一番最後に生まれた「末っ子」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "季節",
+      "meaning": "春夏秋冬のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "四季",
+      "meaning": "四つの季節。",
+      "imageUrl": ""
+    },
+    {
+      "word": "季語",
+      "meaning": "俳句などで季節を表す言葉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

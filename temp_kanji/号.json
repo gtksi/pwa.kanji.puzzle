@@ -1,0 +1,53 @@
+{
+  "kanjiId": "号",
+  "character": "号",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "口を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "一を引き",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "て",
+      "speechText": "カタカナの「テ」のような形を書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口に関係すること",
+    "originDescription": "口を大きく開けて叫ぶ様子から生まれた漢字です。大きな声で名前を呼んだり、印（しるし）をつけたりすることを表します。",
+    "synonyms": [
+      "印"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "信号",
+      "meaning": "道を通る時に守る、赤・黄・緑のランプ",
+      "imageUrl": ""
+    },
+    {
+      "word": "番号",
+      "meaning": "順番や区別をつけるためにつける数字",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

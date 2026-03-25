@@ -1,0 +1,84 @@
+{
+  "kanjiId": "青",
+  "character": "青",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "よこ",
+      "speechText": "上によこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "たて",
+      "speechText": "たてぼうはねて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "よこ",
+      "speechText": "真ん中よこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "はね",
+      "speechText": "はねて",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "よこ",
+      "speechText": "よこぼう",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "よこ",
+      "speechText": "よこぼう",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "よこ",
+      "speechText": "一番下よこぼう",
+      "chantOrder": 7,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "青",
+    "radicalName": "あお",
+    "radicalMeaning": "青い",
+    "originDescription": "井戸のわきから光があふれ出る様子を表す漢字だよ。昔の人は、深く澄んだ水を「青」と表現したんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "青空",
+      "meaning": "青い空",
+      "imageUrl": ""
+    },
+    {
+      "word": "青年",
+      "meaning": "若い男の人",
+      "imageUrl": ""
+    },
+    {
+      "word": "青信号",
+      "meaning": "進んでよい信号",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

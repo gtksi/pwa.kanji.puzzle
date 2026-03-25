@@ -1,0 +1,48 @@
+{
+  "kanjiId": "等",
+  "character": "等",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たけかんむり",
+      "speechText": "タケカンムリを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "てら",
+      "speechText": "下にテラ（寺）を書いたら、ひとしい（等）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹、竹製品",
+    "originDescription": "竹のふだ（竹）と、役所（寺）を合わせた漢字です。役所で竹のふだを同じ長さにそろえて整理していたことから、「ひとしい」や「なかま」という意味になりました。",
+    "synonyms": [
+      "同"
+    ],
+    "antonyms": [
+      "差"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "平等",
+      "meaning": "みんな同じで、差がないこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "等分",
+      "meaning": "同じ大きさに分けること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

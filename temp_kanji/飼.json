@@ -1,0 +1,49 @@
+{
+  "kanjiId": "飼",
+  "character": "飼",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "食へん",
+      "speechText": "しょくへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "司",
+      "speechText": "つかさ、はい「飼」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "食",
+    "radicalName": "しょくへん",
+    "radicalMeaning": "食べる、食べ物",
+    "originDescription": "「飼」は、「食べ物」を表す「食」と、「管理する」という意味の「司」が合わさった字だよ。食べ物を与えて動物の世話をすること、つまり「動物を飼う」ことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "飼育",
+      "meaning": "動物を世話して育てること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "飼い主",
+      "meaning": "動物を飼っている人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "飼料",
+      "meaning": "動物に与える食べ物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

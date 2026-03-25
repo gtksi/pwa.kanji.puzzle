@@ -1,0 +1,48 @@
+{
+  "kanjiId": "吸",
+  "character": "吸",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "くちへんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "及",
+      "speechText": "及（およぶ）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くちへん",
+    "radicalMeaning": "口の動作、言葉",
+    "originDescription": "口と、後ろから追いつくことを表す字（及）を合わせています。空気を口から取り込む、吸い込むことを意味します。",
+    "synonyms": [
+      "喫"
+    ],
+    "antonyms": [
+      "吐"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "吸収",
+      "meaning": "吸い取って自分の中に入れること",
+      "imageUrl": ""
+    },
+    {
+      "word": "呼吸",
+      "meaning": "息を吸ったりはいたりすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

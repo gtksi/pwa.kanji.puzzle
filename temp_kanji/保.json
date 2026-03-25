@@ -1,0 +1,54 @@
+{
+  "kanjiId": "保",
+  "character": "保",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口と",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "木",
+      "speechText": "木をかく",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人間に関すること",
+    "originDescription": "大人が子供を背負って守っている様子を表しています。そこから「守る」「たもつ」という意味になりました。",
+    "synonyms": [
+      "守",
+      "持"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "保存",
+      "meaning": "そのままの状態で、大切に残しておくこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "保健室",
+      "meaning": "学校で、けがや病気の手当てをする部屋",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

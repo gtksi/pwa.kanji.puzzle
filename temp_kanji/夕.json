@@ -1,0 +1,63 @@
+{
+  "kanjiId": "夕",
+  "character": "夕",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "はらい",
+      "speechText": "ひだりにはらい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "とめる",
+      "speechText": "たてにとめて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "はらい",
+      "speechText": "みぎにはらい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ななめ",
+      "speechText": "ななめちょん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夕",
+    "radicalName": "ゆうべ",
+    "radicalMeaning": "夕方",
+    "originDescription": "空に半月が昇っている様子を描いた象形文字だよ。夕焼け空に浮かぶ月は、昔から時間を知らせてくれたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "夕焼け",
+      "meaning": "夕方の空が赤くなること",
+      "imageUrl": ""
+    },
+    {
+      "word": "夕方",
+      "meaning": "太陽が沈む頃",
+      "imageUrl": ""
+    },
+    {
+      "word": "夕飯",
+      "meaning": "夕方に食べる食事",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

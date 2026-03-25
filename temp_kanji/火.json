@@ -1,0 +1,42 @@
+{
+  "kanjiId": "火",
+  "character": "火",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "火",
+      "speechText": "ひ、ひ、もえるひ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひ",
+    "radicalMeaning": "火",
+    "originDescription": "昔の人は、燃えている火の形をそのまま絵にして「火」という字を作りました。炎が立ち上る様子を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "火曜日",
+      "meaning": "一週間のうち、日曜日の次の日",
+      "imageUrl": ""
+    },
+    {
+      "word": "火車",
+      "meaning": "火を運ぶ車。消防車のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "火事",
+      "meaning": "建物などが燃えること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

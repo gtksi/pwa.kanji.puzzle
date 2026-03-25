@@ -1,0 +1,70 @@
+{
+  "kanjiId": "永",
+  "character": "永",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "てん、ポツン",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横棒",
+      "speechText": "よこぼう、スー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "曲がり",
+      "speechText": "まがり、キュッ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "払い",
+      "speechText": "はらい、シュー",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "点",
+      "speechText": "てん、チョン",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "みず",
+    "radicalMeaning": "水",
+    "originDescription": "川の水が長く、途切れることなく「ながれている」様子を表しているよ。そこから、時間や物事がずっと「つづく」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "永遠",
+      "meaning": "終わりがなく、いつまでも続くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "永い",
+      "meaning": "時間や期間が長い。",
+      "imageUrl": ""
+    },
+    {
+      "word": "永住",
+      "meaning": "ある場所にずっと住むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

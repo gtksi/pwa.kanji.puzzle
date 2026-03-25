@@ -1,0 +1,49 @@
+{
+  "kanjiId": "豊",
+  "character": "豊",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "曲",
+      "speechText": "曲（まが）るを上（うえ）に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "豆",
+      "speechText": "下（した）に豆（まめ）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "豆",
+    "radicalName": "まめ",
+    "radicalMeaning": "たべものをもる器（うつわ）",
+    "originDescription": "お供（そな）え物（もの）をのせる器（うつわ）の上に、たくさんの食べ物が山盛（やまも）りになっている様子から、豊（ゆた）かであることを表します。",
+    "synonyms": [
+      "富",
+      "潤"
+    ],
+    "antonyms": [
+      "貧"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "豊か",
+      "meaning": "十分にあって、満たされている様子",
+      "imageUrl": ""
+    },
+    {
+      "word": "豊富",
+      "meaning": "種類（しゅるい）や量がたっぷりあること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "舌",
+  "character": "舌",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "千",
+      "speechText": "「せん」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "「くち」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "舌",
+    "radicalName": "した",
+    "radicalMeaning": "舌に関すること",
+    "originDescription": "口から出ている「舌」の形をそのまま漢字にしたものだよ。食べ物の味を感じたり、言葉を話したりするのに大切な体の一部だね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "舌戦",
+      "meaning": "言葉で激しく議論を戦わせること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "舌鼓",
+      "meaning": "美味しいものを食べた時に舌を鳴らして喜ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "弁舌",
+      "meaning": "言葉を操る能力、話し方。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

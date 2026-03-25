@@ -1,0 +1,49 @@
+{
+  "kanjiId": "宙",
+  "character": "宙",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "屋根の形、うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "由",
+      "speechText": "理由の「由」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、空間",
+    "originDescription": "「宀（うかんむり）」は屋根や大きな空間、「由」は通り抜ける、巡ることを表します。屋根に覆われた、どこまでも広がる大きな空間、つまり宇宙や空を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宇宙",
+      "meaning": "地球の外に広がる、果てしない空間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宙返り",
+      "meaning": "空中で体を一回転させる動き。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宙づり",
+      "meaning": "空中にぶら下がっている状態。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

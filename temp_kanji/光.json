@@ -1,0 +1,49 @@
+{
+  "kanjiId": "光",
+  "character": "光",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "⺌",
+      "speechText": "しょうがしら",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "儿",
+      "speechText": "ひとあし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "儿",
+    "radicalName": "ひとあし",
+    "radicalMeaning": "人の足",
+    "originDescription": "火（炎の象形）が人（人）の上にある様子を表しています。暗闇を照らす明るい光、かがやきを意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "光る",
+      "meaning": "明るくかがやきを放つこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日光",
+      "meaning": "太陽の光。",
+      "imageUrl": ""
+    },
+    {
+      "word": "光景",
+      "meaning": "目に見える景色。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

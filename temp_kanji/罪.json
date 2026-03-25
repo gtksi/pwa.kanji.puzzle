@@ -1,0 +1,49 @@
+{
+  "kanjiId": "罪",
+  "character": "罪",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "あみがしら",
+      "speechText": "よこ、たて、よこ、たて、よこ、たて、よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "みずから",
+      "speechText": "ちょん、よこ、たて、よこ、たて、よこ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "罒",
+    "radicalName": "あみがしら",
+    "radicalMeaning": "あみ、罪",
+    "originDescription": "上の「罒（あみがしら）」は、悪い人を捕まえる「あみ」の形を表しているよ。下の「自」は「ざい」の音を表すんだ。あみで捕まえられた人という様子から、「悪い行い」や「罰」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "犯罪",
+      "meaning": "法律をやぶる悪い行い。",
+      "imageUrl": ""
+    },
+    {
+      "word": "無罪",
+      "meaning": "罪がないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "罪人",
+      "meaning": "罪を犯した人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

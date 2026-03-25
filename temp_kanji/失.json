@@ -1,0 +1,44 @@
+{
+  "kanjiId": "失",
+  "character": "失",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夫",
+      "speechText": "おっとだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夫",
+    "radicalName": "おっと",
+    "radicalMeaning": "物を失う",
+    "originDescription": "人の手から、ものがポロッと落ちていく様子を表しているよ。大切なものをなくしてしまうという意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "失う",
+      "meaning": "もっていたものや、あるべきものがなくなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "失言",
+      "meaning": "うっかりまちがったことを言ってしまうこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

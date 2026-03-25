@@ -1,0 +1,49 @@
+{
+  "kanjiId": "著",
+  "character": "著",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "艹",
+      "speechText": "くさかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "者",
+      "speechText": "もの",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艹",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草、植物",
+    "originDescription": "「くさかんむり」と「者」を合わせた漢字です。草が茂るように、たくさんの物事を書き表すことや、とても目立つことを意味します。本を書く人や、はっきりしている様子を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "著者",
+      "meaning": "本や論文などを書いた人",
+      "imageUrl": ""
+    },
+    {
+      "word": "著書",
+      "meaning": "著者が書いた本",
+      "imageUrl": ""
+    },
+    {
+      "word": "著しい",
+      "meaning": "はっきり目立つほどであること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

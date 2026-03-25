@@ -1,0 +1,49 @@
+{
+  "kanjiId": "砂",
+  "character": "砂",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "石",
+      "speechText": "いしへん、いし",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "少",
+      "speechText": "すくない、しょう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "石",
+    "radicalName": "いしへん",
+    "radicalMeaning": "石に関すること",
+    "originDescription": "石（いし）が少なく（少）て、水辺に広がる小さな粒々を表すよ。『説文解字』では「水際にある小石」と説明されているんだ。地面を覆う細かな石のイメージから「すな」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "砂漠",
+      "meaning": "砂ばかりで植物がほとんど育たない広い土地。",
+      "imageUrl": ""
+    },
+    {
+      "word": "砂浜",
+      "meaning": "砂が広がる海岸。",
+      "imageUrl": ""
+    },
+    {
+      "word": "砂金",
+      "meaning": "川底などにある小さな金のかたまり。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

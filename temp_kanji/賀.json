@@ -1,0 +1,49 @@
+{
+  "kanjiId": "賀",
+  "character": "賀",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "加",
+      "speechText": "上は、力と口の、加、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "その下に、貝、かくよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、宝物",
+    "originDescription": "「賀」は、喜びや祝いの言葉を贈る様子を表す漢字だよ。貝はお金や宝物だったので、贈り物を添えてお祝いする意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "年賀状",
+      "meaning": "新年の挨拶のハガキ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "祝賀",
+      "meaning": "お祝いすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "賀正",
+      "meaning": "新年のお祝いの言葉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

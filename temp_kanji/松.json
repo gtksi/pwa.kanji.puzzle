@@ -1,0 +1,44 @@
+{
+  "kanjiId": "松",
+  "character": "松",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "公",
+      "speechText": "公だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木",
+    "originDescription": "木に関することを表す「きへん」と、「公」という音を表す部分を合わせた漢字だよ。冬でも緑を保つ常緑樹の松の木を表すんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "松の木",
+      "meaning": "常緑樹の松の木のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "松林",
+      "meaning": "松の木がたくさん生えている場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

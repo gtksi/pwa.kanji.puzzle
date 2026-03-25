@@ -1,0 +1,49 @@
+{
+  "kanjiId": "類",
+  "character": "類",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こめへん",
+      "speechText": "こめへん、お米のしるし！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おおがい",
+      "speechText": "おおがい、頭のしるし、同じ種類だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "あたま",
+    "originDescription": "左の「米（こめへん）」はお米。右の「頁（おおがい）」は頭。お米を分けるとき、似たものをまとめて選んでいたことから、「なかま」や「種類」を意味する漢字になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "種類",
+      "meaning": "同じグループに属するもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "分類",
+      "meaning": "物をいくつかの種類に分けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "人類",
+      "meaning": "人間のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,70 @@
+{
+  "kanjiId": "便",
+  "character": "便",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一",
+      "speechText": "一（いち）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "日",
+      "speechText": "日（ひ）",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "二",
+      "speechText": "二（に）の便",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "「にんべん（人）」と「更（あらたまる）」を組み合わせた字だよ。人が、物事を都合よく新しく整える様子から、「都合が良い」「たより」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "便利",
+      "meaning": "使うのに都合が良く、楽なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "便り",
+      "meaning": "知らせや連絡。手紙。",
+      "imageUrl": ""
+    },
+    {
+      "word": "郵便",
+      "meaning": "手紙や荷物を送るしくみ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

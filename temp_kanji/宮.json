@@ -1,0 +1,61 @@
+{
+  "kanjiId": "宮",
+  "character": "宮",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口（くち）を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ一",
+      "speechText": "線を一本、横に引いて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "口",
+      "speechText": "また口（くち）を書く",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家や屋根に関すること",
+    "originDescription": "大きな屋根（宀）の下に、たくさんの部屋（口）がつながっている立派な建物の形です。王様が住む所を表します。",
+    "synonyms": [
+      "殿",
+      "社"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宮殿",
+      "meaning": "王様が住む大きくて立派な建物",
+      "imageUrl": ""
+    },
+    {
+      "word": "お宮参り",
+      "meaning": "赤ちゃんが生まれた時に神社へ行くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "盛",
+  "character": "盛",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "成",
+      "speechText": "「しげるところ」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "皿",
+      "speechText": "「おさら」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皿",
+    "radicalName": "さら",
+    "radicalMeaning": "皿に関すること",
+    "originDescription": "「物を盛るお皿」と「できあがる」という意味の組み合わせからできた漢字だよ。器に食べ物がいっぱいになる様子や、勢いが良くて活発な様子を表すんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "繁盛",
+      "meaning": "店などが栄えて忙しいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "盛大",
+      "meaning": "規模が大きくて立派なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大盛り",
+      "meaning": "普通よりも量を多く盛ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

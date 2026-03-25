@@ -1,0 +1,49 @@
+{
+  "kanjiId": "在",
+  "character": "在",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つち",
+      "speechText": "たて、よこ、たて、よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "さい",
+      "speechText": "よこ、たて、はね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土地、土",
+    "originDescription": "「土（つちへん）」は「大地」や「場所」を表しているよ。「才」は「そこにあること」の「さい」の音を表しているんだ。地面にしっかり「ある」状態から、「そこにいる」「存在する」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "現在",
+      "meaning": "いま、このとき。",
+      "imageUrl": ""
+    },
+    {
+      "word": "不在",
+      "meaning": "その場にいないこと。留守。",
+      "imageUrl": ""
+    },
+    {
+      "word": "所在",
+      "meaning": "どこにあるか、どこにいるか。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

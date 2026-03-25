@@ -1,0 +1,49 @@
+{
+  "kanjiId": "視",
+  "character": "視",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しめすへん",
+      "speechText": "「しめすへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "見",
+      "speechText": "「見」と書いて「みる」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "見",
+    "radicalName": "みる",
+    "radicalMeaning": "見る",
+    "originDescription": "「示」（神様へのお供え台）と「見」（目を大きく開けて見る）が組み合わさりました。神聖なものを注意深く見つめる様子から、「じっと見る」「よく見る」という意味になりました。目を使った行動を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "視力",
+      "meaning": "目で物を見る力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "視点",
+      "meaning": "物事を見る立場やポイント。",
+      "imageUrl": ""
+    },
+    {
+      "word": "監視",
+      "meaning": "注意して見張ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "差",
+  "character": "差",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羊",
+      "speechText": "ひつじの字、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "工",
+      "speechText": "たくみの、工、下だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "工",
+    "radicalName": "こう",
+    "radicalMeaning": "道具や仕事に関する意味を表す",
+    "originDescription": "「差」は、羊の角を分ける道具を表す象形文字からできています。そこから、物事を比べたり、区別したりする意味、また「違い」や「隔たり」を表す漢字になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "違い",
+      "meaning": "比べてみて、同じでないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "時差",
+      "meaning": "時間帯の違いのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "交差点",
+      "meaning": "道が交わるところ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

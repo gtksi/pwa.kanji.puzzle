@@ -1,0 +1,49 @@
+{
+  "kanjiId": "回",
+  "character": "回",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "外側の四角",
+      "speechText": "おおきいしかく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "内側の四角",
+      "speechText": "ちいさいしかく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "かこむ",
+    "originDescription": "大きな四角（しかく）の中に、小さな四角がある形で、くるくると「回る」様子を表しているんだ。何度も繰り返す、という意味もあるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "回転",
+      "meaning": "くるくる回ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "何回",
+      "meaning": "何度か数える時に使う言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "今回",
+      "meaning": "今のこの時、という意味。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

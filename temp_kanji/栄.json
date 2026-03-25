@@ -1,0 +1,49 @@
+{
+  "kanjiId": "栄",
+  "character": "栄",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "火二つ",
+      "speechText": "上は、火、二つ、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "下に、木、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "「栄」は、木に美しい花が咲き、実がなる様子を表す漢字だよ。花が咲き誇るように、名誉や繁栄を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "栄光",
+      "meaning": "輝かしい名誉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "繁栄",
+      "meaning": "豊かに栄えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "栄養",
+      "meaning": "体を育てるための大切な成分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

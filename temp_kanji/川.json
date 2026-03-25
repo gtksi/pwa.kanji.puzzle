@@ -1,0 +1,56 @@
+{
+  "kanjiId": "川",
+  "character": "川",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "はらい",
+      "speechText": "ひだりにはらい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はらい",
+      "speechText": "真ん中はらい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "はらい",
+      "speechText": "みぎにはらい",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "川",
+    "radicalName": "かわ",
+    "radicalMeaning": "川",
+    "originDescription": "流れる川の様子をそのまま絵にした象形文字だよ。水の流れや岸の形を線で表現しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "小川",
+      "meaning": "小さな川",
+      "imageUrl": ""
+    },
+    {
+      "word": "川上",
+      "meaning": "川の始まる方",
+      "imageUrl": ""
+    },
+    {
+      "word": "川下",
+      "meaning": "川の流れの先",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

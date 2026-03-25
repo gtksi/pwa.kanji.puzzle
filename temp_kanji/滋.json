@@ -1,0 +1,49 @@
+{
+  "kanjiId": "滋",
+  "character": "滋",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "茲",
+      "speechText": "これの、茲、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関する意味を表す",
+    "originDescription": "「滋」は、「水」と「茲（し）」からできています。「茲」は草木がしげっている様子。水が豊かで、草木が勢いよく育つように、栄養を与えて「ふやす」や「養う」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "滋養",
+      "meaning": "体に良い栄養。",
+      "imageUrl": ""
+    },
+    {
+      "word": "滋賀県",
+      "meaning": "関西地方にある県の一つ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "滋味",
+      "meaning": "豊かな味わい、体に良い味。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

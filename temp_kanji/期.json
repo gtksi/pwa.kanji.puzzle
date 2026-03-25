@@ -1,0 +1,47 @@
+{
+  "kanjiId": "期",
+  "character": "期",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "其",
+      "speechText": "『その』と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "月",
+      "speechText": "右に『つき』を書くと、決まった時をあらわす『き』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "つき",
+    "radicalMeaning": "月や時間",
+    "originDescription": "「其」は四角いカゴの形、「月」は月日をあらわします。もともとは、月の満ち欠けのように「決まった時期」や「約束の日」が来ることを意味しています。",
+    "synonyms": [
+      "時",
+      "限"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "学期",
+      "meaning": "学校でお勉強をする、決まった期間のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "期待",
+      "meaning": "「きっとこうなる」と楽しみに待つこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

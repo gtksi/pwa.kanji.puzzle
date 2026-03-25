@@ -1,0 +1,63 @@
+{
+  "kanjiId": "朝",
+  "character": "朝",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十",
+      "speechText": "上にじゅう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "その下に日",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "月",
+      "speechText": "その下に月",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "月",
+      "speechText": "右にも月だよ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "月",
+    "radicalName": "つき",
+    "radicalMeaning": "夜空の月",
+    "originDescription": "太陽が草むらから顔を出す様子と、舟のような形をした月がまだ空に残る様子から、太陽が昇り月が沈む「朝」の時間を表すようになったんだ。昔は、朝早く集まる場所「朝廷」の意味もあったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "朝日",
+      "meaning": "朝の太陽。",
+      "imageUrl": ""
+    },
+    {
+      "word": "今朝",
+      "meaning": "今日の朝。",
+      "imageUrl": ""
+    },
+    {
+      "word": "朝食",
+      "meaning": "朝ごはんのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "考",
+  "character": "考",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "耂",
+      "speechText": "おいがしら",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丂",
+      "speechText": "カギ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "老",
+    "radicalName": "おい",
+    "radicalMeaning": "年を取った人、考えること",
+    "originDescription": "「老（年老いた人）」の上の部分と、「丂（カギの形）」を組み合わせた字です。年老いた人が深く考える様子から、よく考える、思いめぐらす、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "考える",
+      "meaning": "頭を使って物事を整理すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "思考",
+      "meaning": "物事を深く考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "参考",
+      "meaning": "何かをする時の手助けにすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,84 @@
+{
+  "kanjiId": "蒸",
+  "character": "蒸",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "艹",
+      "speechText": "くさかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "フ",
+      "speechText": "フ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "口",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "亅",
+      "speechText": "カギ",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "一",
+      "speechText": "横棒",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "火",
+      "speechText": "火",
+      "chantOrder": 7,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草、植物",
+    "originDescription": "『説文解字』では、「蒸」は草を燃やして熱気を出す様子を表す会意文字とされます。火で物を温め、湯気（蒸気）を出すことを意味します。料理で使う「蒸す」など、水蒸気と関連します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "蒸発",
+      "meaning": "液体が熱で気体になって空中に消えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "蒸気",
+      "meaning": "水が熱せられてできる湯気。",
+      "imageUrl": ""
+    },
+    {
+      "word": "蒸す",
+      "meaning": "水蒸気を使って食べ物を加熱すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

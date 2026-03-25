@@ -1,0 +1,46 @@
+{
+  "kanjiId": "輸",
+  "character": "輸",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くるまへん",
+      "speechText": "くるまへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ひと・いち・つき・り",
+      "speechText": "ひと、いち、つき、リ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "車",
+    "radicalName": "くるまへん",
+    "radicalMeaning": "車、運ぶ",
+    "originDescription": "車と、中を通りぬけるという意味の言葉（兪）が合わさりました。荷物を車にのせて、別の場所へ送り出すことを表しています。",
+    "synonyms": [
+      "送る"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "輸出",
+      "meaning": "自分の国の品物を、外国へ送って売ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "輸入",
+      "meaning": "外国の品物を、自分の国へ買い入れること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

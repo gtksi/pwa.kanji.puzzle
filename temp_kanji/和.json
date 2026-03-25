@@ -1,0 +1,50 @@
+{
+  "kanjiId": "和",
+  "character": "和",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "のぎへん",
+      "speechText": "のぎへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口を書いて、なかよくしよう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "言葉、食べること",
+    "originDescription": "稲（のぎへん）と口をあらわします。みんなでお米を食べて、仲良くお話をすることから「仲が良い」「おだやか」という意味になりました。",
+    "synonyms": [
+      "睦",
+      "諧"
+    ],
+    "antonyms": [
+      "争",
+      "乱"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "平和",
+      "meaning": "戦争がなく、みんなが穏やかに暮らせること",
+      "imageUrl": ""
+    },
+    {
+      "word": "和食",
+      "meaning": "日本で昔から食べられている料理",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

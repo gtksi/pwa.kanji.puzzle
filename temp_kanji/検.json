@@ -1,0 +1,56 @@
+{
+  "kanjiId": "検",
+  "character": "検",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "僉",
+      "speechText": "たくさんの人！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "検",
+      "speechText": "まとめて、検！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木や植物に関すること",
+    "originDescription": "木へんと「たくさんの人」の絵からできていて、みんなで木の質を調べる様子を表す漢字だよ。だから「しらべる」「ためす」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "検査",
+      "meaning": "何かが正しいか、おかしくないかを細かく調べること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "点検",
+      "meaning": "機械などが正しく動くか、故障がないかを確認すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "検定",
+      "meaning": "物事が正しいか、決められた基準に合っているかを調べること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

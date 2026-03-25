@@ -1,0 +1,49 @@
+{
+  "kanjiId": "妻",
+  "character": "妻",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上部",
+      "speechText": "うえは、「つま」の上の部分！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "女",
+      "speechText": "したに「女」と書くよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "おんな",
+    "originDescription": "昔の字の形は、髪飾りをつけた女性がひざまずいて座る姿を描いたんだ。夫に従う女性、つまり「妻」を意味するようになったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "夫妻",
+      "meaning": "夫と妻、つまり夫婦のことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "愛妻",
+      "meaning": "自分の妻を大切に、愛情深く思うことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "夫婦",
+      "meaning": "結婚した男の人と女の人のことだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

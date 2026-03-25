@@ -1,0 +1,70 @@
+{
+  "kanjiId": "矢",
+  "character": "矢",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "横棒、ピー",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "タテ",
+      "speechText": "タテ、スー",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒",
+      "speechText": "横棒、ピー",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "タテ",
+      "speechText": "タテ、スー",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "ノ",
+      "speechText": "ノ、ひゅっ",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "矢",
+    "radicalName": "や",
+    "radicalMeaning": "矢に関すること",
+    "originDescription": "弓で射る「矢」の形を絵にした文字だよ。まっすぐに飛んでいく矢の姿を表しているんだ。この形から、矢そのものや、方向を示す「矢印」などの意味で使われるようになったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "弓矢",
+      "meaning": "弓と矢のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "矢印",
+      "meaning": "方向を示すしるし。",
+      "imageUrl": ""
+    },
+    {
+      "word": "矢先",
+      "meaning": "矢の先の部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "通",
+  "character": "通",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "甬",
+      "speechText": "ようの字に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょうつけると『通』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行くこと",
+    "originDescription": "道を行く様子（しんにょう）と、すーっとまっすぐ通り抜ける筒の形（甬）が合わさって、「通り抜ける」とか「行き来する」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "通る",
+      "meaning": "道を通り過ぎる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "通学",
+      "meaning": "学校に通うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "通行",
+      "meaning": "道を行き来すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

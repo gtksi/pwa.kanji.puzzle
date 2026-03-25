@@ -1,0 +1,70 @@
+{
+  "kanjiId": "石",
+  "character": "石",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "よこ",
+      "speechText": "上によこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はらい",
+      "speechText": "ひだりにはらい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "はらい",
+      "speechText": "みぎにはらい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "たて",
+      "speechText": "真ん中たてぼう",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "よこ",
+      "speechText": "下によこぼう",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "石",
+    "radicalName": "いし",
+    "radicalMeaning": "石",
+    "originDescription": "山のがけの下に石が転がっている様子を表す漢字だよ。がけから落ちてきた石は、古くから道具に使われてきたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "小石",
+      "meaning": "小さな石",
+      "imageUrl": ""
+    },
+    {
+      "word": "石けん",
+      "meaning": "体を洗うもの",
+      "imageUrl": ""
+    },
+    {
+      "word": "宝石",
+      "meaning": "きれいな石",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

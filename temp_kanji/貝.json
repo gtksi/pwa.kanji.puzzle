@@ -1,0 +1,63 @@
+{
+  "kanjiId": "貝",
+  "character": "貝",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かいがら",
+      "speechText": "かいがら　まんなか　ひらいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "うえの　はじ",
+      "speechText": "うえは　はじ　ぎゅっ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "したの　はじ",
+      "speechText": "したも　はじ　ぎゅっ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "おちついた　かい",
+      "speechText": "おちついた　かい　だよ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "貝がら。むかしは、たからものや、おかねのかわりに使われた。",
+    "originDescription": "むかし、貝がらをたからやお金として使っていたことから、「貝」という字は貝がらのかたちを表しています。お金やたからに関係する字によく使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "貝がら",
+      "meaning": "うみがめにいるかいのから。おもちゃにしたり、つむじ風にしたりする。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宝貝",
+      "meaning": "きれいな貝がら。むかしは、お金のかわりにも使われた。",
+      "imageUrl": ""
+    },
+    {
+      "word": "負ける",
+      "meaning": "たたかいやゲームで、かつことができないこと。むかし、貝をあらそうようすからできた字。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

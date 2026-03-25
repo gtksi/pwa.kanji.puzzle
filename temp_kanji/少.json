@@ -1,0 +1,49 @@
+{
+  "kanjiId": "少",
+  "character": "少",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "小",
+      "speechText": "しょうに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "てん",
+      "speechText": "てん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "小",
+    "radicalName": "しょう",
+    "radicalMeaning": "小さい",
+    "originDescription": "「少」は、「小」という漢字の真ん中にさらに小さな点をつけて、もっと量が少ないことを強調した漢字だよ。少ししかない様子を表すんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "少ない",
+      "meaning": "数や量が少しのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "少年",
+      "meaning": "若い男の子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "多少",
+      "meaning": "少しだけのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

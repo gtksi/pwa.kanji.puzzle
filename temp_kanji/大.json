@@ -1,0 +1,56 @@
+{
+  "kanjiId": "大",
+  "character": "大",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おおきいよこぼう",
+      "speechText": "おおきいよこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ひだりにはらい",
+      "speechText": "ひだりにはらい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "みぎにはらい",
+      "speechText": "みぎにはらい",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "おおきい",
+    "originDescription": "人が両手を大きく広げて立っている姿を描いた字です。体をいっぱいに広げた様子から、「おおきい」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大学",
+      "meaning": "高等教育機関",
+      "imageUrl": ""
+    },
+    {
+      "word": "大事",
+      "meaning": "重要で大切なこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "大好",
+      "meaning": "とても好きなこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,46 @@
+{
+  "kanjiId": "夫",
+  "character": "夫",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "二",
+      "speechText": "二を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "人を大きく突き抜ける",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "大きい",
+    "originDescription": "大の字（大人の男性）の上に、かんざしを表す一本線を足した形です。立派な成人の男の人を指します。",
+    "synonyms": [],
+    "antonyms": [
+      "婦"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "工夫",
+      "meaning": "良い方法を一生懸命考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "夫婦",
+      "meaning": "結婚した夫と妻のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

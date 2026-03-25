@@ -1,0 +1,56 @@
+{
+  "kanjiId": "来",
+  "character": "来",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十字",
+      "speechText": "たて、よこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "き",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "はらい",
+      "speechText": "ひだりはらい、みぎはらい",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "この漢字は、もともと麦（むぎ）の穂が垂れている様子を表していたんだ。麦が遠くから「来る」ことに例えられて、今では「来る」という意味で使われているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "来る",
+      "meaning": "こちらへ移動する。",
+      "imageUrl": ""
+    },
+    {
+      "word": "来週",
+      "meaning": "今の次の週。",
+      "imageUrl": ""
+    },
+    {
+      "word": "来月",
+      "meaning": "今の次の月。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

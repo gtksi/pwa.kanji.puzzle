@@ -1,0 +1,61 @@
+{
+  "kanjiId": "上",
+  "character": "上",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たてぼう",
+      "speechText": "たてぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "みじかいよこ",
+      "speechText": "みじかいよこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ながいよこ",
+      "speechText": "ながいよこ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ひと。また、基準となる線を表す。",
+    "originDescription": "もともとは一本の横線（基準）の上に、短い線を描いて「上の方」を指し示した記号です。指で上を指すようなイメージから生まれた漢字です。",
+    "synonyms": [
+      "上方",
+      "上部"
+    ],
+    "antonyms": [
+      "下"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "上（うえ）",
+      "meaning": "高いところ。低いところの反対。",
+      "imageUrl": ""
+    },
+    {
+      "word": "上（あ）がる",
+      "meaning": "下から上へと動くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "屋上（おくじょう）",
+      "meaning": "建物の、一番上にある平らな場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

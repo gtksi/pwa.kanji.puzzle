@@ -1,0 +1,63 @@
+{
+  "kanjiId": "良",
+  "character": "良",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "チョンと点、上につけたら",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横",
+      "speechText": "よこ棒スッと、良い感じ！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "まがり",
+      "speechText": "まがり、その下に",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "八",
+      "speechText": "八の字つけたら、良しだよ！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艮",
+    "radicalName": "ごん",
+    "radicalMeaning": "よい",
+    "originDescription": "昔はかまどの上の「なべ」の形を表したんだ。ふたがきちんと閉まり、中でおいしいものがうまくできている様子から、「良い」「正しい」という意味になったと伝えられているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "良い",
+      "meaning": "優れていること、正しいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "良好",
+      "meaning": "状態が良いこと、良い様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "善良",
+      "meaning": "心がきれいで、悪いことをしないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

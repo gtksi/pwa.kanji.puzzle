@@ -1,0 +1,70 @@
+{
+  "kanjiId": "五",
+  "character": "五",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "いち、に、よこぼう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒",
+      "speechText": "さん、たてぼう！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "斜め左",
+      "speechText": "し、ななめひだり！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "斜め右",
+      "speechText": "ご、ななめみぎ！",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "交差",
+      "speechText": "ろく、まじわる！",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "二",
+    "radicalName": "に",
+    "radicalMeaning": "二つのもの。天と地。",
+    "originDescription": "昔、指を五本広げた形から生まれた。「五」は指を広げて数を数える様子を表している。親指と人差し指を交差させた形とも言われる。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "五月",
+      "meaning": "年の5番目の月。",
+      "imageUrl": ""
+    },
+    {
+      "word": "五分",
+      "meaning": "物事の半分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "五時",
+      "meaning": "時計の5時。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

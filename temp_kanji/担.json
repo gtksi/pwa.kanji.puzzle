@@ -1,0 +1,49 @@
+{
+  "kanjiId": "担",
+  "character": "担",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "手の意味、てへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "旦",
+      "speechText": "朝の「旦」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "扌",
+    "radicalName": "てへん",
+    "radicalMeaning": "手",
+    "originDescription": "「扌（てへん）」は手、「旦」は両手で物を持ち上げる様子を表します。手で物を持ち上げたり、背負ったりする意味から、「責任を持つ」という意味にも使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "担当",
+      "meaning": "仕事や役割を受け持つこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "負担",
+      "meaning": "責任や費用などを引き受けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "担架",
+      "meaning": "病人やけが人を運ぶための道具。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

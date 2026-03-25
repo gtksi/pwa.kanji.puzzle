@@ -1,0 +1,49 @@
+{
+  "kanjiId": "技",
+  "character": "技",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "手（てへん）",
+      "speechText": "てへんに、シュッ、ポン！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "支（えだ）",
+      "speechText": "十（じゅう）と、また（または、むにょう）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "て",
+    "radicalMeaning": "手や動作",
+    "originDescription": "「手」と「支（ささえる）」の組み合わせだよ。手で何かを支えたり、器用に扱ったりする様子から、「技術」や「わざ」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "技術",
+      "meaning": "物事をうまく行うための腕前や方法のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "特技",
+      "meaning": "特に得意な技術や技のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "競技",
+      "meaning": "スポーツなどで、技を競い合うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,39 @@
+{
+  "kanjiId": "事",
+  "character": "事",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "事の構成",
+      "speechText": "いち、口（くち）、ヨを書いて、真ん中つらぬき、最後はハネて、ト（カタカナ）",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亅",
+    "radicalName": "はねぼう",
+    "radicalMeaning": "棒の形",
+    "originDescription": "手で道具や記録を持つ様子から、行われる「できごと」や「お仕事」を表すようになりました。",
+    "synonyms": [
+      "件"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "行事",
+      "meaning": "決まったときに行われる、特別な集まりやイベント",
+      "imageUrl": ""
+    },
+    {
+      "word": "用事",
+      "meaning": "やらなければいけない、ちょっとした仕事や用",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

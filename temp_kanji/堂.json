@@ -1,0 +1,56 @@
+{
+  "kanjiId": "堂",
+  "character": "堂",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "八",
+      "speechText": "はち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "土",
+      "speechText": "つち",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "土や地面に関すること",
+    "originDescription": "「堂」は、昔、大きな建物や広間の屋根の形と土の台座を表す漢字でした。そこから、人が集まる立派な建物や広い部屋を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "食堂",
+      "meaning": "ご飯を食べる場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "広堂",
+      "meaning": "集会などができる広い部屋や建物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "本堂",
+      "meaning": "お寺の中心となる建物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

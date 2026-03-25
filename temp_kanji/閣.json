@@ -1,0 +1,46 @@
+{
+  "kanjiId": "閣",
+  "character": "閣",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "門",
+      "speechText": "もんがまえを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "各",
+      "speechText": "中におのおの（各）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "門",
+    "radicalName": "もんがまえ",
+    "radicalMeaning": "門や建物に関すること",
+    "originDescription": "門の中に、高い建物（各）がある様子を表します。立派で大きな建物や、政治のリーダーが集まる場所を指します。",
+    "synonyms": [
+      "楼"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "内閣",
+      "meaning": "国を動かす政治の最高グループ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "金閣寺",
+      "meaning": "京都にある、金箔がはられた有名なお寺。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "設",
+  "character": "設",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ことばの「ごんべん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "殳",
+      "speechText": "とんとん「るまた」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、話すこと",
+    "originDescription": "「言」は言葉、「殳」は道具を持つ手の形。言葉で計画を立て、物事を準備したり、場所を設けたりする様子を表すよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "設計",
+      "meaning": "建物や機械などの計画を立てること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "設立",
+      "meaning": "会社や学校などを新しく作ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "設備",
+      "meaning": "役立つように整えられた機械や道具のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

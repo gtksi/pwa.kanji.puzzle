@@ -1,0 +1,51 @@
+{
+  "kanjiId": "縄",
+  "character": "縄",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "臣",
+      "speechText": "臣と書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "巳",
+      "speechText": "巳だよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸",
+    "originDescription": "糸を表す「いとへん」と、音を表す部分を合わせた漢字だよ。撚り合わせた糸でできた「なわ」のことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "縄",
+      "meaning": "細い糸などをより合わせて作ったひも。",
+      "imageUrl": ""
+    },
+    {
+      "word": "縄文",
+      "meaning": "日本の昔の時代の名前。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

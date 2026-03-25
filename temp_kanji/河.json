@@ -1,0 +1,49 @@
+{
+  "kanjiId": "河",
+  "character": "河",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "可",
+      "speechText": "可 (か)",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "みず",
+    "originDescription": "「さんずい」は水を表し、「可」は音を表しているよ。広い水が流れるところ、つまり大きな「かわ」を表す漢字なんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "河川",
+      "meaning": "川のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "運河",
+      "meaning": "船が通れるように人工的にほられた川。",
+      "imageUrl": ""
+    },
+    {
+      "word": "銀河",
+      "meaning": "夜空に見える星の集まり。天の川のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

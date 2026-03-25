@@ -1,0 +1,51 @@
+{
+  "kanjiId": "県",
+  "character": "県",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "目",
+      "speechText": "目を横にたおして",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "小",
+      "speechText": "下に小さいの点を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "かぎ",
+      "speechText": "最後にカギでまとめる",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "目",
+    "radicalName": "め",
+    "radicalMeaning": "目に関係すること",
+    "originDescription": "昔、首を木につるして目立つようにした形が変化したものです。遠くからも分かる「きまり」や「区切り」という意味から、国の広い区切りを表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "山口県",
+      "meaning": "日本の都道府県の名前の一つ",
+      "imageUrl": ""
+    },
+    {
+      "word": "県庁",
+      "meaning": "県のお仕事をする役所のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

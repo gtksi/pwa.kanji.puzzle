@@ -1,0 +1,44 @@
+{
+  "kanjiId": "尺",
+  "character": "尺",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尸",
+      "speechText": "しかばねかんむり、ねて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "匕",
+      "speechText": "ひ、スプーン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "尸",
+    "radicalName": "しかばね",
+    "radicalMeaning": "人のからだ",
+    "originDescription": "昔の人は、人の腕の長さを使って物を測っていました。「尺」は、腕の形と、長さを測る道具の形から生まれました。長さの基準となる大切な漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "尺度",
+      "meaning": "物事を判断する基準",
+      "imageUrl": ""
+    },
+    {
+      "word": "尺八",
+      "meaning": "日本の伝統的な縦笛",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

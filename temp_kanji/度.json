@@ -1,0 +1,54 @@
+{
+  "kanjiId": "度",
+  "character": "度",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まだれ",
+      "speechText": "まだれに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "廿",
+      "speechText": "じゅうじゅう",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "又",
+      "speechText": "また",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "屋根のある建物",
+    "originDescription": "手（又）を使って、ものの長さをはかる様子を表しています。回数や、物事のしまりぐあい（程度）も意味します。",
+    "synonyms": [
+      "回",
+      "程"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "一度",
+      "meaning": "一回、あるとき",
+      "imageUrl": ""
+    },
+    {
+      "word": "温度",
+      "meaning": "あつさや寒さを数字で表したもの",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

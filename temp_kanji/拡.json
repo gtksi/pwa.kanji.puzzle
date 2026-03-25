@@ -1,0 +1,48 @@
+{
+  "kanjiId": "拡",
+  "character": "拡",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "てへんを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "広",
+      "speechText": "ひろい（広）を右に書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手の動作に関すること",
+    "originDescription": "「手」と、ひろいという意味の「広」が組み合わさりました。手を使って、せまかったものを「ひろげる」ことを表します。",
+    "synonyms": [
+      "広"
+    ],
+    "antonyms": [
+      "縮"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "拡大",
+      "meaning": "形や規模を大きく広げること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "拡張",
+      "meaning": "広げ、のばして大きくすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,63 @@
+{
+  "kanjiId": "後",
+  "character": "後",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "彳",
+      "speechText": "ぎょうにんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "幺",
+      "speechText": "いとがしら",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "小",
+      "speechText": "ちいさい",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "夂",
+      "speechText": "のちあし",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "道を行く人",
+    "originDescription": "道を行く人の足が止まっている様子を表しています。「彳（ぎょうにんべん）」は道を行く人を表し、その後に続くことを示します。うしろ、おくれる、という意味です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "後ろ",
+      "meaning": "自分の体の反対側。",
+      "imageUrl": ""
+    },
+    {
+      "word": "後で",
+      "meaning": "今ではない、その後に。",
+      "imageUrl": ""
+    },
+    {
+      "word": "後半",
+      "meaning": "物事の真ん中より後の部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

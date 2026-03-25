@@ -1,0 +1,49 @@
+{
+  "kanjiId": "佐",
+  "character": "佐",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "左",
+      "speechText": "左の字、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亻",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関する意味を表す",
+    "originDescription": "「佐」は、「人」と「左」からできています。「左」は「たすける」という意味も持ちます。人が力を貸して、手伝う様子を表していて、「たすける」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "補佐",
+      "meaning": "助けて仕事をすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "佐官",
+      "meaning": "軍隊の階級の一つ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "佐渡",
+      "meaning": "新潟県にある島の名前。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

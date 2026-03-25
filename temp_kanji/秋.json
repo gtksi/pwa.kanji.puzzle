@@ -1,0 +1,49 @@
+{
+  "kanjiId": "秋",
+  "character": "秋",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "火",
+      "speechText": "ひ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "穀物",
+    "originDescription": "「秋」は、穀物（禾）が実って、収穫の時期に燃やして清める火（火）を表しているよ。作物が育ち、収穫する季節のことなんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "秋",
+      "meaning": "夏のあと、冬の前の季節。",
+      "imageUrl": ""
+    },
+    {
+      "word": "秋風",
+      "meaning": "秋に吹く風。",
+      "imageUrl": ""
+    },
+    {
+      "word": "春秋",
+      "meaning": "春と秋のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

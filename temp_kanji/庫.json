@@ -1,0 +1,46 @@
+{
+  "kanjiId": "庫",
+  "character": "庫",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まだれ",
+      "speechText": "まだれを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "車",
+      "speechText": "中に車を入れればくら（庫）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "建物に関係すること",
+    "originDescription": "「建物」と「車」が合わさった漢字です。もともとは戦車をしまっておく特別な小屋を意味していました。今では大切な物をしまう場所を指します。",
+    "synonyms": [
+      "蔵"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "金庫",
+      "meaning": "お金や大切な物を守るためのじょうぶな箱",
+      "imageUrl": ""
+    },
+    {
+      "word": "車庫",
+      "meaning": "車を止めておくための小屋",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,55 @@
+{
+  "kanjiId": "幸",
+  "character": "幸",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "土を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "￥",
+      "speechText": "記号のエン（￥）みたいに書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "十",
+      "speechText": "最後に十を書けばしあわせ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "干",
+    "radicalName": "かん",
+    "radicalMeaning": "盾や道具に関係すること",
+    "originDescription": "昔、手かせ（手じょう）から逃げ出すことができた「ラッキーな様子」を表しています。そこから、幸せや運が良いという意味になりました。",
+    "synonyms": [
+      "福"
+    ],
+    "antonyms": [
+      "不幸"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "幸せ",
+      "meaning": "心が満たされていて、うれしいと感じること",
+      "imageUrl": ""
+    },
+    {
+      "word": "幸運",
+      "meaning": "運が良いこと。ラッキーなこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

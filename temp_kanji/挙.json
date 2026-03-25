@@ -1,0 +1,49 @@
+{
+  "kanjiId": "挙",
+  "character": "挙",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "与",
+      "speechText": "あたえる、という字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "手",
+      "speechText": "したはて",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "て",
+    "radicalMeaning": "手",
+    "originDescription": "この漢字は、両手で何かを持ち上げる様子を表しています。そこから、「持ち上げる」「行う」「全体で行う」といった意味に広がりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "挙手",
+      "meaning": "手を挙げること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "選挙",
+      "meaning": "リーダーなどを選ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "挙げる",
+      "meaning": "持ち上げること、行うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

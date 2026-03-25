@@ -1,0 +1,46 @@
+{
+  "kanjiId": "農",
+  "character": "農",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きょく",
+      "speechText": "曲（きょく）を少しつぶして",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんのたつ",
+      "speechText": "下に辰（しんのたつ）で、たがやす（農）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辰",
+    "radicalName": "しんのたつ",
+    "radicalMeaning": "貝の道具、時",
+    "originDescription": "森の木（曲）を切り、貝で作った道具（辰）を使って土をたがやす様子を表しています。「田畑を作る」という意味です。",
+    "synonyms": [
+      "耕"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "農業",
+      "meaning": "野菜や米などを作る仕事",
+      "imageUrl": ""
+    },
+    {
+      "word": "農家",
+      "meaning": "農業を仕事にしている家",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

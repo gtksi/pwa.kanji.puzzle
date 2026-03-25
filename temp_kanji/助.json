@@ -1,0 +1,49 @@
+{
+  "kanjiId": "助",
+  "character": "助",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "且",
+      "speechText": "且（カツ）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "力",
+      "speechText": "右に力（ちから）で「たすける」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、働き",
+    "originDescription": "力を合わせることを意味する「且」と、筋肉の形をした「力」が組み合わさりました。誰かのために力を貸して、支え助けることを表します。",
+    "synonyms": [
+      "救",
+      "援"
+    ],
+    "antonyms": [
+      "妨"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "助ける",
+      "meaning": "こまっている人を手伝って、楽にさせてあげること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "助手",
+      "meaning": "中心になって働く人をそばで手伝う人のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

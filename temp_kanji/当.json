@@ -1,0 +1,49 @@
+{
+  "kanjiId": "当",
+  "character": "当",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "⺌",
+      "speechText": "しょうのかしらに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "田んぼの田で『当』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田んぼ",
+    "originDescription": "上の部分が、まっすぐ向き合う様子を表し、下の「田」が物をしっかり受け止める様子を表しているよ。そこから、「ぴったり当たる」とか「ちょうど良い」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "当たる",
+      "meaning": "的に命中する、予想が的中する。",
+      "imageUrl": ""
+    },
+    {
+      "word": "当日",
+      "meaning": "その日のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "手当",
+      "meaning": "怪我の治療や、給料のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

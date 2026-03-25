@@ -1,0 +1,44 @@
+{
+  "kanjiId": "多",
+  "character": "多",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夕",
+      "speechText": "ゆうがたの夕、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夕",
+      "speechText": "もう一つ夕！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夕",
+    "radicalName": "ゆうべ",
+    "radicalMeaning": "夕方",
+    "originDescription": "「夕」（ゆうがた）の形を二つ重ねた漢字です。夕焼け空にたくさんの星や雲が見える様子から、「数や量が多い」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "多い",
+      "meaning": "数や量がたくさんあること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "多人数",
+      "meaning": "たくさんの人のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

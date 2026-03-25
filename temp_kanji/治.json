@@ -1,0 +1,49 @@
+{
+  "kanjiId": "治",
+  "character": "治",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "台",
+      "speechText": "台の字、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関する意味を表す",
+    "originDescription": "「治」は、「水」と「台（だい）」からできています。「台」は、物を高くしたり平らにしたりする場所。水を治め、流れを整えるように、国や病気を「治める」「治す」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "治る",
+      "meaning": "病気や怪我が良くなること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "治療",
+      "meaning": "病気や怪我を治すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "政治",
+      "meaning": "国や社会を治めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

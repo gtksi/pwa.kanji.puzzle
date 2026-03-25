@@ -1,0 +1,49 @@
+{
+  "kanjiId": "会",
+  "character": "会",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ふたりの人",
+      "speechText": "ふたりの人だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "曰",
+      "speechText": "ひらびだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "人",
+    "originDescription": "ふたりの人が向かい合って、話し合う様子を表した漢字だよ。みんなで集まることや、ある場所で会うことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "会う",
+      "meaning": "人と出会うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "会社",
+      "meaning": "みんなで仕事をする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "集会",
+      "meaning": "多くの人が集まること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

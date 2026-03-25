@@ -1,0 +1,49 @@
+{
+  "kanjiId": "推",
+  "character": "推",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "手",
+      "speechText": "「てへん」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "隹",
+      "speechText": "「ふるとり」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手に関すること",
+    "originDescription": "「手」と「鳥」の形からできた漢字だよ。手で鳥を押して進めるように、物事を押し進めたり、選びすすめたりする意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "推薦",
+      "meaning": "人や物を良いものとしてすすめ選ぶこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "推進",
+      "meaning": "物事を前へと進めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "推測",
+      "meaning": "状況から物事を想像して見当をつけること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

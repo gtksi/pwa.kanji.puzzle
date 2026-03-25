@@ -1,0 +1,49 @@
+{
+  "kanjiId": "訳",
+  "character": "訳",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん、いちにさんしごろしち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "尺",
+      "speechText": "しゃく、いちにさんしご",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことば、話すこと",
+    "originDescription": "「言（ことば）」と「尺（さだめる、はかる）」が合わさってできた漢字だよ。物事の長さを測るように、言葉で物事を説明し、意味をはっきりさせることを表しているんだ。説明や翻訳の意味で使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "翻訳",
+      "meaning": "ある国の言葉を別の国の言葉に直すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "通訳",
+      "meaning": "人の話す言葉をその場で他の言葉に伝えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "言い訳",
+      "meaning": "自分の行動や失敗について、理由を説明すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

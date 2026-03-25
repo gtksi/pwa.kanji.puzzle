@@ -1,0 +1,56 @@
+{
+  "kanjiId": "土",
+  "character": "土",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "短い横棒、地面だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒",
+      "speechText": "真ん中縦棒、芽が出るよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "横棒",
+      "speechText": "長い横棒、しっかり地面",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "つち",
+    "originDescription": "地面から芽が出ている様子を絵にした漢字だよ。地面を表す横棒の上に、芽が伸びる様子を表す縦棒が書かれているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "土地",
+      "meaning": "地面",
+      "imageUrl": ""
+    },
+    {
+      "word": "土日",
+      "meaning": "土曜日と日曜日",
+      "imageUrl": ""
+    },
+    {
+      "word": "粘土",
+      "meaning": "べたべたした土",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

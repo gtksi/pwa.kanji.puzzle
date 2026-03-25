@@ -1,0 +1,49 @@
+{
+  "kanjiId": "去",
+  "character": "去",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "土（つち）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "下にムを書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "厶",
+    "radicalName": "む",
+    "radicalMeaning": "自分に関すること、または特定の動作",
+    "originDescription": "入れ物のフタを開けて中身を出す様子から、今いる場所から「去る」や「いなくなる」という意味になりました。",
+    "synonyms": [
+      "去る",
+      "離れる"
+    ],
+    "antonyms": [
+      "来"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "去年",
+      "meaning": "一年前のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "過去",
+      "meaning": "今の時間よりも前のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

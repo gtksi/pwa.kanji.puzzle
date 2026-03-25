@@ -1,0 +1,70 @@
+{
+  "kanjiId": "穀",
+  "character": "穀",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへん、おこめだよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冖",
+      "speechText": "わかんむり、ふたをする",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "口",
+      "speechText": "くち、ぱくぱく",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "八",
+      "speechText": "はち、ひろがる",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "稲や穀物",
+    "originDescription": "左の「禾（のぎへん）」は稲や穀物を表します。右側の部分は、実が殻に包まれている様子や、包み込むという意味を表していました。稲や麦など、実りのある植物全般「こくもつ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "穀物",
+      "meaning": "米や麦、豆などの食べられる植物の総称",
+      "imageUrl": ""
+    },
+    {
+      "word": "雑穀",
+      "meaning": "米や麦以外のいろいろな穀物",
+      "imageUrl": ""
+    },
+    {
+      "word": "脱穀",
+      "meaning": "穀物の実から殻を取り除くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

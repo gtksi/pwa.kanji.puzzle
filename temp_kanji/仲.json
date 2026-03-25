@@ -1,0 +1,44 @@
+{
+  "kanjiId": "仲",
+  "character": "仲",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "なか",
+      "speechText": "なか",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "人",
+    "originDescription": "「人」と「中（まんなか）」を組み合わせた漢字です。人と人の間に入って助ける様子や、人との関係が「なか」が良いことを表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "仲間",
+      "meaning": "同じ目的や趣味を持つ友人たち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "仲良し",
+      "meaning": "互いに親しく、仲が良いこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

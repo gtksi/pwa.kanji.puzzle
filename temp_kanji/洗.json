@@ -1,0 +1,49 @@
+{
+  "kanjiId": "洗",
+  "character": "洗",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "先",
+      "speechText": "右には『先』！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "左側の「さんずい」は水を表しているよ。右側の「先」は、もともと足を水で洗う様子を描いたものなんだ。きれいにするために水を使うことを表す字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "洗濯",
+      "meaning": "衣類などを洗うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "洗浄",
+      "meaning": "きれいに洗い流すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "洗剤",
+      "meaning": "洗うときに使う薬品。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

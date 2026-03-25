@@ -1,0 +1,46 @@
+{
+  "kanjiId": "箱",
+  "character": "箱",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たけかんむり",
+      "speechText": "タケカンムリを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "あい",
+      "speechText": "下に木（き）と目（め）で、はこ（箱）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹、竹製品",
+    "originDescription": "竹（たけかんむり）と、中身をしっかり見ることを表す「相」を合わせた漢字です。竹で作った入れ物のことを表しています。",
+    "synonyms": [
+      "函"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "木箱",
+      "meaning": "木で作られたはこ",
+      "imageUrl": ""
+    },
+    {
+      "word": "貯金箱",
+      "meaning": "お金をためておくためのはこ",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

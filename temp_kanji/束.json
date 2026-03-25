@@ -1,0 +1,51 @@
+{
+  "kanjiId": "束",
+  "character": "束",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "口",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "キ",
+      "speechText": "キ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "木をひもでたばねた形から、いくつかの物をひとまとめにする「たば」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "花束",
+      "meaning": "たくさんの花をまとめてひもなどでしばったもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "約束",
+      "meaning": "人と人との間で、今後どうするかなどを取り決めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

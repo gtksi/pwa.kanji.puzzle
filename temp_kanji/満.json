@@ -1,0 +1,62 @@
+{
+  "kanjiId": "満",
+  "character": "満",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵（さんずい）",
+      "speechText": "さんずいを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "艹（くさかんむり）",
+      "speechText": "くさかんむりを乗せて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "両",
+      "speechText": "下に両（りょう）を書けば「満」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水・液体",
+    "originDescription": "「氵（水）」と、入れ物の中にたっぷり詰まっている様子を表す「両」などが組み合わさった漢字です。水が入れ物いっぱいに満ちることを意味します。",
+    "synonyms": [
+      "充",
+      "盈"
+    ],
+    "antonyms": [
+      "空",
+      "欠"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "満点",
+      "meaning": "決められた点数の最高点。",
+      "imageUrl": ""
+    },
+    {
+      "word": "満足",
+      "meaning": "心が満たされて、幸せに思うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "満員",
+      "meaning": "人がいっぱいで、入れる余裕がないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

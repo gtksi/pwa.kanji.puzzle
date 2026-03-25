@@ -1,0 +1,49 @@
+{
+  "kanjiId": "質",
+  "character": "質",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "斤",
+      "speechText": "上のキンの字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "下のカイの字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "財産、価値に関すること",
+    "originDescription": "昔、材木を測る道具を表した形から来ました。そこから、物の重さや性質、その「本質」を意味するようになり、また問い「正す」という意味も持ちます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "質問",
+      "meaning": "わからないことを尋ねること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "物質",
+      "meaning": "形あるもの、物体。",
+      "imageUrl": ""
+    },
+    {
+      "word": "性質",
+      "meaning": "そのもののもっている特徴や傾向。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

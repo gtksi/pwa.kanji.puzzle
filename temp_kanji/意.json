@@ -1,0 +1,49 @@
+{
+  "kanjiId": "意",
+  "character": "意",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "音",
+      "speechText": "たつ！おと！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "こころ、ドッキドキ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "心、気持ち",
+    "originDescription": "「意」は、心（こころ）の中で感じたり考えたりすることが、音（おと）になって外にあらわれる様子を組み合わせた字だよ。自分の気持ちや考え、物事の意味や目的を指す言葉として使われるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "意味",
+      "meaning": "言葉や物の内容。",
+      "imageUrl": ""
+    },
+    {
+      "word": "意見",
+      "meaning": "自分の考えや気持ち。",
+      "imageUrl": ""
+    },
+    {
+      "word": "意外",
+      "meaning": "思っていたことと違うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "残",
+  "character": "残",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かばねへん",
+      "speechText": "かばねへん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ほこ",
+      "speechText": "ほこの、戈、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "歹",
+    "radicalName": "かばねへん",
+    "radicalMeaning": "骨や死に関する意味を表す",
+    "originDescription": "「残」は、「歹（かばねへん）」と「戈（ほこ）」からできています。「戈」は武器を表し、戦いで傷つけられ、壊れたり残ったりする様子を表しています。そこから「のこる」や「のこす」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "残る",
+      "meaning": "使い終わっても、まだあること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "残す",
+      "meaning": "一部を使い終わらずに置いておくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "残念",
+      "meaning": "期待通りにならず、心残りがあること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

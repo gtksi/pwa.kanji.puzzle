@@ -1,0 +1,53 @@
+{
+  "kanjiId": "綿",
+  "character": "綿",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しろ",
+      "speechText": "しろ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "はば",
+      "speechText": "はば",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "いと、つながる",
+    "originDescription": "糸と、白い布（帛）を合わせた字です。糸のように長くつながる、白くてやわらかい「わた」のことを表しています。",
+    "synonyms": [
+      "コットン"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "木綿",
+      "meaning": "ワタの植物から作った、肌ざわりの良い布のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "綿あめ",
+      "meaning": "さとうを熱して、ふわふわの綿のようにしたお菓子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "脳",
+  "character": "脳",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづき、体の一部",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "囟",
+      "speechText": "しんば、頭のてっぺん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "にくづきに しんば、のうみその脳！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "体の一部や肉に関することを示す。",
+    "originDescription": "「月（にくづき）」は体の部分、「囟」は頭のてっぺんを表します。頭の中にある大切な考える器官、「のうみそ」を意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "脳みそ",
+      "meaning": "頭の中にある、考えたり感じたりする器官。",
+      "imageUrl": ""
+    },
+    {
+      "word": "頭脳",
+      "meaning": "頭のはたらき、考える力。",
+      "imageUrl": ""
+    },
+    {
+      "word": "脳科学",
+      "meaning": "脳のしくみや働きを研究する学問。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

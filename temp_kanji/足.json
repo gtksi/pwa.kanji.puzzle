@@ -1,0 +1,49 @@
+{
+  "kanjiId": "足",
+  "character": "足",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上のしかく",
+      "speechText": "上のしかく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "とまる",
+      "speechText": "とまる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "足",
+    "radicalName": "あしへん",
+    "radicalMeaning": "あし",
+    "originDescription": "ひざから下の足の部分と、足の指の形を描いた字です。そこから「あし」や「歩く」「足りる」といった意味を持つようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "足元",
+      "meaning": "足のまわり、足の下",
+      "imageUrl": ""
+    },
+    {
+      "word": "遠足",
+      "meaning": "遠くへ歩いて行くこと、行事",
+      "imageUrl": ""
+    },
+    {
+      "word": "手足",
+      "meaning": "手と足",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

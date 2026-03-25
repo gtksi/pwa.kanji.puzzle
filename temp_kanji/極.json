@@ -1,0 +1,49 @@
+{
+  "kanjiId": "極",
+  "character": "極",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亟",
+      "speechText": "すみやか、という字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木",
+    "originDescription": "「木（きへん）」は木材や棒を、「亟（キョク）」は、家の棟木や一番高い部分、または物が届く一番端を表します。そこから、物事の「きわまり」や「一番端」、そして「非常に」といった意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "極限",
+      "meaning": "これ以上ないというぎりぎりのところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "南極",
+      "meaning": "地球の一番南の端。",
+      "imageUrl": ""
+    },
+    {
+      "word": "積極的",
+      "meaning": "自分から進んでやること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

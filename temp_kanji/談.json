@@ -1,0 +1,51 @@
+{
+  "kanjiId": "談",
+  "character": "談",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "炎",
+      "speechText": "火（ひ）を二つの炎（ほのお）で、お話しする",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、言うこと",
+    "originDescription": "言葉を表す「言」と、燃え上がる「火」が二つ重なった漢字です。火を囲んで熱心に、楽しく話し合う様子を表しています。",
+    "synonyms": [
+      "話"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "相談",
+      "meaning": "困ったことを話し合って決めること",
+      "imageUrl": ""
+    },
+    {
+      "word": "冗談",
+      "meaning": "相手を笑わせるようなおもしろい話",
+      "imageUrl": ""
+    },
+    {
+      "word": "対談",
+      "meaning": "二人で向かい合って話をすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

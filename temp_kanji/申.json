@@ -1,0 +1,52 @@
+{
+  "kanjiId": "申",
+  "character": "申",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田",
+      "speechText": "田を 書いたら",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦線",
+      "speechText": "まん中を 上から下まで つきぬける",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田んぼ",
+    "originDescription": "空に光る「いなずま」がまっすぐのびる形から生まれました。そこから、いなずまのように言葉をまっすぐに「のべる（言う）」という意味になりました。",
+    "synonyms": [
+      "言う",
+      "述べる"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "申し上げる",
+      "meaning": "「言う」をていねいに言う言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "申し込む",
+      "meaning": "お願いや参加の気持ちを伝えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "申告",
+      "meaning": "役所や学校に、自分のことを報告すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

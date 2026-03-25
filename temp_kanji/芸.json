@@ -1,0 +1,49 @@
+{
+  "kanjiId": "芸",
+  "character": "芸",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "艹",
+      "speechText": "くさかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "云",
+      "speechText": "うん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "草",
+    "originDescription": "「艹（くさかんむり）」は草を、「云」は雲のように広がる、あるいは、物がたくさん集まる様子を表します。もともと「うん」という薬草や香りの良い草を意味していましたが、そこから、技術や学問、芸術など、多くのことを学ぶ意味に転じました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "芸術",
+      "meaning": "絵や音楽など美しいものを作り出す活動。",
+      "imageUrl": ""
+    },
+    {
+      "word": "芸能人",
+      "meaning": "歌や踊りなどで人を楽しませる人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "工芸",
+      "meaning": "手で作る美術品。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

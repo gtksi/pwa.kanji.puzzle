@@ -1,0 +1,56 @@
+{
+  "kanjiId": "表",
+  "character": "表",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "二",
+      "speechText": "まずは二を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "土（の変形）",
+      "speechText": "真ん中に縦棒を引いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "衣（の変形）",
+      "speechText": "下に衣の足をひろげる",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころも",
+    "radicalMeaning": "服、着るもの",
+    "originDescription": "もともとは動物の毛皮で作った「服」を表していました。服は体の外側に着るものなので、「おもて」や「あらわす」という意味になりました。",
+    "synonyms": [
+      "外",
+      "面"
+    ],
+    "antonyms": [
+      "裏"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "発表",
+      "meaning": "みんなの前で意見や考えを伝えること",
+      "imageUrl": ""
+    },
+    {
+      "word": "表面",
+      "meaning": "物の外側の部分。おもて面",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

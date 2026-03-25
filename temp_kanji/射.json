@@ -1,0 +1,49 @@
+{
+  "kanjiId": "射",
+  "character": "射",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "身",
+      "speechText": "「身」の字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寸",
+      "speechText": "「寸」と書いて「うつ」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "寸法、手の形",
+    "originDescription": "もともと弓と矢を放つ様子を表した絵からできた漢字です。「身」（弓と矢）と「寸」（手で持つ様子）が合わさり、弓を引いて矢を飛ばす「うつ」という意味になりました。狙って飛ばすことを指します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "発射",
+      "meaning": "鉄砲やロケットなどを撃ち出すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "注射",
+      "meaning": "薬を体に入れること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "反射",
+      "meaning": "光や音が跳ね返ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

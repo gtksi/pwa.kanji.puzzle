@@ -1,0 +1,63 @@
+{
+  "kanjiId": "専",
+  "character": "専",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十",
+      "speechText": "「上の十」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "「その下の口」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "「さらに下の横棒」と唱えよう！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "丨",
+      "speechText": "「最後に長い縦棒」と唱えよう！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "「寸」は長さの単位を表すけれど、「専」の場合は漢字を分類するためのしるしだよ。",
+    "originDescription": "糸を紡ぐ道具の形からできた漢字だよ。まっすぐに糸を紡ぐように、一つのことに集中したり、そのことだけに取り組んだりする意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "専門",
+      "meaning": "特定の分野を深く研究したり、得意とすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "専念",
+      "meaning": "一つのことに集中して取り組むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "専用",
+      "meaning": "特定の目的や人だけが使うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "姿",
+  "character": "姿",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "次",
+      "speechText": "「次」だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "女",
+      "speechText": "「女」と書いて「すがた」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女性",
+    "originDescription": "「次」（口を開けて立っている人）と「女」（女性）からできました。人が立ち振る舞う様子を表し、全体の形や、あるべき姿という意味になりました。美しい姿やかっこいい姿などを表す漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "姿勢",
+      "meaning": "体の構え。",
+      "imageUrl": ""
+    },
+    {
+      "word": "容姿",
+      "meaning": "顔つきや姿。",
+      "imageUrl": ""
+    },
+    {
+      "word": "後姿",
+      "meaning": "後ろから見た姿。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

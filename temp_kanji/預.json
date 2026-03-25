@@ -1,0 +1,49 @@
+{
+  "kanjiId": "預",
+  "character": "預",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "子",
+      "speechText": "こへん、いちにさん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "頁",
+      "speechText": "おおがい、いちにさんしごろしちはちきゅう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "頭、顔、人に関すること",
+    "originDescription": "「子（こども）」と「頁（あたま）」が合わさってできた漢字だよ。大切な子どもの頭を両手で支える様子を表していて、転じて「大切に預かる」という意味になったんだ。お金や物を一時的に人に預けることや、任せることを意味するよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "預金",
+      "meaning": "お金を銀行などに預けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "預かる",
+      "meaning": "大切なものを一時的に任せてもらうこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "預け入れ",
+      "meaning": "お金や物を銀行などに預ける行為。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

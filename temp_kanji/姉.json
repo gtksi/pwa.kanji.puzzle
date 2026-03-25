@@ -1,0 +1,56 @@
+{
+  "kanjiId": "姉",
+  "character": "姉",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "女へん",
+      "speechText": "おんなへん、を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "市の上の部分",
+      "speechText": "タテ、まがって横、ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "市の下の部分",
+      "speechText": "横棒、ピー、タテ、ノ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女性に関すること",
+    "originDescription": "女（おんな）という字と、物がたくさん並ぶ「市（いち）」という字が合わさってできた漢字だよ。家の中にいる年上の女性、つまり「お姉さん」を表すようになったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "姉妹",
+      "meaning": "姉と妹のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "姉さん",
+      "meaning": "姉を親しく呼ぶ言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "姉上",
+      "meaning": "相手の姉を敬って呼ぶ言葉。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

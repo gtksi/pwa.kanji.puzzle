@@ -1,0 +1,67 @@
+{
+  "kanjiId": "観",
+  "character": "観",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くく",
+      "speechText": "く、くに、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口口",
+      "speechText": "口（くち）が二つ、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "隹",
+      "speechText": "ふるとり書いて、",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "見",
+      "speechText": "右に「みる」！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "見",
+    "radicalName": "みる",
+    "radicalMeaning": "目で見る、ながめる",
+    "originDescription": "大きな目をもつ鳥と、「見る」という漢字が組み合わさってできました。高いところから鳥が広い範囲をじっと見わたすように、物事の様子を注意深く見ることを表しています。",
+    "synonyms": [
+      "視",
+      "覧",
+      "見"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "観光",
+      "meaning": "よその土地の景色や、おもしろい場所を見物すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "観察",
+      "meaning": "生き物や物事の様子を、注意深くじっと見ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "観客",
+      "meaning": "映画やスポーツ、劇などを見に来ている人たちのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

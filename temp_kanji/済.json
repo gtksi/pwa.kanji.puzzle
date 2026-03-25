@@ -1,0 +1,49 @@
+{
+  "kanjiId": "済",
+  "character": "済",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずい、みず",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "斉",
+      "speechText": "ととのえる、せい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水に関すること",
+    "originDescription": "水（さんずい）を渡って、みんなが「斉」しく向こう岸に着く様子を表すよ。『説文解字』では「川を渡る」と説明されているんだ。物事を終わらせる、行き渡らせるという意味に変わっていったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "経済",
+      "meaning": "お金や物の流れを良くして、社会を豊かにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "済む",
+      "meaning": "物事が終わりになること、解決すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "返済",
+      "meaning": "借りたお金などを返すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

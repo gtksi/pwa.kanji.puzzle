@@ -1,0 +1,49 @@
+{
+  "kanjiId": "星",
+  "character": "星",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひへんのひ、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "生",
+      "speechText": "うまれるの生！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "太陽や時間",
+    "originDescription": "「日」（太陽や光）と「生」（生まれる）の組み合わせです。夜空にたくさんの光が生まれてきらめく様子から、星を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "星空",
+      "meaning": "夜、星がたくさん見える空のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一番星",
+      "meaning": "夜空で最初に見える星のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "星々",
+      "meaning": "たくさんの星のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

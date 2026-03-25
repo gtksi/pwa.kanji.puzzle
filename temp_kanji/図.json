@@ -1,0 +1,49 @@
+{
+  "kanjiId": "図",
+  "character": "図",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "囗",
+      "speechText": "くにがまえ、いち、に、さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "予",
+      "speechText": "よ、いち、に、さん、し",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲むこと",
+    "originDescription": "囲われた中（囗）に、ものを並べる様子（予）を表しています。計画を立てる、絵を描く「ず」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "図",
+      "meaning": "絵やグラフ。例：地図の図。",
+      "imageUrl": ""
+    },
+    {
+      "word": "地図",
+      "meaning": "場所を示す絵。例：地図を見る。",
+      "imageUrl": ""
+    },
+    {
+      "word": "図工",
+      "meaning": "絵を描いたり、ものを作ったりする勉強。例：図工の時間。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

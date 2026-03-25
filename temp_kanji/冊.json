@@ -1,0 +1,56 @@
+{
+  "kanjiId": "冊",
+  "character": "冊",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の横棒",
+      "speechText": "うえのよこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦の棒",
+      "speechText": "たてのぼう、たくさん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "下の横棒",
+      "speechText": "したのよこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "冂",
+    "radicalName": "まきがまえ",
+    "radicalMeaning": "囲むこと、枠",
+    "originDescription": "昔、竹で作った札（竹簡）を紐で綴じて書物にした形を表すよ。『説文解字』には「書物」と説明されているんだ。縦の線が竹簡、横の線が紐で、昔の文書の形から「書物」や「本の数」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "冊数",
+      "meaning": "本の数。",
+      "imageUrl": ""
+    },
+    {
+      "word": "短冊",
+      "meaning": "和歌などを書くための細長い紙。",
+      "imageUrl": ""
+    },
+    {
+      "word": "別冊",
+      "meaning": "本の一部として別にまとめられた冊子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

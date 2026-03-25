@@ -1,0 +1,48 @@
+{
+  "kanjiId": "勉",
+  "character": "勉",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "免",
+      "speechText": "ク（く）に口（くち）、ノ（の）にル（る）を書き、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "力",
+      "speechText": "力（ちから）をそえて、つとめる。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、働き",
+    "originDescription": "「免（めん）」は苦しみから逃げることを表し、「力」は力を出すことです。つらいことでも力を出し切ってがんばることを意味します。",
+    "synonyms": [
+      "励"
+    ],
+    "antonyms": [
+      "怠"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "勉強",
+      "meaning": "新しいことを学んだり、一生懸命がんばること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "ガリ勉",
+      "meaning": "遊ばないで勉強ばかりしている人のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

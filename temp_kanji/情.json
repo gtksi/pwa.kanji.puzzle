@@ -1,0 +1,49 @@
+{
+  "kanjiId": "情",
+  "character": "情",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "りっしんべん",
+      "speechText": "こころ、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "青",
+      "speechText": "あお、で「情」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "心、気持ち",
+    "originDescription": "心（こころ）と青（すがすがしい）を合わせた形です。心の奥底にある、生まれたままの「きもち」や「心の動き」を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "気持ち",
+      "meaning": "心の状態や感情。",
+      "imageUrl": ""
+    },
+    {
+      "word": "感情",
+      "meaning": "喜び、悲しみ、怒りなどの心の動き。",
+      "imageUrl": ""
+    },
+    {
+      "word": "情報",
+      "meaning": "新しい知らせや知識。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

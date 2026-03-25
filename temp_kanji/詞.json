@@ -1,0 +1,49 @@
+{
+  "kanjiId": "詞",
+  "character": "詞",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "「ごんべん」さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "司",
+      "speechText": "「司」で「ことば」だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、話す",
+    "originDescription": "「言」（言葉）と「司」（つかさどる、管理する）が合わさってできました。言葉をうまくまとめたり、美しい言葉を紡いだりすることを意味します。特に詩や歌の言葉、品のある言葉に使われる漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "歌詞",
+      "meaning": "歌の言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "名詞",
+      "meaning": "物や名前を表す言葉の種類。",
+      "imageUrl": ""
+    },
+    {
+      "word": "動詞",
+      "meaning": "動きや状態を表す言葉の種類。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

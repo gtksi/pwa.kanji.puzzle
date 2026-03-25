@@ -1,0 +1,48 @@
+{
+  "kanjiId": "登",
+  "character": "登",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "はつがしら",
+      "speechText": "ハツガシラを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まめ",
+      "speechText": "下にマメ（豆）を書いたら、のぼる（登）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "癶",
+    "radicalName": "はつがしら",
+    "radicalMeaning": "足の動き、歩くこと",
+    "originDescription": "両足（癶）と、お供え物をのせる器（豆）を合わせた漢字です。神様にお供え物を持って階段を上がっていく様子から、「のぼる」という意味になりました。",
+    "synonyms": [
+      "昇"
+    ],
+    "antonyms": [
+      "降"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "登山",
+      "meaning": "山にのぼること",
+      "imageUrl": ""
+    },
+    {
+      "word": "登場",
+      "meaning": "ステージや舞台の上に出ること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

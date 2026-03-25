@@ -1,0 +1,37 @@
+{
+  "kanjiId": "羽",
+  "character": "羽",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "羽",
+      "speechText": "はね、パタパタ、とぶかたち",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "羽",
+    "radicalName": "はね",
+    "radicalMeaning": "鳥の羽",
+    "originDescription": "鳥のつばさの形から生まれた漢字です。鳥が空を飛ぶときに使う、あの羽をそのまま絵にしたものです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "羽毛",
+      "meaning": "鳥の体をおおう、やわらかい毛のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "白鳥",
+      "meaning": "体が白い、美しい鳥のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

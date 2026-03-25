@@ -1,0 +1,63 @@
+{
+  "kanjiId": "紙",
+  "character": "紙",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸へん",
+      "speechText": "いとへん、クルクル",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "氏のノ",
+      "speechText": "氏のノ、ひゅっ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "氏の横曲がり",
+      "speechText": "氏の横、曲がって",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "氏の最後",
+      "speechText": "氏のノ、ひゅっ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や繊維に関すること",
+    "originDescription": "左の「糸（いと）」は、紙が植物の繊維からできていることを表しているよ。右の「氏（し）」は、うすく広げるという意味で、繊維を薄く平らに広げて作った「紙」を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "手紙",
+      "meaning": "相手に書く文章。",
+      "imageUrl": ""
+    },
+    {
+      "word": "用紙",
+      "meaning": "書くための紙。",
+      "imageUrl": ""
+    },
+    {
+      "word": "紙幣",
+      "meaning": "お金として使われる紙。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "種",
+  "character": "種",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "重",
+      "speechText": "重いだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "穀物",
+    "originDescription": "稲穂から落ちる種を表す「禾（のぎへん）」と、重さを表す部分を合わせた文字だよ。植物の種や種類を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "種子",
+      "meaning": "植物の種のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "種まき",
+      "meaning": "種を土にまくこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

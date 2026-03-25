@@ -1,0 +1,56 @@
+{
+  "kanjiId": "競",
+  "character": "競",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "立",
+      "speechText": "たつ、一つ目",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "立",
+      "speechText": "たつ、二つ目",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "兄",
+      "speechText": "あにの字",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "立",
+    "radicalName": "たつ",
+    "radicalMeaning": "立つ",
+    "originDescription": "二つの「立つ」が並び、その下に「兄」が組み合わさっています。二人の人がお互いに力を競い合う様子を表し、「競争する」「張り合う」といった意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "競争",
+      "meaning": "勝負を争うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "競馬",
+      "meaning": "馬が速さを競うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "競う",
+      "meaning": "勝ち負けを争うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

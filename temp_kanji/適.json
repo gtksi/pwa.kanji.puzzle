@@ -1,0 +1,63 @@
+{
+  "kanjiId": "適",
+  "character": "適",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "辶",
+      "speechText": "左にしんにょう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亠",
+      "speechText": "右はなべぶた",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "冂",
+      "speechText": "まきがまえ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "丁",
+      "speechText": "丁",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "みち",
+    "originDescription": "「適」は「しんにょう」と「啇（てき）」が組み合わさっています。「しんにょう」は道を行くことを表し、「啇」は的（まと）を射るように正しい方向へ進むことを意味しました。目標にぴたりと「あてはまる」「ちょうどよい」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "適切",
+      "meaning": "ちょうど合っていて、ふさわしいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "適度",
+      "meaning": "ちょうどよい程度。",
+      "imageUrl": ""
+    },
+    {
+      "word": "適当",
+      "meaning": "その場にふさわしいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

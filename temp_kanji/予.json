@@ -1,0 +1,47 @@
+{
+  "kanjiId": "予",
+  "character": "予",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "マ",
+      "speechText": "カタカナのマを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亅",
+      "speechText": "たてぼう、はねる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "亅",
+    "radicalName": "はねぼう",
+    "radicalMeaning": "縦に突き通す形",
+    "originDescription": "機織（はたお）りで使う道具の形からできました。道具を動かすゆとりがあることから、「あらかじめ」や「ゆとり」という意味になりました。",
+    "synonyms": [
+      "兼",
+      "前"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "予定",
+      "meaning": "前もって決めておくこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "予習",
+      "meaning": "授業の前にあらかじめ勉強しておくこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

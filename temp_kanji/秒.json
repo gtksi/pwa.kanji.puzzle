@@ -1,0 +1,46 @@
+{
+  "kanjiId": "秒",
+  "character": "秒",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎへんを左に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "少",
+      "speechText": "右に少ないと書けば秒",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "穀物、いね",
+    "originDescription": "いねの穂の先の、とても細い「のぎ」という部分を表しています。そこから「とても小さくて短い時間」を表すようになりました。",
+    "synonyms": [
+      "寸刻"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "秒速",
+      "meaning": "一秒間に進む速さのこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "数秒",
+      "meaning": "二、三秒から数秒間のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "読",
+  "character": "読",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "売",
+      "speechText": "うる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉や話すことに関する漢字",
+    "originDescription": "「言葉」を表す「言」と、「はっきりと声に出す」という意味を持つ「売」を組み合わせた漢字だよ。本や文章を声に出して「読む」ことを表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "読書",
+      "meaning": "本を読むこと。知識を深めたり、楽しんだりする活動。",
+      "imageUrl": ""
+    },
+    {
+      "word": "音読",
+      "meaning": "声に出して文章を読むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

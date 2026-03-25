@@ -1,0 +1,49 @@
+{
+  "kanjiId": "除",
+  "character": "除",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "おかのかたち こざとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "余",
+      "speechText": "のこりもの、よ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阝",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "丘、土地、段差",
+    "originDescription": "「除」は、丘（おか）を表す「こざとへん」と、余分なものや残りを表す「余（よ）」からできています。丘からいらないものを取り除いて平らにする様子から、邪魔なものを取り去る、なくすという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "削除",
+      "meaning": "不要なものを消し去ること",
+      "imageUrl": ""
+    },
+    {
+      "word": "除去",
+      "meaning": "邪魔なものを取り除くこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "掃除",
+      "meaning": "よごれやごみを取り除くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

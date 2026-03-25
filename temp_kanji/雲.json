@@ -1,0 +1,44 @@
+{
+  "kanjiId": "雲",
+  "character": "雲",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "雨かんむり",
+      "speechText": "あめかんむり、しとしと",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "云",
+      "speechText": "くち、ふたつのせんと、ぴょん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "雨",
+    "radicalName": "あめ",
+    "radicalMeaning": "雨、空の様子",
+    "originDescription": "空に浮かぶ雲の形と、雨が降る様子を表す「雨」を組み合わせた漢字です。雨がふるまえに、空にある雲を表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "雲海",
+      "meaning": "山の上から見ると、雲が海のようにながめていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "白雲",
+      "meaning": "白い色の雲のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

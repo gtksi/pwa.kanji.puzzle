@@ -1,0 +1,63 @@
+{
+  "kanjiId": "聖",
+  "character": "聖",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "耳",
+      "speechText": "「みみ」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "「くち」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "王",
+      "speechText": "「おうさま」と唱えよう！",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "一",
+      "speechText": "「よこぼう」と唱えよう！",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "耳",
+    "radicalName": "みみ",
+    "radicalMeaning": "耳に関すること",
+    "originDescription": "「耳」と「ものが差し出される」形が合わさった漢字だよ。人の言うことをよく聞き、賢く物事を判断する、とても優れた人を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "神聖",
+      "meaning": "けがれがなく、おごそかで尊いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "聖人",
+      "meaning": "徳が高く、知恵に優れた人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "聖書",
+      "meaning": "キリスト教の教えが書かれた本。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

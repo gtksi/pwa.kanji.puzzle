@@ -1,0 +1,56 @@
+{
+  "kanjiId": "官",
+  "character": "官",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "上に、うかんむり、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "コ",
+      "speechText": "その下に、コ、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "縦棒",
+      "speechText": "中に、縦棒、通すよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "「官」は、建物の中で人々が働く様子を表す漢字だよ。そこから、役所の役人や、公の仕事という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "官庁",
+      "meaning": "役所のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "官職",
+      "meaning": "役人の仕事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "長官",
+      "meaning": "役所のトップの人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

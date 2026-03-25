@@ -1,0 +1,49 @@
+{
+  "kanjiId": "二",
+  "character": "二",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "短い横棒、一つめ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横棒",
+      "speechText": "長い横棒、二つめ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "二",
+    "radicalName": "に",
+    "radicalMeaning": "ふたつ",
+    "originDescription": "横棒が二本並んだ形は、数字の「二」をそのまま絵にしたものだよ。昔の人も、この二本の線で「ふたつ」という数を表していたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "二階",
+      "meaning": "建物の二番目の階",
+      "imageUrl": ""
+    },
+    {
+      "word": "二日",
+      "meaning": "2番目の日",
+      "imageUrl": ""
+    },
+    {
+      "word": "二つ",
+      "meaning": "2個",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

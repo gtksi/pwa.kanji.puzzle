@@ -1,0 +1,56 @@
+{
+  "kanjiId": "桜",
+  "character": "桜",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "ひだり きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "うえは かい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "女",
+      "speechText": "したは おんな",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木",
+    "originDescription": "「桜」は「木」と「嬰」を組み合わせた漢字だよ。「木」は木の種類を表し、「嬰」は美しい花がたくさん連なって咲く様子を表しているんだ。日本の春を代表する花だね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "桜並木",
+      "meaning": "桜の木が並んでいる道。",
+      "imageUrl": ""
+    },
+    {
+      "word": "桜色",
+      "meaning": "桜の花のような淡いピンク色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "花見",
+      "meaning": "桜の花を見て楽しむこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "国",
+  "character": "国",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くにがまえ",
+      "speechText": "外側は、くにがまえ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "玉",
+      "speechText": "中には、玉の字だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "かこい",
+    "originDescription": "もともとは城壁で囲まれた土地や都市を表していたんだ。中に『玉（ぎょく）』が入って、守られた大切な地域を意味するよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "国",
+      "meaning": "土地や人々がまとまって住む場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "外国",
+      "meaning": "自分の国ではない別の国。",
+      "imageUrl": ""
+    },
+    {
+      "word": "国土",
+      "meaning": "その国の土地。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

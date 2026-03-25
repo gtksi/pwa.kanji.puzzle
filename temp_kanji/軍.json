@@ -1,0 +1,49 @@
+{
+  "kanjiId": "軍",
+  "character": "軍",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ワかんむり",
+      "speechText": "ワかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "車",
+      "speechText": "くるま",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "車",
+    "radicalName": "くるま",
+    "radicalMeaning": "車",
+    "originDescription": "「車（くるま）」と、それを囲む「冖（かこむ）」の組み合わせで、戦車などの乗り物を囲んで配置した様子を表しています。そこから、兵士の集団である「軍隊」や「いくさ」の意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "軍隊",
+      "meaning": "国を守る兵士の集まり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "海軍",
+      "meaning": "海を守る軍隊。",
+      "imageUrl": ""
+    },
+    {
+      "word": "軍人",
+      "meaning": "軍隊の兵士。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

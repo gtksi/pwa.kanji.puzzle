@@ -1,0 +1,49 @@
+{
+  "kanjiId": "悪",
+  "character": "悪",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亜",
+      "speechText": "あ！へこんで、ぴょんぴょん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "こころ、ドッキドキ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "心、気持ち",
+    "originDescription": "「悪」は、「亜（あ）」の少しへこんだ形と「心（こころ）」を組み合わせた字だよ。心が何か悪いことにひっかかって、へこんでしまうような気持ちを表しているんだ。いやな気持ちになる行いや、悪いこと全般を意味するよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "悪口",
+      "meaning": "人をいやな気持ちにさせる言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "悪者",
+      "meaning": "悪いことをする人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "悪化",
+      "meaning": "悪い方へすすむこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

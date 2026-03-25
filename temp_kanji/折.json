@@ -1,0 +1,44 @@
+{
+  "kanjiId": "折",
+  "character": "折",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "扌",
+      "speechText": "てへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "斤",
+      "speechText": "おのだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手",
+    "originDescription": "手に関することを表す「てへん」と、斧（おの）で木を折る様子を表す部分を合わせた漢字だよ。木や紙などを折ったり、曲げたりすること。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "折る",
+      "meaning": "紙や棒などを曲げて、折り目をつけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "折り紙",
+      "meaning": "紙を折って形を作る遊び。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

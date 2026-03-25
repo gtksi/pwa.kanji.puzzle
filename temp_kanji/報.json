@@ -1,0 +1,47 @@
+{
+  "kanjiId": "報",
+  "character": "報",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "幸",
+      "speechText": "幸せ（しあわせ）の漢字（かんじ）の右（みぎ）に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "卩",
+      "speechText": "ふしづくりを書（か）く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "つち、じめん",
+    "originDescription": "もともとは、罪（つみ）を犯（おか）した人に手かせをはめて裁（さば）く様子（ようす）を表しています。そこから「知らせる」や「むくいる」という意味になりました。",
+    "synonyms": [
+      "告",
+      "応"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "報告",
+      "meaning": "調べたことや結果（けっか）を相手に伝えること",
+      "imageUrl": ""
+    },
+    {
+      "word": "電報",
+      "meaning": "急ぎの用事を短い言葉で送る手紙のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

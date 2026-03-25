@@ -1,0 +1,49 @@
+{
+  "kanjiId": "支",
+  "character": "支",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十の部分",
+      "speechText": "じゅう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "又",
+      "speechText": "みぎはらい、また、はい「支」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "手",
+    "originDescription": "「支」は、もともと木の枝が幹から分かれて伸びる様子を表した字だよ。そこから、物事を「分ける」という意味や、何かを「ささえる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "支持",
+      "meaning": "賛成して、ささえること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "支店",
+      "meaning": "お店が、本店とは別の場所に作ったお店。",
+      "imageUrl": ""
+    },
+    {
+      "word": "支配",
+      "meaning": "命令して、人や物を思い通りに動かすこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

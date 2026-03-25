@@ -1,0 +1,49 @@
+{
+  "kanjiId": "聞",
+  "character": "聞",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "門",
+      "speechText": "もんがまえ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "耳",
+      "speechText": "みみ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "耳",
+    "radicalName": "みみ",
+    "radicalMeaning": "耳",
+    "originDescription": "「門」の向こうから聞こえてくる音を、「耳」で「聞く」様子を表した漢字だよ。音を聞き取ったり、情報を知ったりすることに使われるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "新聞",
+      "meaning": "世の中の出来事を文字で伝えるもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "聞く",
+      "meaning": "音を耳でとらえる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "聞こえる",
+      "meaning": "音が耳に届く。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

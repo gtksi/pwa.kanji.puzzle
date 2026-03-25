@@ -1,0 +1,55 @@
+{
+  "kanjiId": "十",
+  "character": "十",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横画",
+      "speechText": "イチ（一）を　ひいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦画",
+      "speechText": "タテ（｜）を　とおせば　ジュウ（十）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "十",
+    "radicalName": "じゅう",
+    "radicalMeaning": "数の10、そろう、満ちる",
+    "originDescription": "「十」は、数のまとまりを表す漢字です。もともとは一本の縦の棒で、すべての数がそろったことを表していました。のちに真ん中に横棒がつき、今の形になりました。「全部そろって完成する」という意味もあります。",
+    "synonyms": [
+      "拾",
+      "旬"
+    ],
+    "antonyms": [
+      "一",
+      "零"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "十円",
+      "meaning": "日本のお金の単位で、10円のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "十月",
+      "meaning": "一年の中で10番目の月のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "十日",
+      "meaning": "月の10番目の日のこと。読み方は「とおか」です。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

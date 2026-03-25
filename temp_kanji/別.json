@@ -1,0 +1,63 @@
+{
+  "kanjiId": "別",
+  "character": "別",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "口（くち）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "力",
+      "speechText": "力（ちから）",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "刀",
+      "speechText": "刀（かたな）の別",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "かたな",
+    "radicalMeaning": "刃物",
+    "originDescription": "「刀（かたな）」と、骨を意味する部分を組み合わせた字だよ。昔の人は、刀で骨を切り分ける様子を表したんだ。そこから、「わける」「わかれる」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "特別",
+      "meaning": "ほかとはちがって、とくに大切なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "別れ",
+      "meaning": "わかれること。さようならを言うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "差別",
+      "meaning": "人や物を、えこひいきしてちがったあつかいをすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

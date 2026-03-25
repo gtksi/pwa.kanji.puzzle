@@ -1,0 +1,56 @@
+{
+  "kanjiId": "玉",
+  "character": "玉",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "ひろがるよこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "盾",
+      "speechText": "まもるたて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "勾玉",
+      "speechText": "まるいまがたま",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "玉",
+    "radicalName": "たまへん",
+    "radicalMeaning": "宝石や宝物。",
+    "originDescription": "昔の宝物である勾玉（まがたま）の形を表した漢字です。丸くて美しい形をしているのが特徴です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宝石",
+      "meaning": "宝飾品に使われる、美しくて価値のある石。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宝玉",
+      "meaning": "宝にあたる玉。貴重な玉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "玉手箱",
+      "meaning": "開けてはならないと言われている、宝物が入った箱。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

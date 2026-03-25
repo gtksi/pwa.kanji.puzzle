@@ -1,0 +1,48 @@
+{
+  "kanjiId": "拾",
+  "character": "拾",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "てへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "合",
+      "speechText": "合わせる（合）と書いて、ひろう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手の動作",
+    "originDescription": "「手」と、ぴったり合うことを表す「合」が組み合わさり、バラバラになったものを手で集めて拾い上げることを表します。",
+    "synonyms": [
+      "拾得"
+    ],
+    "antonyms": [
+      "捨てる"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "拾う",
+      "meaning": "落ちているものを手に取ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "拾得物",
+      "meaning": "道などで拾った、だれかの落とし物のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

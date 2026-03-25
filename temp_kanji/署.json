@@ -1,0 +1,49 @@
+{
+  "kanjiId": "署",
+  "character": "署",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "目",
+      "speechText": "あみめ、あみあみ め",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "者",
+      "speechText": "たくさんいる人、もの 者",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "网",
+    "radicalName": "あみめ",
+    "radicalMeaning": "網",
+    "originDescription": "「署」は、網（あみ）の形と、たくさんの人が集まる「者（もの）」からできています。たくさんの人が集まって、網のように組織的に働く場所、つまり役所や役職という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "警察署",
+      "meaning": "警察の建物や組織",
+      "imageUrl": ""
+    },
+    {
+      "word": "部署",
+      "meaning": "会社や組織の担当する部門",
+      "imageUrl": ""
+    },
+    {
+      "word": "署名",
+      "meaning": "自分の名前を書くこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

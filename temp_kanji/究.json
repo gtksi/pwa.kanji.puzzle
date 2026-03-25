@@ -1,0 +1,47 @@
+{
+  "kanjiId": "究",
+  "character": "究",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "あなかんむり",
+      "speechText": "あなかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "九",
+      "speechText": "下に九（きゅう）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "穴",
+    "radicalName": "あなかんむり",
+    "radicalMeaning": "穴やくぼみに関すること",
+    "originDescription": "穴（穴）の中を、一番おくの行き止まり（九）まで突き進んで調べることを表しています。物事を深く調べるという意味です。",
+    "synonyms": [
+      "探る",
+      "究明"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "究める",
+      "meaning": "学問などを最後まで深く研究する",
+      "imageUrl": ""
+    },
+    {
+      "word": "追究",
+      "meaning": "どこまでも追いかけて調べること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

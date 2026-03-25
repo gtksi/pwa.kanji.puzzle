@@ -1,0 +1,46 @@
+{
+  "kanjiId": "遊",
+  "character": "遊",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "方（の一部）",
+      "speechText": "点はた（方）、下に子を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょうで、あそぶ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道や歩くことに関すること",
+    "originDescription": "旗を持ってあちこちへ出かける様子を表しています。自由に動き回って楽しむ「あそぶ」という意味になりました。",
+    "synonyms": [
+      "戯"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "遊園地",
+      "meaning": "いろいろな乗り物で遊ぶための場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "遊び",
+      "meaning": "楽しむためにすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "写",
+  "character": "写",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "冖",
+      "speechText": "わかんむり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "与",
+      "speechText": "あたえるの、与（よ）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "冖",
+    "radicalName": "わかんむり",
+    "radicalMeaning": "おおう、かぶせる",
+    "originDescription": "物を入れ物（冖）の中に移すことから、形をそのまま「うつす」という意味になりました。",
+    "synonyms": [
+      "模",
+      "謄"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "写生",
+      "meaning": "景色や物を見て、そのまま絵にかくこと。しゃせい。",
+      "imageUrl": ""
+    },
+    {
+      "word": "写真",
+      "meaning": "カメラで取った、本物そっくりの画像。しゃしん。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

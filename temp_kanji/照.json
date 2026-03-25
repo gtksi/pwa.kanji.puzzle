@@ -1,0 +1,44 @@
+{
+  "kanjiId": "照",
+  "character": "照",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "火",
+      "speechText": "ひへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "昭",
+      "speechText": "昭だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "ひへん",
+    "radicalMeaning": "火",
+    "originDescription": "火に関することを表す「ひへん」と、「昭（しょう）」という音を表す部分を合わせた漢字だよ。光が明るく照らすことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "照らす",
+      "meaning": "光を当てて明るくすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "照明",
+      "meaning": "光を当てて明るくすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

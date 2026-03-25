@@ -1,0 +1,42 @@
+{
+  "kanjiId": "己",
+  "character": "己",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "己",
+      "speechText": "コを書いて、下をつなげてはねる",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "己",
+    "radicalName": "おのれ",
+    "radicalMeaning": "自分自身、屈曲した形",
+    "originDescription": "曲がった糸を整える道具の形、または自分の体を折り曲げた形から、「おのれ（自分自身）」という意味になりました。",
+    "synonyms": [
+      "自",
+      "私"
+    ],
+    "antonyms": [
+      "他"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "自己",
+      "meaning": "自分自身のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "利己的",
+      "meaning": "自分の利益だけを考えて行動する様子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "警",
+  "character": "警",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "敬",
+      "speechText": "敬うを上に書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "言",
+      "speechText": "下に言うを組み合わせる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "げん・ことば",
+    "radicalMeaning": "言葉に関すること。",
+    "originDescription": "敬（真剣な様子）と言（言葉）を合わせ、注意をうながしたり、守ったりすることを意味します。",
+    "synonyms": [
+      "戒める",
+      "守る"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "警察",
+      "meaning": "世の中の平和を守る組織",
+      "imageUrl": ""
+    },
+    {
+      "word": "警戒",
+      "meaning": "危険が起きないよう注意すること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

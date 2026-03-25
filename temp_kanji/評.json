@@ -1,0 +1,49 @@
+{
+  "kanjiId": "評",
+  "character": "評",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "平",
+      "speechText": "平（たいら）で、評（ひょう）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、話すこと",
+    "originDescription": "「評」の字は、言葉を表す「ごんべん」と、「平等（びょうどう）にする」「比べる」という意味の「平」が合わさってできました。言葉で物事を比べて、その良し悪しを話し合う、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "評価",
+      "meaning": "物事の価値やよしあしをはかること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "評論",
+      "meaning": "物事について意見を述べたり、批評したりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "評判",
+      "meaning": "世間の人々の意見やうわさ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

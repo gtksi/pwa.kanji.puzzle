@@ -1,0 +1,47 @@
+{
+  "kanjiId": "練",
+  "character": "練",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "東",
+      "speechText": "東を書いて、きたえよう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布に関すること",
+    "originDescription": "糸（いとへん）を煮て、やわらかくしたり白くしたりすることをあらわします。何度もくりかえして「みがく」「きたえる」という意味です。",
+    "synonyms": [
+      "修",
+      "磨"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "練習",
+      "meaning": "上手になるために、何度もやってみること",
+      "imageUrl": ""
+    },
+    {
+      "word": "訓練",
+      "meaning": "難しいことができるように、体をきたえること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

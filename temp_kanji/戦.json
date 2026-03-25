@@ -1,0 +1,44 @@
+{
+  "kanjiId": "戦",
+  "character": "戦",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "戈",
+      "speechText": "かのほこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "単",
+      "speechText": "単品の単だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "戈",
+    "radicalName": "かのほこ",
+    "radicalMeaning": "武器",
+    "originDescription": "武器の「戈（ほこ）」と、盾を持って戦う様子を表す部分を合わせた漢字だよ。争って戦うこと、いくさを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "戦う",
+      "meaning": "相手と争い合うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "戦争",
+      "meaning": "国と国が争い合うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "時",
+  "character": "時",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "寺",
+      "speechText": "てら",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽、時間",
+    "originDescription": "「時」は、太陽の動き（日）と、お寺の鐘が時間を知らせる様子（寺）を組み合わせてできた漢字だよ。昔は太陽の影を見て時間を知ったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "時間",
+      "meaning": "過ぎていく長さ。タイム。",
+      "imageUrl": ""
+    },
+    {
+      "word": "時計",
+      "meaning": "時間をはかる道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "時々",
+      "meaning": "ある時と、またある時。ときどき。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

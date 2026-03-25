@@ -1,0 +1,44 @@
+{
+  "kanjiId": "席",
+  "character": "席",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "广",
+      "speechText": "まだれ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巾",
+      "speechText": "はばだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家屋",
+    "originDescription": "むしろを敷いた場所、つまり座る場所を表す漢字だよ。昔は草で編んだ敷物の上で座っていたんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "座席",
+      "meaning": "座る場所のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "出席",
+      "meaning": "会議や学校などに参加すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

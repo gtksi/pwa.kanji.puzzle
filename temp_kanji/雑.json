@@ -1,0 +1,56 @@
+{
+  "kanjiId": "雑",
+  "character": "雑",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きゅう",
+      "speechText": "ななめ、かぎ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "き",
+      "speechText": "たて、よこ、ななめ、ななめ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ふるとり",
+      "speechText": "たてぼう、よこぼう、そしてよんてん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "隹",
+    "radicalName": "ふるとり",
+    "radicalMeaning": "鳥",
+    "originDescription": "上の「九」は「たくさんの数」を、下の「隹（ふるとり）」は「鳥」を表すよ。たくさんの鳥がごちゃごちゃと集まる様子から、「いろいろなものがまじる」や「ごちゃまぜ」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "雑貨",
+      "meaning": "いろいろな種類の日用品。",
+      "imageUrl": ""
+    },
+    {
+      "word": "雑草",
+      "meaning": "いろいろな種類の生えている草。",
+      "imageUrl": ""
+    },
+    {
+      "word": "雑音",
+      "meaning": "いろいろな音や、不必要な音。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

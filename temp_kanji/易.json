@@ -1,0 +1,49 @@
+{
+  "kanjiId": "易",
+  "character": "易",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひ、おひさま",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "勿",
+      "speechText": "ぶつ、なかれ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽、日",
+    "originDescription": "「日（ひ）」は太陽、「勿（ぶつ）」は物が「かわる」様子を表すと言われているよ。太陽の光で物事が「かわる」ことから、「やさしい」や「かわる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "容易",
+      "meaning": "たやすくできること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "貿易",
+      "meaning": "国と国との間で物をやり取りすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "易しい",
+      "meaning": "むずかしくない。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

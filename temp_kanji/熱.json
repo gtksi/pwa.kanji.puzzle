@@ -1,0 +1,68 @@
+{
+  "kanjiId": "熱",
+  "character": "熱",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "土（つち）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "土",
+      "speechText": "土（つち）",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "丸",
+      "speechText": "丸（まる）を書いて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "れんが",
+      "speechText": "れんが（よつてん）",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "火",
+    "radicalName": "れんが",
+    "radicalMeaning": "火、燃える、あつい",
+    "originDescription": "上の「執」は手でものをしっかり持つ様子、下の「れんが」は熱い火を表します。火でものを熱くすることや、手で持てないほど熱い状態、心が燃える様子を表すようになりました。",
+    "synonyms": [
+      "暑",
+      "温"
+    ],
+    "antonyms": [
+      "冷"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "熱心",
+      "meaning": "一つのことに心を集中させて、一生懸命がんばること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "加熱",
+      "meaning": "熱を加えて、温度を高くすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "高熱",
+      "meaning": "とても高い熱のこと。特に、病気で体温が上がること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

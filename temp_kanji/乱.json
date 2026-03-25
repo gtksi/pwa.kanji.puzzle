@@ -1,0 +1,49 @@
+{
+  "kanjiId": "乱",
+  "character": "乱",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "舌",
+      "speechText": "した、いちにさんしごろしち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "乚（おつ）",
+      "speechText": "おつのかたち、いちに",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "乙",
+    "radicalName": "おつ",
+    "radicalMeaning": "つる、曲がった形",
+    "originDescription": "もともとは、もつれて絡み合った糸の様子を表す絵から生まれた漢字だよ。整っていない、ごちゃごちゃしている状態を表すんだ。そこから、物事が順序通りでなかったり、争いが起きたりする「乱れる」という意味で使われるようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "混乱",
+      "meaning": "秩序が乱れて、物事がごちゃごちゃになること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "乱暴",
+      "meaning": "荒々しいこと、手荒なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "乱れる",
+      "meaning": "秩序や状態が崩れて、まとまりがなくなること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "完",
+  "character": "完",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "上に、うかんむり、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "元",
+      "speechText": "下に、元、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、屋根",
+    "originDescription": "「完」は、家がきちんと建ち上がり、整っている様子を表す漢字だよ。物事が完全に終わり、欠けるところがない状態を意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "完成",
+      "meaning": "物事ができあがること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "完璧",
+      "meaning": "欠点がまったくないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "完了",
+      "meaning": "終わること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "順",
+  "character": "順",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "川",
+      "speechText": "川を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "頁",
+      "speechText": "おおがいだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "頭・顔",
+    "originDescription": "川の流れに沿って進む舟と、頭を垂れて素直に従う人を表す漢字だよ。ものごとが正しい順序で進むことを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "順番",
+      "meaning": "ものごとが続く順序。",
+      "imageUrl": ""
+    },
+    {
+      "word": "順調",
+      "meaning": "物事がとどこおりなく進むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "科",
+  "character": "科",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "のぎへん",
+      "speechText": "のぎへん、いねのかたち",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "斗",
+      "speechText": "ます、ひしゃく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "穀物、農作物",
+    "originDescription": "稲の穂が並ぶ様子と、ますを合わせて、収穫したものを種類ごとに分けることを表した漢字です。後に「しなわけ」や「科目」の意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "科学",
+      "meaning": "自然のふしぎや仕組みを、実験して研究する学問。",
+      "imageUrl": ""
+    },
+    {
+      "word": "教科",
+      "meaning": "学校で学ぶ、国語や算数などのべんきょうの種類。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

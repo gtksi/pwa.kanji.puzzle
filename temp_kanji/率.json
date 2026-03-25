@@ -1,0 +1,63 @@
+{
+  "kanjiId": "率",
+  "character": "率",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "玄",
+      "speechText": "げん、げん、くろい糸のげん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ、ひだりのノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "十",
+      "speechText": "じゅう、じゅう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "八",
+      "speechText": "はち、はち",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "玄",
+    "radicalName": "げん",
+    "radicalMeaning": "玄（げん）、つなぐ",
+    "originDescription": "「玄（げん）」はひも、束ねる様子を表します。そこから、全体をまとめたり、割合という意味が生まれました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "確率",
+      "meaning": "あることが起こる可能性の割合。",
+      "imageUrl": ""
+    },
+    {
+      "word": "能率",
+      "meaning": "仕事をどれだけ効率よくできるか。",
+      "imageUrl": ""
+    },
+    {
+      "word": "率先",
+      "meaning": "人より先に、自分から進んで行動すること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

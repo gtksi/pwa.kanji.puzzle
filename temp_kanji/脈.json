@@ -1,0 +1,46 @@
+{
+  "kanjiId": "脈",
+  "character": "脈",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "月",
+      "speechText": "にくづきを書（か）いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "永",
+      "speechText": "右（みぎ）に永（ながい）を書（か）く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "体の一部",
+    "originDescription": "体を表す「月（にくづき）」と、長く流れる水を意味する「永」が合わさり、体の中を血がずっと流れている様子を表します。",
+    "synonyms": [
+      "筋"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "脈はく",
+      "meaning": "心臓（しんぞう）が動いて、血が送られるときのリズム",
+      "imageUrl": ""
+    },
+    {
+      "word": "山脈",
+      "meaning": "山々が列（れつ）のように長くつながっているところ",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "納",
+  "character": "納",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへん、糸だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "内",
+      "speechText": "うち、なかに入れる",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "いとへんに うち、おさめる、納！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や繊維、結びつきに関することを示す。",
+    "originDescription": "「糸」は物を束ねる、「内」は中に入れること。物を中に入れ、受け入れるという意味になりました。税金を「納める」時などに使います。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "納税",
+      "meaning": "国や地方に税金を納めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "収納",
+      "meaning": "物をしまっておくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "納得",
+      "meaning": "他人の考えや行動を理解し、受け入れること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

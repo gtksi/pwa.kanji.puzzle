@@ -1,0 +1,46 @@
+{
+  "kanjiId": "仏",
+  "character": "仏",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ム",
+      "speechText": "ムをかく",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人間に関すること",
+    "originDescription": "すぐれた人を表しています。特に、仏教をひらいた「ほとけさま」のことを指します。",
+    "synonyms": [
+      "如来"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "仏像",
+      "meaning": "ほとけさまの姿を形にした像",
+      "imageUrl": ""
+    },
+    {
+      "word": "大仏",
+      "meaning": "とても大きなほとけさまの像",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,47 @@
+{
+  "kanjiId": "不",
+  "character": "不",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "いちに、ななめ、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "たてぼう・てん",
+      "speechText": "たて、てん、で「ふ」の字",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "ひとつ",
+    "originDescription": "花のつぼみや、鳥が空高く飛んでいく形など、いろいろな説がありますが、今は「〜ではない」という打消しの意味で使われます。",
+    "synonyms": [
+      "非",
+      "未"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "不足",
+      "meaning": "足りないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "不安",
+      "meaning": "心配で落ち着かないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

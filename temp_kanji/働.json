@@ -1,0 +1,56 @@
+{
+  "kanjiId": "働",
+  "character": "働",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亻",
+      "speechText": "にんべん、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "動",
+      "speechText": "動くの「動」",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "働",
+      "speechText": "にんべんに、うごくで、どう！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "人と「動」という字が合わさってできました。人が体や頭を使って活動すること、つまり「はたらく」ことを表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "働く",
+      "meaning": "仕事や作業をすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "労働",
+      "meaning": "体や頭を使って仕事をすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "労働者",
+      "meaning": "賃金をもらって働く人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

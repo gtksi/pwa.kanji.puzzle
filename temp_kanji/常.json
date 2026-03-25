@@ -1,0 +1,49 @@
+{
+  "kanjiId": "常",
+  "character": "常",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "尚",
+      "speechText": "たか、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巾",
+      "speechText": "はば、で「常」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば",
+    "radicalMeaning": "布、ぬの",
+    "originDescription": "尚（たかくあげる）と巾（きれ）を合わせた形です。昔、旗を高く掲げて人が集まる場所、または「いつも変わらないこと」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "常識",
+      "meaning": "普通の人が知っているべきことや、当たり前の考え。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日常",
+      "meaning": "毎日繰り返される普通の生活。",
+      "imageUrl": ""
+    },
+    {
+      "word": "常時",
+      "meaning": "いつでも、常に。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

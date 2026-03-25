@@ -1,0 +1,47 @@
+{
+  "kanjiId": "胃",
+  "character": "胃",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田",
+      "speechText": "田（た）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "月",
+      "speechText": "下に月（にくづき）で胃袋の胃",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "からだの一部",
+    "originDescription": "食べ物をためる袋の形と、栄養を蓄える「田んぼ」を組み合わせて、消化する臓器を表しています。",
+    "synonyms": [
+      "胃袋",
+      "腑"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "胃腸",
+      "meaning": "胃と腸のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "胃酸",
+      "meaning": "胃の中で食べ物を溶かす液",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

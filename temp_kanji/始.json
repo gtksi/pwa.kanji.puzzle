@@ -1,0 +1,48 @@
+{
+  "kanjiId": "始",
+  "character": "始",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おんなへん",
+      "speechText": "おんなへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "台",
+      "speechText": "台（だい）を書けば、はじまる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女性に関すること",
+    "originDescription": "「女」と、土台を表す「台」が合わさって、新しい命が生まれることや物事が始まることを表します。",
+    "synonyms": [
+      "初"
+    ],
+    "antonyms": [
+      "終"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "始める",
+      "meaning": "新しく物事をやりだすこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "開始",
+      "meaning": "物事がスタートすること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

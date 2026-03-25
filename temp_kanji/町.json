@@ -1,0 +1,49 @@
+{
+  "kanjiId": "町",
+  "character": "町",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田",
+      "speechText": "「田」だよ、畑の田",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "丁",
+      "speechText": "「丁」だよ、街の丁",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "区画された土地",
+    "originDescription": "「田」と「丁」からできた漢字だよ。「田」は区画された土地を表し、「丁」は道の並びや区切りを表すんだ。人が住み、道が通っている地域を指すようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "町長",
+      "meaning": "町の代表者",
+      "imageUrl": ""
+    },
+    {
+      "word": "町内",
+      "meaning": "町の中",
+      "imageUrl": ""
+    },
+    {
+      "word": "下町",
+      "meaning": "賑やかな街の一部",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

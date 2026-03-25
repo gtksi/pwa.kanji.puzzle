@@ -1,0 +1,56 @@
+{
+  "kanjiId": "背",
+  "character": "背",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "北",
+      "speechText": "きた、反対向き",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "月",
+      "speechText": "にくづき、体の一部",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "きたに にくづき、せなか、背！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "肉",
+    "radicalName": "にくづき",
+    "radicalMeaning": "体の一部や肉に関することを示す。",
+    "originDescription": "「北」は人が背を向け合う様子、「月（にくづき）」は体の部分。人の体の後ろ側、つまり「背中」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "背中",
+      "meaning": "体のうしろ側。",
+      "imageUrl": ""
+    },
+    {
+      "word": "背が高い",
+      "meaning": "身長が高いこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "背景",
+      "meaning": "物事のうしろにある事情や景色。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "難",
+  "character": "難",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "又",
+      "speechText": "上の又だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "真ん中の口だよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "隹",
+      "speechText": "ふるとりだよ、はい「難」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "隹",
+    "radicalName": "ふるとり",
+    "radicalMeaning": "鳥",
+    "originDescription": "この漢字は、昔、山の中に住んでいて、なかなか捕まえにくい珍しい鳥を表していました。そこから、「困難なこと」や「むずかしい」という意味で使われるようになった漢字です。捕まえにくい鳥は、難しいことなんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "困難",
+      "meaning": "物事がむずかしいこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "難問",
+      "meaning": "解答がむずかしい問題",
+      "imageUrl": ""
+    },
+    {
+      "word": "非難",
+      "meaning": "人の欠点や過ちを責めること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

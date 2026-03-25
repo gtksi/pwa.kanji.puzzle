@@ -1,0 +1,50 @@
+{
+  "kanjiId": "定",
+  "character": "定",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "せい",
+      "speechText": "下に「正」のような形を書くと「定」まる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "屋根。家",
+    "originDescription": "「家（宀）」の中で、足を止めて「正しく」落ち着く様子を表しています。そこから、場所や物事が「決まる」という意味になりました。",
+    "synonyms": [
+      "決",
+      "確"
+    ],
+    "antonyms": [
+      "変",
+      "動"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "予定",
+      "meaning": "これからすることを、あらかじめ決めておくこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "定休日",
+      "meaning": "お店などが決まって休む日のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

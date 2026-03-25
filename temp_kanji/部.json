@@ -1,0 +1,56 @@
+{
+  "kanjiId": "部",
+  "character": "部",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "立",
+      "speechText": "左上に立つを書こう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "その下に口を書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "阝",
+      "speechText": "右におおざとを添えれば部",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "邑",
+    "radicalName": "おおざと",
+    "radicalMeaning": "村、町、場所",
+    "originDescription": "ある決まった場所や、そこを分けた「まとまり」を表しています。全体をいくつかに分けた「部分」や、グループという意味です。",
+    "synonyms": [
+      "節",
+      "科"
+    ],
+    "antonyms": [
+      "全"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "部分",
+      "meaning": "全体の中の、ある一か所",
+      "imageUrl": ""
+    },
+    {
+      "word": "部活動",
+      "meaning": "学校などで同じ目的で集まるグループの活動",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

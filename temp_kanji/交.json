@@ -1,0 +1,56 @@
+{
+  "kanjiId": "交",
+  "character": "交",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亠",
+      "speechText": "なべぶた",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "ひと",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "乂",
+      "speechText": "バツ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "交",
+    "radicalName": "まじわる",
+    "radicalMeaning": "互いに行き来すること",
+    "originDescription": "人の足が交差している様子を表した象形文字です。お互いにまじわる、行き来する、交換するという意味が生まれました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "交わる",
+      "meaning": "人と人が出会ったり、線が重なったりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "交通",
+      "meaning": "人や物が動いて行き来すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "交換",
+      "meaning": "ものをとりかえること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

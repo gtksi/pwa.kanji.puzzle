@@ -1,0 +1,48 @@
+{
+  "kanjiId": "配",
+  "character": "配",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "とり",
+      "speechText": "酉（とり・さけのつぼ）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "おのれ",
+      "speechText": "右に己（おのれ）で、くばる（配）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "酉",
+    "radicalName": "とり・ひよみのとり",
+    "radicalMeaning": "酒、酒つぼ",
+    "originDescription": "お酒を入れるつぼ（酉）の横に、人が座っている（己）様子です。みんなにお酒を分けて配ることから「くばる」という意味になりました。",
+    "synonyms": [
+      "分"
+    ],
+    "antonyms": [
+      "受"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "配達",
+      "meaning": "荷物などを届けること",
+      "imageUrl": ""
+    },
+    {
+      "word": "心配",
+      "meaning": "悪いことが起きないか気にかけること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

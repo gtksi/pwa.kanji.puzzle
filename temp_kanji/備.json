@@ -1,0 +1,49 @@
+{
+  "kanjiId": "備",
+  "character": "備",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "備の右側",
+      "speechText": "まげもの、田、又（また）で、備（び）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "「備」の字は、人を表す「にんべん」と、用心深く守ることを表す部分が合わさってできました。そこから、「前もって準備する」「用意する」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "準備",
+      "meaning": "前もって用意すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "設備",
+      "meaning": "役に立つように整えられたもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "備える",
+      "meaning": "用意しておくこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "序",
+  "character": "序",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まだれ",
+      "speechText": "まだれ、ちょんぺい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "予",
+      "speechText": "よこぼう、たてぼう、てんてんてん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家、広い場所",
+    "originDescription": "まだれは「家」や「ひろい建物」を表すよ。右側の「予」は、糸をより合わせる様子から「物事の順序」を意味していたんだ。だから、家の中で物事を「順序立てて行う」ことから、「はじめ」や「順序」の意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "順序",
+      "meaning": "物事の正しい順番。",
+      "imageUrl": ""
+    },
+    {
+      "word": "序文",
+      "meaning": "本や文章の最初にある短い文章。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

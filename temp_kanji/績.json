@@ -1,0 +1,49 @@
+{
+  "kanjiId": "績",
+  "character": "績",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸（いとへん）",
+      "speechText": "まず「糸（いとへん）」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "責",
+      "speechText": "次に「責（せき）」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸、繊維",
+    "originDescription": "「糸（いとへん）」と「責（セキ）」が組み合わさった漢字です。「糸」は糸や布、「責」は糸を紡ぐという意味の音を表します。糸を紡ぐように、努力して積み重ねた仕事や結果、という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "成績",
+      "meaning": "勉強や仕事の結果。",
+      "imageUrl": ""
+    },
+    {
+      "word": "実績",
+      "meaning": "実際に成し遂げた成果。",
+      "imageUrl": ""
+    },
+    {
+      "word": "業績",
+      "meaning": "会社や個人の仕事の成果。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

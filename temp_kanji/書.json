@@ -1,0 +1,49 @@
+{
+  "kanjiId": "書",
+  "character": "書",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "曰",
+      "speechText": "いわくに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "聿",
+      "speechText": "ふでづくり",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "曰",
+    "radicalName": "いわく",
+    "radicalMeaning": "言う、話す",
+    "originDescription": "「書」は、筆（聿）で言葉（曰）を書き記す様子を表しているよ。紙に文字を書きつけることや、書かれたものを意味するんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "書く",
+      "meaning": "文字や絵を書きつけること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "教科書",
+      "meaning": "学校で勉強に使う本。",
+      "imageUrl": ""
+    },
+    {
+      "word": "図書館",
+      "meaning": "本がたくさんあり、借りられる建物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "覧",
+  "character": "覧",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "臣",
+      "speechText": "上から「しん」の字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "皿",
+      "speechText": "その下に「さら」の字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "見",
+      "speechText": "右には「みる」の字、ぜんぶあわせて「らん」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "見",
+    "radicalName": "みる",
+    "radicalMeaning": "よく見る、見わたす",
+    "originDescription": "「上を見る目」と「下を見る目」が合わさってできた文字だよ。上から下まで、ものごとをしっかり見わたすという意味があるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "閲覧",
+      "meaning": "本などを読んで見ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "展覧会",
+      "meaning": "絵や作品などを広く見せる会。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一覧",
+      "meaning": "全体を見わたすこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

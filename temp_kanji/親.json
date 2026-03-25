@@ -1,0 +1,56 @@
+{
+  "kanjiId": "親",
+  "character": "親",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "立",
+      "speechText": "たつ、いち、に、さん、し、ご",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "き、いち、に、さん、し",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "見",
+      "speechText": "みる、いち、に、さん、し、ご、ろく、なな",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "見",
+    "radicalName": "みる",
+    "radicalMeaning": "見ること",
+    "originDescription": "「木」の上に立つ人が下を「見」る様子を表しました。そこから、親が子どもをよく見る、という意味で「おや」という意味になり、さらに「したしい」という意味も加わりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "親",
+      "meaning": "お父さんやお母さん。例：自分の親。",
+      "imageUrl": ""
+    },
+    {
+      "word": "親子",
+      "meaning": "親と子。例：親子で遊ぶ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "親友",
+      "meaning": "とても仲の良い友達。例：親友と会う。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

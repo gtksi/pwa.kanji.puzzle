@@ -1,0 +1,51 @@
+{
+  "kanjiId": "努",
+  "character": "努",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "奴",
+      "speechText": "やっこ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "力",
+      "speechText": "ちから、みぎへ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "努",
+      "speechText": "やっこに、ちからで、ど！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、勢い",
+    "originDescription": "手を使って働く人を表す「奴」と、「力」が合わさってできました。目標に向かって一生懸命に「つとめる」、努力するという意味です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "努力",
+      "meaning": "目標を達成するために、がんばること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "努める",
+      "meaning": "一生懸命に、がんばること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

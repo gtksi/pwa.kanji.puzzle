@@ -1,0 +1,50 @@
+{
+  "kanjiId": "集",
+  "character": "集",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ふるとり",
+      "speechText": "ふるとり（隹）の下に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "木を書いて、あつまる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "隹",
+    "radicalName": "ふるとり",
+    "radicalMeaning": "鳥",
+    "originDescription": "木の上にたくさんの鳥が止まっている様子を表しています。そこから「あつまる」という意味になりました。",
+    "synonyms": [
+      "集合",
+      "群れる"
+    ],
+    "antonyms": [
+      "散る",
+      "解散"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "集まる",
+      "meaning": "一つの場所に、たくさんのものが寄ってくること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "集合",
+      "meaning": "決まった時間にみんなであつまること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

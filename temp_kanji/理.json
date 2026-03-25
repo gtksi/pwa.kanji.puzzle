@@ -1,0 +1,49 @@
+{
+  "kanjiId": "理",
+  "character": "理",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "王（おうへん）",
+      "speechText": "たまへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "里",
+      "speechText": "さとの、さと",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "玉",
+    "radicalName": "おうへん",
+    "radicalMeaning": "玉、宝石",
+    "originDescription": "この漢字は、宝石の「玉（たま）」を磨いて筋目（すじめ）を整えることを表していたんだ。そこから、物事の筋道や道理、法則という意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "理由",
+      "meaning": "そうなったわけや原因。",
+      "imageUrl": ""
+    },
+    {
+      "word": "理科",
+      "meaning": "自然のしくみや科学について学ぶ教科。",
+      "imageUrl": ""
+    },
+    {
+      "word": "心理",
+      "meaning": "人の心のはたらき。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

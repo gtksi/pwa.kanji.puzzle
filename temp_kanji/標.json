@@ -1,0 +1,54 @@
+{
+  "kanjiId": "標",
+  "character": "標",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "西",
+      "speechText": "にしを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "示",
+      "speechText": "しめすを書くよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、植物に関すること",
+    "originDescription": "木（きへん）の先端に、遠くからでも見える「目印」をつけた形を表しています。そこから「しるし」や「めあて」という意味になりました。",
+    "synonyms": [
+      "標識",
+      "目印"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "目標",
+      "meaning": "そこまで行こうと目指すところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "標語",
+      "meaning": "大切なことを短い言葉で表したもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

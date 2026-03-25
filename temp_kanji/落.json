@@ -1,0 +1,50 @@
+{
+  "kanjiId": "落",
+  "character": "落",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむり、さんずい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "各",
+      "speechText": "おのおの（各）を書いて、おちる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艸",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "植物に関すること",
+    "originDescription": "くさかんむりと、水がしたたる様子、そして「おのおの（別々）」を合わせました。葉がバラバラに「おちる」ことを表しています。",
+    "synonyms": [
+      "墜",
+      "降"
+    ],
+    "antonyms": [
+      "昇",
+      "騰"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "落石",
+      "meaning": "山から石が落ちてくること",
+      "imageUrl": ""
+    },
+    {
+      "word": "落ち着く",
+      "meaning": "気持ちがしずまって、安定すること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

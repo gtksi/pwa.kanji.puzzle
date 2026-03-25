@@ -1,0 +1,56 @@
+{
+  "kanjiId": "認",
+  "character": "認",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん、いってるよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "忍",
+      "speechText": "心に刃物、しのぶの忍",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "全体",
+      "speechText": "ごんべんに 心に刃物 しのぶの忍で 認める、認！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉や語ることに意味があることを示す。",
+    "originDescription": "「言」は言葉、「忍」は心に刃物をさしこむこと。言葉で相手を確かめ、受け入れることを意味します。相手の意見を「認める」時に使います。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "認識",
+      "meaning": "物事を正しく理解し、見分けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "承認",
+      "meaning": "申し出や行為を認めること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "認定",
+      "meaning": "正しいと認めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "引",
+  "character": "引",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "弓",
+      "speechText": "ゆみへん、きゅっとまがる",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "巳",
+      "speechText": "にょろにょろ、すいっ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "弓",
+    "radicalName": "ゆみ",
+    "radicalMeaning": "弓のこと",
+    "originDescription": "この漢字は、弓を張る様子を絵にしたもので、何かをひっぱる動きを表しています。後に「ひく」という意味で使われるようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "引力",
+      "meaning": "ものをひきよせるちから。",
+      "imageUrl": ""
+    },
+    {
+      "word": "引用",
+      "meaning": "ほかのひとが言ったことや書いたものを、自分の話や文章で使うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

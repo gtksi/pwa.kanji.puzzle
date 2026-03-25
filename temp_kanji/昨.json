@@ -1,0 +1,49 @@
+{
+  "kanjiId": "昨",
+  "character": "昨",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひへん",
+      "speechText": "ひへん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "乍",
+      "speechText": "ざまの、乍、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "時間や日に関する意味を表す",
+    "originDescription": "「昨」は、「日」と「乍（さ）」からできています。「乍」は「〜している最中」という意味。日が過ぎ去る様子から、「昨日」のように「過ぎ去った日」を表す漢字になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "昨日",
+      "meaning": "今日より一つ前の日。",
+      "imageUrl": ""
+    },
+    {
+      "word": "昨年",
+      "meaning": "今より一つ前の年。",
+      "imageUrl": ""
+    },
+    {
+      "word": "昨夜",
+      "meaning": "昨日の一晩。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

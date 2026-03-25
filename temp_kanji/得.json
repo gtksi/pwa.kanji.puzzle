@@ -1,0 +1,63 @@
+{
+  "kanjiId": "得",
+  "character": "得",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぎょうにんべん",
+      "speechText": "ぎょうにんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "ひ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "よこぼう",
+      "speechText": "よこぼう",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "寸",
+      "speechText": "すん",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "道を行く、動きに関すること",
+    "originDescription": "「得」は「彳」と「日」と「寸」からできています。「彳」は歩くこと、「日」は明るい場所、「寸」は手の形と関連します。歩いて探して、手に入れる、つまり何かを「得る」「手に入れる」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "得意",
+      "meaning": "そのことがじょうずだったり、好きなこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "取得",
+      "meaning": "何かを手に入れること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "得る",
+      "meaning": "何かを自分のものにする。手に入れる。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

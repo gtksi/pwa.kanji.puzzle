@@ -1,0 +1,49 @@
+{
+  "kanjiId": "取",
+  "character": "取",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "耳",
+      "speechText": "耳（みみ）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "又",
+      "speechText": "また",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "手、再び",
+    "originDescription": "昔、けものの耳（耳）を手（又）でつかまえて捕まえたことから、自分のものにする、「とる」という意味になりました。",
+    "synonyms": [
+      "採",
+      "執"
+    ],
+    "antonyms": [
+      "与"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "受け取る",
+      "meaning": "相手から出されたものをもらうこと。うけとる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "取材",
+      "meaning": "記事を書くために、お話を聞きに行くこと。しゅざい。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

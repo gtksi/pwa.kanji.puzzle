@@ -1,0 +1,49 @@
+{
+  "kanjiId": "存",
+  "character": "存",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "子",
+      "speechText": "こへん、子どもの子",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "才",
+      "speechText": "才能の才",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "子",
+    "radicalName": "こへん",
+    "radicalMeaning": "子ども",
+    "originDescription": "「子（こへん、子ども）」と「在（ザイ：ある）」の省略形「才」が組み合わさった漢字。もともとは「子がここにいる」という存在を表し、物事があることや生き続けることを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "存在",
+      "meaning": "この世にあること",
+      "imageUrl": ""
+    },
+    {
+      "word": "生存",
+      "meaning": "生きていること",
+      "imageUrl": ""
+    },
+    {
+      "word": "保存",
+      "meaning": "良い状態を保つこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

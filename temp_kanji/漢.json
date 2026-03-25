@@ -1,0 +1,44 @@
+{
+  "kanjiId": "漢",
+  "character": "漢",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずいに、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "サ・口・夫",
+      "speechText": "カタカナの「サ」、口（くち）、夫（おっと）を書けば完成",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水や川に関すること",
+    "originDescription": "泥にまみれた水や、大きな川（漢水）の名前を表します。のちに中国そのものや、中国から来た「漢字」を指すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "漢字",
+      "meaning": "昔の中国で生まれ、日本に伝わってきた文字。",
+      "imageUrl": ""
+    },
+    {
+      "word": "漢方",
+      "meaning": "中国から伝わった、昔ながらの薬の作り方や治療のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "暗",
+  "character": "暗",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "おひさま、まあるい！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "音",
+      "speechText": "たつ！おと！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひへん",
+    "radicalMeaning": "太陽、時間",
+    "originDescription": "「暗」は、太陽の光（日）がない夜の様子と、音がこもって聞こえにくい状態（音）を組み合わせた字だよ。太陽が隠れて光がない、真っ暗な様子を表しているんだ。また、よく見えないことや知らないことにも使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "暗い",
+      "meaning": "光が少ないこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "暗記",
+      "meaning": "読んで覚えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "暗号",
+      "meaning": "秘密の記号。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,46 @@
+{
+  "kanjiId": "感",
+  "character": "感",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "咸",
+      "speechText": "一（いち）、口、一（いち）、ノ、点（てん）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "下に心（こころ）を書こう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "感情や考えに関すること",
+    "originDescription": "武器の「ほこ」が物に当たった時のように、心に強い刺激を受けて、心が動くことを表します。",
+    "synonyms": [
+      "動"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "感想",
+      "meaning": "何かをしたり見たりして、心に思ったこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "感動",
+      "meaning": "美しいものやすばらしいことに触れて、心が強く動くこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

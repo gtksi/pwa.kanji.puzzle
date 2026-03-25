@@ -1,0 +1,39 @@
+{
+  "kanjiId": "皿",
+  "character": "皿",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "皿",
+      "speechText": "まきがまえ、中に二、下の横棒",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皿",
+    "radicalName": "さら",
+    "radicalMeaning": "食器、うつわ",
+    "originDescription": "食べ物をのせるための、平らな入れ物の形をそのまま漢字にしたものです。",
+    "synonyms": [
+      "食器"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "小皿",
+      "meaning": "小さいサイズのお皿。",
+      "imageUrl": ""
+    },
+    {
+      "word": "皿洗い",
+      "meaning": "使った後のお皿をきれいに洗うこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

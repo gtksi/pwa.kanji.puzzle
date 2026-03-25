@@ -1,0 +1,49 @@
+{
+  "kanjiId": "模",
+  "character": "模",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "「きへん」と書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "莫",
+      "speechText": "「右にぼ」で、も、も、も！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、木材",
+    "originDescription": "「模」は、「木」と「莫（ぼ）」を組み合わせた漢字だよ。「木」は木材を、「莫」は覆い隠すという意味を表しているんだ。もとは木を削って型を作り、ものを測ったり、かたどったりすることから、「手本」や「まねる」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "模型",
+      "meaning": "本物を小さくしたもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "規模",
+      "meaning": "物事の大きさや範囲。",
+      "imageUrl": ""
+    },
+    {
+      "word": "模範",
+      "meaning": "手本となるもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

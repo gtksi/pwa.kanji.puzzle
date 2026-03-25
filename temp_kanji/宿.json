@@ -1,0 +1,47 @@
+{
+  "kanjiId": "宿",
+  "character": "宿",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむり、にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "百",
+      "speechText": "百（ひゃく）を書いて、やど",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家・屋根",
+    "originDescription": "家の中で、人がむしろ（布団のようなもの）を敷いて寝る様子を表しています。旅の途中で泊まる場所を意味します。",
+    "synonyms": [
+      "宿泊",
+      "旅館"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宿題",
+      "meaning": "学校から出される、家でやってくる勉強のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宿泊",
+      "meaning": "家以外の場所に泊まること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,46 @@
+{
+  "kanjiId": "鉄",
+  "character": "鉄",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "金へん",
+      "speechText": "かねへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "失",
+      "speechText": "うしなう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属に関係すること",
+    "originDescription": "金属（金へん）の中でも、一番よく使われて便利なものを表します。今の字は「金を失う」と書きますが、昔は「強くて鋭い金属」という意味の字でした。",
+    "synonyms": [
+      "鋼"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "鉄道",
+      "meaning": "鉄のレールの上を電車が走る道のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "地下鉄",
+      "meaning": "地面の下を通っている鉄道のこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

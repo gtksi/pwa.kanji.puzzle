@@ -1,0 +1,56 @@
+{
+  "kanjiId": "宝",
+  "character": "宝",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむり、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "王",
+      "speechText": "おうさまの王、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "貝",
+      "speechText": "お金の貝で、たから！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "やね、いえ",
+    "originDescription": "「宝」は、家の中に大切にしまわれている「宝物」や「珍しいもの」を表す漢字です。屋根を表す「宀（うかんむり）」の下に、「玉」（美しい石）や「貝」（昔のお金）が描かれ、貴重な品々を象徴しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宝物",
+      "meaning": "大切なもの、宝",
+      "imageUrl": ""
+    },
+    {
+      "word": "国宝",
+      "meaning": "国が指定した貴重な文化財",
+      "imageUrl": ""
+    },
+    {
+      "word": "秘宝",
+      "meaning": "秘密にされている宝",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

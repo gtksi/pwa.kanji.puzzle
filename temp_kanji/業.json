@@ -1,0 +1,47 @@
+{
+  "kanjiId": "業",
+  "character": "業",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上部",
+      "speechText": "十にハを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下部",
+      "speechText": "三本引いて、まん中たてぼう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木製品に関すること（元は楽器の台）",
+    "originDescription": "昔、大きな太鼓（たいこ）などをつるすための、かざりがついた木の台の形です。そこから、大切な「仕事」や「勉強」を表すようになりました。",
+    "synonyms": [
+      "わざ",
+      "仕事"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "授業",
+      "meaning": "学校で先生に勉強を教えてもらうこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "卒業",
+      "meaning": "学校での勉強をすべて終わらせること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

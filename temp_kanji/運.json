@@ -1,0 +1,49 @@
+{
+  "kanjiId": "運",
+  "character": "運",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しんにょう",
+      "speechText": "しんにょう、ぐぐっと右へ、すーっと左へ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "軍",
+      "speechText": "軍のまがりかど、しっかり立てて",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、進む",
+    "originDescription": "「運」は、軍隊が道を進む様子から、「はこぶ」「めぐらす」という意味を表す漢字だよ。行く道を示すしんにょうと、軍隊を意味する「軍」が合わさったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "運動",
+      "meaning": "体を動かすこと。スポーツや体操など。",
+      "imageUrl": ""
+    },
+    {
+      "word": "運ぶ",
+      "meaning": "物を別の場所へ移動させること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "運転",
+      "meaning": "車などを動かすこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

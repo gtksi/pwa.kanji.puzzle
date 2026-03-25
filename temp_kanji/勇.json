@@ -1,0 +1,57 @@
+{
+  "kanjiId": "勇",
+  "character": "勇",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "マ",
+      "speechText": "上にカタカナのマを書く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "男の上部",
+      "speechText": "その下に、たて棒つきの田（た）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "力",
+      "speechText": "一番下に、力（ちから）をあわせる",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力、勢い、働くことに関する意味を表す",
+    "originDescription": "湧き出る泉（マと田の部分）と、力を合わせて、どんどん進んでいく様子を表しています。",
+    "synonyms": [
+      "剛",
+      "猛"
+    ],
+    "antonyms": [
+      "臆",
+      "怯"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "勇気",
+      "meaning": "おそれずに立ち向かっていく心。",
+      "imageUrl": ""
+    },
+    {
+      "word": "勇ましい",
+      "meaning": "強くて元気がよく、たのもしい様子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

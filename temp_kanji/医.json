@@ -1,0 +1,56 @@
+{
+  "kanjiId": "医",
+  "character": "医",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "匚",
+      "speechText": "はこ、ぐるり！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "矢",
+      "speechText": "やじり、シュッと！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "殳",
+      "speechText": "ながえ、ドン！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "殳",
+    "radicalName": "るまた",
+    "radicalMeaning": "武器、道具",
+    "originDescription": "「医」は、昔、病気を治すための弓矢（矢）のような道具を、箱（匚）に入れて持ち運び、治療に使っていた様子を表す字だよ。病気を治すことや、その専門家（お医者さん）を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "医者",
+      "meaning": "病気やけがを治す人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "医学",
+      "meaning": "病気や健康について学ぶ学問。",
+      "imageUrl": ""
+    },
+    {
+      "word": "医院",
+      "meaning": "お医者さんがいる場所、小さな病院。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

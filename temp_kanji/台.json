@@ -1,0 +1,49 @@
+{
+  "kanjiId": "台",
+  "character": "台",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ム",
+      "speechText": "カタカナのム",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口、台",
+    "originDescription": "もともとは、高く積み重ねた土台の形を表していました。物を置くための平らな「台」や、その形に似たものを表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "台所",
+      "meaning": "料理を作ったり、食事の準備をする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "一台",
+      "meaning": "車や機械などを数えるときの言い方。",
+      "imageUrl": ""
+    },
+    {
+      "word": "台風",
+      "meaning": "風と雨がとても強い、大きな嵐。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

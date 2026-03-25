@@ -1,0 +1,44 @@
+{
+  "kanjiId": "雪",
+  "character": "雪",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "雨",
+      "speechText": "あめかんむり、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨ",
+      "speechText": "下のヨの形！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "雨",
+    "radicalName": "あめかんむり",
+    "radicalMeaning": "雨や天気",
+    "originDescription": "「雨」（あめ）と、雪の結晶が舞い落ちる様子を表す部分を組み合わせた漢字です。空から降ってくる、冷たい白い雨のようなものを意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大雪",
+      "meaning": "たくさんの雪が降ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "雪だるま",
+      "meaning": "雪を丸めて作った人形のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

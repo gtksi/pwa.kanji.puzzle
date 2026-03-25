@@ -1,0 +1,56 @@
+{
+  "kanjiId": "香",
+  "character": "香",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "のぎの字、上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "日の字、真ん中だよ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "凵",
+      "speechText": "ハコのような、凵（かんにょう）、下だよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "穀物に関する意味を表す",
+    "originDescription": "「香」は、穀物（特にキビなどの良い香りのする植物）を器に入れて香りを楽しむ様子を表した漢字だよ。そこから「よい香り」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "香り",
+      "meaning": "良い匂い。",
+      "imageUrl": ""
+    },
+    {
+      "word": "香水",
+      "meaning": "良い匂いのする液。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お香",
+      "meaning": "良い匂いを出すもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

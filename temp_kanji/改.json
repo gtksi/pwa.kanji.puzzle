@@ -1,0 +1,49 @@
+{
+  "kanjiId": "改",
+  "character": "改",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "己",
+      "speechText": "左に、己、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "又",
+      "speechText": "右に、又、かくよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "己",
+    "radicalName": "おのれ",
+    "radicalMeaning": "自分",
+    "originDescription": "「改」は、人の背中を叩いて行動を正す様子を表す漢字だよ。悪いところを直したり、新しく変えたりする、という意味があるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "改善",
+      "meaning": "悪いところを良くすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "改革",
+      "meaning": "新しく変えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "改正",
+      "meaning": "決まりなどを直すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "因",
+  "character": "因",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "囗",
+      "speechText": "くにがまえ、しかく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "大",
+      "speechText": "だい、おおきい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲む",
+    "originDescription": "人が寝床の「囗（かこい）」によりかかっている様子を表していると言われているよ。何かの「もと」となるものや、「わけ」を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "原因",
+      "meaning": "ある物事が起こるもと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "因る",
+      "meaning": "何かをもとにする。",
+      "imageUrl": ""
+    },
+    {
+      "word": "要因",
+      "meaning": "大切な原因。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

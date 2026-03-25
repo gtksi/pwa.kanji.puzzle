@@ -1,0 +1,49 @@
+{
+  "kanjiId": "丁",
+  "character": "丁",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "横（よこ）ぼう引いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亅",
+      "speechText": "たてに下ろして、はねる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "一",
+    "radicalName": "いち",
+    "radicalMeaning": "数字の一、横棒",
+    "originDescription": "釘（くぎ）を上から見た形、または横から見た形です。まっすぐで強い様子から、町の区切りや、数えるときの言葉として使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "丁寧",
+      "meaning": "細かいところまで心をこめてすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "丁度",
+      "meaning": "はかったようにぴったりなこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "一丁目",
+      "meaning": "町を分けたときの、一番めの場所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

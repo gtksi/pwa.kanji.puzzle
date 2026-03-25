@@ -1,0 +1,42 @@
+{
+  "kanjiId": "処",
+  "character": "処",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "処",
+      "speechText": "とまって休む、しょ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夂",
+    "radicalName": "ふゆがしら",
+    "radicalMeaning": "止まる、遅れる",
+    "originDescription": "「処」は、人がじっと「止まる」という意味の文字からできています。人がひとつの場所に落ち着いてとどまっている様子を表し、そこから場所や地位、また、物事をどうするか決める、処理するという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "処理",
+      "meaning": "物事を取り扱ってかたづけること",
+      "imageUrl": ""
+    },
+    {
+      "word": "対処",
+      "meaning": "ある状況に対して、ふさわしい行動をとること",
+      "imageUrl": ""
+    },
+    {
+      "word": "処分",
+      "meaning": "不要なものを捨てること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

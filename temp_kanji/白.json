@@ -1,0 +1,49 @@
+{
+  "kanjiId": "白",
+  "character": "白",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "上に「一」、一つ描く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "下に「日」、太陽の日",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "白",
+    "radicalName": "しろ",
+    "radicalMeaning": "しろい",
+    "originDescription": "太陽の光が昇り、明るくなる様子や、光が白く輝く様子を表した文字だよ。そこから「白い」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "空白",
+      "meaning": "何もない白い部分",
+      "imageUrl": ""
+    },
+    {
+      "word": "白紙",
+      "meaning": "何も書かれていない白い紙",
+      "imageUrl": ""
+    },
+    {
+      "word": "告白",
+      "meaning": "秘密などを打ち明けること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

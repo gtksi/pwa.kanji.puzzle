@@ -1,0 +1,37 @@
+{
+  "kanjiId": "象",
+  "character": "象",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "象",
+      "speechText": "よこぼう、たてぼう、ひだり、みぎ、たてぼう、よこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "豕",
+    "radicalName": "いのこ",
+    "radicalMeaning": "いのしし（転じて、大きな動物）",
+    "originDescription": "この漢字は、アフリカやインドにいる、あの大きな動物の「ゾウ」の形をそのまま絵にしたものなんだよ！長い鼻や大きな耳、太い足の様子が描かれているんだ。そこから、物事の「姿」や「形」という意味も表すようになったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "想像",
+      "meaning": "まだ見ていないことや、経験したことのないことを心の中に思い描くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "気象",
+      "meaning": "空気の温度や雨、風など、地球をとりまく大気の様子。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

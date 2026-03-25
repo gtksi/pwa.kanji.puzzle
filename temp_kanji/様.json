@@ -1,0 +1,54 @@
+{
+  "kanjiId": "様",
+  "character": "様",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへんを書く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "羊",
+      "speechText": "ひつじの下に",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "氺",
+      "speechText": "右はらい、左はらい（氺）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木に関すること",
+    "originDescription": "もともとは木で作られた模型（もけい）のことでした。そこから、「すがた」や「ようす」という意味になりました。",
+    "synonyms": [
+      "姿",
+      "容"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "様子",
+      "meaning": "その時のありさま、すがた",
+      "imageUrl": ""
+    },
+    {
+      "word": "皆様",
+      "meaning": "そこにいる全員をていねいに言う言葉",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

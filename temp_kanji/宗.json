@@ -1,0 +1,49 @@
+{
+  "kanjiId": "宗",
+  "character": "宗",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "うかんむり、やね",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "示",
+      "speechText": "しめすへん、おまつり",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家屋",
+    "originDescription": "「宗」は、屋根（宀）の下で、祖先をまつる大切な儀式（示）を行っている様子を表します。家族や集団にとって、一番大切な根本や、心のよりどころとなるものを意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宗教",
+      "meaning": "神や仏を信仰する道",
+      "imageUrl": ""
+    },
+    {
+      "word": "宗家",
+      "meaning": "家元、本家",
+      "imageUrl": ""
+    },
+    {
+      "word": "宗旨",
+      "meaning": "信仰する教え",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

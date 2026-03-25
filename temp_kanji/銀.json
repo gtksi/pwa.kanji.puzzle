@@ -1,0 +1,44 @@
+{
+  "kanjiId": "銀",
+  "character": "銀",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "かねへん",
+      "speechText": "かねへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "艮",
+      "speechText": "うしとら（艮）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "金",
+    "radicalName": "かねへん",
+    "radicalMeaning": "金属やお金",
+    "originDescription": "「金」に、光が止まってキラキラ光るという意味の「艮」を合わせて、白く光る美しい金属「ぎん」を表しました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "銀行",
+      "meaning": "お金を預けたり、貸したりする場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "銀色",
+      "meaning": "ぎんのような、白っぽく光る色。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

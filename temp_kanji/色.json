@@ -1,0 +1,49 @@
+{
+  "kanjiId": "色",
+  "character": "色",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の「ひと」",
+      "speechText": "うえのひと、いち、に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "下のまがり",
+      "speechText": "したのまがり、いち、に、さん、し",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "色",
+    "radicalName": "いろ",
+    "radicalMeaning": "いろ、形",
+    "originDescription": "人がひざまずいて、顔や体の色を表す様子からできた漢字です。顔色や物の色など、さまざまな「いろ」を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "色",
+      "meaning": "物や絵の色。例：赤色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "景色",
+      "meaning": "外のながめ。例：きれいな景色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "色紙",
+      "meaning": "色のついた紙。例：色紙で遊ぶ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

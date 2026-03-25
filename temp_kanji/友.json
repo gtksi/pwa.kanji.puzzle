@@ -1,0 +1,37 @@
+{
+  "kanjiId": "友",
+  "character": "友",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "又",
+      "speechText": "またの、カタチ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "ふたたび、右手",
+    "originDescription": "この漢字の昔の形は、二つの手が向かい合って助け合っている様子を表していたんだ。同じ気持ちを持つ仲間、友達という意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "友人",
+      "meaning": "仲の良い人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "友だち",
+      "meaning": "仲の良い人。（「達」をひらがなで書く）",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

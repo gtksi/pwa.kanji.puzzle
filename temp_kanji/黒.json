@@ -1,0 +1,49 @@
+{
+  "kanjiId": "黒",
+  "character": "黒",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "里",
+      "speechText": "上の部分は、里の字！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "れっか",
+      "speechText": "下にあるのは、火の点々！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "黒",
+    "radicalName": "くろ",
+    "radicalMeaning": "くろ",
+    "originDescription": "窓から煙が立ち上る様子と、火がくすぶりすすで黒くなった炉を描いた象形文字だよ。煙突の下が黒いことで『くろ』を表すんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "黒",
+      "meaning": "夜の色、墨の色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "黒色",
+      "meaning": "黒い色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "黒い土",
+      "meaning": "黒色の土。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

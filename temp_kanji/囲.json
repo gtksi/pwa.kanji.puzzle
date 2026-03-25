@@ -1,0 +1,49 @@
+{
+  "kanjiId": "囲",
+  "character": "囲",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "囗",
+      "speechText": "くにがまえ、おおきなしかく",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "韋",
+      "speechText": "いがまえ、まわり",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "囗",
+    "radicalName": "くにがまえ",
+    "radicalMeaning": "囲む",
+    "originDescription": "外がわを「囗（くにがまえ）」で、内がわを「韋（なめしがわ）」で、まわりをギュッと「かこむ」様子を表しているよ。何かのまわりをとりまくという意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "囲む",
+      "meaning": "まわりをとりまく。",
+      "imageUrl": ""
+    },
+    {
+      "word": "範囲",
+      "meaning": "広さや区切られた場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "包囲",
+      "meaning": "ぐるりと取り囲むこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

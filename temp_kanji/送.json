@@ -1,0 +1,41 @@
+{
+  "kanjiId": "送",
+  "character": "送",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ハ・天・しんにょう",
+      "speechText": "ハ（はち）と天（てん）を書いてから、しんにょうを書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道を行くこと",
+    "originDescription": "物を持って道（しんにょう）を行き、だれかに届ける様子を表しています。物をどこかへ届けたり、人をどこかへ連れて行ったりすることです。",
+    "synonyms": [
+      "配"
+    ],
+    "antonyms": [
+      "受"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "送る",
+      "meaning": "手紙や荷物を、どこかへ届くようにすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "見送る",
+      "meaning": "出かける人が行くのを、さよならと言いながら見ていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

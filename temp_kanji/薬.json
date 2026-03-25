@@ -1,0 +1,46 @@
+{
+  "kanjiId": "薬",
+  "character": "薬",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "艹",
+      "speechText": "くさかんむりを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "楽",
+      "speechText": "下に楽（たの）しいを書いて、くすり。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "艹",
+    "radicalName": "くさかんむり",
+    "radicalMeaning": "植物、草",
+    "originDescription": "「草」と、音楽で心が安らぐことを表す「楽」が合わさりました。病気を治して体を楽にしてくれる草（植物）のことを表しています。",
+    "synonyms": [],
+    "antonyms": [
+      "毒"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "薬屋",
+      "meaning": "くすりを売っているお店。",
+      "imageUrl": ""
+    },
+    {
+      "word": "目薬",
+      "meaning": "目の病気を治したり、疲れをとるためにつけるくすり。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

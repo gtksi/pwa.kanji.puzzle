@@ -1,0 +1,56 @@
+{
+  "kanjiId": "糸",
+  "character": "糸",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くのじ",
+      "speechText": "く",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "くのじ",
+      "speechText": "く",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "しょう",
+      "speechText": "小さい（しょう）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いと・いとへん",
+    "radicalMeaning": "細い糸をたばねた形",
+    "originDescription": "まゆから引き出した、細い糸をたばねた形から生まれました。布をぬったり、物をむすんだりするときに使われる「いと」そのものを表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "糸",
+      "meaning": "ぬいものなどに使う、細長いひも。",
+      "imageUrl": ""
+    },
+    {
+      "word": "毛糸",
+      "meaning": "羊などの毛をより合わせて作った、ふわふわした糸。",
+      "imageUrl": ""
+    },
+    {
+      "word": "つり糸",
+      "meaning": "さかなをつるときに使う、じょうぶな糸。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

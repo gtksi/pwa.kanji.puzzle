@@ -1,0 +1,49 @@
+{
+  "kanjiId": "敵",
+  "character": "敵",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "啇",
+      "speechText": "「てき」の上だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "攴",
+      "speechText": "ぼくづくりだよ、はい「敵」！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "攴",
+    "radicalName": "ぼくづくり",
+    "radicalMeaning": "たたく、うつ",
+    "originDescription": "この漢字は、昔、弓矢の的（まと）に向かって武器で攻撃する様子から生まれました。そこから、「かたき」や「戦う相手」という意味で使われるようになった漢字です。的をねらうように敵を討つイメージだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "敵対",
+      "meaning": "敵として対立すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "敵国",
+      "meaning": "敵対している国",
+      "imageUrl": ""
+    },
+    {
+      "word": "宿敵",
+      "meaning": "長年の敵、因縁の敵",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

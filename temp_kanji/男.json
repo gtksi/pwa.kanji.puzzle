@@ -1,0 +1,49 @@
+{
+  "kanjiId": "男",
+  "character": "男",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田んぼの田",
+      "speechText": "田んぼの田",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "その下に、ちから",
+      "speechText": "その下に、ちから",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "たへん",
+    "radicalMeaning": "田んぼ",
+    "originDescription": "「田」は田んぼを表し、「力」は力を表します。田んぼで力を合わせて働く人、つまり「おとこ」を意味するようになりました。力強い人のイメージです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "男の子",
+      "meaning": "少年",
+      "imageUrl": ""
+    },
+    {
+      "word": "男女",
+      "meaning": "男と女",
+      "imageUrl": ""
+    },
+    {
+      "word": "男子",
+      "meaning": "男の子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

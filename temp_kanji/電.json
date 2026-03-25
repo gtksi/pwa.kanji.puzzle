@@ -1,0 +1,49 @@
+{
+  "kanjiId": "電",
+  "character": "電",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "雨",
+      "speechText": "あめかんむりに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "申",
+      "speechText": "さるの申で『電』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "雨",
+    "radicalName": "あめかんむり",
+    "radicalMeaning": "雨のこと",
+    "originDescription": "空から降る雨（あめかんむり）と、稲妻がピカッと光る様子（申）が合わさって、雷の光、つまり「電気」を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "電車",
+      "meaning": "電気で走る乗り物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "電話",
+      "meaning": "電気を使って声で話す道具。",
+      "imageUrl": ""
+    },
+    {
+      "word": "電力",
+      "meaning": "電気の力。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

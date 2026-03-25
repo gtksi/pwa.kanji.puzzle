@@ -1,0 +1,49 @@
+{
+  "kanjiId": "富",
+  "character": "富",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "うかんむり",
+      "speechText": "うかんむりに、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "一口田",
+      "speechText": "一、口、田と並べるよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家、建物",
+    "originDescription": "家の中にお酒のつぼ（一と口）と、豊かな田んぼがある様子を表し、財産がたっぷりあることを意味します。",
+    "synonyms": [
+      "豊",
+      "財"
+    ],
+    "antonyms": [
+      "貧"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "豊富",
+      "meaning": "たっぷりとたくさんあること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "富士山",
+      "meaning": "日本で一番高い、有名な山。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

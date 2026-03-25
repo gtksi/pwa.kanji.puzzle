@@ -1,0 +1,49 @@
+{
+  "kanjiId": "景",
+  "character": "景",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "ひ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "京",
+      "speechText": "きょう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "日",
+    "originDescription": "「日」は太陽や光を、「京」は高い建物や大きな様子を表します。太陽の光が高くそびえる建物に当たってできる「かげ」や、その光によって見える「景色」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "景色",
+      "meaning": "目に見える風景。",
+      "imageUrl": ""
+    },
+    {
+      "word": "風景",
+      "meaning": "自然の景色。",
+      "imageUrl": ""
+    },
+    {
+      "word": "景気",
+      "meaning": "世の中のお金の動き。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

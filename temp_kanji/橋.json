@@ -1,0 +1,46 @@
+{
+  "kanjiId": "橋",
+  "character": "橋",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "呑みの部品",
+      "speechText": "右は高いの「口」がない形",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木や木製品に関すること",
+    "originDescription": "木（木）で作った、高くて立派なわたり道のことを表しています。川の向こう側へ行くための大切な道具です。",
+    "synonyms": [
+      "架け橋"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "歩道橋",
+      "meaning": "人が道をわたるための高い橋",
+      "imageUrl": ""
+    },
+    {
+      "word": "鉄橋",
+      "meaning": "鉄で作られた、電車などが通る橋",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

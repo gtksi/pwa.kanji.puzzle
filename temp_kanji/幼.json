@@ -1,0 +1,49 @@
+{
+  "kanjiId": "幼",
+  "character": "幼",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "幺",
+      "speechText": "いとがしら、いちにさん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "力",
+      "speechText": "ちから、いちに",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "幺",
+    "radicalName": "いとがしら",
+    "radicalMeaning": "小さい、細い",
+    "originDescription": "「幺（いとがしら）」は、細い糸や小さくて弱いものを意味し、「力」は力を表すよ。この二つが合わさって、まだ小さくて力が弱い、つまり「幼い」状態を表す漢字になったんだ。子どもや未熟な状態を表すときに使うよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "幼児",
+      "meaning": "小さい子ども。一般的に1歳から小学校入学前の子どもを指す。",
+      "imageUrl": ""
+    },
+    {
+      "word": "幼い",
+      "meaning": "年齢が若いこと、まだ経験が少なく未熟なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "幼少期",
+      "meaning": "幼い頃、子どもの時期。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

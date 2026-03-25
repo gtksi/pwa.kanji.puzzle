@@ -1,0 +1,49 @@
+{
+  "kanjiId": "日",
+  "character": "日",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "口",
+      "speechText": "「口」を書いて、太陽の枠",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横棒",
+      "speechText": "真ん中横棒、光だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "ひ、たいよう",
+    "originDescription": "太陽の形を絵にした漢字だよ。丸い太陽の中に点があったり横棒があったりする形から変化したんだ。時間や一日を表す意味にも使われるよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "休日",
+      "meaning": "仕事や学校が休みの日",
+      "imageUrl": ""
+    },
+    {
+      "word": "毎日",
+      "meaning": "すべての日に",
+      "imageUrl": ""
+    },
+    {
+      "word": "日記",
+      "meaning": "毎日の出来事を書くもの",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

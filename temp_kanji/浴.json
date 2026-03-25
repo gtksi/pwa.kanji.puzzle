@@ -1,0 +1,49 @@
+{
+  "kanjiId": "浴",
+  "character": "浴",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "さんずい、チョンチョンチョン、水のしるし！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "谷",
+      "speechText": "谷の字を、右につけたら、浴びるだよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "氵",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「氵（さんずい）」は水のこと。「谷（たに）」は、昔、水が流れ落ちる様子を表していました。水が流れる場所で体をきれいに洗うことを意味する漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "入浴",
+      "meaning": "おふろに入ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水浴び",
+      "meaning": "水を使って体を洗うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日光浴",
+      "meaning": "太陽の光を体に浴びること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,58 @@
+{
+  "kanjiId": "潟",
+  "character": "潟",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "さんずい",
+      "speechText": "左に、さんずい、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "臼",
+      "speechText": "右の、上は、臼、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "目",
+      "speechText": "真ん中に、目、かいて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "四つの点",
+      "speechText": "下は、四つの点、かいてね",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水",
+    "originDescription": "「潟」は、水がたまっている場所や、干潟、入り江を表す漢字だよ。海や湖のそばの、浅い水辺を指す言葉で、地名によく使われるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "新潟県",
+      "meaning": "日本の県の一つ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "干潟",
+      "meaning": "潮が引くと現れる砂泥地。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

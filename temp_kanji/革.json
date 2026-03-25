@@ -1,0 +1,53 @@
+{
+  "kanjiId": "革",
+  "character": "革",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "廿",
+      "speechText": "にじゅう（廿）を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "中",
+      "speechText": "くち（口）にぼう（中）を書いて、",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "十",
+      "speechText": "下に十（じゅう）を書こう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "革",
+    "radicalName": "かわへん",
+    "radicalMeaning": "なめしがわ",
+    "originDescription": "動物の「かわ」をピンと広げて、毛をきれいに取りのぞいた姿です。新しく作りかえる「あらためる」という意味も持ちます。",
+    "synonyms": [
+      "改"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "革製品",
+      "meaning": "動物の皮を加工して作ったもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "改革",
+      "meaning": "古い仕組みを新しく改めてよくすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

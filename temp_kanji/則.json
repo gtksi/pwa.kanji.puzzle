@@ -1,0 +1,49 @@
+{
+  "kanjiId": "則",
+  "character": "則",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "貝",
+      "speechText": "かい、かい、お金の貝",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "刀",
+      "speechText": "りっとう、刀でチョン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀（かたな）",
+    "originDescription": "「貝（かい）」と「刀（とう）」から、貝に刻んで決まりごとを作る様子を表します。きまりや手本という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "法則",
+      "meaning": "社会や自然のきまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "原則",
+      "meaning": "基本となる大切なきまりやルール。",
+      "imageUrl": ""
+    },
+    {
+      "word": "規則",
+      "meaning": "みんなが守る決まりごと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

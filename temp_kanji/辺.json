@@ -1,0 +1,63 @@
+{
+  "kanjiId": "辺",
+  "character": "辺",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "点",
+      "speechText": "点（てん）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "方",
+      "speechText": "方（かた）",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "しんにょう",
+      "speechText": "しんにょうの辺",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、進む",
+    "originDescription": "「しんにょう（進む）」と「方（方向）」を組み合わせた字だよ。道のまわりや、物の「かたわら」という意味から、「あたり」や「はし」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "周辺",
+      "meaning": "ある場所のまわりの地域。",
+      "imageUrl": ""
+    },
+    {
+      "word": "海岸",
+      "meaning": "海と陸が接しているところ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "近辺",
+      "meaning": "ある場所のすぐ近く。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,60 @@
+{
+  "kanjiId": "墓",
+  "character": "墓",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "くさかんむり",
+      "speechText": "くさかんむりに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "日をかいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "大",
+      "speechText": "大と",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "土",
+      "speechText": "土をかく",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "地面や土に関すること",
+    "originDescription": "日が草の中に沈んでいく様子と、土を組み合わせて、亡くなった人を土にうめる場所を表しています。",
+    "synonyms": [
+      "墳"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "お墓",
+      "meaning": "亡くなった人をうめて、まつる場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "墓地",
+      "meaning": "お墓がたくさん集まっている場所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "塩",
+  "character": "塩",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "つちへん",
+      "speechText": "左に、つちへん、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "臣",
+      "speechText": "右の、上は、臣、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "皿",
+      "speechText": "下に、皿、かくよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つちへん",
+    "radicalMeaning": "土",
+    "originDescription": "「塩」は、昔、熱い土の山から噴き出す塩水を採取する様子からできた漢字だよ。食べ物の味をつけたり、保存したりする大切なものだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "食塩",
+      "meaning": "食べ物に入れる塩。",
+      "imageUrl": ""
+    },
+    {
+      "word": "塩水",
+      "meaning": "塩が溶けた水。",
+      "imageUrl": ""
+    },
+    {
+      "word": "塩漬け",
+      "meaning": "塩で漬けること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

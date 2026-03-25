@@ -1,0 +1,49 @@
+{
+  "kanjiId": "好",
+  "character": "好",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "おんなへん",
+      "speechText": "おんなへん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "子",
+      "speechText": "子どもの、子、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "女",
+    "radicalName": "おんなへん",
+    "radicalMeaning": "女性に関する意味を表す",
+    "originDescription": "「好」は、「女」と「子」からできています。お母さんと子どもが一緒にいる様子を表していて、その姿が「良い」とか「好ましい」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "好き",
+      "meaning": "気に入っていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "好評",
+      "meaning": "多くの人から良い評価を得ること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "好意",
+      "meaning": "親切な気持ちや、良い感情。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "食",
+  "character": "食",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上のふた",
+      "speechText": "うえのふた、いち、に、さん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "まんなかのくち",
+      "speechText": "まんなかのくち、いち、に、さん、し",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "下のさじ",
+      "speechText": "したのさじ、いち、に",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "食",
+    "radicalName": "しょくへん",
+    "radicalMeaning": "食べ物のこと",
+    "originDescription": "食べ物が入った器と、それに使うスプーン（匕）の形からできた漢字です。「たべる」ことや「たべもの」全般を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "食べる",
+      "meaning": "ごはんを食べること。例：パンを食べる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "食事",
+      "meaning": "ごはんを食べること。例：楽しい食事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "食べ物",
+      "meaning": "食べるもの。例：おいしい食べ物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

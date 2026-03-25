@@ -1,0 +1,49 @@
+{
+  "kanjiId": "毛",
+  "character": "毛",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "横棒、一本",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦と点",
+      "speechText": "真ん中、ピュッピュッ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "毛",
+    "radicalName": "け",
+    "radicalMeaning": "毛",
+    "originDescription": "動物の体から生えている毛の様子を表す漢字だよ。細くてふわふわした毛がいくつも生えている形から作られたんだ。やわらかそうな毛並みが想像できるね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "毛糸",
+      "meaning": "動物の毛を紡いで作った糸。",
+      "imageUrl": ""
+    },
+    {
+      "word": "髪の毛",
+      "meaning": "頭に生えている毛のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "羽毛",
+      "meaning": "鳥の羽根のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

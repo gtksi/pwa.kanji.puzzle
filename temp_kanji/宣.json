@@ -1,0 +1,49 @@
+{
+  "kanjiId": "宣",
+  "character": "宣",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "宀",
+      "speechText": "「うかんむり」と唱えよう！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "亘",
+      "speechText": "「わたる」と唱えよう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "宀",
+    "radicalName": "うかんむり",
+    "radicalMeaning": "家屋に関すること",
+    "originDescription": "「屋根」と「広がる」という形からできた漢字だよ。屋根の下でたくさんの人に広く言葉を伝えたり、広く知らせたりする意味があるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "宣言",
+      "meaning": "物事をはっきりと広く知らせること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "広宣",
+      "meaning": "広く宣伝すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "宣伝",
+      "meaning": "広く知らせて、興味を持たせること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

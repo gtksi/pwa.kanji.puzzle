@@ -1,0 +1,49 @@
+{
+  "kanjiId": "耕",
+  "character": "耕",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "耒",
+      "speechText": "らいすき、左側だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "井",
+      "speechText": "右に、井（い）と書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "耒",
+    "radicalName": "らいすき",
+    "radicalMeaning": "すきなどの農具に関すること",
+    "originDescription": "「耒」は農具の「すき」で、「井」は水田のあぜ道を表しているよ。農具を使って田んぼをたがやし、土を柔らかくする様子を表す漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "耕す",
+      "meaning": "田畑を掘り起こして土を柔らかくすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "農耕",
+      "meaning": "田畑を耕し、作物を育てて収穫すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "耕地",
+      "meaning": "作物を育てている土地のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

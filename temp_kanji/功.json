@@ -1,0 +1,49 @@
+{
+  "kanjiId": "功",
+  "character": "功",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ちから",
+      "speechText": "ちから、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "工",
+      "speechText": "たくみの、工、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "力",
+    "radicalName": "ちから",
+    "radicalMeaning": "力に関する意味を表す",
+    "originDescription": "「功」は、「力」と「工（たくみ）」からできています。「工」は道具や仕事を表します。力を合わせて、しっかりと仕事をして成し遂げた「手柄」や「成果」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "成功",
+      "meaning": "目的を達成すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "功績",
+      "meaning": "立派な働きや手柄。",
+      "imageUrl": ""
+    },
+    {
+      "word": "功労",
+      "meaning": "努力して、良い結果を出したこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

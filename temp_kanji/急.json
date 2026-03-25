@@ -1,0 +1,57 @@
+{
+  "kanjiId": "急",
+  "character": "急",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ク",
+      "speechText": "左上にク",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨ",
+      "speechText": "右上にヨ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "心",
+      "speechText": "下に心（こころ）を書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心や感情に関すること",
+    "originDescription": "何かがおきそうで、心（心）がドキドキしたり、あせったりする様子を表しています。急いで何かをしようとする時の気持ちです。",
+    "synonyms": [
+      "速い",
+      "急ぐ"
+    ],
+    "antonyms": [
+      "緩",
+      "遅い"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "急ぐ",
+      "meaning": "早くしようとあせる",
+      "imageUrl": ""
+    },
+    {
+      "word": "急行",
+      "meaning": "目的地まで早く行く電車などのこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

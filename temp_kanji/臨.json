@@ -1,0 +1,56 @@
+{
+  "kanjiId": "臨",
+  "character": "臨",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "臣",
+      "speechText": "上から「しん」の字",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "その下「くち」の字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "皿",
+      "speechText": "いちばん下は「さら」の字、「のぞむ」の「りん」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "皿",
+    "radicalName": "さら",
+    "radicalMeaning": "容器、底の浅いもの",
+    "originDescription": "高い所から水がめをのぞきこんでいる様子を表した文字だよ。そこから、上から見下ろすことや、近づくという意味に変化したんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "臨時",
+      "meaning": "いつもと違う、一時的なこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "臨む",
+      "meaning": "その場に行く、対すること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "臨床",
+      "meaning": "病院で病人の治療にあたること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "林",
+  "character": "林",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "左の木",
+      "speechText": "ひだりのき",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "右の木",
+      "speechText": "みぎのき",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "林",
+      "speechText": "はやし",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "「木」という漢字を二つ並べて、たくさんの木が並んで生えている様子を表しています。木がたくさんある場所、つまり「林」を意味する漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "森林",
+      "meaning": "木がたくさん生えている場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "林業",
+      "meaning": "木を育て、利用する仕事。",
+      "imageUrl": ""
+    },
+    {
+      "word": "林道",
+      "meaning": "林の中の道。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

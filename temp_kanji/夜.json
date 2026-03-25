@@ -1,0 +1,56 @@
+{
+  "kanjiId": "夜",
+  "character": "夜",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夕",
+      "speechText": "ゆうがたの、ゆう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "点",
+      "speechText": "ちいさてん",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "マ",
+      "speechText": "カタカナの、マ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夕",
+    "radicalName": "ゆうべ",
+    "radicalMeaning": "夕方",
+    "originDescription": "この漢字は、日が沈んで暗くなる時間を表しているんだ。上の部分は夕方の「夕（ゆう）」の形で、暗い時間を表しているよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "夜",
+      "meaning": "太陽が沈んで暗くなる時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "今夜",
+      "meaning": "今の夜。今日の夜。",
+      "imageUrl": ""
+    },
+    {
+      "word": "夜中",
+      "meaning": "夜の真ん中、日付が変わる頃。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

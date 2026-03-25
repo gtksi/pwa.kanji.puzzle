@@ -1,0 +1,49 @@
+{
+  "kanjiId": "管",
+  "character": "管",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たけかんむり",
+      "speechText": "上に、たけかんむり、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "官",
+      "speechText": "下に、官、かくよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "竹",
+    "originDescription": "「管」は、竹で作られた筒や笛を表す漢字だよ。細長い筒状のものや、物事を管理する、という意味があるんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "管理",
+      "meaning": "物事をきちんと扱うこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水道管",
+      "meaning": "水を通す管。",
+      "imageUrl": ""
+    },
+    {
+      "word": "保管",
+      "meaning": "大切に預かること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "収",
+  "character": "収",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "又",
+      "speechText": "また、て",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "凵",
+      "speechText": "かんにょう、はこ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "又",
+    "radicalName": "また",
+    "radicalMeaning": "手",
+    "originDescription": "「収」は、手（又）で物をまとめて箱（凵）の中に入れる様子を表しています。物を集める、取り入れる、片付けるといった意味が生まれました。大事なものをきちんとしまうときに使う漢字です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "収入",
+      "meaning": "入ってくるお金",
+      "imageUrl": ""
+    },
+    {
+      "word": "回収",
+      "meaning": "一度出したものを再び集める",
+      "imageUrl": ""
+    },
+    {
+      "word": "収穫",
+      "meaning": "作物を取り入れること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

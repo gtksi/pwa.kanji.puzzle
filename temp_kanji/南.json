@@ -1,0 +1,51 @@
+{
+  "kanjiId": "南",
+  "character": "南",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十",
+      "speechText": "じゅう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "干",
+      "speechText": "かん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "十",
+    "radicalName": "じゅう",
+    "radicalMeaning": "数や方向に関する漢字 (部首の形から)",
+    "originDescription": "夏の太陽が強く輝く方角を表す漢字だよ。昔は、楽器の形や、家の中で南を向いて儀式をする様子からできたとも言われているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "南北",
+      "meaning": "南と北のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "南風",
+      "meaning": "南の方向から吹いてくる風のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

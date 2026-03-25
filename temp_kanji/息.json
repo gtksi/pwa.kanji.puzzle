@@ -1,0 +1,49 @@
+{
+  "kanjiId": "息",
+  "character": "息",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "自",
+      "speechText": "まずは、自分（じぶん）の「自（じ）」を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "その下に、心（こころ）を書くよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心や気持ち、命に関わることを表す",
+    "originDescription": "「自」は昔、鼻（はな）の形を表していました。鼻から空気を出し入れし、心臓（しんぞう）が動いて「いき」をする様子からこの漢字ができました。また、いきを整えて「休む」という意味もあります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "息子",
+      "meaning": "自分の男の子のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "ため息",
+      "meaning": "がっかりしたときなどに、大きく「はあー」とはき出すいき。",
+      "imageUrl": ""
+    },
+    {
+      "word": "休息",
+      "meaning": "仕事や運動をやめて、心と体をゆっくり休めること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

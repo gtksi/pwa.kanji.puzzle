@@ -1,0 +1,70 @@
+{
+  "kanjiId": "形",
+  "character": "形",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たて棒",
+      "speechText": "たて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "よこ棒",
+      "speechText": "よこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "たて棒",
+      "speechText": "たて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "よこ棒",
+      "speechText": "よこ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "彡",
+      "speechText": "さんづくり",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彡",
+    "radicalName": "さんづくり",
+    "radicalMeaning": "かざり",
+    "originDescription": "美しい模様を表す「さんづくり」と、ものが並んだ様子を表す部分から、物の外側や「かたち」を意味するようになったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "形",
+      "meaning": "物の外側、姿のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "図形",
+      "meaning": "点や線で描かれた形。",
+      "imageUrl": ""
+    },
+    {
+      "word": "形見",
+      "meaning": "故人を思い出す品のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

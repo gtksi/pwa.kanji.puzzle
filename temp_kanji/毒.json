@@ -1,0 +1,49 @@
+{
+  "kanjiId": "毒",
+  "character": "毒",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "なかれ",
+      "speechText": "なかれ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "生",
+      "speechText": "いきる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "毋",
+    "radicalName": "なかれ",
+    "radicalMeaning": "禁止に関すること",
+    "originDescription": "「毒」は、草が生い茂る様子を表す部分と、「～してはならない」という意味の部分からできています。もとは、体に悪いものや、人にとって危険なものを意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "毒物",
+      "meaning": "人の体に害を与えるもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "有毒",
+      "meaning": "毒があること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "解毒",
+      "meaning": "毒の効き目をなくすこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,70 @@
+{
+  "kanjiId": "戸",
+  "character": "戸",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "横棒",
+      "speechText": "よこ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "たて棒",
+      "speechText": "たて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "横棒",
+      "speechText": "よこ",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "点",
+      "speechText": "てん",
+      "chantOrder": 5,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "戸",
+    "radicalName": "と",
+    "radicalMeaning": "とびら",
+    "originDescription": "片開きの扉の形から生まれた漢字だよ。だから、「と」や家の入り口を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "戸",
+      "meaning": "扉のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "戸口",
+      "meaning": "家の入り口。",
+      "imageUrl": ""
+    },
+    {
+      "word": "雨戸",
+      "meaning": "雨や風を防ぐ戸のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,54 @@
+{
+  "kanjiId": "令",
+  "character": "令",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ひとやね",
+      "speechText": "ひとやね 書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "いち",
+      "speechText": "一（いち）を 引いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "まげ（卩）",
+      "speechText": "カタカナのマを 書く",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひとやね",
+    "radicalMeaning": "人に関わることや、屋根の下の様子",
+    "originDescription": "屋根の下で、人がひざまずいて神さまや王さまの言葉を聞いている形からできました。「言いつけ」や「きまり」という意味があります。",
+    "synonyms": [
+      "命",
+      "法"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "命令",
+      "meaning": "上の人から「しなさい」と言いつけられること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "号令",
+      "meaning": "たくさんの人に一度に命令すること。「全体、止まれ！」など。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

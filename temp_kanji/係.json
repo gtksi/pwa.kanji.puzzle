@@ -1,0 +1,46 @@
+{
+  "kanjiId": "係",
+  "character": "係",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にんべん",
+      "speechText": "にんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "系",
+      "speechText": "ノを書いて糸を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人の動作、様子",
+    "originDescription": "糸がつながるように、人と人がつながることを表しています。そこから「つなぎとめる」や「仕事の担当」という意味になりました。",
+    "synonyms": [
+      "つなぐ"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "係の人",
+      "meaning": "その仕事や役割をまかされている人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "関係",
+      "meaning": "物事や人が互いにつながりあっていること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

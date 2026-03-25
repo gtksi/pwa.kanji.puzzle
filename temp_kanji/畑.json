@@ -1,0 +1,44 @@
+{
+  "kanjiId": "畑",
+  "character": "畑",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "火",
+      "speechText": "火（ひ）へん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "田（た）を書いて、はたけ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田んぼ、耕地",
+    "originDescription": "日本で作られた漢字です。森を火（火）で焼いて切り開き、田（田）のような耕した土地を作ることから「はたけ」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "畑",
+      "meaning": "野菜などを育てる、水のないたがやした土地",
+      "imageUrl": ""
+    },
+    {
+      "word": "花畑",
+      "meaning": "花がたくさん植えてある場所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

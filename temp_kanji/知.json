@@ -1,0 +1,49 @@
+{
+  "kanjiId": "知",
+  "character": "知",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "矢",
+      "speechText": "矢（や）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "口",
+      "speechText": "くち",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "矢",
+    "radicalName": "や",
+    "radicalMeaning": "矢",
+    "originDescription": "矢のようにまっすぐなことを、口で話して伝える様子を表しました。そこから、物事を「しる」ことや、知識を持つことを意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "知る",
+      "meaning": "ある物事についてわかること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "知識",
+      "meaning": "勉強して知ったことや覚えたこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お知らせ",
+      "meaning": "みんなに大切なことを伝えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

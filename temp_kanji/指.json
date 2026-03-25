@@ -1,0 +1,44 @@
+{
+  "kanjiId": "指",
+  "character": "指",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "てへん",
+      "speechText": "てへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "旨",
+      "speechText": "カタカナの「ヒ」の下に、日を書けば、ゆび",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手の動作",
+    "originDescription": "手と、おいしい食べ物を指さす様子（旨）が合わさって、手の指を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "親指",
+      "meaning": "手の中で一番太い指のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "目指す",
+      "meaning": "目標を決めてそこに向かって進むこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

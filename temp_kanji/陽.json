@@ -1,0 +1,48 @@
+{
+  "kanjiId": "陽",
+  "character": "陽",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "こざとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "日",
+      "speechText": "日（ひ）に、一（いち）に、はらい二つ（勿）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "丘や山、階段に関すること",
+    "originDescription": "丘（こざとへん）の上に太陽がさんさんと輝いている様子を表しています。明るい「ひかり」や「ひなた」を意味します。",
+    "synonyms": [
+      "日"
+    ],
+    "antonyms": [
+      "陰"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "太陽",
+      "meaning": "地球を照らしている大きな星",
+      "imageUrl": ""
+    },
+    {
+      "word": "陽気",
+      "meaning": "明るくて、元気な様子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,59 @@
+{
+  "kanjiId": "森",
+  "character": "森",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木（上）",
+      "speechText": "うえに「き」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木（左下）",
+      "speechText": "ひだりしたに「き」",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "木（右下）",
+      "speechText": "みぎしたに「き」。みっつならんで「もり」！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "樹木や木製品に関すること",
+    "originDescription": "「木」を3つ集めて、木がたくさん生い茂っている様子を表した漢字です。2つの「林」よりも、もっとたくさんの木が密集して生えている深い場所を意味します。",
+    "synonyms": [
+      "林",
+      "山"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "森林",
+      "meaning": "たくさんの木が生えている広い場所のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "森の中",
+      "meaning": "木がしげっている場所のなかのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "青森県",
+      "meaning": "日本にある都道府県の一つ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

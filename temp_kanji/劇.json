@@ -1,0 +1,47 @@
+{
+  "kanjiId": "劇",
+  "character": "劇",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "とらがしら",
+      "speechText": "とらがしらの中に豕を入れ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "りっとう",
+      "speechText": "右にりっとうを立てる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "刀",
+    "radicalName": "りっとう",
+    "radicalMeaning": "刀で切ること、激しいこと。",
+    "originDescription": "虎と豚が激しく戦う様子から、激しいこと、また見ごたえのあるお芝居を意味します。",
+    "synonyms": [
+      "芝居",
+      "激しい"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "劇場",
+      "meaning": "お芝居を見せる場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "時代劇",
+      "meaning": "昔の時代の様子を描いたお芝居",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

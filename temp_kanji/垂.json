@@ -1,0 +1,63 @@
+{
+  "kanjiId": "垂",
+  "character": "垂",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "十",
+      "speechText": "じゅう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "横棒",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "土",
+      "speechText": "土",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "土、地面",
+    "originDescription": "『説文解字』によると、「垂」は木の枝や布などがしだれて下がる様子を表す象形文字です。上から下へ、ぶら下がったり落ちたりする動きを示し、縦の方向を表す言葉に使われます。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "垂直",
+      "meaning": "面や線が、他の面や線に対して直角に交わっていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "垂れる",
+      "meaning": "上から下へ、ぶら下がる、あるいは液体が流れ落ちる。",
+      "imageUrl": ""
+    },
+    {
+      "word": "垂線",
+      "meaning": "ある線や面に、垂直に引かれた線。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,64 @@
+{
+  "kanjiId": "投",
+  "character": "投",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "手へん",
+      "speechText": "てへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ク",
+      "speechText": "く",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "いち",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "又",
+      "speechText": "また",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "手",
+    "radicalName": "てへん",
+    "radicalMeaning": "手に関係する動作",
+    "originDescription": "手（てへん）と、木のつえ（殳）を組み合わせた字です。手で何かを遠くへ放り投げる様子を表しています。",
+    "synonyms": [
+      "投げる",
+      "放つ"
+    ],
+    "antonyms": [
+      "捕る",
+      "受ける"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "投手",
+      "meaning": "野球でボールを投げる役割の人",
+      "imageUrl": ""
+    },
+    {
+      "word": "投書",
+      "meaning": "意見などを書いて、郵便や箱に入れること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

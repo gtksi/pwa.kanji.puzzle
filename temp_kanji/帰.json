@@ -1,0 +1,57 @@
+{
+  "kanjiId": "帰",
+  "character": "帰",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ",
+      "speechText": "ノを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨ",
+      "speechText": "ヨを書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "巾",
+      "speechText": "最後に『はば』を書けば、おうちに『かえる』",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "巾",
+    "radicalName": "はば・はばへん",
+    "radicalMeaning": "布、ぬの",
+    "originDescription": "むかしの文字では、お掃除に使う「ほうき」と、軍隊の「旗」、そして「足」の形が組み合わさっています。戦いから戻って、ほうきできれいにする、つまり「元の場所に戻る」という意味です。",
+    "synonyms": [
+      "戻る",
+      "返る"
+    ],
+    "antonyms": [
+      "行く",
+      "去る"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "帰り道",
+      "meaning": "どこかからおうちに帰る途中の道のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "帰宅",
+      "meaning": "おうちに帰ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

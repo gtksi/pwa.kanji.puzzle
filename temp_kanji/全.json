@@ -1,0 +1,42 @@
+{
+  "kanjiId": "全",
+  "character": "全",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "入・王",
+      "speechText": "入（ひとやね）を書いて、中に王（おう）を書くよ",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "入",
+    "radicalName": "いる",
+    "radicalMeaning": "中に入る",
+    "originDescription": "欠け目のない「きれいな宝石（王）」を表しています。どこにも悪いところがない、すべての部分がそろっていることを意味します。",
+    "synonyms": [
+      "完",
+      "皆"
+    ],
+    "antonyms": [
+      "部"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "全部",
+      "meaning": "残っているものが何もなく、すべてのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "全力",
+      "meaning": "持っているすべての力を出しきること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

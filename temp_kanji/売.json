@@ -1,0 +1,49 @@
+{
+  "kanjiId": "売",
+  "character": "売",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "士",
+      "speechText": "さむらい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "儿",
+      "speechText": "ひとあし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "士",
+    "radicalName": "さむらい",
+    "radicalMeaning": "土の形に似ている文字",
+    "originDescription": "物を「出す」という意味の形と、「お金（貝）」を組み合わせた漢字だよ。お店で商品を外に出して、お客さんにお金を払ってもらう様子を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "売店",
+      "meaning": "物を売る小さなお店。",
+      "imageUrl": ""
+    },
+    {
+      "word": "売買",
+      "meaning": "物を売り買いすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "売る",
+      "meaning": "品物をお金と引き換えに渡すこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,50 @@
+{
+  "kanjiId": "未",
+  "character": "未",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "一番上に短い横棒をひくよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "その下に木を書く、まだ成長中の木だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木、樹木に関する意味を表す",
+    "originDescription": "木に枝が重なっている様子を表しています。まだ枝が十分に伸びきっていないことから「まだ〜ない」という意味になりました。",
+    "synonyms": [
+      "不",
+      "非"
+    ],
+    "antonyms": [
+      "既",
+      "済"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "未来",
+      "meaning": "これからやってくる時。将来。",
+      "imageUrl": ""
+    },
+    {
+      "word": "未満",
+      "meaning": "その数にたっしていないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

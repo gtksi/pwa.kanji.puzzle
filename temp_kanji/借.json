@@ -1,0 +1,44 @@
+{
+  "kanjiId": "借",
+  "character": "借",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "亻",
+      "speechText": "にんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "昔",
+      "speechText": "むかしだよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人",
+    "originDescription": "人がお金や物を借りる様子を表しているよ。右の部分は「昔」と書くけれど、ここでは「かりる」という音を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "借りる",
+      "meaning": "物を一時的にもらって、後で返すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "借金",
+      "meaning": "お金を借りること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

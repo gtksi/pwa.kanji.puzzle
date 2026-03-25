@@ -1,0 +1,49 @@
+{
+  "kanjiId": "冬",
+  "character": "冬",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "夂",
+      "speechText": "おわるの『ち』に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冫",
+      "speechText": "にすいつけて『冬』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "夂",
+    "radicalName": "ふゆがしら",
+    "radicalMeaning": "季節の終わり",
+    "originDescription": "寒くて氷が張る季節（にすい）と、物事が終わりに向かう様子が合わさって、寒い「冬」の季節を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "冬休み",
+      "meaning": "冬にある学校のお休み。",
+      "imageUrl": ""
+    },
+    {
+      "word": "冬毛",
+      "meaning": "冬になると生える動物の毛。",
+      "imageUrl": ""
+    },
+    {
+      "word": "冬空",
+      "meaning": "冬の空。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

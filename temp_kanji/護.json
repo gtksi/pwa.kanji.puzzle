@@ -1,0 +1,63 @@
+{
+  "kanjiId": "護",
+  "character": "護",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん、左側だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "艹",
+      "speechText": "右のくさかんむり",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "隹",
+      "speechText": "その下、ふるとりだよ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "又",
+      "speechText": "さいごに、また",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "ことばに関すること",
+    "originDescription": "「言」は言葉や命令、「蒦」は「守る」という意味だよ。だから、言葉や力を使って、大切なものを危険から守ることを表す漢字だよ。安心させてあげる気持ちだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "保護",
+      "meaning": "危険や悪いことから、守り助けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "看護",
+      "meaning": "病気やけがをした人の世話をすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "警護",
+      "meaning": "事件や危険から、身を守ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "査",
+  "character": "査",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへんを、左にかくよ！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "且",
+      "speechText": "つくりは「サ」、よくみるよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "き",
+    "originDescription": "「木（きへん）」と「且（しゃ）」を組み合わせた漢字だよ。且は、ものがたくさん並んでいる様子を表すんだ。木材を一本一本よく調べて選ぶことから、「しらべる」という意味になったんだね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "調査",
+      "meaning": "詳しく調べたり、情報や事実を集めたりすることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "検査",
+      "meaning": "物が正しく動くか、病気がないかなどを調べることだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "審査",
+      "meaning": "内容をよく調べて、正しいか、適切かなどを判断することだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

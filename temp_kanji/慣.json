@@ -1,0 +1,44 @@
+{
+  "kanjiId": "慣",
+  "character": "慣",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "⺖",
+      "speechText": "りっしんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貫",
+      "speechText": "ツラヌク",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "こころ",
+    "originDescription": "「心」と「貫（つらぬく）」が合わさった漢字だよ。「心」に物事が「貫き通る」ようにしっかりと身につく様子を表し、新しいことにも「慣れる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "習慣",
+      "meaning": "長い間続けて、当たり前になった行いや風習のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "慣れる",
+      "meaning": "新しいことや環境に、しっくりと馴染むようになること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,66 @@
+{
+  "kanjiId": "車",
+  "character": "車",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一",
+      "speechText": "イチ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "田（た）を かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "一",
+      "speechText": "イチ",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "丨",
+      "speechText": "つきぬけ タテボウ",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "車",
+    "radicalName": "くるま",
+    "radicalMeaning": "乗り物や車輪",
+    "originDescription": "車を真上から見た形から作られました。真ん中の四角は人が乗る場所、上下の横線は車輪（タイヤ）、真ん中を貫く縦線はタイヤをつなぐ車軸を表しています。",
+    "synonyms": [
+      "車両",
+      "自動車"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "車",
+      "meaning": "くるま。人や物を乗せて道路を走る乗り物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "電車",
+      "meaning": "でんしゃ。電気の力で線路の上を走る乗り物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "水車",
+      "meaning": "すいしゃ。水の流れる力でくるくると回る大きな車輪。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

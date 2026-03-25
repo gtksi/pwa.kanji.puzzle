@@ -1,0 +1,47 @@
+{
+  "kanjiId": "沿",
+  "character": "沿",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "氵",
+      "speechText": "さんずいを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "㕣",
+      "speechText": "八（はち）と口（くち）で沿岸の沿",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "水",
+    "radicalName": "さんずい",
+    "radicalMeaning": "水、流れ",
+    "originDescription": "水（氵）が谷（㕣）にそって流れる様子から、道や川にそって進むことを表します。",
+    "synonyms": [
+      "循",
+      "順"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "沿岸",
+      "meaning": "海岸にそったところ",
+      "imageUrl": ""
+    },
+    {
+      "word": "沿線",
+      "meaning": "線路や道にそった地域",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

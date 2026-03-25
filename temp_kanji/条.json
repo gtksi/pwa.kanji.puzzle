@@ -1,0 +1,56 @@
+{
+  "kanjiId": "条",
+  "character": "条",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへん、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ヨ",
+      "speechText": "よこ、と書いて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "点",
+      "speechText": "ちょん、で「条」",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、植物",
+    "originDescription": "昔の字は木の枝の形からきています。木の枝が規則正しく並んだり、細い筋になっている様子を表し、「きまり」や「すじ」の意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "条件",
+      "meaning": "物事を行うために必要な約束事や決まり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "条約",
+      "meaning": "国と国の間の約束やきまり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "箇条書き",
+      "meaning": "いくつかの項目に分けて書き並べること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

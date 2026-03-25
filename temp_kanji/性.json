@@ -1,0 +1,49 @@
+{
+  "kanjiId": "性",
+  "character": "性",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "りっしんべん",
+      "speechText": "こころ、と書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "生",
+      "speechText": "いきる、で「性」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "心、気持ち",
+    "originDescription": "心（こころ）と生（生まれる）を合わせた形です。生まれつき持っている「心」や「性質」を表すようになりました。人や物の本来の「あり方」という意味です。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "性質",
+      "meaning": "物事が持っている生まれつきの性格や特徴。",
+      "imageUrl": ""
+    },
+    {
+      "word": "男性",
+      "meaning": "男の人。",
+      "imageUrl": ""
+    },
+    {
+      "word": "女性",
+      "meaning": "女の人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

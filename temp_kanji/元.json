@@ -1,0 +1,49 @@
+{
+  "kanjiId": "元",
+  "character": "元",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "二",
+      "speechText": "に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "人",
+      "speechText": "ひとあし",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "儿",
+    "radicalName": "ひとあし",
+    "radicalMeaning": "あし",
+    "originDescription": "人の頭の形を表しているよ。頭は体の「もと」で、大切な場所だから、「はじめ」や「もと」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "元気",
+      "meaning": "活発な様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "元日",
+      "meaning": "一年の最初の日のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "元々",
+      "meaning": "最初から、本来。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

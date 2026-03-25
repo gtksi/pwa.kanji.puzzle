@@ -1,0 +1,50 @@
+{
+  "kanjiId": "終",
+  "character": "終",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "いとへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "冬",
+      "speechText": "冬（ふゆ）を書いたら、おわり",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布",
+    "originDescription": "糸の端っこを結んで、糸の仕事がすべて片付いたことを表しています。そこから「おわり」という意味になりました。",
+    "synonyms": [
+      "完了",
+      "終了"
+    ],
+    "antonyms": [
+      "始",
+      "開始"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "終わる",
+      "meaning": "続いていた物事が最後になること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "最終",
+      "meaning": "一番最後のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

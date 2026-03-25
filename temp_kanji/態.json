@@ -1,0 +1,49 @@
+{
+  "kanjiId": "態",
+  "character": "態",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "忄",
+      "speechText": "りっしんべん、心のりっしんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "能",
+      "speechText": "のう、のうりょくの能",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "りっしんべん",
+    "radicalMeaning": "心（こころ）",
+    "originDescription": "「心（こころ）」と「能（のう）」は能力を表します。心の内側にある「ありさま」や「ようす」を表すようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "状態",
+      "meaning": "物事の、その時々のありさまや様子。",
+      "imageUrl": ""
+    },
+    {
+      "word": "態度",
+      "meaning": "人に対する行動や心構え。",
+      "imageUrl": ""
+    },
+    {
+      "word": "事態",
+      "meaning": "物事が起こっている状況や、その成り行き。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

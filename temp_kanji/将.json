@@ -1,0 +1,56 @@
+{
+  "kanjiId": "将",
+  "character": "将",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "爿",
+      "speechText": "しょうへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "又",
+      "speechText": "また",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "寸",
+      "speechText": "すん",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "寸",
+    "radicalName": "すん",
+    "radicalMeaning": "わずか、長さの単位",
+    "originDescription": "『説文解字』では、「将」は命令を出す人が兵士を率いる様子を表す会意文字とされます。もとは肉を器に盛る様子から、やがて兵を導く、先導するという意味に転じました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "将来",
+      "meaning": "これから先のこと、未来。",
+      "imageUrl": ""
+    },
+    {
+      "word": "将軍",
+      "meaning": "軍隊の最高指揮官。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大将",
+      "meaning": "集団や組織のリーダー、かしら。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

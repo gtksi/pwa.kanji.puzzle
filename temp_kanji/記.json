@@ -1,0 +1,49 @@
+{
+  "kanjiId": "記",
+  "character": "記",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "言",
+      "speechText": "ごんべん（言葉）に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "己",
+      "speechText": "おのれ（自分）を合わせれば、心に『しるす』の『き』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、いうこと",
+    "originDescription": "「言」は言葉を、「己」は糸の形が整っている様子をあらわします。バラバラにならないように、言葉をしっかりと書き残す、忘れないようにしるす、という意味です。",
+    "synonyms": [
+      "書く",
+      "録する"
+    ],
+    "antonyms": [
+      "忘れる"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "日記",
+      "meaning": "その日にあったことを毎日ノートに書くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "暗記",
+      "meaning": "何も見ないで言えるように、しっかり覚えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

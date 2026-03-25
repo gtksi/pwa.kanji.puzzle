@@ -1,0 +1,44 @@
+{
+  "kanjiId": "述",
+  "character": "述",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "しんにょう",
+      "speechText": "しんにょう、ぐーるぐる",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "朮",
+      "speechText": "きへんに、たてぼう、よこぼう",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辶",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "行く、進む",
+    "originDescription": "しんにょうは「すすむ」こと。右側の「朮」はもともとは「すすむ」をあらわす形だったんだ。物事を順序よく「すすめて言う」ことから、「のべる」という意味になったよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "記述",
+      "meaning": "物事を書きしるすこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "述べる",
+      "meaning": "自分の考えや出来事を話して伝えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

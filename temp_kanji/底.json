@@ -1,0 +1,56 @@
+{
+  "kanjiId": "底",
+  "character": "底",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "广",
+      "speechText": "まだれ、ひだり",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "氏",
+      "speechText": "うじ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "底",
+      "speechText": "まだれに、うじで、てい！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家屋、建物",
+    "originDescription": "屋根のある建物を示す「广」と、「氐（てい）」という字が合わさってできました。「氐」は物の底や根元を表します。建物や容器の「そこ」を意味するようになりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "底",
+      "meaning": "物のいちばん下の部分。",
+      "imageUrl": ""
+    },
+    {
+      "word": "海底",
+      "meaning": "海の底のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "根底",
+      "meaning": "物事の根本となる部分。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

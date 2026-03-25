@@ -1,0 +1,47 @@
+{
+  "kanjiId": "遺",
+  "character": "遺",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "貴",
+      "speechText": "中・一・貝（なか・いち・かい）に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "しんにょう",
+      "speechText": "しんにょうを付けて遺産の遺",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "辵",
+    "radicalName": "しんにょう",
+    "radicalMeaning": "道、行く",
+    "originDescription": "高価なもの（貴）を道（辶）に残していくことから、「のこす」という意味になりました。",
+    "synonyms": [
+      "残す",
+      "失う"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "遺言",
+      "meaning": "死ぬ前に残す言葉",
+      "imageUrl": ""
+    },
+    {
+      "word": "遺跡",
+      "meaning": "昔の建物が残っている場所",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+  "kanjiId": "識",
+  "character": "識",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ごんべん",
+      "speechText": "ごんべん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "音",
+      "speechText": "真ん中オトの字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "戈",
+      "speechText": "右にホコ（戈）",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "言",
+    "radicalName": "ごんべん",
+    "radicalMeaning": "言葉、意見に関すること",
+    "originDescription": "「言」と「音」と「戈（ほこ）」が合わさった漢字。言葉や声ではっきりとわかる、つまり物事をしっかりと見分け、「知る」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "知識",
+      "meaning": "知っていること、物事についてわかっていること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "識別",
+      "meaning": "物事の違いを見分けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "常識",
+      "meaning": "普通の人が持っている、当たり前の考え。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

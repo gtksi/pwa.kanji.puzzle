@@ -1,0 +1,49 @@
+{
+  "kanjiId": "費",
+  "character": "費",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "弗",
+      "speechText": "弗（ふつ）！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "貝",
+      "speechText": "貝（かい）で、費（ひ）！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "貝",
+    "radicalName": "かい",
+    "radicalMeaning": "お金、財産",
+    "originDescription": "「費」の字は、お金を意味する「貝」と、逆らう・それることを表す「弗」が合わさってできました。お金が流れていってしまう様子から、「お金を使う」「費用」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "費用",
+      "meaning": "何かをするためのお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "消費",
+      "meaning": "物を使ったり、お金を使ったりすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "旅費",
+      "meaning": "旅行にかかるお金。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

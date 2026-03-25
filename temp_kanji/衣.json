@@ -1,0 +1,56 @@
+{
+  "kanjiId": "衣",
+  "character": "衣",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "士",
+      "speechText": "上は、士、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒",
+      "speechText": "左に、たてぼう、かいて",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "衣の形",
+      "speechText": "右は、はねて、はらうよ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "衣",
+    "radicalName": "ころも",
+    "radicalMeaning": "服、衣服",
+    "originDescription": "「衣」は、着物を広げた形からできた漢字だよ。人の体を包む服や布を表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "衣服",
+      "meaning": "服のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "衣食住",
+      "meaning": "服、食べ物、住む場所。生活に大切なもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "白衣",
+      "meaning": "白い服。医者などが着る服。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

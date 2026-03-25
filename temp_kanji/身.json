@@ -1,0 +1,47 @@
+{
+  "kanjiId": "身",
+  "character": "身",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "身",
+      "speechText": "ノを書いて、目のような形を書き、最後に長い線をはらう",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "身",
+    "radicalName": "み・みへん",
+    "radicalMeaning": "体、自分自身",
+    "originDescription": "赤ちゃんがおなかにいる人を横から見た形です。人間の「体」そのものや、「自分自身」のことを表します。",
+    "synonyms": [
+      "体",
+      "躯"
+    ],
+    "antonyms": [
+      "心"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "自分自身",
+      "meaning": "ほかの誰でもない、あなた自身のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "中身",
+      "meaning": "入れ物の中に入っているもののこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "身長",
+      "meaning": "体の高さ、背の高さのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

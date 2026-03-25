@@ -1,0 +1,49 @@
+{
+  "kanjiId": "果",
+  "character": "果",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "田",
+      "speechText": "上は、田、かいて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "下は、木、かいてね",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "き",
+    "radicalMeaning": "木",
+    "originDescription": "「果」は、木になっている実の様子を表す漢字だよ。実が熟すように、最終的な結果や成果を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "果物",
+      "meaning": "木になる実。",
+      "imageUrl": ""
+    },
+    {
+      "word": "結果",
+      "meaning": "物事の終わり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "効果",
+      "meaning": "良い結果。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

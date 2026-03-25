@@ -1,0 +1,56 @@
+{
+  "kanjiId": "細",
+  "character": "細",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "いとへん",
+      "speechText": "左側は、いとへん！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "田",
+      "speechText": "真ん中にあるのは、田んぼの田！",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "ム",
+      "speechText": "最後は、ムの字だよ！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いと",
+    "radicalMeaning": "いと",
+    "originDescription": "『糸（いと）』と『田（た）』と『厶（む）』を組み合わせた漢字だよ。糸が細かく絡み合っている様子や、小さなものを表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "細い",
+      "meaning": "ふとくない、幅が小さいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "細かい",
+      "meaning": "とても小さいこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "細字",
+      "meaning": "小さな字。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

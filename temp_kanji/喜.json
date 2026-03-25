@@ -1,0 +1,50 @@
+{
+  "kanjiId": "喜",
+  "character": "喜",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "士・口",
+      "speechText": "さむらい（士）が口（口）で歌い",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ソ・一・口",
+      "speechText": "ソ・一・口（くち）でおどれば、とっても『よろこぶ』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "口、言葉、食べること",
+    "originDescription": "上の部分は「太鼓（たいこ）」の形、下の「口」は楽しそうに歌う様子です。お祭りで太鼓を叩いて、みんなで楽しく盛り上がっている「喜び」をあらわしています。",
+    "synonyms": [
+      "祝う",
+      "楽しむ"
+    ],
+    "antonyms": [
+      "悲しむ",
+      "怒る"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "喜ぶ",
+      "meaning": "うれしい気持ちになって、ニコニコすること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大喜び",
+      "meaning": "飛び上がるほど、すごくうれしいこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

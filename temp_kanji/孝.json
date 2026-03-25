@@ -1,0 +1,56 @@
+{
+  "kanjiId": "孝",
+  "character": "孝",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "土",
+      "speechText": "まずは土を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "左にノではらって",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "子",
+      "speechText": "その下に子を書こう",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "子",
+    "radicalName": "こ",
+    "radicalMeaning": "子供に関すること",
+    "originDescription": "上の部分は腰の曲がったお年寄り、下の部分は「子」を表します。子供が親を背負って大切に支える様子から、親を敬うことを意味します。",
+    "synonyms": [
+      "忠",
+      "敬"
+    ],
+    "antonyms": [
+      "不孝"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "親孝行",
+      "meaning": "親を大切にすること",
+      "imageUrl": ""
+    },
+    {
+      "word": "孝行",
+      "meaning": "父母によく尽くすこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

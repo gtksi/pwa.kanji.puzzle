@@ -1,0 +1,46 @@
+{
+  "kanjiId": "次",
+  "character": "次",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "にすい",
+      "speechText": "に（二）を書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "欠",
+      "speechText": "あくび（欠）を書けば、つぎ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "欠",
+    "radicalName": "あくび",
+    "radicalMeaning": "口を開けること、足りないこと",
+    "originDescription": "ため息（欠）をつきながら、一番のあとを追う様子から「二番目」や「つぎ」という意味になりました。",
+    "synonyms": [],
+    "antonyms": [
+      "前"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "次回",
+      "meaning": "今度のつぎの回のこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "次々に",
+      "meaning": "あとに続いて、どんどん続く様子",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

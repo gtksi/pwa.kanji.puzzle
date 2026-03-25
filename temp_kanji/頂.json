@@ -1,0 +1,49 @@
+{
+  "kanjiId": "頂",
+  "character": "頂",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "丁",
+      "speechText": "てい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "頁",
+      "speechText": "おおがい",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "頁",
+    "radicalName": "おおがい",
+    "radicalMeaning": "頭、顔",
+    "originDescription": "「丁」と「頁」を合わせた漢字です。「頁」は人の頭や顔を表し、「丁」はまっすぐ上に向かう様子を表します。これにより、頭のてっぺんや山の最も高い場所、頂上を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "頂上",
+      "meaning": "山などの最も高い場所",
+      "imageUrl": ""
+    },
+    {
+      "word": "頂点",
+      "meaning": "最も高いところ、最高の状態",
+      "imageUrl": ""
+    },
+    {
+      "word": "戴く",
+      "meaning": "頭にのせる、もらうの謙譲語",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

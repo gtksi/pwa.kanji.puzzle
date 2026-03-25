@@ -1,0 +1,49 @@
+{
+  "kanjiId": "程",
+  "character": "程",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "禾",
+      "speechText": "左に『のぎへん』",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "呈",
+      "speechText": "右に『呈』",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "禾",
+    "radicalName": "のぎへん",
+    "radicalMeaning": "いね",
+    "originDescription": "「程」は「禾（のぎへん）」と「呈（てい）」が組み合わさっています。「禾」は稲などの穀物を、「呈」ははかりで重さをはかる様子を表していました。そこから「はかる」「ほどあい」や「きまり」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "程度",
+      "meaning": "物事の大きさや状態を表すおおよその目安。",
+      "imageUrl": ""
+    },
+    {
+      "word": "過程",
+      "meaning": "物事が変わっていく間の道のり。",
+      "imageUrl": ""
+    },
+    {
+      "word": "日程",
+      "meaning": "その日の予定。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+  "kanjiId": "化",
+  "character": "化",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "人の字、すーっとたてぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "匕",
+      "speechText": "匕の字、まがりまがりと",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "匕",
+    "radicalName": "ひ",
+    "radicalMeaning": "さじ、変化",
+    "originDescription": "「化」は、人が別の姿に変わる様子を表す漢字だよ。立っている人と、逆さまになった人が組み合わさって、形や性質が「かわる」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "変化",
+      "meaning": "変わること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "化学",
+      "meaning": "物の性質や変化を調べる学問。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

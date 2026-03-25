@@ -1,0 +1,44 @@
+{
+  "kanjiId": "型",
+  "character": "型",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "刑",
+      "speechText": "まず「けい」の形を書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "土",
+      "speechText": "右に「つち」をつけよう！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "土",
+    "radicalName": "つち",
+    "radicalMeaning": "土地、地面",
+    "originDescription": "「土（つち）」と「刑（けい）」が組み合わさってできた漢字だよ。「土」は土や粘土のこと、「刑」は形を整えたり、型にはめたりする道具を表す部分なんだ。土を使ってものを作る「かた」や「手本」という意味になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "型",
+      "meaning": "物を作るための形や見本。",
+      "imageUrl": ""
+    },
+    {
+      "word": "模型",
+      "meaning": "本物そっくりに小さく作ったもの。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

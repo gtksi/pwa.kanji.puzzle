@@ -1,0 +1,56 @@
+{
+  "kanjiId": "竹",
+  "character": "竹",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "左のたけ",
+      "speechText": "左のたけ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "右のたけ",
+      "speechText": "右のたけ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "下のたけ",
+      "speechText": "下のたけ",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "竹",
+    "radicalName": "たけかんむり",
+    "radicalMeaning": "たけ",
+    "originDescription": "地面からまっすぐに生える竹の葉が垂れ下がっている様子をそのまま描いた字です。竹という植物そのものを表しています。まっすぐで強いイメージです。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "竹の子",
+      "meaning": "竹の芽",
+      "imageUrl": ""
+    },
+    {
+      "word": "竹林",
+      "meaning": "竹がたくさん生えている林",
+      "imageUrl": ""
+    },
+    {
+      "word": "竹刀",
+      "meaning": "竹で作られた刀（剣道の道具）",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

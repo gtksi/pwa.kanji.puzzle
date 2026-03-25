@@ -1,0 +1,58 @@
+{
+  "kanjiId": "必",
+  "character": "必",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "心（こころ）の真ん中",
+      "speechText": "まずは真ん中から始まる心のかたち。",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "左にはねる線",
+      "speechText": "左にはねる線だよ。",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "右に払う線",
+      "speechText": "右に払う線だよ。",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "最後の点（てん）",
+      "speechText": "最後に点を書くよ。",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心、気持ち",
+    "originDescription": "昔は弓で矢を射るとき、的に「かならず」当たるように願う気持ちを表したと言われています。また、中心を強く指し示す様子から「かならず」という意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "必要",
+      "meaning": "なくてはならないこと。かならずいること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "必死",
+      "meaning": "命がけで、一生懸命に何かをすること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "料",
+  "character": "料",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こめへん",
+      "speechText": "こめへん、お米のしるし！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "斗",
+      "speechText": "斗ます、右につけて、材料だよ！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "米",
+    "radicalName": "こめへん",
+    "radicalMeaning": "こめ",
+    "originDescription": "「米（こめへん）」はお米や食べ物。「斗（と）」は昔、お米をはかる道具。そこから、物をはかって準備することや、「材料」「お金」を意味する漢字になったんだよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "材料",
+      "meaning": "何かを作るときに使う品物。",
+      "imageUrl": ""
+    },
+    {
+      "word": "料金",
+      "meaning": "サービスや品物に対して払うお金。",
+      "imageUrl": ""
+    },
+    {
+      "word": "料理",
+      "meaning": "食べ物を作ること。また、作った食べ物。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

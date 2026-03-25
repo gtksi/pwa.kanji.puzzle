@@ -1,0 +1,49 @@
+{
+  "kanjiId": "院",
+  "character": "院",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "阝",
+      "speechText": "おか、ちょこんと！",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "完",
+      "speechText": "かんせい、まるっと！",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阝",
+    "radicalName": "こざとへん",
+    "radicalMeaning": "坂、建物",
+    "originDescription": "「院」は、阝（こざとへん：建物のある場所）と、囲まれた広い空間（完）を組み合わせた字だよ。人が集まって仕事をする広い建物や、大きな敷地を持つ場所を表すようになったんだ。病院や学校の場所に使われるね。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "病院",
+      "meaning": "病気の人が治りに行く場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "入院",
+      "meaning": "病院に入って治療を受けること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大学院",
+      "meaning": "大学の上にある研究の場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

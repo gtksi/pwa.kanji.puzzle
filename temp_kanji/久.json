@@ -1,0 +1,49 @@
+{
+  "kanjiId": "久",
+  "character": "久",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ノ（はらい）",
+      "speechText": "ノンノン、シュッ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "夂（ふゆがしら）",
+      "speechText": "タテ、キュッとまがって、点、点",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "ノ",
+    "radicalName": "はらいぼう",
+    "radicalMeaning": "はらい",
+    "originDescription": "人がゆっくりと歩く様子を表す字だよ。一歩一歩、時間をかけて進むことから、「長い時間」や「ずっと続く」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "久しぶり",
+      "meaning": "長い間会っていなかったり、していなかったりしたこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "永久",
+      "meaning": "終わりなく、いつまでも続くこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "耐久",
+      "meaning": "長い時間に耐えること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

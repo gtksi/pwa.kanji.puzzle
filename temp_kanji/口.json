@@ -1,0 +1,56 @@
+{
+  "kanjiId": "口",
+  "character": "口",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "一画目",
+      "speechText": "たて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "二画目",
+      "speechText": "よこかぎ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "三画目",
+      "speechText": "よこで とじる",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "口",
+    "radicalName": "くち",
+    "radicalMeaning": "人の口の形や、食べること、しゃべること、または物の入り口を表します。",
+    "originDescription": "人が口を大きく開けている様子をそのまま線にして生まれた漢字です。お話ししたり食べたりする「くち」だけでなく、トンネルや建物の「入り口」のように、あいた場所のことも表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "口",
+      "meaning": "ごはんを食べたり、お話をしたりする顔のパーツ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "出口",
+      "meaning": "外に出るための通り道や場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "人口",
+      "meaning": "その国や町に住んでいる人の合計の数。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

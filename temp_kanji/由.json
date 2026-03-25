@@ -1,0 +1,40 @@
+{
+  "kanjiId": "由",
+  "character": "由",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "由",
+      "speechText": "「田」の真ん中を、上に突き出させて書く",
+      "chantOrder": 1,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "田",
+    "radicalName": "た",
+    "radicalMeaning": "田、田んぼ",
+    "originDescription": "ひょうたんのような、油をしぼり出すための入れ物の形からできました。中身が出てくる「もと（原因）」や、そこから始まるという意味があります。",
+    "synonyms": [
+      "因",
+      "源"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "理由",
+      "meaning": "どうしてそうなったのかという、わけ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "自由",
+      "meaning": "自分の思い通りにできること。しばられないこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

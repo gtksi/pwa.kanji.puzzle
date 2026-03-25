@@ -1,0 +1,51 @@
+{
+  "kanjiId": "俵",
+  "character": "俵",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "にんべん、いち、に",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "西",
+      "speechText": "にし",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "示",
+      "speechText": "しめす、いち、に、さん、し、ご",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "にんべん",
+    "radicalMeaning": "人に関すること",
+    "originDescription": "「人（にんべん）」と「票（ひょう）」を組み合わせた漢字だよ。「票」は米などを詰めた袋の形を表していて、人が担ぐ米などの袋を意味するようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "米俵",
+      "meaning": "米を入れた大きな袋",
+      "imageUrl": ""
+    },
+    {
+      "word": "俵物",
+      "meaning": "俵に詰めて運ぶ品物",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

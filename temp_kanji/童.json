@@ -1,0 +1,48 @@
+{
+  "kanjiId": "童",
+  "character": "童",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "たつ",
+      "speechText": "立（た）つを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "さと",
+      "speechText": "下に里（さと）で、わらべ（童）",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "立",
+    "radicalName": "たつ",
+    "radicalMeaning": "立つ、立ちどまる",
+    "originDescription": "もともとは目にしるしをつけられた召使いを表していましたが、後に村（里）に立っている「子ども」という意味で使われるようになりました。",
+    "synonyms": [
+      "児"
+    ],
+    "antonyms": [
+      "翁"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "童話",
+      "meaning": "子どものために作られたお話",
+      "imageUrl": ""
+    },
+    {
+      "word": "児童",
+      "meaning": "小学生くらいの子どものこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

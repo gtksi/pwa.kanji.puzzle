@@ -1,0 +1,56 @@
+{
+  "kanjiId": "九",
+  "character": "九",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "横棒",
+      "speechText": "まっすぐ、まっすぐ、横棒",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "縦棒",
+      "speechText": "ちょん、ちょん、縦棒",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "曲がり",
+      "speechText": "まがーる、まがーる、曲がり",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "",
+    "radicalName": "",
+    "radicalMeaning": "",
+    "originDescription": "「九」は、物の数え方で9を表します。昔の人が指を折り曲げて数を数える様子を表しているという説があります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "九九",
+      "meaning": "かけ算の表のことだよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "九月",
+      "meaning": "一年で9番目の月だよ。",
+      "imageUrl": ""
+    },
+    {
+      "word": "九日",
+      "meaning": "一か月の9日目のことだよ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

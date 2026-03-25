@@ -1,0 +1,49 @@
+{
+  "kanjiId": "祖",
+  "character": "祖",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "示",
+      "speechText": "神様「しめすへん」",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "且",
+      "speechText": "さらに「かつ」",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "示",
+    "radicalName": "しめすへん",
+    "radicalMeaning": "神、祭り",
+    "originDescription": "「示」は神様や祭り、「且」は神様にお供えする肉の台を表すよ。ご先祖様を神様として祭ることから、「祖先」や「もと」という意味になったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "祖先",
+      "meaning": "ずっと昔から続く自分の血筋の人々のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "祖母",
+      "meaning": "おばあちゃんのこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "祖父",
+      "meaning": "おじいちゃんのこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

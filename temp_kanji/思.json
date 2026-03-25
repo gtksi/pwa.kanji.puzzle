@@ -1,0 +1,49 @@
+{
+  "kanjiId": "思",
+  "character": "思",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "上の四角",
+      "speechText": "上の四角、カクカク",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "心",
+      "speechText": "心は、チョン、ナナメ、チョン、チョン",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "心",
+    "radicalName": "こころ",
+    "radicalMeaning": "心や感情に関すること",
+    "originDescription": "上の部分は頭で「考えること」を表し、下の「心（こころ）」と合わさって、心の中で「思う」ことや「考える」ことを表す漢字になったんだ。頭と心を使って考える様子だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "思考",
+      "meaning": "物事を深く考えること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "思想",
+      "meaning": "人の心にある考え。",
+      "imageUrl": ""
+    },
+    {
+      "word": "思わず",
+      "meaning": "考えないで、とっさに。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

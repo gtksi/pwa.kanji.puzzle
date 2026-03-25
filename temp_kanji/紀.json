@@ -1,0 +1,49 @@
+{
+  "kanjiId": "紀",
+  "character": "紀",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸",
+      "speechText": "いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "己",
+      "speechText": "おのれ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "いと",
+    "originDescription": "「糸（いと）」と「己（おのれ）」の形が組み合わさってできた漢字だよ。糸を順序よく巻き取るように、物事をきちんと整理して「記録する」ことや、「時代」を表すようになったんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "世紀",
+      "meaning": "100年間を表す言葉。",
+      "imageUrl": ""
+    },
+    {
+      "word": "記録",
+      "meaning": "できごとなどを文字や映像で残すこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "紀元",
+      "meaning": "物事が始まる基準となる年のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

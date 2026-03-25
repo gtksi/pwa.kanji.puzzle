@@ -1,0 +1,49 @@
+{
+  "kanjiId": "野",
+  "character": "野",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "里",
+      "speechText": "さとの、さと",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "予",
+      "speechText": "よのこえ、よ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "里",
+    "radicalName": "さと",
+    "radicalMeaning": "村",
+    "originDescription": "この漢字は、人が住んでいる里（さと）の外にある、広い草木の生い茂る場所を表しているよ。「里」と、物を投げ出す「予」の形を組み合わせているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "野山",
+      "meaning": "野原と山。自然の広々とした場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "野原",
+      "meaning": "草や木が生い茂る広い場所。",
+      "imageUrl": ""
+    },
+    {
+      "word": "野外",
+      "meaning": "家や建物の中ではない、外の場所。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

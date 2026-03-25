@@ -1,0 +1,39 @@
+{
+  "kanjiId": "阪",
+  "character": "阪",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "こざとへん",
+      "speechText": "左側の「こざとへん」だよ。",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "反（はん）",
+      "speechText": "右側の「反」だよ。",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "阜",
+    "radicalName": "ふ",
+    "radicalMeaning": "丘、坂",
+    "originDescription": "「阜（こざとへん）」は土でできた丘や坂を表します。「反」は音が同じであることを示します。土でできた丘や坂道を表す漢字として生まれ、日本の地名「大阪」などに使われています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "大阪",
+      "meaning": "日本の大きな都市の名前。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

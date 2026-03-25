@@ -1,0 +1,63 @@
+{
+  "kanjiId": "復",
+  "character": "復",
+  "grade": 5,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぎょうにんべん",
+      "speechText": "ぎょうにんべんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノ",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "日",
+      "speechText": "日をかいて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "なつあし",
+      "speechText": "なつあしをかく",
+      "chantOrder": 4,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "道を行くこと",
+    "originDescription": "道を行ったり来たりする様子を表しています。そこから「もどる」や「くり返す」という意味になりました。",
+    "synonyms": [
+      "還",
+      "復"
+    ],
+    "antonyms": [
+      "往"
+    ]
+  },
+  "vocabularies": [
+    {
+      "word": "復習",
+      "meaning": "ならったことをもう一度勉強すること",
+      "imageUrl": ""
+    },
+    {
+      "word": "回復",
+      "meaning": "わるくなったものが、もとの良い状態にもどること",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

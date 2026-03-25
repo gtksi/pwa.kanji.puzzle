@@ -1,0 +1,77 @@
+{
+  "kanjiId": "昼",
+  "character": "昼",
+  "grade": 2,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "日",
+      "speechText": "日（ひへん）",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "ノ",
+      "speechText": "ノの字",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "フ",
+      "speechText": "フの字",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "横棒",
+      "speechText": "よこぼう",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "たて棒",
+      "speechText": "たてぼう",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "横棒",
+      "speechText": "下のよこぼう",
+      "chantOrder": 6,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "日",
+    "radicalName": "ひ",
+    "radicalMeaning": "日、太陽",
+    "originDescription": "太陽が空高く昇り、あたりが明るい時間を表しています。日が昇ってから日が沈むまでの「昼間」や、「お昼ご飯」の「昼」を意味します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "昼間",
+      "meaning": "朝から夕方までの明るい時間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "お昼",
+      "meaning": "昼食を食べるときや、その時間のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "昼食",
+      "meaning": "お昼に食べるご飯のこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

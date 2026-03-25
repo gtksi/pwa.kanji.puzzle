@@ -1,0 +1,49 @@
+{
+  "kanjiId": "純",
+  "character": "純",
+  "grade": 6,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "糸へん",
+      "speechText": "ぎゅっとまくまく いとへん",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "屯",
+      "speechText": "あつまる、とん",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "糸",
+    "radicalName": "いとへん",
+    "radicalMeaning": "糸や布",
+    "originDescription": "「純」は、糸（いと）と屯（あつまる）からできています。きれいでまじりけのない糸が、たくさん集まって一つの塊になっている様子から、まじりけがない、純粋なという意味になりました。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "純粋",
+      "meaning": "混じりけがないこと",
+      "imageUrl": ""
+    },
+    {
+      "word": "純情",
+      "meaning": "うぶで素直な心",
+      "imageUrl": ""
+    },
+    {
+      "word": "単純",
+      "meaning": "複雑でなく、わかりやすいこと",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+  "kanjiId": "材",
+  "character": "材",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "きへん",
+      "speechText": "きへん、左だよ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "才",
+      "speechText": "才能の、才、右だよ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木に関する意味を表す",
+    "originDescription": "「材」は、「木」と「才（さい）」からできています。「才」は木を切る道具を表すとも言われます。木を切り出して材料にする様子から、物を作る「材料」や「能力」という意味になった漢字だよ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "材料",
+      "meaning": "物を作るための元になるもの。",
+      "imageUrl": ""
+    },
+    {
+      "word": "木材",
+      "meaning": "建築などに使う木のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "人材",
+      "meaning": "能力のある人。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

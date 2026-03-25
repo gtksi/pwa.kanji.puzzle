@@ -1,0 +1,47 @@
+{
+  "kanjiId": "待",
+  "character": "待",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "ぎょうにんべん",
+      "speechText": "ぎょうにんべんを書いて",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "てら",
+      "speechText": "右にお寺（てら）を書く",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "彳",
+    "radicalName": "ぎょうにんべん",
+    "radicalMeaning": "行く、とどまる",
+    "originDescription": "道を行く「ぎょうにんべん」と、役所（お寺）を表す「寺」が合わさりました。役所で命令が来るのをじっと待っている様子を表しています。",
+    "synonyms": [
+      "控",
+      "待機"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "待つ",
+      "meaning": "人や時が来るのを、動かずにいること。",
+      "imageUrl": ""
+    },
+    {
+      "word": "期待",
+      "meaning": "いいことが起きるのをワクワクして待つこと。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

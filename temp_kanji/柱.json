@@ -1,0 +1,49 @@
+{
+  "kanjiId": "柱",
+  "character": "柱",
+  "grade": 3,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "木",
+      "speechText": "きへんに",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "主",
+      "speechText": "主（ぬし）で、はしら",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "木",
+    "radicalName": "きへん",
+    "radicalMeaning": "木、樹木",
+    "originDescription": "木と、じっと動かない「主」を合わせた漢字です。家を支えるための、動かない太い木の棒（はしら）のことを表しています。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "柱",
+      "meaning": "屋根や建物を支える棒",
+      "imageUrl": ""
+    },
+    {
+      "word": "電柱",
+      "meaning": "電気の線を支える高い棒",
+      "imageUrl": ""
+    },
+    {
+      "word": "大黒柱",
+      "meaning": "家やチームの中で一番たよりになる人",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

@@ -1,0 +1,51 @@
+{
+  "kanjiId": "奈",
+  "character": "奈",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "大",
+      "speechText": "おおきい",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "示",
+      "speechText": "しめす、したに",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "奈",
+      "speechText": "おおきいの下に、しめすで、な！",
+      "chantOrder": 3,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "大",
+    "radicalName": "だい",
+    "radicalMeaning": "大きい、ひろい",
+    "originDescription": "神様をまつるための祭壇と、そこにある木を表すと言われています。地名によく使われる字で、美しい様子を表すこともあります。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "奈良",
+      "meaning": "日本の古い都の一つ。地名。",
+      "imageUrl": ""
+    },
+    {
+      "word": "奈落",
+      "meaning": "地獄の底。転じて、どうしようもない悪い状況。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

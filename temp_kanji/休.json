@@ -1,0 +1,49 @@
+{
+  "kanjiId": "休",
+  "character": "休",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "人",
+      "speechText": "ひとーは　ひとつ",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "木",
+      "speechText": "きーは　みっつ",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "人",
+    "radicalName": "ひと",
+    "radicalMeaning": "人",
+    "originDescription": "人が木にもたれて休んでいる様子から、「やすむ」という意味が生まれました。仕事や勉強から離れて、ゆっくりする様子を表します。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "休み",
+      "meaning": "仕事や学校などが休みになること。また、その期間。",
+      "imageUrl": ""
+    },
+    {
+      "word": "休憩",
+      "meaning": "仕事や勉強などの途中で、一時的にやめて休むこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "休む",
+      "meaning": "病気や疲れなどのために、仕事や学校などを休むこと。また、眠ること。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

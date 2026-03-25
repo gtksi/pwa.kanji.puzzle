@@ -1,0 +1,46 @@
+{
+  "kanjiId": "府",
+  "character": "府",
+  "grade": 4,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "まだれ",
+      "speechText": "まだれを書いて、",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "付",
+      "speechText": "中に付（にんべんに寸）を入れる",
+      "chantOrder": 2,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "广",
+    "radicalName": "まだれ",
+    "radicalMeaning": "家、建物",
+    "originDescription": "大切な宝物や書類を保管しておく大きな建物のことです。そこから、役所や大事な地域（大阪府など）を指すようになりました。",
+    "synonyms": [
+      "庁"
+    ],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "政府",
+      "meaning": "国を動かす役所のこと。",
+      "imageUrl": ""
+    },
+    {
+      "word": "大阪府",
+      "meaning": "日本の近畿地方にある都道府県の一つ。",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}

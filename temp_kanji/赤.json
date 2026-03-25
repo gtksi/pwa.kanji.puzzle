@@ -1,0 +1,84 @@
+{
+  "kanjiId": "赤",
+  "character": "赤",
+  "grade": 1,
+  "writingLayer": [
+    {
+      "id": "p1",
+      "name": "よこ",
+      "speechText": "上によこぼう",
+      "chantOrder": 1,
+      "strokes": []
+    },
+    {
+      "id": "p2",
+      "name": "はらい",
+      "speechText": "ひだりにはらい",
+      "chantOrder": 2,
+      "strokes": []
+    },
+    {
+      "id": "p3",
+      "name": "とめる",
+      "speechText": "とめて",
+      "chantOrder": 3,
+      "strokes": []
+    },
+    {
+      "id": "p4",
+      "name": "ちょん",
+      "speechText": "ちょんとつける",
+      "chantOrder": 4,
+      "strokes": []
+    },
+    {
+      "id": "p5",
+      "name": "たて",
+      "speechText": "たてぼう",
+      "chantOrder": 5,
+      "strokes": []
+    },
+    {
+      "id": "p6",
+      "name": "よこ",
+      "speechText": "よこぼう",
+      "chantOrder": 6,
+      "strokes": []
+    },
+    {
+      "id": "p7",
+      "name": "ちょん",
+      "speechText": "ちょんとつけて",
+      "chantOrder": 7,
+      "strokes": []
+    }
+  ],
+  "semanticLayer": {
+    "traditionalRadical": "赤",
+    "radicalName": "あか",
+    "radicalMeaning": "赤い",
+    "originDescription": "人が火に照らされて赤く見える様子を表す漢字だよ。また、あかご（赤ちゃん）の体色や太陽の色も表しているんだ。",
+    "synonyms": [],
+    "antonyms": []
+  },
+  "vocabularies": [
+    {
+      "word": "赤色",
+      "meaning": "赤い色",
+      "imageUrl": ""
+    },
+    {
+      "word": "赤信号",
+      "meaning": "止まれの信号",
+      "imageUrl": ""
+    },
+    {
+      "word": "赤道",
+      "meaning": "地球の真ん中の線",
+      "imageUrl": ""
+    }
+  ],
+  "masteryLevel": 0,
+  "lastStudiedAt": 0,
+  "isUnlocked": true
+}
