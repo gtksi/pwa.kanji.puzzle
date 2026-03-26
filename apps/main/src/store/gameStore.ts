@@ -1,6 +1,7 @@
 import { create } from 'zustand';
 import type { HybridKanjiNode } from '@kanji-puzzle/shared';
 import kanjiDataJson from '../data/kanji-data.json';
+import { db } from '../services/db';
 
 interface GameStore {
   kanjiNodes: HybridKanjiNode[];
@@ -9,6 +10,7 @@ interface GameStore {
   activeComponentIndex: number;
 
   // Actions
+  initProgress: () => Promise<void>;
   setCurrentKanji: (id: string) => void;
   clearCurrentKanji: () => void;
   getKanjiById: (id: string) => HybridKanjiNode | undefined;
@@ -26,6 +28,30 @@ export const useGameStore = create<GameStore>((set, get) => ({
   isSpeaking: false,
   activeComponentIndex: -1,
 
+  initProgress: async () => {
+    try {
+      const allProgress = await db.progress.toArray();
+      const progressMap = new Map(allProgress.map(p => [p.kanjiId, p]));
+
+      set((s) => ({
+        kanjiNodes: s.kanjiNodes.map((k) => {
+          const p = progressMap.get(k.kanjiId);
+          if (p) {
+            return {
+              ...k,
+              isUnlocked: p.isUnlocked,
+              masteryLevel: p.masteryLevel,
+              lastStudiedAt: p.lastStudiedAt
+            };
+          }
+          return k;
+        })
+      }));
+    } catch (e) {
+      console.error('Failed to load progress from IndexedDB:', e);
+    }
+  },
+
   setCurrentKanji: (id) => set({ currentKanjiId: id, activeComponentIndex: -1 }),
   clearCurrentKanji: () => set({ currentKanjiId: null, activeComponentIndex: -1 }),
 
@@ -38,18 +64,47 @@ export const useGameStore = create<GameStore>((set, get) => ({
   setSpeaking: (speaking) => set({ isSpeaking: speaking }),
 
   updateMastery: (kanjiId, delta) =>
-    set((s) => ({
-      kanjiNodes: s.kanjiNodes.map((k) =>
-        k.kanjiId === kanjiId
-          ? { ...k, masteryLevel: Math.max(0, Math.min(100, k.masteryLevel + delta)), lastStudiedAt: Date.now() }
-          : k
-      ),
-    })),
+    set((s) => {
+      const newNodes = s.kanjiNodes.map((k) => {
+        if (k.kanjiId === kanjiId) {
+          const updated = {
+            ...k,
+            masteryLevel: Math.max(0, Math.min(100, k.masteryLevel + delta)),
+            lastStudiedAt: Date.now()
+          };
+          
+          // 非同期でDBに保存
+          db.progress.put({
+            kanjiId: updated.kanjiId,
+            isUnlocked: updated.isUnlocked,
+            masteryLevel: updated.masteryLevel,
+            lastStudiedAt: updated.lastStudiedAt
+          }).catch(console.error);
+          
+          return updated;
+        }
+        return k;
+      });
+      return { kanjiNodes: newNodes };
+    }),
 
   unlockKanji: (kanjiId) =>
-    set((s) => ({
-      kanjiNodes: s.kanjiNodes.map((k) =>
-        k.kanjiId === kanjiId ? { ...k, isUnlocked: true } : k
-      ),
-    })),
+    set((s) => {
+      const newNodes = s.kanjiNodes.map((k) => {
+        if (k.kanjiId === kanjiId) {
+          const updated = { ...k, isUnlocked: true };
+          
+          db.progress.put({
+            kanjiId: updated.kanjiId,
+            isUnlocked: updated.isUnlocked,
+            masteryLevel: updated.masteryLevel,
+            lastStudiedAt: updated.lastStudiedAt
+          }).catch(console.error);
+          
+          return updated;
+        }
+        return k;
+      });
+      return { kanjiNodes: newNodes };
+    }),
 }));
