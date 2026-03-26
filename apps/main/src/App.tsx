@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { TechTree } from './pages/TechTree';
 import { FormLearning } from './pages/FormLearning';
+import { RecallLearning } from './pages/Recall';
 import { MeaningLearning } from './pages/MeaningLearning';
 import { useGameStore } from './store/gameStore';
 import './index.css';
@@ -31,6 +32,7 @@ function App() {
         <Routes>
           <Route path="/" element={<TechTree />} />
           <Route path="/learn/:kanjiId" element={<FormLearning />} />
+          <Route path="/recall/:kanjiId" element={<RecallLearning />} />
           <Route path="/meaning/:kanjiId" element={<MeaningLearning />} />
         </Routes>
       </div>

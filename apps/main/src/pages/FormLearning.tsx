@@ -57,7 +57,9 @@ export function FormLearning() {
       {/* ナビゲーション */}
       <div style={{ width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <Link to="/" className="btn btn--secondary">← テックツリー</Link>
-        <Link to={`/meaning/${kanji.kanjiId}`} className="btn btn--secondary">イミ・クエスト →</Link>
+        <Link to={`/recall/${kanji.kanjiId}`} className="btn btn--secondary animate-pulse-glow">
+          リコール・クエスト →
+        </Link>
       </div>
 
       {/* 漢字大表示 */}
