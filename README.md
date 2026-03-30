@@ -4,5 +4,6 @@
 ## プロジェクト状況
 - **全学年漢字データ生成完了**: 1年生〜6年生の教育漢字（計1,026文字）の学習データ（部品構成、字源、語彙）をGemini APIにより生成済み。
 - **学習進捗の永続化実装**: IndexedDB（Dexie.js）により、アンロック状態や習熟度をブラウザに保存・復元。
+- **CI/CDとホスティング**: GitHub Actionsにより `main` ブランチへのプッシュ時に自動ビルド・検証を行い、GitHub Pages (`/pwa.kanji.puzzle/`) へのデプロイを自動化。
 - **データ場所**: `apps/main/src/data/kanji-data.json`
 - **生成スクリプト**: `generate_kanji_batch_v3.mjs`
