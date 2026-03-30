@@ -15,7 +15,7 @@ function App() {
   }, [initProgress]);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <div className="page-container">
         {/* ヘッダー */}
         <header className="app-header">
