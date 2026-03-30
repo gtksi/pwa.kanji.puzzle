@@ -165,7 +165,6 @@ export const useAnnotationStore = create<AnnotationStore>((set, get) => ({
 
   exportJson: () => {
     const { kanji, grade, parts, pathAssignments, etymology, vocabularies } = get();
-    const partIdToName = new Map(parts.map((p) => [p.id, p.name]));
     const writingLayer = parts.map((part, i) => ({
       id: part.id,
       name: part.name,

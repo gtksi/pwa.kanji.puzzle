@@ -91,7 +91,7 @@ export async function generateKanjiData(
     model: 'gemini-2.5-flash',
     generationConfig: {
       responseMimeType: 'application/json',
-      responseSchema: RESPONSE_SCHEMA,
+      responseSchema: RESPONSE_SCHEMA as any,
     },
   });
 

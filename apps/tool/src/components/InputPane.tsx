@@ -7,8 +7,8 @@ import { generateKanjiData } from '../services/geminiService';
 export function InputPane() {
   const {
     kanji, grade, parts, isLoading, error,
-    setKanji, setGrade, setParts, setLoading, setError, loadApiResult,
-    svgContent, setSvgContent,
+    setKanji, setGrade, setParts, setLoading, setError,
+    setSvgContent,
     setEtymology, setVocabularies,
   } = useAnnotationStore();
 

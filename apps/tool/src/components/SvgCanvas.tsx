@@ -6,7 +6,7 @@ import { useAnnotationStore, UNASSIGNED_COLOR } from '../store/annotationStore';
  */
 export function SvgCanvas() {
   const containerRef = useRef<HTMLDivElement>(null);
-  const { svgContent, pathAssignments, parts, activePartId, assignPath, unassignPath } =
+  const { svgContent, pathAssignments, parts, assignPath, unassignPath } =
     useAnnotationStore();
 
   const partColorMap = new Map(parts.map((p) => [p.id, p.color]));
